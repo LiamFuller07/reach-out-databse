@@ -1,5 +1,16 @@
 {
   "category": "founders",
-  "entries": [],
-  "last_updated": ""
+  "entries": [
+    {
+      "id": "founders-new-1768618460372-4208",
+      "name": "Test Person",
+      "city": "SF",
+      "tags": [
+        "demo"
+      ],
+      "links": [],
+      "notes": "Vercel proxy test"
+    }
+  ],
+  "last_updated": "2026-01-17T02:54:20.372Z"
 }
