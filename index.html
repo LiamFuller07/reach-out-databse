@@ -6,144 +6,171 @@
   <title>Reach Out Database</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/ag-grid-enterprise@32.0.2/dist/ag-grid-enterprise.min.js"></script>
   <style>
     :root {
-      --ink: #0f172a;
-      --muted: #586374;
-      --bg: #f5f3ef;
-      --panel: #ffffff;
-      --accent: #ea580c;
-      --accent-2: #0891b2;
-      --border: #e2e8f0;
-      --shadow: 0 18px 50px rgba(15, 23, 42, 0.12);
+      --ink: #101828;
+      --muted: #667085;
+      --bg: #f5f7fb;
+      --card: #ffffff;
+      --accent: #1d4ed8;
+      --accent-2: #0f766e;
+      --border: #e4e7ec;
+      --shadow: 0 1px 2px rgba(16, 24, 40, 0.06), 0 1px 3px rgba(16, 24, 40, 0.1);
     }
 
     * { box-sizing: border-box; }
 
     body {
       margin: 0;
-      font-family: "Space Grotesk", "Segoe UI", sans-serif;
+      font-family: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
       color: var(--ink);
       background: var(--bg);
-      min-height: 100vh;
-    }
-
-    body::before {
-      content: "";
-      position: fixed;
-      inset: 0;
-      background: radial-gradient(circle at top right, rgba(234, 88, 12, 0.12), transparent 45%),
-        radial-gradient(circle at 20% 20%, rgba(8, 145, 178, 0.12), transparent 40%);
-      pointer-events: none;
-      z-index: -1;
     }
 
     .app {
-      max-width: 1400px;
+      max-width: 1500px;
       margin: 0 auto;
-      padding: 28px 24px 48px;
+      padding: 20px 24px 40px;
     }
 
     .header {
       display: flex;
-      flex-wrap: wrap;
+      align-items: center;
       justify-content: space-between;
-      gap: 18px;
-      align-items: flex-end;
-      margin-bottom: 18px;
-    }
-
-    .title h1 {
-      margin: 0 0 6px;
-      font-size: 30px;
-      letter-spacing: -0.02em;
-    }
-
-    .title p {
-      margin: 0;
-      color: var(--muted);
-      font-size: 14px;
-    }
-
-    .filter-card {
-      display: grid;
-      gap: 8px;
-      padding: 12px 16px;
-      border-radius: 12px;
-      border: 1px solid var(--border);
-      background: var(--panel);
-      box-shadow: var(--shadow);
-      min-width: 200px;
-    }
-
-    .filter-card label {
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: var(--muted);
-    }
-
-    .filter-card select {
-      width: 100%;
-      padding: 8px 10px;
-      border-radius: 8px;
-      border: 1px solid var(--border);
-      font-family: "Space Grotesk", "Segoe UI", sans-serif;
-      font-size: 14px;
+      margin-bottom: 14px;
     }
 
     .tabs {
       display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      margin: 10px 0 18px;
+      gap: 20px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 12px;
     }
 
     .tab {
-      border: 1px solid transparent;
-      background: rgba(255, 255, 255, 0.6);
+      border: none;
+      background: transparent;
       color: var(--muted);
-      padding: 10px 14px;
-      border-radius: 999px;
+      padding: 10px 4px;
+      font-size: 14px;
       cursor: pointer;
-      font-size: 13px;
-      transition: all 0.2s ease;
+      border-bottom: 2px solid transparent;
     }
 
     .tab.active {
-      color: var(--ink);
-      border-color: rgba(234, 88, 12, 0.3);
-      background: #fff;
-      box-shadow: var(--shadow);
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+      font-weight: 600;
     }
 
     .toolbar {
       display: flex;
-      flex-wrap: wrap;
       gap: 10px;
-      align-items: center;
-      margin-bottom: 18px;
+      flex-wrap: wrap;
+      margin: 14px 0 18px;
     }
 
-    .toolbar input {
+    .panel {
+      display: none;
+      margin-top: 12px;
+      padding: 12px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: var(--card);
+      box-shadow: var(--shadow);
+    }
+
+    .panel.active {
+      display: block;
+    }
+
+    .panel label {
+      font-size: 12px;
+      color: var(--muted);
+      display: block;
+      margin-bottom: 6px;
+    }
+
+    .panel input,
+    .panel select,
+    .panel textarea {
+      width: 100%;
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-family: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
+      font-size: 13px;
+    }
+
+    .panel textarea {
+      min-height: 120px;
+      resize: vertical;
+      font-family: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
+    }
+
+    .panel-row {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 10px;
+      margin-bottom: 10px;
+      align-items: center;
+    }
+
+    .panel-actions {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      margin-top: 10px;
+    }
+
+    .snippet {
+      margin-top: 12px;
+      padding: 10px 12px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: #f8fafc;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size: 12px;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    .mcp-info {
+      margin-top: 10px;
+      padding: 10px 12px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: #ffffff;
+      font-size: 12px;
+      color: var(--muted);
+      white-space: pre-wrap;
+    }
+
+    .toolbar input,
+    .toolbar select {
       flex: 1;
       min-width: 220px;
-      padding: 10px 12px;
-      border-radius: 10px;
       border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 12px;
       font-size: 14px;
+      font-family: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
+      background: #fff;
+    }
+
+    .toolbar select {
+      max-width: 160px;
     }
 
     .btn {
       border: 1px solid var(--border);
-      border-radius: 10px;
-      background: #fff;
-      padding: 10px 14px;
+      border-radius: 8px;
+      background: var(--card);
+      padding: 10px 12px;
       font-size: 13px;
       cursor: pointer;
-      transition: all 0.2s ease;
     }
 
     .btn.primary {
@@ -158,92 +185,146 @@
       border-color: var(--accent-2);
     }
 
-    .status {
-      font-size: 12px;
+    .btn.tiny {
+      padding: 6px 10px;
+      font-size: 11px;
+      border-radius: 999px;
+    }
+
+    .muted {
       color: var(--muted);
+      font-size: 12px;
     }
 
     .card {
-      background: var(--panel);
+      background: var(--card);
       border: 1px solid var(--border);
-      border-radius: 16px;
+      border-radius: 12px;
       box-shadow: var(--shadow);
       overflow: hidden;
     }
 
     #grid {
       width: 100%;
-      height: 780px;
+      height: 900px;
     }
+
+    .detail-panel {
+      padding: 12px 16px;
+      background: #ffffff;
+    }
+
+    .detail-grid {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .contact {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px;
+      min-width: 220px;
+      max-width: 320px;
+    }
+
+    .contact .name { font-weight: 600; }
+    .contact .title { font-size: 12px; color: var(--muted); margin-top: 4px; white-space: pre-wrap; }
+    .contact a { font-size: 12px; color: #0a66c2; text-decoration: none; }
 
     .footer {
-      margin-top: 16px;
+      margin-top: 18px;
       font-size: 12px;
       color: var(--muted);
+      text-align: center;
     }
 
-    a.inline-link {
-      color: var(--accent-2);
-      text-decoration: none;
+    .ag-theme-alpine {
+      --ag-font-family: "IBM Plex Sans", "Segoe UI", Arial, sans-serif;
+      --ag-header-background-color: #f8fafc;
+      --ag-row-hover-color: #f1f5ff;
+      --ag-border-color: #e4e7ec;
+      --ag-odd-row-background-color: #ffffff;
+      --ag-row-height: 28px;
+      --ag-header-height: 32px;
+      --ag-selected-row-background-color: #ffffff;
+      --ag-range-selection-border-color: transparent;
+      --ag-range-selection-highlight-color: transparent;
     }
 
-    a.inline-link:hover {
-      text-decoration: underline;
+    .ag-row-focus,
+    .ag-cell-focus {
+      border: none !important;
+      outline: none !important;
+      box-shadow: none !important;
     }
 
-    @media (max-width: 900px) {
-      .header {
-        align-items: flex-start;
-      }
-      #grid {
-        height: 640px;
-      }
+    .ag-row-focus .ag-cell {
+      border-color: var(--ag-border-color);
     }
   </style>
 </head>
 <body>
   <div class="app">
-    <div class="header">
-      <div class="title">
-        <h1>Reach Out Database</h1>
-        <p>Track people by name first, then enrich with research later.</p>
-      </div>
-      <div class="filter-card">
-        <label for="city-filter">City filter</label>
-        <select id="city-filter">
-          <option value="all">All</option>
-          <option value="SF">SF</option>
-          <option value="NYC">NYC</option>
-          <option value="other">Other</option>
-        </select>
-      </div>
-    </div>
-
     <div class="tabs">
       <button class="tab active" data-category="founders">Founders</button>
       <button class="tab" data-category="researchers">Researchers</button>
       <button class="tab" data-category="vcs">VCs</button>
       <button class="tab" data-category="angels">Angel investors</button>
+      <button class="tab" data-category="mcp">MCP</button>
     </div>
 
     <div class="toolbar">
-      <input id="search" type="text" placeholder="Search names, notes, tags, or links..." />
-      <button class="btn primary" id="btn-add">Add Name</button>
+      <input id="search" type="text" placeholder="Search names, tags, links, or notes..." />
+      <select id="city-filter">
+        <option value="all">All cities</option>
+        <option value="SF">SF</option>
+        <option value="NYC">NYC</option>
+        <option value="other">Other</option>
+      </select>
+      <button class="btn primary" id="btn-add">Add Row</button>
       <button class="btn success" id="btn-sync">Save/Sync</button>
-      <span class="status" id="sync-status"></span>
+      <button class="btn tiny" id="toggle-expand">Expand all</button>
+      <span class="muted" id="sync-status"></span>
     </div>
 
     <div class="card">
       <div id="grid" class="ag-theme-alpine"></div>
     </div>
 
-    <div class="footer">Auto-sync on edits. Use Save/Sync to replace the whole tab.</div>
+    <div class="panel" id="mcp-panel">
+      <div class="panel-row">
+        <input id="mcp-endpoint" type="text" value="/api/mcp" />
+        <button class="btn" id="mcp-copy">Copy</button>
+      </div>
+      <div class="panel-row">
+        <input id="mcp-key" type="text" placeholder="API key (optional; proxied if blank)" />
+        <button class="btn" id="mcp-key-copy">Copy Key</button>
+      </div>
+      <div class="panel-row">
+        <input id="mcp-tool" type="text" value="upsert_person" />
+        <button class="btn" id="mcp-snippet-copy">Copy Snippet</button>
+      </div>
+      <textarea id="mcp-args">{
+  "category": "founders",
+  "name": "Example Person",
+  "patch": { "city": "SF", "tags": ["intro"], "notes": "Reach out later" }
+}</textarea>
+      <div class="mcp-info" id="mcp-info">Loading MCP overview...</div>
+      <div class="snippet" id="mcp-snippet"></div>
+      <div class="panel-actions">
+        <button class="btn primary" id="mcp-send">Send</button>
+        <span class="muted" id="mcp-status"></span>
+      </div>
+    </div>
+
+    <div class="footer">Local-first database. Data saved per category.</div>
   </div>
 
   <script>
     const MCP_ENDPOINT_DEFAULT = '/api/mcp';
     const MCP_API_KEY_DEFAULT = '';
-    const AUTO_UPSERT_DELAY = 600;
 
     const DATA = {
       founders: { entries: [] },
@@ -255,21 +336,19 @@
     const state = {
       currentCategory: 'founders',
       gridApi: null,
+      expandedAll: false,
       searchQuery: '',
       cityFilter: 'all'
     };
 
+    const STOP_WORDS = new Set(['the', 'and', 'or', 'of', 'for', 'with', 'in', 'to', 'a', 'an']);
+    const REQUIRED_FIELDS = ['name'];
+    const AUTO_UPSERT_DELAY = 600;
     const pendingUpserts = new Map();
 
-    function formatList(value) {
-      if (!value) return '';
-      if (Array.isArray(value)) return value.join(', ');
-      return String(value);
-    }
-
-    function parseList(value) {
+    function normalizeList(value) {
       if (!value) return [];
-      if (Array.isArray(value)) return value;
+      if (Array.isArray(value)) return value.filter(Boolean);
       return String(value)
         .split(',')
         .map(part => part.trim())
@@ -281,39 +360,54 @@
       const trimmed = String(value).trim();
       if (!trimmed) return '';
       const upper = trimmed.toUpperCase();
-      if (upper === 'SF' || upper === 'SAN FRANCISCO' || upper === 'SANFRANCISCO') return 'SF';
-      if (upper === 'NYC' || upper === 'NEW YORK' || upper === 'NEW YORK CITY') return 'NYC';
+      if (['SF', 'SAN FRANCISCO', 'SANFRANCISCO'].includes(upper)) return 'SF';
+      if (['NYC', 'NEW YORK', 'NEW YORK CITY'].includes(upper)) return 'NYC';
       if (upper === 'OTHER') return 'Other';
       return trimmed;
     }
 
     function linksRenderer(params) {
-      const links = parseList(params.value);
+      const links = normalizeList(params.value);
       if (!links.length) return '';
       return links
-        .map((link) => {
+        .map(link => {
           const href = link.startsWith('http') ? link : `https://${link}`;
           let label = link;
           try {
             label = new URL(href).hostname.replace('www.', '');
-          } catch (err) {
+          } catch (e) {
             label = link;
           }
-          return `<a class="inline-link" href="${href}" target="_blank" rel="noopener">${label}</a>`;
+          return `<a href="${href}" target="_blank">${label}</a>`;
         })
         .join(', ');
     }
 
-    function rowMatchesQuery(row, query) {
-      if (!query) return true;
-      const needle = query.toLowerCase();
-      const fields = ['name', 'city', 'notes'];
+    function buildSearchBlob(row) {
+      const tags = normalizeList(row.tags);
+      const links = normalizeList(row.links);
       const parts = [
-        ...fields.map((field) => row[field] || ''),
-        ...(row.tags || []),
-        ...(row.links || [])
+        row.name,
+        row.city,
+        row.notes,
+        ...tags,
+        ...links
       ];
-      return parts.join(' ').toLowerCase().includes(needle);
+      return parts.filter(Boolean).join(' ').toLowerCase();
+    }
+
+    function tokenize(query) {
+      return query
+        .toLowerCase()
+        .split(/[^a-z0-9]+/)
+        .filter(token => token && !STOP_WORDS.has(token));
+    }
+
+    function rowMatchesQuery(row, query) {
+      const tokens = tokenize(query);
+      if (!tokens.length) return true;
+      const blob = buildSearchBlob(row);
+      return tokens.every(token => blob.includes(token));
     }
 
     function rowMatchesCity(row, filter) {
@@ -326,54 +420,60 @@
     }
 
     const columnDefs = [
-      { field: 'name', headerName: 'Name', flex: 2, minWidth: 200, editable: true },
-      {
-        field: 'city',
-        headerName: 'City',
-        width: 120,
-        editable: true,
-        cellEditor: 'agSelectCellEditor',
-        cellEditorParams: {
-          values: ['', 'SF', 'NYC', 'Other']
-        }
-      },
-      {
-        field: 'tags',
-        headerName: 'Tags',
-        flex: 1,
-        minWidth: 160,
-        editable: true,
-        valueFormatter: (p) => formatList(p.value),
-        valueParser: (p) => parseList(p.newValue)
-      },
-      {
-        field: 'links',
-        headerName: 'Links',
-        flex: 2,
-        minWidth: 220,
-        editable: true,
-        cellRenderer: linksRenderer,
-        valueParser: (p) => parseList(p.newValue)
-      },
-      {
-        field: 'notes',
-        headerName: 'Notes',
-        flex: 3,
-        minWidth: 260,
-        editable: true,
-        cellEditor: 'agLargeTextCellEditor',
-        cellEditorPopup: true
-      }
+      { headerName: '', width: 52, cellRenderer: 'agGroupCellRenderer', valueGetter: () => '' },
+      { field: 'name', headerName: 'Name', flex: 2, minWidth: 220, editable: true },
+      { field: 'city', width: 120, editable: true },
+      { field: 'tags', headerName: 'Tags', flex: 2, minWidth: 180, editable: true },
+      { field: 'links', headerName: 'Links', flex: 3, minWidth: 220, editable: true, cellRenderer: linksRenderer },
+      { field: 'notes', headerName: 'Notes', flex: 3, minWidth: 260, editable: true }
     ];
+
+    class DetailRenderer {
+      init(params) {
+        this.eGui = document.createElement('div');
+        this.eGui.className = 'detail-panel';
+        const tags = normalizeList(params.data.tags).join(', ') || 'No tags.';
+        const links = normalizeList(params.data.links)
+          .map(link => {
+            const href = link.startsWith('http') ? link : `https://${link}`;
+            const label = link.replace(/^https?:\/\//, '');
+            return `<a href="${href}" target="_blank">${label}</a>`;
+          })
+          .join('<br />') || 'No links.';
+        const notes = params.data.notes ? String(params.data.notes) : 'No notes.';
+        this.eGui.innerHTML = `
+          <div class="detail-grid">
+            <div class="contact">
+              <div class="name">Tags</div>
+              <div class="title">${tags}</div>
+            </div>
+            <div class="contact">
+              <div class="name">Links</div>
+              <div class="title">${links}</div>
+            </div>
+            <div class="contact">
+              <div class="name">Notes</div>
+              <div class="title">${notes}</div>
+            </div>
+          </div>
+        `;
+      }
+      getGui() { return this.eGui; }
+      refresh() { return false; }
+    }
 
     const gridOptions = {
       columnDefs,
       defaultColDef: { resizable: true, sortable: true, filter: true, minWidth: 120 },
+      masterDetail: true,
+      detailCellRenderer: DetailRenderer,
+      detailRowHeight: 180,
+      animateRows: true,
       rowSelection: 'none',
       suppressCellFocus: true,
-      animateRows: true,
+      enableCharts: true,
       isExternalFilterPresent: () => state.searchQuery.length > 0 || state.cityFilter !== 'all',
-      doesExternalFilterPass: (node) => {
+      doesExternalFilterPass: node => {
         return rowMatchesQuery(node.data || {}, state.searchQuery) && rowMatchesCity(node.data || {}, state.cityFilter);
       },
       onGridReady: (params) => { state.gridApi = params.api; },
@@ -383,7 +483,7 @@
       }
     };
 
-    function setStatus(message, isError = false) {
+    function setSyncStatus(message, isError = false) {
       const el = document.getElementById('sync-status');
       if (!el) return;
       el.textContent = message || '';
@@ -395,7 +495,7 @@
     }
 
     function rowHasRequiredFields(row) {
-      return !isBlank(row.name);
+      return REQUIRED_FIELDS.every((field) => !isBlank(row[field]));
     }
 
     function normalizeRowForSync(row) {
@@ -403,8 +503,8 @@
         id: row.id,
         name: row.name,
         city: normalizeCity(row.city),
-        tags: parseList(row.tags),
-        links: parseList(row.links),
+        tags: normalizeList(row.tags),
+        links: normalizeList(row.links),
         notes: row.notes || ''
       };
     }
@@ -423,9 +523,35 @@
       DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
     }
 
+    function setGridData(category) {
+      const rows = DATA[category].entries || [];
+      state.gridApi.setGridOption('rowData', rows);
+      if (state.expandedAll) {
+        state.gridApi.forEachNode(node => node.setExpanded(true));
+      }
+    }
+
+    function addRow() {
+      const row = {
+        id: `${state.currentCategory}-new-${Date.now()}-${Math.floor(Math.random() * 10000)}`,
+        name: 'New Contact',
+        city: '',
+        tags: [],
+        links: [],
+        notes: ''
+      };
+      state.gridApi.applyTransaction({ add: [row], addIndex: 0 });
+      syncLocalDataFromGrid();
+      if (rowHasRequiredFields(row)) {
+        scheduleUpsert(row);
+      } else {
+        setSyncStatus('Name is required to sync.', false);
+      }
+    }
+
     async function callMcp(tool, args) {
-      const endpoint = MCP_ENDPOINT_DEFAULT;
-      const apiKey = MCP_API_KEY_DEFAULT;
+      const endpoint = (document.getElementById('mcp-endpoint').value || MCP_ENDPOINT_DEFAULT).trim();
+      const apiKey = (document.getElementById('mcp-key').value || MCP_API_KEY_DEFAULT).trim();
       const res = await fetch(endpoint, {
         method: 'POST',
         headers: {
@@ -456,13 +582,13 @@
 
     async function upsertRow(row) {
       if (!rowHasRequiredFields(row)) {
-        setStatus('Name is required to sync.', true);
+        setSyncStatus('Name is required to sync.', true);
         return;
       }
       const normalized = normalizeRowForSync(row);
       const patch = { ...normalized };
       delete patch.id;
-      setStatus('Syncing...', false);
+      setSyncStatus('Syncing...', false);
       try {
         await callMcp('upsert_person', {
           category: state.currentCategory,
@@ -470,13 +596,14 @@
           name: row.name,
           patch
         });
-        setStatus('Synced.', false);
+        setSyncStatus('Synced.', false);
       } catch (err) {
-        setStatus(`Sync failed: ${err.message}`, true);
+        setSyncStatus(`Sync failed: ${err.message}`, true);
       }
     }
 
     async function loadCategory(category) {
+      // Prefer MCP live data; fallback to bundled JSON
       try {
         const json = await callMcp('get_category', { category });
         DATA[category] = json;
@@ -496,29 +623,9 @@
       }
     }
 
-    function setGridData(category) {
-      const rows = DATA[category].entries || [];
-      state.gridApi.setGridOption('rowData', rows);
-    }
-
-    function addRow() {
-      const rows = DATA[state.currentCategory].entries || [];
-      const row = {
-        id: `${state.currentCategory}-new-${Date.now()}-${Math.floor(Math.random() * 10000)}`,
-        name: 'New Contact',
-        city: '',
-        tags: [],
-        links: [],
-        notes: ''
-      };
-      state.gridApi.applyTransaction({ add: [row], addIndex: 0 });
-      syncLocalDataFromGrid();
-      scheduleUpsert(row);
-    }
-
     async function init() {
       const gridDiv = document.getElementById('grid');
-      state.gridApi = agGrid.createGrid(gridDiv, gridOptions);
+      agGrid.createGrid(gridDiv, gridOptions);
 
       await Promise.all(['founders', 'researchers', 'vcs', 'angels'].map(loadCategory));
       setGridData(state.currentCategory);
@@ -528,6 +635,13 @@
           document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
           btn.classList.add('active');
           state.currentCategory = btn.dataset.category;
+          if (state.currentCategory === 'mcp') {
+            document.querySelector('.card').style.display = 'none';
+            document.getElementById('mcp-panel').classList.add('active');
+            return;
+          }
+          document.querySelector('.card').style.display = 'block';
+          document.getElementById('mcp-panel').classList.remove('active');
           setGridData(state.currentCategory);
           state.gridApi.onFilterChanged();
         });
@@ -544,23 +658,147 @@
       });
 
       document.getElementById('btn-add').addEventListener('click', addRow);
-
       document.getElementById('btn-sync').addEventListener('click', async () => {
         const rows = getGridRows().map(normalizeRowForSync);
         const missingIndex = rows.findIndex(row => !rowHasRequiredFields(row));
         if (missingIndex >= 0) {
-          setStatus('Cannot sync: missing name.', true);
+          setSyncStatus('Cannot sync: missing name.', true);
           return;
         }
-        setStatus('Syncing tab...', false);
+        setSyncStatus('Syncing category...', false);
         try {
           await callMcp('replace_category', { category: state.currentCategory, data: { entries: rows } });
           DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
-          setStatus('Tab synced.', false);
+          setSyncStatus('Category synced.', false);
         } catch (err) {
-          setStatus(`Sync failed: ${err.message}`, true);
+          setSyncStatus(`Sync failed: ${err.message}`, true);
         }
       });
+
+      document.getElementById('toggle-expand').addEventListener('click', () => {
+        state.expandedAll = !state.expandedAll;
+        document.getElementById('toggle-expand').textContent = state.expandedAll ? 'Collapse all' : 'Expand all';
+        state.gridApi.forEachNode(node => node.setExpanded(state.expandedAll));
+      });
+
+      document.getElementById('mcp-send').addEventListener('click', async () => {
+        const tool = document.getElementById('mcp-tool').value;
+        const argsText = document.getElementById('mcp-args').value.trim();
+        const status = document.getElementById('mcp-status');
+        status.textContent = 'Sending...';
+        try {
+          const args = parseArgs(argsText);
+          await callMcp(tool, args);
+          status.textContent = 'Success';
+        } catch (err) {
+          status.textContent = `Error: ${err.message}`;
+        }
+      });
+
+      document.getElementById('mcp-copy').addEventListener('click', async () => {
+        const endpoint = document.getElementById('mcp-endpoint').value.trim();
+        const status = document.getElementById('mcp-status');
+        try {
+          await navigator.clipboard.writeText(endpoint);
+          status.textContent = 'Copied endpoint';
+        } catch (err) {
+          status.textContent = 'Copy failed';
+        }
+      });
+
+      document.getElementById('mcp-key-copy').addEventListener('click', async () => {
+        const key = document.getElementById('mcp-key').value.trim();
+        const status = document.getElementById('mcp-status');
+        try {
+          await navigator.clipboard.writeText(key);
+          status.textContent = 'Copied key';
+        } catch (err) {
+          status.textContent = 'Copy failed';
+        }
+      });
+
+      const updateSnippet = () => {
+        const endpoint = document.getElementById('mcp-endpoint').value.trim();
+        const tool = document.getElementById('mcp-tool').value;
+        const argsText = document.getElementById('mcp-args').value.trim();
+        let args = {};
+        try {
+          args = parseArgs(argsText);
+        } catch (err) {
+          document.getElementById('mcp-snippet').textContent = `// Invalid JSON: ${err.message}`;
+          return;
+        }
+        const apiKey = document.getElementById('mcp-key').value.trim();
+        const payload = JSON.stringify({ tool, arguments: args }, null, 2);
+        const authHeader = apiKey ? `  -H 'X-Api-Key: ${apiKey}' \\\n` : '';
+        const snippet = `curl -s ${endpoint} \\\n  -H 'Content-Type: application/json' \\\n${authHeader}  -d '${payload.replace(/'/g, "'\\''")}'`;
+        document.getElementById('mcp-snippet').textContent = snippet;
+      };
+
+      document.getElementById('mcp-snippet-copy').addEventListener('click', async () => {
+        const status = document.getElementById('mcp-status');
+        try {
+          await navigator.clipboard.writeText(document.getElementById('mcp-snippet').textContent);
+          status.textContent = 'Copied snippet';
+        } catch (err) {
+          status.textContent = 'Copy failed';
+        }
+      });
+
+      ['mcp-endpoint', 'mcp-tool', 'mcp-args', 'mcp-key'].forEach(id => {
+        document.getElementById(id).addEventListener('input', updateSnippet);
+        document.getElementById(id).addEventListener('change', updateSnippet);
+      });
+
+      const formatInstructions = (data) => {
+        if (!data) return 'No MCP data.';
+        const lines = [];
+        if (data.description) lines.push(`MCP: ${data.description}`);
+        if (data.stats) {
+          lines.push('Current data counts:');
+          Object.keys(data.stats).forEach((category) => {
+            const s = data.stats[category];
+            if (s.by_city) {
+              lines.push(`- ${category}: ${s.count} rows (SF ${s.by_city.SF}, NYC ${s.by_city.NYC}, other ${s.by_city.other}, unknown ${s.by_city.unknown})`);
+            } else {
+              lines.push(`- ${category}: ${s.count} rows`);
+            }
+          });
+        }
+        if (data.required_fields) {
+          lines.push(`Required fields: ${data.required_fields.join(', ')}`);
+        }
+        if (data.optional_fields) {
+          lines.push(`Optional fields: ${data.optional_fields.join(', ')}`);
+        }
+        if (data.city_values) {
+          lines.push(`City values: ${data.city_values.join(', ')}`);
+        }
+        return lines.join('\n');
+      };
+
+      const loadInstructions = async () => {
+        const info = document.getElementById('mcp-info');
+        try {
+          const json = await callMcp('get_instructions', {});
+          info.textContent = formatInstructions(json);
+        } catch (err) {
+          info.textContent = `Error: ${err.message}`;
+        }
+      };
+
+      updateSnippet();
+      loadInstructions();
+    }
+
+    function parseArgs(text) {
+      if (!text) return {};
+      try {
+        return JSON.parse(text);
+      } catch (err) {
+        const cleaned = text.replace(/\\n/g, '\n').replace(/\\"/g, '"');
+        return JSON.parse(cleaned);
+      }
     }
 
     init();
