@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Reach Out Database</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/ag-grid-enterprise@32.0.2/dist/ag-grid-enterprise.min.js"></script>
+  <style>
+    :root {
+      --ink: #0f172a;
+      --muted: #586374;
+      --bg: #f5f3ef;
+      --panel: #ffffff;
+      --accent: #ea580c;
+      --accent-2: #0891b2;
+      --border: #e2e8f0;
+      --shadow: 0 18px 50px rgba(15, 23, 42, 0.12);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Space Grotesk", "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: var(--bg);
+      min-height: 100vh;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      background: radial-gradient(circle at top right, rgba(234, 88, 12, 0.12), transparent 45%),
+        radial-gradient(circle at 20% 20%, rgba(8, 145, 178, 0.12), transparent 40%);
+      pointer-events: none;
+      z-index: -1;
+    }
+
+    .app {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 28px 24px 48px;
+    }
+
+    .header {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 18px;
+      align-items: flex-end;
+      margin-bottom: 18px;
+    }
+
+    .title h1 {
+      margin: 0 0 6px;
+      font-size: 30px;
+      letter-spacing: -0.02em;
+    }
+
+    .title p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .filter-card {
+      display: grid;
+      gap: 8px;
+      padding: 12px 16px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      box-shadow: var(--shadow);
+      min-width: 200px;
+    }
+
+    .filter-card label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+    }
+
+    .filter-card select {
+      width: 100%;
+      padding: 8px 10px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      font-family: "Space Grotesk", "Segoe UI", sans-serif;
+      font-size: 14px;
+    }
+
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin: 10px 0 18px;
+    }
+
+    .tab {
+      border: 1px solid transparent;
+      background: rgba(255, 255, 255, 0.6);
+      color: var(--muted);
+      padding: 10px 14px;
+      border-radius: 999px;
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.2s ease;
+    }
+
+    .tab.active {
+      color: var(--ink);
+      border-color: rgba(234, 88, 12, 0.3);
+      background: #fff;
+      box-shadow: var(--shadow);
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 18px;
+    }
+
+    .toolbar input {
+      flex: 1;
+      min-width: 220px;
+      padding: 10px 12px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      font-size: 14px;
+    }
+
+    .btn {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: #fff;
+      padding: 10px 14px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .btn.primary {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+
+    .btn.success {
+      background: var(--accent-2);
+      color: #fff;
+      border-color: var(--accent-2);
+    }
+
+    .status {
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    #grid {
+      width: 100%;
+      height: 780px;
+    }
+
+    .footer {
+      margin-top: 16px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    a.inline-link {
+      color: var(--accent-2);
+      text-decoration: none;
+    }
+
+    a.inline-link:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 900px) {
+      .header {
+        align-items: flex-start;
+      }
+      #grid {
+        height: 640px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <div class="header">
+      <div class="title">
+        <h1>Reach Out Database</h1>
+        <p>Track people by name first, then enrich with research later.</p>
+      </div>
+      <div class="filter-card">
+        <label for="city-filter">City filter</label>
+        <select id="city-filter">
+          <option value="all">All</option>
+          <option value="SF">SF</option>
+          <option value="NYC">NYC</option>
+          <option value="other">Other</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="tabs">
+      <button class="tab active" data-category="founders">Founders</button>
+      <button class="tab" data-category="researchers">Researchers</button>
+      <button class="tab" data-category="vcs">VCs</button>
+      <button class="tab" data-category="angels">Angel investors</button>
+    </div>
+
+    <div class="toolbar">
+      <input id="search" type="text" placeholder="Search names, notes, tags, or links..." />
+      <button class="btn primary" id="btn-add">Add Name</button>
+      <button class="btn success" id="btn-sync">Save/Sync</button>
+      <span class="status" id="sync-status"></span>
+    </div>
+
+    <div class="card">
+      <div id="grid" class="ag-theme-alpine"></div>
+    </div>
+
+    <div class="footer">Auto-sync on edits. Use Save/Sync to replace the whole tab.</div>
+  </div>
+
+  <script>
+    const MCP_ENDPOINT_DEFAULT = '/api/mcp';
+    const MCP_API_KEY_DEFAULT = '';
+    const AUTO_UPSERT_DELAY = 600;
+
+    const DATA = {
+      founders: { entries: [] },
+      researchers: { entries: [] },
+      vcs: { entries: [] },
+      angels: { entries: [] }
+    };
+
+    const state = {
+      currentCategory: 'founders',
+      gridApi: null,
+      searchQuery: '',
+      cityFilter: 'all'
+    };
+
+    const pendingUpserts = new Map();
+
+    function formatList(value) {
+      if (!value) return '';
+      if (Array.isArray(value)) return value.join(', ');
+      return String(value);
+    }
+
+    function parseList(value) {
+      if (!value) return [];
+      if (Array.isArray(value)) return value;
+      return String(value)
+        .split(',')
+        .map(part => part.trim())
+        .filter(Boolean);
+    }
+
+    function normalizeCity(value) {
+      if (!value) return '';
+      const trimmed = String(value).trim();
+      if (!trimmed) return '';
+      const upper = trimmed.toUpperCase();
+      if (upper === 'SF' || upper === 'SAN FRANCISCO' || upper === 'SANFRANCISCO') return 'SF';
+      if (upper === 'NYC' || upper === 'NEW YORK' || upper === 'NEW YORK CITY') return 'NYC';
+      if (upper === 'OTHER') return 'Other';
+      return trimmed;
+    }
+
+    function linksRenderer(params) {
+      const links = parseList(params.value);
+      if (!links.length) return '';
+      return links
+        .map((link) => {
+          const href = link.startsWith('http') ? link : `https://${link}`;
+          let label = link;
+          try {
+            label = new URL(href).hostname.replace('www.', '');
+          } catch (err) {
+            label = link;
+          }
+          return `<a class="inline-link" href="${href}" target="_blank" rel="noopener">${label}</a>`;
+        })
+        .join(', ');
+    }
+
+    function rowMatchesQuery(row, query) {
+      if (!query) return true;
+      const needle = query.toLowerCase();
+      const fields = ['name', 'city', 'notes'];
+      const parts = [
+        ...fields.map((field) => row[field] || ''),
+        ...(row.tags || []),
+        ...(row.links || [])
+      ];
+      return parts.join(' ').toLowerCase().includes(needle);
+    }
+
+    function rowMatchesCity(row, filter) {
+      if (filter === 'all') return true;
+      const city = normalizeCity(row.city);
+      if (filter === 'other') {
+        return city && city !== 'SF' && city !== 'NYC';
+      }
+      return city === filter;
+    }
+
+    const columnDefs = [
+      { field: 'name', headerName: 'Name', flex: 2, minWidth: 200, editable: true },
+      {
+        field: 'city',
+        headerName: 'City',
+        width: 120,
+        editable: true,
+        cellEditor: 'agSelectCellEditor',
+        cellEditorParams: {
+          values: ['', 'SF', 'NYC', 'Other']
+        }
+      },
+      {
+        field: 'tags',
+        headerName: 'Tags',
+        flex: 1,
+        minWidth: 160,
+        editable: true,
+        valueFormatter: (p) => formatList(p.value),
+        valueParser: (p) => parseList(p.newValue)
+      },
+      {
+        field: 'links',
+        headerName: 'Links',
+        flex: 2,
+        minWidth: 220,
+        editable: true,
+        cellRenderer: linksRenderer,
+        valueParser: (p) => parseList(p.newValue)
+      },
+      {
+        field: 'notes',
+        headerName: 'Notes',
+        flex: 3,
+        minWidth: 260,
+        editable: true,
+        cellEditor: 'agLargeTextCellEditor',
+        cellEditorPopup: true
+      }
+    ];
+
+    const gridOptions = {
+      columnDefs,
+      defaultColDef: { resizable: true, sortable: true, filter: true, minWidth: 120 },
+      rowSelection: 'none',
+      suppressCellFocus: true,
+      animateRows: true,
+      isExternalFilterPresent: () => state.searchQuery.length > 0 || state.cityFilter !== 'all',
+      doesExternalFilterPass: (node) => {
+        return rowMatchesQuery(node.data || {}, state.searchQuery) && rowMatchesCity(node.data || {}, state.cityFilter);
+      },
+      onGridReady: (params) => { state.gridApi = params.api; },
+      onCellValueChanged: (params) => {
+        syncLocalDataFromGrid();
+        scheduleUpsert(params.data);
+      }
+    };
+
+    function setStatus(message, isError = false) {
+      const el = document.getElementById('sync-status');
+      if (!el) return;
+      el.textContent = message || '';
+      el.style.color = isError ? '#b42318' : 'var(--muted)';
+    }
+
+    function isBlank(value) {
+      return value === undefined || value === null || String(value).trim() === '';
+    }
+
+    function rowHasRequiredFields(row) {
+      return !isBlank(row.name);
+    }
+
+    function normalizeRowForSync(row) {
+      return {
+        id: row.id,
+        name: row.name,
+        city: normalizeCity(row.city),
+        tags: parseList(row.tags),
+        links: parseList(row.links),
+        notes: row.notes || ''
+      };
+    }
+
+    function getGridRows() {
+      const rows = [];
+      if (!state.gridApi) return rows;
+      state.gridApi.forEachNode(node => {
+        if (node.data) rows.push(node.data);
+      });
+      return rows;
+    }
+
+    function syncLocalDataFromGrid() {
+      const rows = getGridRows();
+      DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
+    }
+
+    async function callMcp(tool, args) {
+      const endpoint = MCP_ENDPOINT_DEFAULT;
+      const apiKey = MCP_API_KEY_DEFAULT;
+      const res = await fetch(endpoint, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          ...(apiKey ? { 'X-Api-Key': apiKey } : {})
+        },
+        body: JSON.stringify({ tool, arguments: args })
+      });
+      const json = await res.json();
+      if (!json.ok) {
+        throw new Error(json.error || 'MCP error');
+      }
+      return json.result;
+    }
+
+    function scheduleUpsert(row) {
+      if (!row || !row.id) return;
+      const key = row.id;
+      if (pendingUpserts.has(key)) {
+        clearTimeout(pendingUpserts.get(key));
+      }
+      const handle = setTimeout(() => {
+        pendingUpserts.delete(key);
+        upsertRow(row);
+      }, AUTO_UPSERT_DELAY);
+      pendingUpserts.set(key, handle);
+    }
+
+    async function upsertRow(row) {
+      if (!rowHasRequiredFields(row)) {
+        setStatus('Name is required to sync.', true);
+        return;
+      }
+      const normalized = normalizeRowForSync(row);
+      const patch = { ...normalized };
+      delete patch.id;
+      setStatus('Syncing...', false);
+      try {
+        await callMcp('upsert_person', {
+          category: state.currentCategory,
+          id: row.id,
+          name: row.name,
+          patch
+        });
+        setStatus('Synced.', false);
+      } catch (err) {
+        setStatus(`Sync failed: ${err.message}`, true);
+      }
+    }
+
+    async function loadCategory(category) {
+      try {
+        const json = await callMcp('get_category', { category });
+        DATA[category] = json;
+        return json.entries || [];
+      } catch (err) {
+        try {
+          const response = await fetch(`./data/${category}.json?v=${Date.now()}`);
+          if (!response.ok) throw new Error('Local fetch failed');
+          const json = await response.json();
+          DATA[category] = json;
+          return json.entries || [];
+        } catch (fallbackErr) {
+          console.error('Failed to load category', category, err, fallbackErr);
+          DATA[category] = { entries: [] };
+          return [];
+        }
+      }
+    }
+
+    function setGridData(category) {
+      const rows = DATA[category].entries || [];
+      state.gridApi.setGridOption('rowData', rows);
+    }
+
+    function addRow() {
+      const rows = DATA[state.currentCategory].entries || [];
+      const row = {
+        id: `${state.currentCategory}-new-${Date.now()}-${Math.floor(Math.random() * 10000)}`,
+        name: 'New Contact',
+        city: '',
+        tags: [],
+        links: [],
+        notes: ''
+      };
+      state.gridApi.applyTransaction({ add: [row], addIndex: 0 });
+      syncLocalDataFromGrid();
+      scheduleUpsert(row);
+    }
+
+    async function init() {
+      const gridDiv = document.getElementById('grid');
+      state.gridApi = agGrid.createGrid(gridDiv, gridOptions);
+
+      await Promise.all(['founders', 'researchers', 'vcs', 'angels'].map(loadCategory));
+      setGridData(state.currentCategory);
+
+      document.querySelectorAll('.tab').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+          btn.classList.add('active');
+          state.currentCategory = btn.dataset.category;
+          setGridData(state.currentCategory);
+          state.gridApi.onFilterChanged();
+        });
+      });
+
+      document.getElementById('search').addEventListener('input', e => {
+        state.searchQuery = e.target.value.trim().toLowerCase();
+        state.gridApi.onFilterChanged();
+      });
+
+      document.getElementById('city-filter').addEventListener('change', e => {
+        state.cityFilter = e.target.value;
+        state.gridApi.onFilterChanged();
+      });
+
+      document.getElementById('btn-add').addEventListener('click', addRow);
+
+      document.getElementById('btn-sync').addEventListener('click', async () => {
+        const rows = getGridRows().map(normalizeRowForSync);
+        const missingIndex = rows.findIndex(row => !rowHasRequiredFields(row));
+        if (missingIndex >= 0) {
+          setStatus('Cannot sync: missing name.', true);
+          return;
+        }
+        setStatus('Syncing tab...', false);
+        try {
+          await callMcp('replace_category', { category: state.currentCategory, data: { entries: rows } });
+          DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
+          setStatus('Tab synced.', false);
+        } catch (err) {
+          setStatus(`Sync failed: ${err.message}`, true);
+        }
+      });
+    }
+
+    init();
+  </script>
+</body>
+</html>
