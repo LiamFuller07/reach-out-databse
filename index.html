@@ -196,6 +196,18 @@
       font-size: 12px;
     }
 
+    .checkbox-cell {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .checkbox-cell input {
+      width: 14px;
+      height: 14px;
+      cursor: pointer;
+    }
+
     .card {
       background: var(--card);
       border: 1px solid var(--border);
@@ -346,6 +358,23 @@
     const AUTO_UPSERT_DELAY = 600;
     const pendingUpserts = new Map();
 
+    function checkboxRenderer(params) {
+      const input = document.createElement('input');
+      input.type = 'checkbox';
+      input.checked = Boolean(params.data && params.data.__checked);
+      input.setAttribute('aria-label', 'Send row to bottom');
+      input.addEventListener('click', (event) => {
+        event.stopPropagation();
+      });
+      input.addEventListener('change', () => {
+        if (params.data) {
+          params.data.__checked = input.checked;
+        }
+        applyCheckedOrdering();
+      });
+      return input;
+    }
+
     function normalizeList(value) {
       if (!value) return [];
       if (Array.isArray(value)) return value.filter(Boolean);
@@ -420,6 +449,17 @@
     }
 
     const columnDefs = [
+      {
+        headerName: '',
+        width: 44,
+        maxWidth: 44,
+        resizable: false,
+        sortable: false,
+        filter: false,
+        suppressMenu: true,
+        cellClass: 'checkbox-cell',
+        cellRenderer: checkboxRenderer
+      },
       { headerName: '', width: 52, cellRenderer: 'agGroupCellRenderer', valueGetter: () => '' },
       { field: 'name', headerName: 'Name', flex: 2, minWidth: 220, editable: true },
       { field: 'city', width: 120, editable: true },
@@ -509,6 +549,19 @@
       };
     }
 
+    function reorderRowsByChecked(rows) {
+      const unchecked = [];
+      const checked = [];
+      rows.forEach((row) => {
+        if (row && row.__checked) {
+          checked.push(row);
+        } else {
+          unchecked.push(row);
+        }
+      });
+      return unchecked.concat(checked);
+    }
+
     function getGridRows() {
       const rows = [];
       if (!state.gridApi) return rows;
@@ -521,6 +574,16 @@
     function syncLocalDataFromGrid() {
       const rows = getGridRows();
       DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
+    }
+
+    function applyCheckedOrdering() {
+      if (!state.gridApi) return;
+      const rows = reorderRowsByChecked(getGridRows());
+      DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
+      state.gridApi.setGridOption('rowData', rows);
+      if (state.expandedAll) {
+        state.gridApi.forEachNode(node => node.setExpanded(true));
+      }
     }
 
     function setGridData(category) {
@@ -538,7 +601,8 @@
         city: '',
         tags: [],
         links: [],
-        notes: ''
+        notes: '',
+        __checked: false
       };
       state.gridApi.applyTransaction({ add: [row], addIndex: 0 });
       syncLocalDataFromGrid();
@@ -659,15 +723,16 @@
 
       document.getElementById('btn-add').addEventListener('click', addRow);
       document.getElementById('btn-sync').addEventListener('click', async () => {
-        const rows = getGridRows().map(normalizeRowForSync);
+        const rows = getGridRows();
         const missingIndex = rows.findIndex(row => !rowHasRequiredFields(row));
         if (missingIndex >= 0) {
           setSyncStatus('Cannot sync: missing name.', true);
           return;
         }
+        const payloadRows = rows.map(normalizeRowForSync);
         setSyncStatus('Syncing category...', false);
         try {
-          await callMcp('replace_category', { category: state.currentCategory, data: { entries: rows } });
+          await callMcp('replace_category', { category: state.currentCategory, data: { entries: payloadRows } });
           DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
           setSyncStatus('Category synced.', false);
         } catch (err) {
