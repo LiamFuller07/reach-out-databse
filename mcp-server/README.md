@@ -34,3 +34,12 @@ If `MCP_API_KEY` is set, clients must send:
 ```
 X-Api-Key: your_shared_key
 ```
+
+## Throttling
+
+You can reduce GitHub and deploy hook bursts with:
+
+```
+SYNC_DEBOUNCE_MS=8000
+DEPLOY_MIN_INTERVAL_MS=60000
+```

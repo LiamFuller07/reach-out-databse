@@ -17,6 +17,8 @@ const HAS_GITHUB = Boolean(TOKEN && OWNER && REPO && BRANCH);
 const ENABLE_GITHUB_SYNC = process.env.ENABLE_GITHUB_SYNC !== "false" && HAS_GITHUB;
 const DEPLOY_HOOK_URL = process.env.VERCEL_DEPLOY_HOOK_URL || "";
 const AUTO_DEPLOY_ON_WRITE = process.env.AUTO_DEPLOY_ON_WRITE === "true";
+const SYNC_DEBOUNCE_MS = Number(process.env.SYNC_DEBOUNCE_MS || 8000);
+const DEPLOY_MIN_INTERVAL_MS = Number(process.env.DEPLOY_MIN_INTERVAL_MS || 60000);
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = process.env.DATA_DIR || path.resolve(__dirname, "../data");
 
@@ -31,6 +33,9 @@ const CITY_ALIASES = new Map([
   ["NEW YORK", "NYC"],
   ["NEW YORK CITY", "NYC"]
 ]);
+
+const pendingSyncs = new Map();
+const deployState = { lastAt: 0 };
 
 if (!TOKEN) {
   process.stderr.write("GITHUB_TOKEN not set; GitHub sync will be disabled.\n");
@@ -169,6 +174,67 @@ async function triggerDeploy(reason = "manual") {
     return { triggered: true };
   } catch (err) {
     return { triggered: false, error: err.message };
+  }
+}
+
+async function triggerDeployThrottled(reason) {
+  if (!DEPLOY_HOOK_URL) {
+    return { triggered: false, reason: "No deploy hook configured" };
+  }
+  const now = Date.now();
+  if (DEPLOY_MIN_INTERVAL_MS > 0 && now - deployState.lastAt < DEPLOY_MIN_INTERVAL_MS) {
+    return { triggered: false, reason: "Deploy throttled" };
+  }
+  const result = await triggerDeploy(reason);
+  if (result.triggered) {
+    deployState.lastAt = now;
+  }
+  return result;
+}
+
+function scheduleSync(category, payload, message, reason) {
+  const entry = pendingSyncs.get(category) || {};
+  if (entry.timer) {
+    clearTimeout(entry.timer);
+  }
+  pendingSyncs.set(category, { payload, message, reason, timer: null });
+
+  if (SYNC_DEBOUNCE_MS <= 0) {
+    flushSync(category);
+    return {
+      sync: { queued: false, immediate: true },
+      deploy: { queued: AUTO_DEPLOY_ON_WRITE }
+    };
+  }
+
+  const timer = setTimeout(() => {
+    flushSync(category);
+  }, SYNC_DEBOUNCE_MS);
+  pendingSyncs.set(category, { payload, message, reason, timer });
+
+  return {
+    sync: { queued: true, delay_ms: SYNC_DEBOUNCE_MS },
+    deploy: { queued: AUTO_DEPLOY_ON_WRITE }
+  };
+}
+
+async function flushSync(category) {
+  const entry = pendingSyncs.get(category);
+  if (!entry) return;
+  pendingSyncs.delete(category);
+
+  if (ENABLE_GITHUB_SYNC) {
+    const sync = await syncGithubCategory(category, entry.payload, entry.message);
+    if (!sync.synced && sync.error) {
+      process.stderr.write(`GitHub sync failed (${category}): ${sync.error}\n`);
+    }
+  }
+
+  if (AUTO_DEPLOY_ON_WRITE) {
+    const deploy = await triggerDeployThrottled(entry.reason || "auto");
+    if (!deploy.triggered && deploy.error) {
+      process.stderr.write(`Deploy hook failed: ${deploy.error}\n`);
+    }
   }
 }
 
@@ -351,7 +417,11 @@ async function callTool(name, args) {
       },
       deploy: {
         hook_configured: Boolean(DEPLOY_HOOK_URL),
-        auto_on_write: AUTO_DEPLOY_ON_WRITE
+        auto_on_write: AUTO_DEPLOY_ON_WRITE,
+        min_interval_ms: DEPLOY_MIN_INTERVAL_MS
+      },
+      sync: {
+        debounce_ms: SYNC_DEBOUNCE_MS
       }
     };
   }
@@ -363,9 +433,8 @@ async function callTool(name, args) {
       last_updated: new Date().toISOString()
     });
     await writeLocalJson(category, payload);
-    const sync = await syncGithubCategory(category, payload, `Replace ${category} dataset`);
-    const deploy = AUTO_DEPLOY_ON_WRITE ? await triggerDeploy(`replace_category:${category}`) : { triggered: false, reason: "auto deploy disabled" };
-    return { status: "ok", message: `Replaced ${category} dataset locally.`, sync, deploy };
+    const queued = scheduleSync(category, payload, `Replace ${category} dataset`, `replace_category:${category}`);
+    return { status: "ok", message: `Replaced ${category} dataset locally.`, ...queued };
   }
 
   if (name === "upsert_person") {
@@ -388,9 +457,8 @@ async function callTool(name, args) {
 
     const payload = { ...json, category, entries: rows, last_updated: new Date().toISOString() };
     await writeLocalJson(category, payload);
-    const sync = await syncGithubCategory(category, payload, `Upsert person in ${category}`);
-    const deploy = AUTO_DEPLOY_ON_WRITE ? await triggerDeploy(`upsert_person:${category}`) : { triggered: false, reason: "auto deploy disabled" };
-    return { status: "ok", message: `Upserted person in ${category} (local).`, sync, deploy };
+    const queued = scheduleSync(category, payload, `Upsert person in ${category}`, `upsert_person:${category}`);
+    return { status: "ok", message: `Upserted person in ${category} (local).`, ...queued };
   }
 
   if (name === "delete_person") {
@@ -407,14 +475,12 @@ async function callTool(name, args) {
     const [removed] = rows.splice(idx, 1);
     const payload = { ...json, category, entries: rows, last_updated: new Date().toISOString() };
     await writeLocalJson(category, payload);
-    const sync = await syncGithubCategory(category, payload, `Delete person in ${category}`);
-    const deploy = AUTO_DEPLOY_ON_WRITE ? await triggerDeploy(`delete_person:${category}`) : { triggered: false, reason: "auto deploy disabled" };
+    const queued = scheduleSync(category, payload, `Delete person in ${category}`, `delete_person:${category}`);
     return {
       status: "ok",
       message: `Deleted person in ${category}.`,
       deleted: { id: removed.id, name: removed.name },
-      sync,
-      deploy
+      ...queued
     };
   }
 
@@ -450,7 +516,7 @@ async function callTool(name, args) {
 
   if (name === "trigger_deploy") {
     const { reason } = triggerDeploySchema.parse(args);
-    return await triggerDeploy(reason || "manual");
+    return await triggerDeployThrottled(reason || "manual");
   }
 
   throw new Error(`Unknown tool: ${name}`);
