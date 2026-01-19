@@ -7,9 +7,16 @@ const MCP_ENDPOINT = process.env.MCP_ENDPOINT || "";
 const MCP_API_KEY = process.env.MCP_API_KEY || "";
 const MCP_PROTOCOL_VERSION = "2025-03-26";
 
+// GitHub Configuration
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN || "";
+const GITHUB_OWNER = process.env.GITHUB_OWNER || "LiamFuller07";
+const GITHUB_REPO = process.env.GITHUB_REPO || "reach-out-databse";
+const GITHUB_BRANCH = process.env.GITHUB_BRANCH || "main";
+const DATA_FILES = ["founders", "researchers", "vcs", "angels"];
+const HAS_GITHUB_WRITE = Boolean(GITHUB_TOKEN);
+
 // Stateless token verification
 const AUTH_CODE_SECRET = process.env.AUTH_CODE_SECRET || process.env.OAUTH_CLIENT_SECRET || "default-secret";
-const DCR_SECRET = process.env.DCR_SECRET || process.env.OAUTH_CLIENT_SECRET || "default-dcr-secret";
 
 function verifyAccessToken(token) {
   try {
@@ -45,12 +52,12 @@ const TOOLS = [
   {
     name: "get_contacts",
     description: "Get all contacts from the reach-out database",
-    inputSchema: { type: "object", properties: { limit: { type: "number" }, offset: { type: "number" } } }
+    inputSchema: { type: "object", properties: { limit: { type: "number" }, offset: { type: "number" }, category: { type: "string" } } }
   },
   {
     name: "search_contacts",
-    description: "Search contacts by name, email, or company",
-    inputSchema: { type: "object", properties: { query: { type: "string" } }, required: ["query"] }
+    description: "Search contacts by name, company, tags, or notes",
+    inputSchema: { type: "object", properties: { query: { type: "string" }, category: { type: "string" } }, required: ["query"] }
   },
   {
     name: "get_contact",
@@ -58,44 +65,128 @@ const TOOLS = [
     inputSchema: { type: "object", properties: { id: { type: "string" } }, required: ["id"] }
   },
   {
-    name: "add_contact",
-    description: "Add a new contact to the database",
+    name: "upsert_contact",
+    description: "Add or update a contact. Specify category (founders/researchers/vcs/angels). Use id to update existing, or omit for new.",
     inputSchema: {
       type: "object",
       properties: {
+        category: { type: "string", enum: ["founders", "researchers", "vcs", "angels"] },
+        id: { type: "string" },
         name: { type: "string" },
-        email: { type: "string" },
-        company: { type: "string" },
-        phone: { type: "string" },
-        notes: { type: "string" }
+        city: { type: "string" },
+        tags: { type: "array", items: { type: "string" } },
+        links: { type: "array", items: { type: "string" } },
+        notes: { type: "string" },
+        checked: { type: "boolean" }
       },
-      required: ["name"]
+      required: ["category", "name"]
     }
   },
   {
-    name: "update_contact",
-    description: "Update an existing contact",
-    inputSchema: {
-      type: "object",
-      properties: {
-        id: { type: "string" },
-        name: { type: "string" },
-        email: { type: "string" },
-        company: { type: "string" },
-        phone: { type: "string" },
-        notes: { type: "string" }
-      },
-      required: ["id"]
-    }
+    name: "delete_contact",
+    description: "Delete a contact by ID",
+    inputSchema: { type: "object", properties: { id: { type: "string" } }, required: ["id"] }
   },
   {
     name: "get_instructions",
-    description: "Get usage instructions for this MCP server",
+    description: "Get usage instructions and stats for this MCP server",
+    inputSchema: { type: "object", properties: {} }
+  },
+  {
+    name: "list_categories",
+    description: "List available contact categories",
     inputSchema: { type: "object", properties: {} }
   }
 ];
 
-// Tool implementations (proxy to upstream if configured, otherwise mock)
+// GitHub API functions
+async function getGitHubFile(category) {
+  const url = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/data/${category}.json?ref=${GITHUB_BRANCH}`;
+  const res = await fetch(url, {
+    headers: {
+      "Accept": "application/vnd.github+json",
+      "Authorization": `Bearer ${GITHUB_TOKEN}`,
+      "X-GitHub-Api-Version": "2022-11-28"
+    }
+  });
+  if (!res.ok) {
+    if (res.status === 404) return { json: { category, entries: [], last_updated: "" }, sha: null };
+    throw new Error(`GitHub API error: ${res.status}`);
+  }
+  const data = await res.json();
+  const content = Buffer.from(data.content, "base64").toString("utf-8");
+  return { json: JSON.parse(content), sha: data.sha };
+}
+
+async function putGitHubFile(category, json, message, sha) {
+  const url = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/data/${category}.json`;
+  const content = Buffer.from(JSON.stringify(json, null, 2), "utf-8").toString("base64");
+  const body = {
+    message,
+    content,
+    branch: GITHUB_BRANCH,
+    ...(sha ? { sha } : {})
+  };
+  const res = await fetch(url, {
+    method: "PUT",
+    headers: {
+      "Accept": "application/vnd.github+json",
+      "Authorization": `Bearer ${GITHUB_TOKEN}`,
+      "X-GitHub-Api-Version": "2022-11-28",
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify(body)
+  });
+  if (!res.ok) {
+    const text = await res.text();
+    throw new Error(`GitHub PUT error (${res.status}): ${text}`);
+  }
+  return res.json();
+}
+
+// Read from raw.githubusercontent.com (fast, no auth required)
+async function fetchGitHubDataRaw(category) {
+  const url = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/${category}.json`;
+  const res = await fetch(url);
+  if (!res.ok) return { category, entries: [] };
+  return res.json();
+}
+
+async function fetchAllContacts(categoryFilter = null) {
+  const categories = categoryFilter ? [categoryFilter] : DATA_FILES;
+  const results = await Promise.all(categories.map(fetchGitHubDataRaw));
+  const allContacts = [];
+  for (const data of results) {
+    for (const entry of (data.entries || [])) {
+      allContacts.push({
+        id: entry.id,
+        name: entry.name,
+        company: entry.tags?.[0] || "",
+        city: entry.city || "",
+        tags: entry.tags || [],
+        links: entry.links || [],
+        notes: entry.notes || "",
+        checked: entry.checked || false,
+        category: data.category
+      });
+    }
+  }
+  return allContacts;
+}
+
+function normalizeContact(entry, category) {
+  return {
+    id: entry.id || `${category}-${Date.now()}-${Math.floor(Math.random() * 10000)}`,
+    name: entry.name || "",
+    city: entry.city || "SF",
+    tags: Array.isArray(entry.tags) ? entry.tags : (entry.tags ? [entry.tags] : []),
+    links: Array.isArray(entry.links) ? entry.links : (entry.links ? [entry.links] : []),
+    notes: entry.notes || "",
+    checked: Boolean(entry.checked)
+  };
+}
+
+// Tool implementations
 async function callTool(name, args) {
   // If we have an upstream MCP endpoint, proxy the call
   if (MCP_ENDPOINT) {
@@ -110,48 +201,15 @@ async function callTool(name, args) {
       });
       const data = await res.json();
       if (data.ok) return data.result;
-      throw new Error(data.error || "Upstream error");
     } catch (err) {
       // Fall through to local implementation
     }
   }
 
-  // GitHub data source
-  const GITHUB_OWNER = "LiamFuller07";
-  const GITHUB_REPO = "reach-out-databse";
-  const GITHUB_BRANCH = "main";
-  const DATA_FILES = ["founders", "researchers", "vcs", "angels"];
-
-  async function fetchGitHubData(category) {
-    const url = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/${category}.json`;
-    const res = await fetch(url);
-    if (!res.ok) return { category, entries: [] };
-    return res.json();
-  }
-
-  async function fetchAllContacts() {
-    const results = await Promise.all(DATA_FILES.map(fetchGitHubData));
-    const allContacts = [];
-    for (const data of results) {
-      for (const entry of (data.entries || [])) {
-        allContacts.push({
-          id: entry.id,
-          name: entry.name,
-          company: entry.tags?.[0] || "",
-          email: "",
-          phone: "",
-          notes: entry.notes || "",
-          city: entry.city || "",
-          tags: entry.tags || [],
-          category: data.category
-        });
-      }
-    }
-    return allContacts;
-  }
-
-  // Local implementations with GitHub data
   switch (name) {
+    case "list_categories":
+      return { categories: DATA_FILES };
+
     case "get_instructions": {
       const contacts = await fetchAllContacts();
       const byCategory = {};
@@ -160,15 +218,17 @@ async function callTool(name, args) {
       }
       return {
         description: "Reach Out Contact Database MCP Server",
-        version: "1.0.0",
+        version: "2.0.0",
         tools: TOOLS.map(t => t.name),
-        notes: "Use these tools to manage your outreach contact database.",
-        stats: { total: contacts.length, byCategory }
+        notes: "Full CRUD: upsert_contact to add/update, delete_contact to remove. Changes sync to GitHub and auto-deploy.",
+        stats: { total: contacts.length, byCategory },
+        write_enabled: HAS_GITHUB_WRITE,
+        categories: DATA_FILES
       };
     }
 
     case "get_contacts": {
-      const contacts = await fetchAllContacts();
+      const contacts = await fetchAllContacts(args.category);
       const limit = args.limit || 100;
       const offset = args.offset || 0;
       return {
@@ -180,7 +240,7 @@ async function callTool(name, args) {
     }
 
     case "search_contacts": {
-      const contacts = await fetchAllContacts();
+      const contacts = await fetchAllContacts(args.category);
       const query = (args.query || "").toLowerCase();
       const results = contacts.filter(c =>
         c.name.toLowerCase().includes(query) ||
@@ -200,21 +260,103 @@ async function callTool(name, args) {
       const contact = contacts.find(c => c.id === args.id);
       return {
         contact: contact || null,
-        message: contact ? "Found" : `Contact ${args.id} not found.`
+        found: Boolean(contact)
       };
     }
 
-    case "add_contact":
-      return {
-        success: false,
-        message: "Add contact via GitHub: push to data/*.json files"
+    case "upsert_contact": {
+      if (!HAS_GITHUB_WRITE) {
+        return { success: false, error: "GITHUB_TOKEN not configured. Cannot write." };
+      }
+
+      const category = args.category;
+      if (!DATA_FILES.includes(category)) {
+        return { success: false, error: `Invalid category. Use: ${DATA_FILES.join(", ")}` };
+      }
+
+      // Get current data with SHA
+      const { json, sha } = await getGitHubFile(category);
+      const entries = json.entries || [];
+
+      // Find existing or create new
+      let existingIdx = -1;
+      if (args.id) {
+        existingIdx = entries.findIndex(e => e.id === args.id);
+      }
+      if (existingIdx < 0 && args.name) {
+        existingIdx = entries.findIndex(e => e.name.toLowerCase() === args.name.toLowerCase());
+      }
+
+      const newEntry = normalizeContact({
+        id: existingIdx >= 0 ? entries[existingIdx].id : args.id,
+        name: args.name,
+        city: args.city,
+        tags: args.tags,
+        links: args.links,
+        notes: args.notes,
+        checked: args.checked
+      }, category);
+
+      if (existingIdx >= 0) {
+        // Update existing - merge fields
+        entries[existingIdx] = { ...entries[existingIdx], ...newEntry };
+      } else {
+        // Add new
+        entries.push(newEntry);
+      }
+
+      // Save to GitHub
+      const updatedJson = {
+        category,
+        entries,
+        last_updated: new Date().toISOString()
       };
 
-    case "update_contact":
+      await putGitHubFile(category, updatedJson, `Upsert contact: ${newEntry.name} in ${category}`, sha);
+
       return {
-        success: false,
-        message: "Update contact via GitHub: push to data/*.json files"
+        success: true,
+        action: existingIdx >= 0 ? "updated" : "created",
+        contact: newEntry,
+        category,
+        synced: true
       };
+    }
+
+    case "delete_contact": {
+      if (!HAS_GITHUB_WRITE) {
+        return { success: false, error: "GITHUB_TOKEN not configured. Cannot write." };
+      }
+
+      // Find contact in all categories
+      for (const category of DATA_FILES) {
+        const { json, sha } = await getGitHubFile(category);
+        const entries = json.entries || [];
+        const idx = entries.findIndex(e => e.id === args.id);
+
+        if (idx >= 0) {
+          const deleted = entries[idx];
+          entries.splice(idx, 1);
+
+          const updatedJson = {
+            category,
+            entries,
+            last_updated: new Date().toISOString()
+          };
+
+          await putGitHubFile(category, updatedJson, `Delete contact: ${deleted.name} from ${category}`, sha);
+
+          return {
+            success: true,
+            deleted: { id: deleted.id, name: deleted.name },
+            category,
+            synced: true
+          };
+        }
+      }
+
+      return { success: false, error: `Contact ${args.id} not found` };
+    }
 
     default:
       throw new Error(`Unknown tool: ${name}`);
@@ -237,7 +379,7 @@ async function handleJsonRpcRequest(message) {
           jsonrpc: "2.0", id,
           result: {
             protocolVersion: MCP_PROTOCOL_VERSION,
-            serverInfo: { name: "reach-out-mcp", version: "1.0.0" },
+            serverInfo: { name: "reach-out-mcp", version: "2.0.0" },
             capabilities: { tools: { listChanged: false } }
           },
           _sessionId: sessionId
@@ -292,7 +434,7 @@ export default async function handler(req, res) {
     return res.status(204).end();
   }
 
-  // GET - SSE stream (limited support on Vercel)
+  // GET - SSE stream
   if (req.method === "GET") {
     if (!acceptHeader.includes("text/event-stream")) {
       return res.status(400).json({ error: "Accept header must include text/event-stream" });
@@ -302,7 +444,6 @@ export default async function handler(req, res) {
     res.setHeader("Cache-Control", "no-cache");
     res.setHeader("Connection", "keep-alive");
 
-    // Send initial ping and close (Vercel has timeout limits)
     const eventId = crypto.randomBytes(16).toString("hex");
     res.write(`id: ${eventId}\n`);
     res.write(`data: ${JSON.stringify({ jsonrpc: "2.0", method: "ping" })}\n\n`);
@@ -325,7 +466,6 @@ export default async function handler(req, res) {
         return res.status(202).end();
       }
 
-      // Check if client wants SSE
       if (acceptHeader.includes("text/event-stream")) {
         res.setHeader("Content-Type", "text/event-stream");
         res.setHeader("Cache-Control", "no-cache");
