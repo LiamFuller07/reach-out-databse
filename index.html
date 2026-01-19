@@ -413,15 +413,54 @@
         .join(', ');
     }
 
+    function xLinkRenderer(params) {
+      const value = params.value;
+      if (!value) return '';
+      let handle = value;
+      let href = value;
+      if (value.startsWith('http')) {
+        try {
+          const url = new URL(value);
+          handle = '@' + url.pathname.replace(/^\//, '').split('/')[0];
+        } catch (e) {
+          handle = value;
+        }
+        href = value;
+      } else {
+        handle = value.startsWith('@') ? value : '@' + value;
+        href = 'https://x.com/' + handle.replace('@', '');
+      }
+      return `<a href="${href}" target="_blank" style="color:#1da1f2">${handle}</a>`;
+    }
+
+    function linkedinRenderer(params) {
+      const value = params.value;
+      if (!value) return '';
+      let href = value;
+      let label = 'Profile';
+      if (value.startsWith('http')) {
+        href = value;
+        try {
+          const url = new URL(value);
+          const parts = url.pathname.split('/').filter(Boolean);
+          if (parts.length >= 2) label = parts[1];
+        } catch (e) {}
+      } else {
+        href = 'https://linkedin.com/in/' + value;
+        label = value;
+      }
+      return `<a href="${href}" target="_blank" style="color:#0a66c2">${label}</a>`;
+    }
+
     function buildSearchBlob(row) {
       const tags = normalizeList(row.tags);
-      const links = normalizeList(row.links);
       const parts = [
         row.name,
         row.city,
         row.notes,
-        ...tags,
-        ...links
+        row.x,
+        row.linkedin,
+        ...tags
       ];
       return parts.filter(Boolean).join(' ').toLowerCase();
     }
@@ -461,11 +500,12 @@
         cellClass: 'checkbox-cell',
         cellRenderer: checkboxRenderer
       },
-      { field: 'name', headerName: 'Name', flex: 2, minWidth: 220, editable: true },
-      { field: 'city', width: 120, editable: true },
-      { field: 'tags', headerName: 'Tags', flex: 2, minWidth: 180, editable: true },
-      { field: 'links', headerName: 'Links', flex: 3, minWidth: 220, editable: true, cellRenderer: linksRenderer },
-      { field: 'notes', headerName: 'Notes', flex: 3, minWidth: 260, editable: true }
+      { field: 'name', headerName: 'Name', flex: 2, minWidth: 180, editable: true },
+      { field: 'city', width: 80, editable: true },
+      { field: 'tags', headerName: 'Tags', flex: 2, minWidth: 140, editable: true },
+      { field: 'x', headerName: 'X', width: 140, editable: true, cellRenderer: xLinkRenderer },
+      { field: 'linkedin', headerName: 'LinkedIn', width: 140, editable: true, cellRenderer: linkedinRenderer },
+      { field: 'notes', headerName: 'Notes', flex: 3, minWidth: 200, editable: true }
     ];
 
     class DetailRenderer {
@@ -544,7 +584,8 @@
         name: row.name,
         city: normalizeCity(row.city),
         tags: normalizeList(row.tags),
-        links: normalizeList(row.links),
+        x: row.x || '',
+        linkedin: row.linkedin || '',
         notes: row.notes || '',
         checked: Boolean(row.checked)
       };
@@ -602,7 +643,8 @@
         name: 'New Contact',
         city: '',
         tags: [],
-        links: [],
+        x: '',
+        linkedin: '',
         notes: '',
         checked: false
       };
