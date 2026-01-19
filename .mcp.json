@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "reach-out": {
+      "command": "node",
+      "args": ["mcp-server/server.js"],
+      "cwd": "/Users/liam/reach-out-databse",
+      "env": {
+        "DATA_DIR": "/Users/liam/reach-out-databse/data"
+      }
+    }
+  }
+}

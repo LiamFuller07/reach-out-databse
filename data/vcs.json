@@ -1,5 +1,12 @@
 {
   "category": "vcs",
-  "entries": [],
-  "last_updated": ""
+  "entries": [
+    {"id": "vc-1", "name": "Brian Zhan", "city": "SF", "tags": ["Striker VC", "RL/AI Follower"], "links": [], "notes": "FROM YOUR FOLLOWERS (RL/AI) - @ Striker VC", "checked": false},
+    {"id": "vc-2", "name": "Cory Levy", "city": "SF", "tags": ["Z Fellows", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - @ Z Fellows", "checked": false},
+    {"id": "vc-3", "name": "Ali Rowghani", "city": "SF", "tags": ["YC Continuity", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - @ YC Continuity", "checked": false},
+    {"id": "vc-4", "name": "Nick Fitz", "city": "SF", "tags": ["Juniper Ventures", "Seldon Batch 1"], "links": [], "notes": "SELDON LAB PARTNERS - @ Juniper Ventures", "checked": false},
+    {"id": "vc-5", "name": "Dave Lemphers", "city": "SF", "tags": ["Maincode", "Australia", "Neolabs"], "links": [], "notes": "NEOLABS EUROPEAN - CEO @ Maincode, Australia's LLM 'Matilda'", "checked": false},
+    {"id": "vc-6", "name": "Ed Craven", "city": "SF", "tags": ["Maincode", "Stake.com", "Billionaire", "Neolabs"], "links": [], "notes": "NEOLABS EUROPEAN - Co-founder @ Maincode, Stake.com billionaire", "checked": false}
+  ],
+  "last_updated": "2026-01-19T00:00:00.000Z"
 }
