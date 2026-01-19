@@ -2,8 +2,8 @@
   "category": "vcs",
   "entries": [
     {"id": "vc-1", "name": "Brian Zhan", "city": "SF", "tags": ["Striker VC", "RL/AI Follower"], "x": "", "linkedin": "", "notes": "FROM YOUR FOLLOWERS (RL/AI) - @ Striker VC", "checked": false},
-    {"id": "vc-2", "name": "Cory Levy", "city": "SF", "tags": ["Z Fellows", "HIGH PRIORITY"], "x": "cory", "linkedin": "https://linkedin.com/in/clevy", "notes": "HIGH PRIORITY SF TARGET - @ Z Fellows", "checked": false},
-    {"id": "vc-3", "name": "Ali Rowghani", "city": "SF", "tags": ["YC Continuity", "HIGH PRIORITY"], "x": "ROWGHANI", "linkedin": "https://linkedin.com/in/ali-rowghani-26996a1b", "notes": "HIGH PRIORITY SF TARGET - @ YC Continuity", "checked": false},
+    {"id": "vc-2", "name": "Cory Levy", "city": "SF", "tags": ["Z Fellows"], "x": "cory", "linkedin": "https://linkedin.com/in/clevy", "notes": "@ Z Fellows", "checked": false},
+    {"id": "vc-3", "name": "Ali Rowghani", "city": "SF", "tags": ["YC Continuity"], "x": "ROWGHANI", "linkedin": "https://linkedin.com/in/ali-rowghani-26996a1b", "notes": "@ YC Continuity", "checked": false},
     {"id": "vc-4", "name": "Nick Fitz", "city": "SF", "tags": ["Juniper Ventures", "Seldon Batch 1"], "x": "", "linkedin": "", "notes": "SELDON LAB PARTNERS - @ Juniper Ventures", "checked": false}
   ],
   "last_updated": "2026-01-19T00:00:00.000Z"

@@ -218,7 +218,6 @@
 
     #grid {
       width: 100%;
-      height: 900px;
     }
 
     .detail-panel {
@@ -545,6 +544,7 @@
     const gridOptions = {
       columnDefs,
       defaultColDef: { resizable: true, sortable: true, filter: true, minWidth: 120 },
+      domLayout: 'autoHeight',
       masterDetail: true,
       detailCellRenderer: DetailRenderer,
       detailRowHeight: 180,
