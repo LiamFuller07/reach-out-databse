@@ -361,14 +361,15 @@
     function checkboxRenderer(params) {
       const input = document.createElement('input');
       input.type = 'checkbox';
-      input.checked = Boolean(params.data && params.data.__checked);
+      input.checked = Boolean(params.data && params.data.checked);
       input.setAttribute('aria-label', 'Send row to bottom');
       input.addEventListener('click', (event) => {
         event.stopPropagation();
       });
       input.addEventListener('change', () => {
         if (params.data) {
-          params.data.__checked = input.checked;
+          params.data.checked = input.checked;
+          scheduleUpsert(params.data);
         }
         applyCheckedOrdering();
       });
@@ -545,7 +546,8 @@
         city: normalizeCity(row.city),
         tags: normalizeList(row.tags),
         links: normalizeList(row.links),
-        notes: row.notes || ''
+        notes: row.notes || '',
+        checked: Boolean(row.checked)
       };
     }
 
@@ -553,7 +555,7 @@
       const unchecked = [];
       const checked = [];
       rows.forEach((row) => {
-        if (row && row.__checked) {
+        if (row && row.checked) {
           checked.push(row);
         } else {
           unchecked.push(row);
@@ -587,7 +589,8 @@
     }
 
     function setGridData(category) {
-      const rows = DATA[category].entries || [];
+      const rows = reorderRowsByChecked(DATA[category].entries || []);
+      DATA[category] = { ...DATA[category], entries: rows };
       state.gridApi.setGridOption('rowData', rows);
       if (state.expandedAll) {
         state.gridApi.forEachNode(node => node.setExpanded(true));
@@ -602,7 +605,7 @@
         tags: [],
         links: [],
         notes: '',
-        __checked: false
+        checked: false
       };
       state.gridApi.applyTransaction({ add: [row], addIndex: 0 });
       syncLocalDataFromGrid();

@@ -2,7 +2,7 @@
   "version": 2,
   "rewrites": [
     { "source": "/api/mcp", "destination": "/api/mcp" },
-    { "source": "/.well-known/oauth-authorization-server", "destination": "/api/.well-known/oauth-authorization-server" },
+    { "source": "/.well-known/oauth-authorization-server", "destination": "/api/oauth-discovery" },
     { "source": "/oauth/authorize", "destination": "/api/oauth/authorize" },
     { "source": "/oauth/token", "destination": "/api/oauth/token" }
   ]
