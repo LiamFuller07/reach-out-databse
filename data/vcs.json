@@ -1,10 +1,104 @@
 {
   "category": "vcs",
-  "entries": [
-    {"id": "vc-1", "name": "Brian Zhan", "city": "SF", "tags": ["Striker VC", "Forbes 30u30", "CRV", "$165M fund"], "x": "", "linkedin": "", "notes": "Partner @ Striker Venture Partners (founding team), former Principal @ CRV, Forbes 30 Under 30 (VC), Northwestern CS, backed Skild AI/Dyna Robotics/Periodic Labs, sister is Stephanie Zhan (Sequoia GP)", "checked": false},
-    {"id": "vc-2", "name": "Cory Levy", "city": "SF", "tags": ["Z Fellows", "Forbes 30u30", "After School founder"], "x": "cory", "linkedin": "https://linkedin.com/in/clevy", "notes": "Founder @ Z Fellows, Forbes 30 Under 30, founded After School (20M users, raised $1M at age 19), Z Fellows gives $10K grants at $1B cap, interned at Founders Fund & USV in high school", "checked": false},
-    {"id": "vc-3", "name": "Ali Rowghani", "city": "SF", "tags": ["Maxq Fund", "prev YC Continuity", "prev Twitter COO", "prev Pixar CFO"], "x": "ROWGHANI", "linkedin": "https://linkedin.com/in/ali-rowghani-26996a1b", "notes": "Founder @ Maxq Fund (2024, targeting $250M), former Managing Partner @ YC Continuity (2014-2023), former COO & CFO @ Twitter, former CFO @ Pixar, Stanford BA & MBA", "checked": false},
-    {"id": "vc-4", "name": "Nick Fitz", "city": "SF", "tags": ["Juniper Ventures", "Momentum", "AI Safety investing"], "x": "", "linkedin": "", "notes": "Founder & GP @ Juniper Ventures, Founder & CEO @ Momentum (since 2018), backed by Reid Hoffman/Eric Ries/Jan Leike/Woj Zaremba, AI safety/assurance focus, portfolio includes Goodfire/Haize Labs", "checked": false}
+  "firms": [
+    {
+      "id": "firm-1",
+      "name": "Striker Venture Partners",
+      "city": "SF",
+      "tags": ["$165M fund", "Seed stage", "AI/Robotics focus"],
+      "website": "https://striker.vc",
+      "notes": "Founding team includes former CRV principals, targeting $30M seed checks, backed Skild AI, Dyna Robotics, Periodic Labs, Reflection AI",
+      "partners": [
+        {"id": "vc-1", "name": "Brian Zhan", "role": "Partner", "x": "", "linkedin": "", "notes": "Former Principal @ CRV, Forbes 30 Under 30 (VC), Northwestern CS, former engineer @ Facebook, sister is Stephanie Zhan (Sequoia GP)"}
+      ]
+    },
+    {
+      "id": "firm-2",
+      "name": "Z Fellows",
+      "city": "SF",
+      "tags": ["Accelerator", "$10K grants", "$1B cap"],
+      "website": "https://zfellows.com",
+      "notes": "One-week accelerator giving $10K grants at $1B cap, backed early-stage founders",
+      "partners": [
+        {"id": "vc-2", "name": "Cory Levy", "role": "Founder", "x": "cory", "linkedin": "https://linkedin.com/in/clevy", "notes": "Forbes 30 Under 30, founded After School (20M users, raised $1M at age 19), interned at Founders Fund & USV in high school, University of Illinois CS"}
+      ]
+    },
+    {
+      "id": "firm-3",
+      "name": "Maxq Fund",
+      "city": "SF",
+      "tags": ["$250M target", "Growth stage", "AI focus"],
+      "website": "",
+      "notes": "Founded 2024, targeting $250M fund, focus on AI and growth-stage companies",
+      "partners": [
+        {"id": "vc-3", "name": "Ali Rowghani", "role": "Founder & GP", "x": "ROWGHANI", "linkedin": "https://linkedin.com/in/ali-rowghani-26996a1b", "notes": "Former Managing Partner @ YC Continuity (2014-2023), former COO & CFO @ Twitter (2008-2014), former CFO @ Pixar (2002-2008), Stanford BA & MBA, board member at Deel, PostHog, Pave"}
+      ]
+    },
+    {
+      "id": "firm-4",
+      "name": "Juniper Ventures",
+      "city": "SF",
+      "tags": ["AI Safety", "$500K checks", "Early stage"],
+      "website": "",
+      "notes": "Focus on AI safety/assurance startups, sweet spot $500K checks, backed by Reid Hoffman, Eric Ries, Jan Leike, Woj Zaremba, Geoff Ralston, publishes AI Assurance Technology Report",
+      "partners": [
+        {"id": "vc-4", "name": "Nick Fitz", "role": "Founder & GP", "x": "", "linkedin": "", "notes": "Also Founder & CEO @ Momentum (since 2018), portfolio includes Goodfire, Haize Labs"}
+      ]
+    },
+    {
+      "id": "firm-5",
+      "name": "Y Combinator",
+      "city": "SF",
+      "tags": ["Accelerator", "$500K standard deal", "Top tier"],
+      "website": "https://ycombinator.com",
+      "notes": "World's most prestigious startup accelerator, $500K standard deal, backed Airbnb, Stripe, Coinbase, OpenAI, Instacart",
+      "partners": [
+        {"id": "vc-5", "name": "Garry Tan", "role": "CEO & President", "x": "garrytan", "linkedin": "", "notes": "Former partner at Initialized Capital, co-founder of Posterous, YC alum (W08)"},
+        {"id": "vc-6", "name": "Jared Friedman", "role": "Partner", "x": "jaboris", "linkedin": "", "notes": "Co-founder of Scribd, YC partner since 2015"},
+        {"id": "vc-7", "name": "Diana Hu", "role": "Partner", "x": "dianazhu", "linkedin": "", "notes": "Former Visiting Partner, leads AI/ML investments"},
+        {"id": "vc-8", "name": "Dalton Caldwell", "role": "Managing Director", "x": "daltonc", "linkedin": "", "notes": "Co-founder of App.net and imeem, YC partner since 2013"}
+      ]
+    },
+    {
+      "id": "firm-6",
+      "name": "Andreessen Horowitz (a16z)",
+      "city": "SF",
+      "tags": ["$35B+ AUM", "Full stack", "Multi-stage"],
+      "website": "https://a16z.com",
+      "notes": "One of the largest VC firms, known for full-stack approach with operating teams, major AI investments include Anthropic, Mistral, Character.AI",
+      "partners": [
+        {"id": "vc-9", "name": "Marc Andreessen", "role": "Co-founder & GP", "x": "pmarca", "linkedin": "", "notes": "Co-creator of Mosaic browser, co-founder of Netscape, board member at Meta"},
+        {"id": "vc-10", "name": "Ben Horowitz", "role": "Co-founder & GP", "x": "baborowtiz", "linkedin": "", "notes": "Former CEO of Opsware (sold to HP for $1.6B), author of 'The Hard Thing About Hard Things'"},
+        {"id": "vc-11", "name": "Martin Casado", "role": "GP", "x": "martin_casado", "linkedin": "", "notes": "Co-founder of Nicira (acquired by VMware for $1.26B), leads enterprise/infrastructure investments"},
+        {"id": "vc-12", "name": "Anjney Midha", "role": "GP", "x": "AnjneyMidha", "linkedin": "", "notes": "Leads AI investments, former founder, board member at Mistral AI"}
+      ]
+    },
+    {
+      "id": "firm-7",
+      "name": "Sequoia Capital",
+      "city": "SF",
+      "tags": ["Top tier", "Multi-stage", "Global"],
+      "website": "https://sequoiacap.com",
+      "notes": "One of the most successful VC firms, backed Apple, Google, WhatsApp, Stripe, early OpenAI investor",
+      "partners": [
+        {"id": "vc-13", "name": "Roelof Botha", "role": "Managing Partner", "x": "roelofbotha", "linkedin": "", "notes": "Former CFO of PayPal, led investments in YouTube, Instagram, MongoDB"},
+        {"id": "vc-14", "name": "Stephanie Zhan", "role": "Partner", "x": "", "linkedin": "", "notes": "Leads AI/ML investments, former Google PM, sister of Brian Zhan (Striker VC)"},
+        {"id": "vc-15", "name": "Konstantine Buhler", "role": "Partner", "x": "konstantine", "linkedin": "", "notes": "Leads AI investments, former founder, board member at Harvey AI"}
+      ]
+    },
+    {
+      "id": "firm-8",
+      "name": "Founders Fund",
+      "city": "SF",
+      "tags": ["Contrarian", "Deep tech", "Multi-stage"],
+      "website": "https://foundersfund.com",
+      "notes": "Founded by Peter Thiel, known for contrarian bets, backed SpaceX, Palantir, Stripe, Anduril",
+      "partners": [
+        {"id": "vc-16", "name": "Peter Thiel", "role": "Co-founder & Partner", "x": "", "linkedin": "", "notes": "Co-founder of PayPal and Palantir, first outside investor in Facebook"},
+        {"id": "vc-17", "name": "Keith Rabois", "role": "GP", "x": "rabois", "linkedin": "", "notes": "Former COO of Square, executive at PayPal/LinkedIn/Opendoor"},
+        {"id": "vc-18", "name": "Trae Stephens", "role": "Partner", "x": "traestephens", "linkedin": "", "notes": "Co-founder of Anduril, former Palantir"}
+      ]
+    }
   ],
   "last_updated": "2026-01-19T00:00:00.000Z"
 }

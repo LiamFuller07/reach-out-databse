@@ -340,7 +340,7 @@
     const DATA = {
       founders: { entries: [] },
       researchers: { entries: [] },
-      vcs: { entries: [] },
+      vcs: { firms: [] },
       angels: { entries: [] }
     };
 
@@ -459,8 +459,15 @@
         row.notes,
         row.x,
         row.linkedin,
+        row.website,
         ...tags
       ];
+      // For VCs, also search through partners
+      if (row.partners && Array.isArray(row.partners)) {
+        row.partners.forEach(p => {
+          parts.push(p.name, p.role, p.notes, p.x, p.linkedin);
+        });
+      }
       return parts.filter(Boolean).join(' ').toLowerCase();
     }
 
@@ -507,6 +514,39 @@
       { field: 'notes', headerName: 'Notes', flex: 3, minWidth: 200, editable: true }
     ];
 
+    // VC-specific columns for firms
+    const vcColumnDefs = [
+      {
+        headerName: '',
+        width: 44,
+        maxWidth: 44,
+        resizable: false,
+        sortable: false,
+        filter: false,
+        suppressMenu: true,
+        cellRenderer: 'agGroupCellRenderer'
+      },
+      { field: 'name', headerName: 'Firm', flex: 2, minWidth: 200 },
+      { field: 'city', width: 80 },
+      { field: 'tags', headerName: 'Focus', flex: 2, minWidth: 160, valueFormatter: params => normalizeList(params.value).join(', ') },
+      {
+        field: 'website',
+        headerName: 'Website',
+        width: 140,
+        cellRenderer: params => {
+          if (!params.value) return '';
+          return `<a href="${params.value}" target="_blank" style="color:var(--accent)">${params.value.replace(/^https?:\/\//, '')}</a>`;
+        }
+      },
+      { field: 'notes', headerName: 'Notes', flex: 3, minWidth: 200 },
+      {
+        field: 'partners',
+        headerName: 'Partners',
+        width: 100,
+        valueFormatter: params => params.value ? `${params.value.length} partner${params.value.length !== 1 ? 's' : ''}` : '0'
+      }
+    ];
+
     class DetailRenderer {
       init(params) {
         this.eGui = document.createElement('div');
@@ -536,6 +576,87 @@
             </div>
           </div>
         `;
+      }
+      getGui() { return this.eGui; }
+      refresh() { return false; }
+    }
+
+    // VC-specific detail renderer showing partners
+    class VCDetailRenderer {
+      init(params) {
+        this.eGui = document.createElement('div');
+        this.eGui.className = 'detail-panel';
+        const partners = params.data.partners || [];
+        if (!partners.length) {
+          this.eGui.textContent = 'No partners listed.';
+          this.eGui.style.color = 'var(--muted)';
+          return;
+        }
+        // Build partner cards using DOM methods for security
+        const header = document.createElement('div');
+        header.style.cssText = 'margin-bottom:8px;font-weight:600;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:0.5px;';
+        header.textContent = `Partners (${partners.length})`;
+        this.eGui.appendChild(header);
+
+        const grid = document.createElement('div');
+        grid.className = 'detail-grid';
+        grid.style.gap = '16px';
+
+        partners.forEach(p => {
+          const card = document.createElement('div');
+          card.className = 'contact';
+          card.style.cssText = 'flex:1;min-width:280px;max-width:400px;';
+
+          const nameEl = document.createElement('div');
+          nameEl.className = 'name';
+          nameEl.textContent = p.name || 'Unknown';
+          card.appendChild(nameEl);
+
+          if (p.role) {
+            const roleEl = document.createElement('div');
+            roleEl.className = 'title';
+            roleEl.style.cssText = 'color:var(--accent);font-weight:500;margin:4px 0;';
+            roleEl.textContent = p.role;
+            card.appendChild(roleEl);
+          }
+
+          const linksDiv = document.createElement('div');
+          linksDiv.style.margin = '6px 0';
+          if (p.x) {
+            const xLink = document.createElement('a');
+            xLink.href = 'https://x.com/' + p.x.replace('@', '');
+            xLink.target = '_blank';
+            xLink.style.color = '#1da1f2';
+            xLink.textContent = '@' + p.x.replace('@', '');
+            linksDiv.appendChild(xLink);
+          }
+          if (p.x && p.linkedin) {
+            linksDiv.appendChild(document.createTextNode(' · '));
+          }
+          if (p.linkedin) {
+            const liLink = document.createElement('a');
+            liLink.href = p.linkedin.startsWith('http') ? p.linkedin : 'https://linkedin.com/in/' + p.linkedin;
+            liLink.target = '_blank';
+            liLink.style.color = '#0a66c2';
+            liLink.textContent = 'LinkedIn';
+            linksDiv.appendChild(liLink);
+          }
+          if (p.x || p.linkedin) {
+            card.appendChild(linksDiv);
+          }
+
+          if (p.notes) {
+            const notesEl = document.createElement('div');
+            notesEl.className = 'title';
+            notesEl.style.marginTop = '8px';
+            notesEl.textContent = p.notes;
+            card.appendChild(notesEl);
+          }
+
+          grid.appendChild(card);
+        });
+
+        this.eGui.appendChild(grid);
       }
       getGui() { return this.eGui; }
       refresh() { return false; }
@@ -615,11 +736,18 @@
 
     function syncLocalDataFromGrid() {
       const rows = getGridRows();
-      DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
+      // VCs use firms array, others use entries
+      if (state.currentCategory === 'vcs') {
+        DATA.vcs = { ...DATA.vcs, firms: rows };
+      } else {
+        DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
+      }
     }
 
     function applyCheckedOrdering() {
       if (!state.gridApi) return;
+      // VCs don't use checked ordering
+      if (state.currentCategory === 'vcs') return;
       const rows = reorderRowsByChecked(getGridRows());
       DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
       state.gridApi.setGridOption('rowData', rows);
@@ -629,6 +757,22 @@
     }
 
     function setGridData(category) {
+      // Handle VCs differently - use firms array with VCDetailRenderer
+      if (category === 'vcs') {
+        const firms = DATA.vcs.firms || [];
+        state.gridApi.setGridOption('columnDefs', vcColumnDefs);
+        state.gridApi.setGridOption('detailCellRenderer', VCDetailRenderer);
+        state.gridApi.setGridOption('detailRowHeight', 280);
+        state.gridApi.setGridOption('rowData', firms);
+        if (state.expandedAll) {
+          state.gridApi.forEachNode(node => node.setExpanded(true));
+        }
+        return;
+      }
+      // Reset to default columns and renderer for other categories
+      state.gridApi.setGridOption('columnDefs', columnDefs);
+      state.gridApi.setGridOption('detailCellRenderer', DetailRenderer);
+      state.gridApi.setGridOption('detailRowHeight', 180);
       const rows = reorderRowsByChecked(DATA[category].entries || []);
       DATA[category] = { ...DATA[category], entries: rows };
       state.gridApi.setGridOption('rowData', rows);
@@ -715,17 +859,20 @@
       try {
         const json = await callMcp('get_category', { category });
         DATA[category] = json;
-        return json.entries || [];
+        // VCs use firms array, others use entries
+        return category === 'vcs' ? (json.firms || []) : (json.entries || []);
       } catch (err) {
         try {
           const response = await fetch(`./data/${category}.json?v=${Date.now()}`);
           if (!response.ok) throw new Error('Local fetch failed');
           const json = await response.json();
           DATA[category] = json;
-          return json.entries || [];
+          // VCs use firms array, others use entries
+          return category === 'vcs' ? (json.firms || []) : (json.entries || []);
         } catch (fallbackErr) {
           console.error('Failed to load category', category, err, fallbackErr);
-          DATA[category] = { entries: [] };
+          // VCs use firms array, others use entries
+          DATA[category] = category === 'vcs' ? { firms: [] } : { entries: [] };
           return [];
         }
       }
