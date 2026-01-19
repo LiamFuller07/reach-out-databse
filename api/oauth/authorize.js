@@ -2,6 +2,7 @@ import crypto from "crypto";
 
 const OAUTH_CLIENT_ID = process.env.OAUTH_CLIENT_ID || "reach-out-client";
 const OAUTH_REDIRECT_URIS = (process.env.OAUTH_REDIRECT_URIS || "https://claude.ai/oauth/callback").split(",").map(s => s.trim());
+const DCR_SECRET = process.env.DCR_SECRET || process.env.OAUTH_CLIENT_SECRET || "default-dcr-secret";
 
 function isValidRedirectUri(uri) {
   if (OAUTH_REDIRECT_URIS.includes(uri)) return true;
@@ -12,6 +13,12 @@ function isValidRedirectUri(uri) {
     return false;
   }
 }
+
+// Verify a dynamically registered client by checking if the client_id starts with "dyn-"
+function isDynamicClient(clientId) {
+  return clientId && clientId.startsWith("dyn-");
+}
+
 const AUTH_CODE_SECRET = process.env.AUTH_CODE_SECRET || process.env.OAUTH_CLIENT_SECRET || "default-secret";
 
 function generateAuthCode(clientId, redirectUri) {
@@ -32,8 +39,8 @@ export default function handler(req, res) {
   const state = req.query.state;
   const responseType = req.query.response_type;
 
-  // Validate client_id
-  if (clientId !== OAUTH_CLIENT_ID) {
+  // Validate client_id (static or dynamic)
+  if (clientId !== OAUTH_CLIENT_ID && !isDynamicClient(clientId)) {
     return res.status(400).json({ error: "invalid_client", error_description: "Unknown client_id" });
   }
 

@@ -3,7 +3,29 @@ import crypto from "crypto";
 const OAUTH_CLIENT_ID = process.env.OAUTH_CLIENT_ID || "reach-out-client";
 const OAUTH_CLIENT_SECRET = process.env.OAUTH_CLIENT_SECRET || "";
 const AUTH_CODE_SECRET = process.env.AUTH_CODE_SECRET || process.env.OAUTH_CLIENT_SECRET || "default-secret";
+const DCR_SECRET = process.env.DCR_SECRET || process.env.OAUTH_CLIENT_SECRET || "default-dcr-secret";
 const ACCESS_TOKEN_TTL = 24 * 60 * 60 * 1000; // 24 hours
+
+// Verify a dynamically registered client secret
+function verifyDynamicClient(clientId, clientSecret) {
+  if (!clientId || !clientId.startsWith("dyn-")) return false;
+  if (!clientSecret) return false;
+
+  try {
+    const [payloadB64, signature] = clientSecret.split(".");
+    if (!payloadB64 || !signature) return false;
+
+    const payload = Buffer.from(payloadB64, "base64url").toString();
+    const expectedSig = crypto.createHmac("sha256", DCR_SECRET).update(payload).digest("hex");
+
+    if (signature !== expectedSig) return false;
+
+    const data = JSON.parse(payload);
+    return data.client_id === clientId;
+  } catch {
+    return false;
+  }
+}
 
 function verifyAuthCode(code) {
   try {
@@ -58,12 +80,15 @@ export default async function handler(req, res) {
     return res.status(400).json({ error: "unsupported_grant_type" });
   }
 
-  // Validate client credentials
-  if (clientId !== OAUTH_CLIENT_ID) {
+  // Validate client credentials (static or dynamic)
+  const isStaticClient = clientId === OAUTH_CLIENT_ID;
+  const isDynamic = verifyDynamicClient(clientId, clientSecret);
+
+  if (!isStaticClient && !isDynamic) {
     return res.status(400).json({ error: "invalid_client" });
   }
 
-  if (OAUTH_CLIENT_SECRET && clientSecret !== OAUTH_CLIENT_SECRET) {
+  if (isStaticClient && OAUTH_CLIENT_SECRET && clientSecret !== OAUTH_CLIENT_SECRET) {
     return res.status(400).json({ error: "invalid_client", error_description: "Invalid client_secret" });
   }
 
