@@ -1,1958 +1,251 @@
 {
   "category": "founders",
   "entries": [
-    {
-      "id": "founders-1",
-      "name": "Adam",
-      "city": "SF",
-      "tags": [
-        "Traild"
-      ],
-      "links": [],
-      "notes": "Founder @ Traild",
-      "checked": false
-    },
-    {
-      "id": "founders-2",
-      "name": "Eddie Landesberg",
-      "city": "SF",
-      "tags": [
-        "Mercor"
-      ],
-      "links": [],
-      "notes": "Founder @ Mercor",
-      "checked": false
-    },
-    {
-      "id": "founders-3",
-      "name": "Carlos Georgescu",
-      "city": "SF",
-      "tags": [
-        "AfterQuery"
-      ],
-      "links": [],
-      "notes": "Founder @ AfterQuery",
-      "checked": false
-    },
-    {
-      "id": "founders-4",
-      "name": "Spencer Mateega",
-      "city": "SF",
-      "tags": [
-        "AfterQuery"
-      ],
-      "links": [],
-      "notes": "Founder @ AfterQuery",
-      "checked": false
-    },
-    {
-      "id": "founders-5",
-      "name": "Xiangyi Li",
-      "city": "SF",
-      "tags": [
-        "BenchFlow"
-      ],
-      "links": [],
-      "notes": "Founder @ BenchFlow",
-      "checked": false
-    },
-    {
-      "id": "founders-6",
-      "name": "Mahesh Sathiamoorthy",
-      "city": "SF",
-      "tags": [
-        "Bespoke Labs"
-      ],
-      "links": [],
-      "notes": "Founder @ Bespoke Labs",
-      "checked": false
-    },
-    {
-      "id": "founders-7",
-      "name": "Alex Dimakis",
-      "city": "SF",
-      "tags": [
-        "Bespoke Labs"
-      ],
-      "links": [],
-      "notes": "Founder @ Bespoke Labs",
-      "checked": false
-    },
-    {
-      "id": "founders-8",
-      "name": "Sophia Wisdom",
-      "city": "SF",
-      "tags": [
-        "Calaveras"
-      ],
-      "links": [],
-      "notes": "Founder @ Calaveras",
-      "checked": false
-    },
-    {
-      "id": "founders-9",
-      "name": "Alana Xiang",
-      "city": "SF",
-      "tags": [
-        "Calaveras"
-      ],
-      "links": [],
-      "notes": "Founder @ Calaveras",
-      "checked": false
-    },
-    {
-      "id": "founders-10",
-      "name": "Francesco Bonacci",
-      "city": "SF",
-      "tags": [
-        "Cua"
-      ],
-      "links": [],
-      "notes": "Founder @ Cua",
-      "checked": false
-    },
-    {
-      "id": "founders-11",
-      "name": "Dillon DuPont",
-      "city": "SF",
-      "tags": [
-        "Cua"
-      ],
-      "links": [],
-      "notes": "Founder @ Cua",
-      "checked": false
-    },
-    {
-      "id": "founders-12",
-      "name": "Nazneen Rajani",
-      "city": "SF",
-      "tags": [
-        "Collinear"
-      ],
-      "links": [],
-      "notes": "Founder @ Collinear",
-      "checked": false
-    },
-    {
-      "id": "founders-13",
-      "name": "Soumyadeep Bakshi",
-      "city": "SF",
-      "tags": [
-        "Collinear"
-      ],
-      "links": [],
-      "notes": "Founder @ Collinear",
-      "checked": false
-    },
-    {
-      "id": "founders-14",
-      "name": "Anish Tondwalkar",
-      "city": "SF",
-      "tags": [
-        "dmodel"
-      ],
-      "links": [],
-      "notes": "Founder @ dmodel",
-      "checked": false
-    },
-    {
-      "id": "founders-15",
-      "name": "Daniel Moon",
-      "city": "SF",
-      "tags": [
-        "dmodel"
-      ],
-      "links": [],
-      "notes": "Founder @ dmodel",
-      "checked": false
-    },
-    {
-      "id": "founders-16",
-      "name": "Serena Ge",
-      "city": "SF",
-      "tags": [
-        "Datacurve"
-      ],
-      "links": [],
-      "notes": "Founder @ Datacurve",
-      "checked": false
-    },
-    {
-      "id": "founders-17",
-      "name": "Charley Lee",
-      "city": "SF",
-      "tags": [
-        "Datacurve"
-      ],
-      "links": [],
-      "notes": "Founder @ Datacurve",
-      "checked": false
-    },
-    {
-      "id": "founders-18",
-      "name": "Tim Lupo",
-      "city": "SF",
-      "tags": [
-        "Deeptune"
-      ],
-      "links": [],
-      "notes": "Founder @ Deeptune",
-      "checked": false
-    },
-    {
-      "id": "founders-19",
-      "name": "Nicolai Ouporov",
-      "city": "SF",
-      "tags": [
-        "Fleet AI"
-      ],
-      "links": [],
-      "notes": "Founder @ Fleet AI",
-      "checked": false
-    },
-    {
-      "id": "founders-20",
-      "name": "Andrew Zhou",
-      "city": "SF",
-      "tags": [
-        "Fleet AI"
-      ],
-      "links": [],
-      "notes": "Founder @ Fleet AI",
-      "checked": false
-    },
-    {
-      "id": "founders-21",
-      "name": "Ross Taylor",
-      "city": "SF",
-      "tags": [
-        "General Reasoning"
-      ],
-      "links": [],
-      "notes": "Founder @ General Reasoning",
-      "checked": false
-    },
-    {
-      "id": "founders-22",
-      "name": "Chengxi Taylor",
-      "city": "SF",
-      "tags": [
-        "General Reasoning"
-      ],
-      "links": [],
-      "notes": "Founder @ General Reasoning",
-      "checked": false
-    },
-    {
-      "id": "founders-23",
-      "name": "Kip Parker",
-      "city": "SF",
-      "tags": [
-        "General Reasoning"
-      ],
-      "links": [],
-      "notes": "Founder @ General Reasoning",
-      "checked": false
-    },
-    {
-      "id": "founders-24",
-      "name": "Thomas Grady",
-      "city": "SF",
-      "tags": [
-        "General Reasoning"
-      ],
-      "links": [],
-      "notes": "Founder @ General Reasoning",
-      "checked": false
-    },
-    {
-      "id": "founders-25",
-      "name": "Jerry Wu",
-      "city": "SF",
-      "tags": [
-        "Halluminate"
-      ],
-      "links": [],
-      "notes": "Founder @ Halluminate",
-      "checked": false
-    },
-    {
-      "id": "founders-26",
-      "name": "Wyatt Marshall",
-      "city": "SF",
-      "tags": [
-        "Halluminate"
-      ],
-      "links": [],
-      "notes": "Founder @ Halluminate",
-      "checked": false
-    },
-    {
-      "id": "founders-27",
-      "name": "Maxim Enis",
-      "city": "SF",
-      "tags": [
-        "Habitat"
-      ],
-      "links": [],
-      "notes": "Founder @ Habitat",
-      "checked": false
-    },
-    {
-      "id": "founders-28",
-      "name": "Max Kan",
-      "city": "SF",
-      "tags": [
-        "Habitat"
-      ],
-      "links": [],
-      "notes": "Founder @ Habitat",
-      "checked": false
-    },
-    {
-      "id": "founders-29",
-      "name": "Andrew Megalaa",
-      "city": "SF",
-      "tags": [
-        "Habitat"
-      ],
-      "links": [],
-      "notes": "Founder @ Habitat",
-      "checked": false
-    },
-    {
-      "id": "founders-30",
-      "name": "Jibran Hutchins",
-      "city": "SF",
-      "tags": [
-        "Haladir"
-      ],
-      "links": [],
-      "notes": "Founder @ Haladir",
-      "checked": false
-    },
-    {
-      "id": "founders-31",
-      "name": "Quan Huynh",
-      "city": "SF",
-      "tags": [
-        "Haladir"
-      ],
-      "links": [],
-      "notes": "Founder @ Haladir",
-      "checked": false
-    },
-    {
-      "id": "founders-32",
-      "name": "Preston Schmittou",
-      "city": "SF",
-      "tags": [
-        "Haladir"
-      ],
-      "links": [],
-      "notes": "Founder @ Haladir",
-      "checked": false
-    },
-    {
-      "id": "founders-33",
-      "name": "Joseph Tso",
-      "city": "SF",
-      "tags": [
-        "Haladir"
-      ],
-      "links": [],
-      "notes": "Founder @ Haladir",
-      "checked": false
-    },
-    {
-      "id": "founders-34",
-      "name": "Jun Park",
-      "city": "SF",
-      "tags": [
-        "Hillclimb"
-      ],
-      "links": [],
-      "notes": "Founder @ Hillclimb",
-      "checked": false
-    },
-    {
-      "id": "founders-35",
-      "name": "Ibrakhim Ustelbay",
-      "city": "SF",
-      "tags": [
-        "Hillclimb"
-      ],
-      "links": [],
-      "notes": "Founder @ Hillclimb",
-      "checked": false
-    },
-    {
-      "id": "founders-36",
-      "name": "Ivan Chub",
-      "city": "SF",
-      "tags": [
-        "Idler"
-      ],
-      "links": [],
-      "notes": "Founder @ Idler",
-      "checked": false
-    },
-    {
-      "id": "founders-37",
-      "name": "Nalu Concepcion",
-      "city": "SF",
-      "tags": [
-        "Idler"
-      ],
-      "links": [],
-      "notes": "Founder @ Idler",
-      "checked": false
-    },
-    {
-      "id": "founders-38",
-      "name": "Tony Goss",
-      "city": "SF",
-      "tags": [
-        "Idler"
-      ],
-      "links": [],
-      "notes": "Founder @ Idler",
-      "checked": false
-    },
-    {
-      "id": "founders-39",
-      "name": "John Qian",
-      "city": "SF",
-      "tags": [
-        "Matrices"
-      ],
-      "links": [],
-      "notes": "Founder @ Matrices",
-      "checked": false
-    },
-    {
-      "id": "founders-40",
-      "name": "Leonardo Axel Setyanto",
-      "city": "SF",
-      "tags": [
-        "Matrices"
-      ],
-      "links": [],
-      "notes": "Founder @ Matrices",
-      "checked": false
-    },
-    {
-      "id": "founders-41",
-      "name": "Tamay Besiroglu",
-      "city": "SF",
-      "tags": [
-        "Mechanize"
-      ],
-      "links": [],
-      "notes": "Founder @ Mechanize",
-      "checked": false
-    },
-    {
-      "id": "founders-42",
-      "name": "Ege Erdil",
-      "city": "SF",
-      "tags": [
-        "Mechanize"
-      ],
-      "links": [],
-      "notes": "Founder @ Mechanize",
-      "checked": false
-    },
-    {
-      "id": "founders-43",
-      "name": "Matthew Barnett",
-      "city": "SF",
-      "tags": [
-        "Mechanize"
-      ],
-      "links": [],
-      "notes": "Founder @ Mechanize",
-      "checked": false
-    },
-    {
-      "id": "founders-44",
-      "name": "Abhishek Chandwani",
-      "city": "SF",
-      "tags": [
-        "Metaphi"
-      ],
-      "links": [],
-      "notes": "Founder @ Metaphi",
-      "checked": false
-    },
-    {
-      "id": "founders-45",
-      "name": "Ishan Gupta",
-      "city": "SF",
-      "tags": [
-        "Metaphi"
-      ],
-      "links": [],
-      "notes": "Founder @ Metaphi",
-      "checked": false
-    },
-    {
-      "id": "founders-46",
-      "name": "Sonya Jin",
-      "city": "SF",
-      "tags": [
-        "Phinity"
-      ],
-      "links": [],
-      "notes": "Founder @ Phinity",
-      "checked": false
-    },
-    {
-      "id": "founders-47",
-      "name": "Aadi Nashikkar",
-      "city": "SF",
-      "tags": [
-        "Phinity"
-      ],
-      "links": [],
-      "notes": "Founder @ Phinity",
-      "checked": false
-    },
-    {
-      "id": "founders-48",
-      "name": "Rob Farlow",
-      "city": "SF",
-      "tags": [
-        "Plato"
-      ],
-      "links": [],
-      "notes": "Founder @ Plato",
-      "checked": false
-    },
-    {
-      "id": "founders-49",
-      "name": "Pranav Putta",
-      "city": "SF",
-      "tags": [
-        "Plato"
-      ],
-      "links": [],
-      "notes": "Founder @ Plato",
-      "checked": false
-    },
-    {
-      "id": "founders-50",
-      "name": "Justus Mattern",
-      "city": "SF",
-      "tags": [
-        "Proximal"
-      ],
-      "links": [],
-      "notes": "Founder @ Proximal",
-      "checked": false
-    },
-    {
-      "id": "founders-51",
-      "name": "Navid Pour",
-      "city": "SF",
-      "tags": [
-        "Proximal"
-      ],
-      "links": [],
-      "notes": "Founder @ Proximal",
-      "checked": false
-    },
-    {
-      "id": "founders-52",
-      "name": "Calvin Chen",
-      "city": "SF",
-      "tags": [
-        "Proximal"
-      ],
-      "links": [],
-      "notes": "Founder @ Proximal",
-      "checked": false
-    },
-    {
-      "id": "founders-53",
-      "name": "Robi Lin",
-      "city": "SF",
-      "tags": [
-        "Sepal AI"
-      ],
-      "links": [],
-      "notes": "Founder @ Sepal AI",
-      "checked": false
-    },
-    {
-      "id": "founders-54",
-      "name": "Kat Hu",
-      "city": "SF",
-      "tags": [
-        "Sepal AI"
-      ],
-      "links": [],
-      "notes": "Founder @ Sepal AI",
-      "checked": false
-    },
-    {
-      "id": "founders-55",
-      "name": "Rayan Garg",
-      "city": "SF",
-      "tags": [
-        "Theta"
-      ],
-      "links": [],
-      "notes": "Founder @ Theta",
-      "checked": false
-    },
-    {
-      "id": "founders-56",
-      "name": "Tanmay Sharma",
-      "city": "SF",
-      "tags": [
-        "Theta"
-      ],
-      "links": [],
-      "notes": "Founder @ Theta",
-      "checked": false
-    },
-    {
-      "id": "founders-57",
-      "name": "Gurvir Singh",
-      "city": "SF",
-      "tags": [
-        "Theta"
-      ],
-      "links": [],
-      "notes": "Founder @ Theta",
-      "checked": false
-    },
-    {
-      "id": "founders-58",
-      "name": "Daanish Khazi",
-      "city": "SF",
-      "tags": [
-        "The LLM Data Company"
-      ],
-      "links": [],
-      "notes": "Founder @ The LLM Data Company",
-      "checked": false
-    },
-    {
-      "id": "founders-59",
-      "name": "Gavin Bains",
-      "city": "SF",
-      "tags": [
-        "The LLM Data Company"
-      ],
-      "links": [],
-      "notes": "Founder @ The LLM Data Company",
-      "checked": false
-    },
-    {
-      "id": "founders-60",
-      "name": "Joseph Besgen",
-      "city": "SF",
-      "tags": [
-        "The LLM Data Company"
-      ],
-      "links": [],
-      "notes": "Founder @ The LLM Data Company",
-      "checked": false
-    },
-    {
-      "id": "founders-61",
-      "name": "Peter McIntyre",
-      "city": "SF",
-      "tags": [
-        "Trajectory Labs"
-      ],
-      "links": [],
-      "notes": "Founder @ Trajectory Labs",
-      "checked": false
-    },
-    {
-      "id": "founders-62",
-      "name": "Ben West",
-      "city": "SF",
-      "tags": [
-        "Trajectory Labs"
-      ],
-      "links": [],
-      "notes": "Founder @ Trajectory Labs",
-      "checked": false
-    },
-    {
-      "id": "founders-63",
-      "name": "Rithika Kacham",
-      "city": "SF",
-      "tags": [
-        "Verita AI"
-      ],
-      "links": [],
-      "notes": "Founder @ Verita AI",
-      "checked": false
-    },
-    {
-      "id": "founders-64",
-      "name": "Rishi Kalakuntla",
-      "city": "SF",
-      "tags": [
-        "Verita AI"
-      ],
-      "links": [],
-      "notes": "Founder @ Verita AI",
-      "checked": false
-    },
-    {
-      "id": "founders-65",
-      "name": "Matthew Sargent",
-      "city": "SF",
-      "tags": [
-        "Vmax",
-        "RL PhD"
-      ],
-      "links": [],
-      "notes": "Co-founder @ Vmax AI, RL PhD",
-      "checked": false
-    },
-    {
-      "id": "founders-66",
-      "name": "Augustine Mavor-Parker",
-      "city": "SF",
-      "tags": [
-        "Vmax",
-        "RL PhD",
-        "Redwood Research"
-      ],
-      "links": [],
-      "notes": "Co-founder @ Vmax AI, RL PhD, prev Redwood Research",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-1",
-      "name": "Philip Bogdanov",
-      "city": "SF",
-      "tags": [
-        "OpenAI",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - @ OpenAI",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-2",
-      "name": "Logan Kilpatrick",
-      "city": "SF",
-      "tags": [
-        "Google AI Studio",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - @ Google AI Studio",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-3",
-      "name": "Zak Stone",
-      "city": "SF",
-      "tags": [
-        "Google TPU",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - @ Google TPU",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-4",
-      "name": "Brendan Foody",
-      "city": "SF",
-      "tags": [
-        "Mercor",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - Founder @ Mercor",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-5",
-      "name": "Adarsh Hiremath",
-      "city": "SF",
-      "tags": [
-        "Mercor",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - Founder @ Mercor",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-6",
-      "name": "Surya Midha",
-      "city": "SF",
-      "tags": [
-        "Mercor",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - Founder @ Mercor",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-7",
-      "name": "Michael Truell",
-      "city": "SF",
-      "tags": [
-        "Cursor",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - Founder @ Cursor",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-8",
-      "name": "Sualeh Asif",
-      "city": "SF",
-      "tags": [
-        "Cursor",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - Founder @ Cursor",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-9",
-      "name": "Aman Sanger",
-      "city": "SF",
-      "tags": [
-        "Cursor",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - Founder @ Cursor",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-10",
-      "name": "Arvid Lunnemark",
-      "city": "SF",
-      "tags": [
-        "Cursor",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - Founder @ Cursor",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-11",
-      "name": "Dwarkesh Patel",
-      "city": "SF",
-      "tags": [
-        "Dwarkesh Podcast",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - @ Dwarkesh Podcast",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-12",
-      "name": "Jonathan Lachman",
-      "city": "SF",
-      "tags": [
-        "Thinking Machines",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - @ Thinking Machines",
-      "checked": false
-    },
-    {
-      "id": "founders-hp-13",
-      "name": "Sholto Douglas",
-      "city": "SF",
-      "tags": [
-        "Anthropic",
-        "HIGH PRIORITY"
-      ],
-      "links": [],
-      "notes": "HIGH PRIORITY SF TARGET - @ Anthropic",
-      "checked": false
-    },
-    {
-      "id": "founders-runrl-1",
-      "name": "Andrew Gritsevskiy",
-      "city": "SF",
-      "tags": [
-        "RunRL",
-        "YC X25",
-        "RL Environments"
-      ],
-      "links": [],
-      "notes": "RL ENVIRONMENTS & TRAINING - Founder @ RunRL (YC X25)",
-      "checked": false
-    },
-    {
-      "id": "founders-runrl-2",
-      "name": "Derik Kauffman",
-      "city": "SF",
-      "tags": [
-        "RunRL",
-        "YC X25",
-        "RL Environments"
-      ],
-      "links": [],
-      "notes": "RL ENVIRONMENTS & TRAINING - Founder @ RunRL (YC X25)",
-      "checked": false
-    },
-    {
-      "id": "founders-erp-1",
-      "name": "Wiley Jones",
-      "city": "SF",
-      "tags": [
-        "DOSS",
-        "AI ERP"
-      ],
-      "links": [],
-      "notes": "AI ERP STARTUPS - Founder @ DOSS",
-      "checked": false
-    },
-    {
-      "id": "founders-erp-2",
-      "name": "Arnav Mishra",
-      "city": "SF",
-      "tags": [
-        "DOSS",
-        "AI ERP"
-      ],
-      "links": [],
-      "notes": "AI ERP STARTUPS - Founder @ DOSS",
-      "checked": false
-    },
-    {
-      "id": "founders-erp-3",
-      "name": "Dylan Lynch",
-      "city": "SF",
-      "tags": [
-        "DOSS",
-        "AI ERP"
-      ],
-      "links": [],
-      "notes": "AI ERP STARTUPS - Founder @ DOSS",
-      "checked": false
-    },
-    {
-      "id": "founders-erp-4",
-      "name": "John Glasgow",
-      "city": "SF",
-      "tags": [
-        "Campfire",
-        "AI ERP"
-      ],
-      "links": [],
-      "notes": "AI ERP STARTUPS - Founder @ Campfire",
-      "checked": false
-    },
-    {
-      "id": "founders-erp-5",
-      "name": "Fernando San Martin",
-      "city": "SF",
-      "tags": [
-        "Campfire",
-        "AI ERP"
-      ],
-      "links": [],
-      "notes": "AI ERP STARTUPS - Founder @ Campfire",
-      "checked": false
-    },
-    {
-      "id": "founders-erp-6",
-      "name": "Nicolas Kopp",
-      "city": "SF",
-      "tags": [
-        "Rillet",
-        "AI ERP",
-        "a16z"
-      ],
-      "links": [
-        "@nicckopp"
-      ],
-      "notes": "AI ERP - CEO @ Rillet, $70M a16z, AI-native ERP",
-      "checked": false
-    },
-    {
-      "id": "founders-erp-7",
-      "name": "Stelios Modes",
-      "city": "SF",
-      "tags": [
-        "Rillet",
-        "AI ERP"
-      ],
-      "links": [],
-      "notes": "AI ERP STARTUPS - Founder @ Rillet",
-      "checked": false
-    },
-    {
-      "id": "founders-erp-8",
-      "name": "Kristen Pascoe",
-      "city": "SF",
-      "tags": [
-        "Rillet",
-        "AI ERP"
-      ],
-      "links": [],
-      "notes": "AI ERP STARTUPS - Founder @ Rillet",
-      "checked": false
-    },
-    {
-      "id": "founders-erp-9",
-      "name": "Stephen Hedlund",
-      "city": "SF",
-      "tags": [
-        "Rillet",
-        "AI ERP"
-      ],
-      "links": [],
-      "notes": "AI ERP STARTUPS - Founder @ Rillet",
-      "checked": false
-    },
-    {
-      "id": "founders-erp-10",
-      "name": "Samuel Oshay",
-      "city": "SF",
-      "tags": [
-        "Recurrency AI",
-        "AI ERP"
-      ],
-      "links": [
-        "@samueloshay"
-      ],
-      "notes": "AI ERP - Founder @ Recurrency AI, AI for ERP software",
-      "checked": false
-    },
-    {
-      "id": "founders-seldon-1",
-      "name": "Esben Kran",
-      "city": "SF",
-      "tags": [
-        "Seldon Lab",
-        "Seldon Batch 1"
-      ],
-      "links": [],
-      "notes": "SELDON LAB BATCH 1 - Founder @ Seldon Lab",
-      "checked": false
-    },
-    {
-      "id": "founders-seldon-2",
-      "name": "Finn Metz",
-      "city": "SF",
-      "tags": [
-        "Seldon Lab",
-        "Seldon Batch 1"
-      ],
-      "links": [],
-      "notes": "SELDON LAB BATCH 1 - Founder @ Seldon Lab",
-      "checked": false
-    },
-    {
-      "id": "founders-seldon-3",
-      "name": "Kristian Rönn",
-      "city": "SF",
-      "tags": [
-        "Lucid Computing",
-        "Seldon Batch 1"
-      ],
-      "links": [],
-      "notes": "SELDON LAB BATCH 1 - Founder @ Lucid Computing",
-      "checked": false
-    },
-    {
-      "id": "founders-seldon-4",
-      "name": "Luke",
-      "city": "SF",
-      "tags": [
-        "Workshop Labs",
-        "Seldon Batch 1"
-      ],
-      "links": [],
-      "notes": "SELDON LAB BATCH 1 - Founder @ Workshop Labs",
-      "checked": false
-    },
-    {
-      "id": "founders-seldon-5",
-      "name": "Lukas Petersson",
-      "city": "SF",
-      "tags": [
-        "Andon Labs",
-        "Seldon Batch 1"
-      ],
-      "links": [],
-      "notes": "SELDON LAB BATCH 1 - Founder @ Andon Labs",
-      "checked": false
-    },
-    {
-      "id": "founders-seldon-6",
-      "name": "Axel Backlund",
-      "city": "SF",
-      "tags": [
-        "Andon Labs",
-        "Seldon Batch 1"
-      ],
-      "links": [],
-      "notes": "SELDON LAB BATCH 1 - Founder @ Andon Labs",
-      "checked": false
-    },
-    {
-      "id": "founders-seldon-7",
-      "name": "Eric Ho",
-      "city": "SF",
-      "tags": [
-        "Goodfire",
-        "Seldon Batch 1",
-        "AI Interpretability"
-      ],
-      "links": [],
-      "notes": "SELDON LAB - CEO @ Goodfire, AI Interpretability",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-1",
-      "name": "Shivum Pandove",
-      "city": "SF",
-      "tags": [
-        "Janus",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Janus",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-2",
-      "name": "Jet Wu",
-      "city": "SF",
-      "tags": [
-        "Janus",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Janus",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-3",
-      "name": "Tim",
-      "city": "SF",
-      "tags": [
-        "Kashikoi",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Kashikoi",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-4",
-      "name": "Aaksha",
-      "city": "SF",
-      "tags": [
-        "Kashikoi",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Kashikoi",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-5",
-      "name": "Sandra Tang",
-      "city": "SF",
-      "tags": [
-        "AgentHub",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ AgentHub",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-6",
-      "name": "Youssef Kallel",
-      "city": "SF",
-      "tags": [
-        "AgentHub",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ AgentHub",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-7",
-      "name": "Emil Froberg",
-      "city": "SF",
-      "tags": [
-        "Vectorview",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Vectorview",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-8",
-      "name": "Shahul ES",
-      "city": "SF",
-      "tags": [
-        "Ragas",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Ragas",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-9",
-      "name": "Jithin James",
-      "city": "SF",
-      "tags": [
-        "Ragas",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Ragas",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-10",
-      "name": "Rohan Vasishth",
-      "city": "SF",
-      "tags": [
-        "Bluejay",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Bluejay",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-11",
-      "name": "Faraz Siddiqi",
-      "city": "SF",
-      "tags": [
-        "Bluejay",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Bluejay",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-12",
-      "name": "Rene Brandel",
-      "city": "SF",
-      "tags": [
-        "Casco",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Casco",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-13",
-      "name": "Ian Saultz",
-      "city": "SF",
-      "tags": [
-        "Casco",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Casco",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-14",
-      "name": "Magnus",
-      "city": "SF",
-      "tags": [
-        "Browser Use",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Browser Use",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-15",
-      "name": "Gregor",
-      "city": "SF",
-      "tags": [
-        "Browser Use",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Browser Use",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-16",
-      "name": "Nithin Sonti",
-      "city": "SF",
-      "tags": [
-        "BrowserOS",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ BrowserOS",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-17",
-      "name": "Nikhil Sonti",
-      "city": "SF",
-      "tags": [
-        "BrowserOS",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ BrowserOS",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-18",
-      "name": "Suchintan Singh",
-      "city": "SF",
-      "tags": [
-        "Skyvern",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Skyvern",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-19",
-      "name": "Shuchang Zheng",
-      "city": "SF",
-      "tags": [
-        "Skyvern",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Skyvern",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-20",
-      "name": "Kerem Yilmaz",
-      "city": "SF",
-      "tags": [
-        "Skyvern",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Skyvern",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-21",
-      "name": "Dex Horthy",
-      "city": "SF",
-      "tags": [
-        "HumanLayer",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ HumanLayer",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-22",
-      "name": "Jesse",
-      "city": "SF",
-      "tags": [
-        "Abundant",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Abundant",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-23",
-      "name": "Ke",
-      "city": "SF",
-      "tags": [
-        "Abundant",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Abundant",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-24",
-      "name": "Meji",
-      "city": "SF",
-      "tags": [
-        "Abundant",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Abundant",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-25",
-      "name": "Alan Zabihi",
-      "city": "SF",
-      "tags": [
-        "Superagent",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Superagent",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-26",
-      "name": "Ismail",
-      "city": "SF",
-      "tags": [
-        "Superagent",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Superagent",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-27",
-      "name": "ZhenJing Heng",
-      "city": "SF",
-      "tags": [
-        "FlowiseAI",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ FlowiseAI",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-28",
-      "name": "Chung Yau Ong",
-      "city": "SF",
-      "tags": [
-        "FlowiseAI",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ FlowiseAI",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-29",
-      "name": "Rahul Behal",
-      "city": "SF",
-      "tags": [
-        "Gumloop",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Gumloop",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-30",
-      "name": "Max Brodeur-Urbas",
-      "city": "SF",
-      "tags": [
-        "Gumloop",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Gumloop",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-31",
-      "name": "Anushka Nijhawan",
-      "city": "SF",
-      "tags": [
-        "Spur",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Spur",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-32",
-      "name": "Sneha Sivakumar",
-      "city": "SF",
-      "tags": [
-        "Spur",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Spur",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-33",
-      "name": "Jeffrey Tsaw",
-      "city": "SF",
-      "tags": [
-        "Parity",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Parity",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-34",
-      "name": "Coleman Smith",
-      "city": "SF",
-      "tags": [
-        "Parity",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Parity",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-35",
-      "name": "Wilson Spearman",
-      "city": "SF",
-      "tags": [
-        "Parity",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Parity",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-36",
-      "name": "Amaresh",
-      "city": "SF",
-      "tags": [
-        "Opslane",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Opslane",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-37",
-      "name": "Abhishek",
-      "city": "SF",
-      "tags": [
-        "Opslane",
-        "YC AI Agents"
-      ],
-      "links": [],
-      "notes": "YC AI AGENTS - Founder @ Opslane",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-38",
-      "name": "Nichole Hopkins",
-      "city": "SF",
-      "tags": [
-        "Coval",
-        "YC S24",
-        "AI Evaluation"
-      ],
-      "links": [],
-      "notes": "AI EVALUATION - Founder @ Coval (YC S24)",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-39",
-      "name": "Achammah",
-      "city": "SF",
-      "tags": [
-        "Nexus GPT",
-        "YC F25"
-      ],
-      "links": [],
-      "notes": "YC AI FOUNDERS - Founder @ Nexus GPT (YC F25)",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-40",
-      "name": "RC Ramarathinam",
-      "city": "SF",
-      "tags": [
-        "Summation",
-        "YC"
-      ],
-      "links": [],
-      "notes": "ADDITIONAL YC AI FOUNDERS - Founder @ Summation",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-41",
-      "name": "Ian Wong",
-      "city": "SF",
-      "tags": [
-        "Summation",
-        "YC"
-      ],
-      "links": [],
-      "notes": "ADDITIONAL YC AI FOUNDERS - Founder @ Summation",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-42",
-      "name": "Sawyer Hood",
-      "city": "SF",
-      "tags": [
-        "AI Tools",
-        "YC"
-      ],
-      "links": [],
-      "notes": "ADDITIONAL YC AI FOUNDERS - @ AI Tools",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-43",
-      "name": "Dan Advantage",
-      "city": "SF",
-      "tags": [
-        "AI",
-        "YC"
-      ],
-      "links": [],
-      "notes": "ADDITIONAL YC AI FOUNDERS - @ AI",
-      "checked": false
-    },
-    {
-      "id": "founders-yc-44",
-      "name": "Yashaswin Sharma",
-      "city": "SF",
-      "tags": [
-        "AI Hardware",
-        "YC"
-      ],
-      "links": [],
-      "notes": "ADDITIONAL YC AI FOUNDERS - @ AI Hardware",
-      "checked": false
-    },
-    {
-      "id": "founders-torch-1",
-      "name": "Ilya Abyzov",
-      "city": "SF",
-      "tags": [
-        "Torch",
-        "OpenAI",
-        "Acquired"
-      ],
-      "links": [],
-      "notes": "TORCH AI (Acquired by OpenAI) - Founder @ Torch/OpenAI",
-      "checked": false
-    },
-    {
-      "id": "founders-torch-2",
-      "name": "Adrian Aoun",
-      "city": "SF",
-      "tags": [
-        "Torch",
-        "OpenAI",
-        "Acquired"
-      ],
-      "links": [],
-      "notes": "TORCH AI (Acquired by OpenAI) - Founder @ Torch/OpenAI",
-      "checked": false
-    },
-    {
-      "id": "founders-torch-3",
-      "name": "James Hamlin",
-      "city": "SF",
-      "tags": [
-        "Torch",
-        "OpenAI",
-        "Acquired"
-      ],
-      "links": [],
-      "notes": "TORCH AI (Acquired by OpenAI) - Founder @ Torch/OpenAI",
-      "checked": false
-    },
-    {
-      "id": "founders-torch-4",
-      "name": "Eugene Huang",
-      "city": "SF",
-      "tags": [
-        "Torch",
-        "OpenAI",
-        "Acquired"
-      ],
-      "links": [],
-      "notes": "TORCH AI (Acquired by OpenAI) - Founder @ Torch/OpenAI",
-      "checked": false
-    },
-    {
-      "id": "founders-torch-5",
-      "name": "Ryan Oman",
-      "city": "SF",
-      "tags": [
-        "Torch",
-        "OpenAI",
-        "Acquired"
-      ],
-      "links": [],
-      "notes": "TORCH AI (Acquired by OpenAI) - Founder @ Torch/OpenAI",
-      "checked": false
-    },
-    {
-      "id": "founders-eval-1",
-      "name": "Henry Su",
-      "city": "SF",
-      "tags": [
-        "Context.ai",
-        "OpenAI",
-        "AI Evaluation"
-      ],
-      "links": [],
-      "notes": "AI EVALUATION - @ Context.ai/OpenAI",
-      "checked": false
-    },
-    {
-      "id": "founders-eval-2",
-      "name": "Alex Gamble",
-      "city": "SF",
-      "tags": [
-        "Context.ai",
-        "OpenAI",
-        "AI Evaluation"
-      ],
-      "links": [],
-      "notes": "AI EVALUATION - @ Context.ai/OpenAI",
-      "checked": false
-    },
-    {
-      "id": "founders-eval-3",
-      "name": "Michael Fester",
-      "city": "SF",
-      "tags": [
-        "AI Agent Testing",
-        "AI Evaluation"
-      ],
-      "links": [],
-      "notes": "AI EVALUATION - @ AI Agent Testing",
-      "checked": false
-    },
-    {
-      "id": "founders-eval-4",
-      "name": "Cedric Vidal",
-      "city": "SF",
-      "tags": [
-        "Microsoft AI",
-        "AI Evaluation"
-      ],
-      "links": [],
-      "notes": "AI EVALUATION - @ Microsoft AI",
-      "checked": false
-    },
-    {
-      "id": "founders-browser-1",
-      "name": "Peter W. Kruger",
-      "city": "SF",
-      "tags": [
-        "Bot Scanner",
-        "Browser Automation"
-      ],
-      "links": [],
-      "notes": "BROWSER AUTOMATION - @ Bot Scanner",
-      "checked": false
-    },
-    {
-      "id": "founders-agent-1",
-      "name": "Yubo Song",
-      "city": "SF",
-      "tags": [
-        "Manus AI",
-        "High Valuation"
-      ],
-      "links": [],
-      "notes": "AI AGENT COMPANIES - Founder @ Manus AI (High Valuation)",
-      "checked": false
-    },
-    {
-      "id": "founders-infra-1",
-      "name": "Josh Payne",
-      "city": "SF",
-      "tags": [
-        "Nscale",
-        "AI Infrastructure"
-      ],
-      "links": [],
-      "notes": "AI INFRASTRUCTURE - Founder @ Nscale",
-      "checked": false
-    },
-    {
-      "id": "founders-infra-2",
-      "name": "Chuck Frisbie",
-      "city": "SF",
-      "tags": [
-        "DataMynd",
-        "Synthetic Data"
-      ],
-      "links": [],
-      "notes": "AI INFRASTRUCTURE - Founder @ DataMynd (Synthetic Data)",
-      "checked": false
-    },
-    {
-      "id": "founders-infra-3",
-      "name": "Carter Crouch",
-      "city": "SF",
-      "tags": [
-        "Stealth",
-        "Synthetic Data"
-      ],
-      "links": [],
-      "notes": "AI INFRASTRUCTURE - Founder @ Stealth (Synthetic Data)",
-      "checked": false
-    },
-    {
-      "id": "founders-voice-1",
-      "name": "Karan Goel",
-      "city": "SF",
-      "tags": [
-        "Cartesia AI",
-        "Voice AI",
-        "$100M raised"
-      ],
-      "links": [],
-      "notes": "VOICE AI - Founder @ Cartesia AI ($100M raised)",
-      "checked": false
-    },
-    {
-      "id": "founders-sec-1",
-      "name": "Rex Guo",
-      "city": "SF",
-      "tags": [
-        "Culminate Security",
-        "AI Security"
-      ],
-      "links": [
-        "@Xiaofei_REX"
-      ],
-      "notes": "AI SECURITY - Founder @ Culminate Security",
-      "checked": false
-    },
-    {
-      "id": "founders-sec-2",
-      "name": "Travis McPeak",
-      "city": "SF",
-      "tags": [
-        "Cursor Security",
-        "AI Security"
-      ],
-      "links": [
-        "@travismcpeak",
-        "https://www.linkedin.com/in/travismcpeak/"
-      ],
-      "notes": "AI SECURITY - Founder @ Cursor Security, prev Resourcely/Databricks/Netflix",
-      "checked": false
-    },
-    {
-      "id": "founders-sec-3",
-      "name": "Shruti Gupta",
-      "city": "SF",
-      "tags": [
-        "Stealth",
-        "AI Security",
-        "CISO"
-      ],
-      "links": [
-        "@chatwshruti"
-      ],
-      "notes": "AI SECURITY - Stealth, prev CISO @ Microsoft Identity/Brex/Instacart/Airbnb",
-      "checked": false
-    },
-    {
-      "id": "founders-sf-1",
-      "name": "Varun Vummadi",
-      "city": "SF",
-      "tags": [
-        "Giga",
-        "Voice AI",
-        "$61M Series A",
-        "Forbes 30 Under 30"
-      ],
-      "links": [
-        "@varunvummadi"
-      ],
-      "notes": "SF AI STARTUPS - CEO @ Giga, $61M Series A, Voice AI, YC, Forbes 30 Under 30",
-      "checked": false
-    },
-    {
-      "id": "founders-sf-2",
-      "name": "Esha Manideep",
-      "city": "SF",
-      "tags": [
-        "Giga",
-        "Voice AI",
-        "$61M Series A"
-      ],
-      "links": [],
-      "notes": "SF AI STARTUPS - Co-founder @ Giga, $61M Series A, Redpoint-led",
-      "checked": false
-    },
-    {
-      "id": "founders-sf-3",
-      "name": "Kevin Wu",
-      "city": "SF",
-      "tags": [
-        "Leaping AI",
-        "YC W25",
-        "Voice AI"
-      ],
-      "links": [
-        "@kevinwu_hi"
-      ],
-      "notes": "YC AI VOICE (W25) - Founder @ Leaping AI, Voice AI agents for call centers",
-      "checked": false
-    },
-    {
-      "id": "founders-ent-1",
-      "name": "Scott Shi",
-      "city": "SF",
-      "tags": [
-        "Salesforce Einstein AI",
-        "CTO"
-      ],
-      "links": [],
-      "notes": "ENTERPRISE AI - CTO @ Salesforce Einstein AI, founding engineer, ex-Uber AI",
-      "checked": false
-    },
-    {
-      "id": "founders-robot-1",
-      "name": "Jon Hillis",
-      "city": "SF",
-      "tags": [
-        "New Theory AI",
-        "Robotics"
-      ],
-      "links": [
-        "@JonathanHillis"
-      ],
-      "notes": "ROBOTICS & AI - Founder @ New Theory AI, Robots learning to think",
-      "checked": false
-    }
+    {"id": "f-1", "name": "Adam", "city": "SF", "tags": ["Traild"], "links": [], "notes": "Founder @ Traild", "checked": false},
+    {"id": "f-2", "name": "Ronak Malde", "city": "SF", "tags": ["Google DeepMind", "RL/AI"], "links": [], "notes": "FROM YOUR FOLLOWERS (RL/AI) - @ Google DeepMind", "checked": false},
+    {"id": "f-3", "name": "Eddie Landesberg", "city": "SF", "tags": ["Mercor"], "links": [], "notes": "Founder @ Mercor", "checked": false},
+    {"id": "f-4", "name": "Brendan Foody", "city": "SF", "tags": ["Mercor", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - Founder @ Mercor", "checked": false},
+    {"id": "f-5", "name": "Adarsh Hiremath", "city": "SF", "tags": ["Mercor", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - Founder @ Mercor", "checked": false},
+    {"id": "f-6", "name": "Surya Midha", "city": "SF", "tags": ["Mercor", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - Founder @ Mercor", "checked": false},
+    {"id": "f-7", "name": "Carlos Georgescu", "city": "SF", "tags": ["AfterQuery"], "links": [], "notes": "Founder @ AfterQuery", "checked": false},
+    {"id": "f-8", "name": "Spencer Mateega", "city": "SF", "tags": ["AfterQuery"], "links": [], "notes": "Founder @ AfterQuery", "checked": false},
+    {"id": "f-9", "name": "Xiangyi Li", "city": "SF", "tags": ["BenchFlow"], "links": [], "notes": "Founder @ BenchFlow", "checked": false},
+    {"id": "f-10", "name": "Mahesh Sathiamoorthy", "city": "SF", "tags": ["Bespoke Labs"], "links": [], "notes": "Founder @ Bespoke Labs", "checked": false},
+    {"id": "f-11", "name": "Alex Dimakis", "city": "SF", "tags": ["Bespoke Labs"], "links": [], "notes": "Founder @ Bespoke Labs", "checked": false},
+    {"id": "f-12", "name": "Sophia Wisdom", "city": "SF", "tags": ["Calaveras"], "links": [], "notes": "Founder @ Calaveras", "checked": false},
+    {"id": "f-13", "name": "Alana Xiang", "city": "SF", "tags": ["Calaveras"], "links": [], "notes": "Founder @ Calaveras", "checked": false},
+    {"id": "f-14", "name": "Francesco Bonacci", "city": "SF", "tags": ["Cua"], "links": [], "notes": "Founder @ Cua", "checked": false},
+    {"id": "f-15", "name": "Dillon DuPont", "city": "SF", "tags": ["Cua"], "links": [], "notes": "Founder @ Cua", "checked": false},
+    {"id": "f-16", "name": "Nazneen Rajani", "city": "SF", "tags": ["Collinear"], "links": [], "notes": "Founder @ Collinear", "checked": false},
+    {"id": "f-17", "name": "Soumyadeep Bakshi", "city": "SF", "tags": ["Collinear"], "links": [], "notes": "Founder @ Collinear", "checked": false},
+    {"id": "f-18", "name": "Anish Tondwalkar", "city": "SF", "tags": ["dmodel"], "links": [], "notes": "Founder @ dmodel", "checked": false},
+    {"id": "f-19", "name": "Daniel Moon", "city": "SF", "tags": ["dmodel"], "links": [], "notes": "Founder @ dmodel", "checked": false},
+    {"id": "f-20", "name": "Serena Ge", "city": "SF", "tags": ["Datacurve"], "links": [], "notes": "Founder @ Datacurve", "checked": false},
+    {"id": "f-21", "name": "Charley Lee", "city": "SF", "tags": ["Datacurve"], "links": [], "notes": "Founder @ Datacurve", "checked": false},
+    {"id": "f-22", "name": "Tim Lupo", "city": "SF", "tags": ["Deeptune"], "links": [], "notes": "Founder @ Deeptune", "checked": false},
+    {"id": "f-23", "name": "Nicolai Ouporov", "city": "SF", "tags": ["Fleet AI"], "links": [], "notes": "Founder @ Fleet AI", "checked": false},
+    {"id": "f-24", "name": "Andrew Zhou", "city": "SF", "tags": ["Fleet AI"], "links": [], "notes": "Founder @ Fleet AI", "checked": false},
+    {"id": "f-25", "name": "Ross Taylor", "city": "SF", "tags": ["General Reasoning"], "links": [], "notes": "Founder @ General Reasoning", "checked": false},
+    {"id": "f-26", "name": "Chengxi Taylor", "city": "SF", "tags": ["General Reasoning"], "links": [], "notes": "Founder @ General Reasoning", "checked": false},
+    {"id": "f-27", "name": "Kip Parker", "city": "SF", "tags": ["General Reasoning"], "links": [], "notes": "Founder @ General Reasoning", "checked": false},
+    {"id": "f-28", "name": "Thomas Grady", "city": "SF", "tags": ["General Reasoning"], "links": [], "notes": "Founder @ General Reasoning", "checked": false},
+    {"id": "f-29", "name": "Jerry Wu", "city": "SF", "tags": ["Halluminate"], "links": [], "notes": "Founder @ Halluminate", "checked": false},
+    {"id": "f-30", "name": "Wyatt Marshall", "city": "SF", "tags": ["Halluminate"], "links": [], "notes": "Founder @ Halluminate", "checked": false},
+    {"id": "f-31", "name": "Maxim Enis", "city": "SF", "tags": ["Habitat"], "links": [], "notes": "Founder @ Habitat", "checked": false},
+    {"id": "f-32", "name": "Max Kan", "city": "SF", "tags": ["Habitat"], "links": [], "notes": "Founder @ Habitat", "checked": false},
+    {"id": "f-33", "name": "Andrew Megalaa", "city": "SF", "tags": ["Habitat"], "links": [], "notes": "Founder @ Habitat", "checked": false},
+    {"id": "f-34", "name": "Jibran Hutchins", "city": "SF", "tags": ["Haladir"], "links": [], "notes": "Founder @ Haladir", "checked": false},
+    {"id": "f-35", "name": "Quan Huynh", "city": "SF", "tags": ["Haladir"], "links": [], "notes": "Founder @ Haladir", "checked": false},
+    {"id": "f-36", "name": "Preston Schmittou", "city": "SF", "tags": ["Haladir"], "links": [], "notes": "Founder @ Haladir", "checked": false},
+    {"id": "f-37", "name": "Joseph Tso", "city": "SF", "tags": ["Haladir"], "links": [], "notes": "Founder @ Haladir", "checked": false},
+    {"id": "f-38", "name": "Jun Park", "city": "SF", "tags": ["Hillclimb"], "links": [], "notes": "Founder @ Hillclimb", "checked": false},
+    {"id": "f-39", "name": "Ibrakhim Ustelbay", "city": "SF", "tags": ["Hillclimb"], "links": [], "notes": "Founder @ Hillclimb", "checked": false},
+    {"id": "f-40", "name": "Ivan Chub", "city": "SF", "tags": ["Idler"], "links": [], "notes": "Founder @ Idler", "checked": false},
+    {"id": "f-41", "name": "Nalu Concepcion", "city": "SF", "tags": ["Idler"], "links": [], "notes": "Founder @ Idler", "checked": false},
+    {"id": "f-42", "name": "Tony Goss", "city": "SF", "tags": ["Idler"], "links": [], "notes": "Founder @ Idler", "checked": false},
+    {"id": "f-43", "name": "John Qian", "city": "SF", "tags": ["Matrices"], "links": [], "notes": "Founder @ Matrices", "checked": false},
+    {"id": "f-44", "name": "Leonardo Axel Setyanto", "city": "SF", "tags": ["Matrices"], "links": [], "notes": "Founder @ Matrices", "checked": false},
+    {"id": "f-45", "name": "Tamay Besiroglu", "city": "SF", "tags": ["Mechanize"], "links": [], "notes": "Founder @ Mechanize", "checked": false},
+    {"id": "f-46", "name": "Ege Erdil", "city": "SF", "tags": ["Mechanize"], "links": [], "notes": "Founder @ Mechanize", "checked": false},
+    {"id": "f-47", "name": "Matthew Barnett", "city": "SF", "tags": ["Mechanize"], "links": [], "notes": "Founder @ Mechanize", "checked": false},
+    {"id": "f-48", "name": "Abhishek Chandwani", "city": "SF", "tags": ["Metaphi"], "links": [], "notes": "Founder @ Metaphi", "checked": false},
+    {"id": "f-49", "name": "Ishan Gupta", "city": "SF", "tags": ["Metaphi"], "links": [], "notes": "Founder @ Metaphi", "checked": false},
+    {"id": "f-50", "name": "Sonya Jin", "city": "SF", "tags": ["Phinity"], "links": [], "notes": "Founder @ Phinity", "checked": false},
+    {"id": "f-51", "name": "Aadi Nashikkar", "city": "SF", "tags": ["Phinity"], "links": [], "notes": "Founder @ Phinity", "checked": false},
+    {"id": "f-52", "name": "Rob Farlow", "city": "SF", "tags": ["Plato"], "links": [], "notes": "Founder @ Plato", "checked": false},
+    {"id": "f-53", "name": "Pranav Putta", "city": "SF", "tags": ["Plato"], "links": [], "notes": "Founder @ Plato", "checked": false},
+    {"id": "f-54", "name": "Justus Mattern", "city": "SF", "tags": ["Proximal"], "links": [], "notes": "Founder @ Proximal", "checked": false},
+    {"id": "f-55", "name": "Navid Pour", "city": "SF", "tags": ["Proximal"], "links": [], "notes": "Founder @ Proximal", "checked": false},
+    {"id": "f-56", "name": "Calvin Chen", "city": "SF", "tags": ["Proximal"], "links": [], "notes": "Founder @ Proximal", "checked": false},
+    {"id": "f-57", "name": "Robi Lin", "city": "SF", "tags": ["Sepal AI"], "links": [], "notes": "Founder @ Sepal AI", "checked": false},
+    {"id": "f-58", "name": "Kat Hu", "city": "SF", "tags": ["Sepal AI"], "links": [], "notes": "Founder @ Sepal AI", "checked": false},
+    {"id": "f-59", "name": "Rayan Garg", "city": "SF", "tags": ["Theta"], "links": [], "notes": "Founder @ Theta", "checked": false},
+    {"id": "f-60", "name": "Tanmay Sharma", "city": "SF", "tags": ["Theta"], "links": [], "notes": "Founder @ Theta", "checked": false},
+    {"id": "f-61", "name": "Gurvir Singh", "city": "SF", "tags": ["Theta"], "links": [], "notes": "Founder @ Theta", "checked": false},
+    {"id": "f-62", "name": "Daanish Khazi", "city": "SF", "tags": ["The LLM Data Company"], "links": [], "notes": "Founder @ The LLM Data Company", "checked": false},
+    {"id": "f-63", "name": "Gavin Bains", "city": "SF", "tags": ["The LLM Data Company"], "links": [], "notes": "Founder @ The LLM Data Company", "checked": false},
+    {"id": "f-64", "name": "Joseph Besgen", "city": "SF", "tags": ["The LLM Data Company"], "links": [], "notes": "Founder @ The LLM Data Company", "checked": false},
+    {"id": "f-65", "name": "Peter McIntyre", "city": "SF", "tags": ["Trajectory Labs"], "links": [], "notes": "Founder @ Trajectory Labs", "checked": false},
+    {"id": "f-66", "name": "Ben West", "city": "SF", "tags": ["Trajectory Labs"], "links": [], "notes": "Founder @ Trajectory Labs", "checked": false},
+    {"id": "f-67", "name": "Rithika Kacham", "city": "SF", "tags": ["Verita AI"], "links": [], "notes": "Founder @ Verita AI", "checked": false},
+    {"id": "f-68", "name": "Rishi Kalakuntla", "city": "SF", "tags": ["Verita AI"], "links": [], "notes": "Founder @ Verita AI", "checked": false},
+    {"id": "f-69", "name": "Matthew Sargent", "city": "SF", "tags": ["Vmax", "RL PhD"], "links": [], "notes": "Co-founder @ Vmax AI, RL PhD", "checked": false},
+    {"id": "f-70", "name": "Augustine Mavor-Parker", "city": "SF", "tags": ["Vmax", "RL PhD", "Redwood Research"], "links": [], "notes": "Co-founder @ Vmax AI, RL PhD, prev Redwood Research", "checked": false},
+    {"id": "f-71", "name": "Philip Bogdanov", "city": "SF", "tags": ["OpenAI", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - @ OpenAI", "checked": false},
+    {"id": "f-72", "name": "Logan Kilpatrick", "city": "SF", "tags": ["Google AI Studio", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - @ Google AI Studio", "checked": false},
+    {"id": "f-73", "name": "Zak Stone", "city": "SF", "tags": ["Google TPU", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - @ Google TPU", "checked": false},
+    {"id": "f-74", "name": "Sholto Douglas", "city": "SF", "tags": ["Anthropic", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - @ Anthropic", "checked": false},
+    {"id": "f-75", "name": "Michael Truell", "city": "SF", "tags": ["Cursor", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - Founder @ Cursor", "checked": false},
+    {"id": "f-76", "name": "Sualeh Asif", "city": "SF", "tags": ["Cursor", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - Founder @ Cursor", "checked": false},
+    {"id": "f-77", "name": "Aman Sanger", "city": "SF", "tags": ["Cursor", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - Founder @ Cursor", "checked": false},
+    {"id": "f-78", "name": "Arvid Lunnemark", "city": "SF", "tags": ["Cursor", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - Founder @ Cursor", "checked": false},
+    {"id": "f-79", "name": "Dwarkesh Patel", "city": "SF", "tags": ["Dwarkesh Podcast", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - @ Dwarkesh Podcast", "checked": false},
+    {"id": "f-80", "name": "Jonathan Lachman", "city": "SF", "tags": ["Thinking Machines", "HIGH PRIORITY"], "links": [], "notes": "HIGH PRIORITY SF TARGET - @ Thinking Machines", "checked": false},
+    {"id": "f-81", "name": "Andrew Gritsevskiy", "city": "SF", "tags": ["RunRL", "YC X25"], "links": [], "notes": "RL ENVIRONMENTS & TRAINING - Founder @ RunRL, YC X25", "checked": false},
+    {"id": "f-82", "name": "Derik Kauffman", "city": "SF", "tags": ["RunRL", "YC X25"], "links": [], "notes": "RL ENVIRONMENTS & TRAINING - Founder @ RunRL, YC X25", "checked": false},
+    {"id": "f-83", "name": "Wiley Jones", "city": "SF", "tags": ["DOSS", "AI ERP"], "links": [], "notes": "AI ERP STARTUPS - Founder @ DOSS", "checked": false},
+    {"id": "f-84", "name": "Arnav Mishra", "city": "SF", "tags": ["DOSS", "AI ERP"], "links": [], "notes": "AI ERP STARTUPS - Founder @ DOSS", "checked": false},
+    {"id": "f-85", "name": "Dylan Lynch", "city": "SF", "tags": ["DOSS", "AI ERP"], "links": [], "notes": "AI ERP STARTUPS - Founder @ DOSS", "checked": false},
+    {"id": "f-86", "name": "John Glasgow", "city": "SF", "tags": ["Campfire", "AI ERP", "$65M Series B"], "links": [], "notes": "AI ERP STARTUPS - Founder @ Campfire, $65M Series B, $375M valuation, YC", "checked": false},
+    {"id": "f-87", "name": "Fernando San Martin", "city": "SF", "tags": ["Campfire", "AI ERP"], "links": [], "notes": "AI ERP STARTUPS - Founder @ Campfire", "checked": false},
+    {"id": "f-88", "name": "Nicolas Kopp", "city": "SF", "tags": ["Rillet", "AI ERP", "$70M a16z"], "links": ["https://x.com/nicckopp"], "notes": "AI ERP - Founder @ Rillet, $70M a16z, AI-native ERP", "checked": false},
+    {"id": "f-89", "name": "Stelios Modes", "city": "SF", "tags": ["Rillet", "AI ERP"], "links": [], "notes": "AI ERP STARTUPS - Founder @ Rillet", "checked": false},
+    {"id": "f-90", "name": "Kristen Pascoe", "city": "SF", "tags": ["Rillet", "AI ERP"], "links": [], "notes": "AI ERP STARTUPS - Founder @ Rillet", "checked": false},
+    {"id": "f-91", "name": "Stephen Hedlund", "city": "SF", "tags": ["Rillet", "AI ERP"], "links": [], "notes": "AI ERP STARTUPS - Founder @ Rillet", "checked": false},
+    {"id": "f-92", "name": "Esben Kran", "city": "SF", "tags": ["Seldon Lab", "Batch 1"], "links": [], "notes": "SELDON LAB BATCH 1 - Founder @ Seldon Lab", "checked": false},
+    {"id": "f-93", "name": "Finn Metz", "city": "SF", "tags": ["Seldon Lab", "Batch 1"], "links": [], "notes": "SELDON LAB BATCH 1 - Founder @ Seldon Lab", "checked": false},
+    {"id": "f-94", "name": "Kristian Ronn", "city": "SF", "tags": ["Lucid Computing", "Seldon"], "links": [], "notes": "SELDON LAB PARTNERS - Founder @ Lucid Computing", "checked": false},
+    {"id": "f-95", "name": "Luke", "city": "SF", "tags": ["Workshop Labs", "Seldon"], "links": [], "notes": "SELDON LAB PARTNERS - @ Workshop Labs", "checked": false},
+    {"id": "f-96", "name": "Lukas Petersson", "city": "SF", "tags": ["Andon Labs", "Seldon"], "links": [], "notes": "SELDON LAB PARTNERS - Founder @ Andon Labs", "checked": false},
+    {"id": "f-97", "name": "Axel Backlund", "city": "SF", "tags": ["Andon Labs", "Seldon"], "links": [], "notes": "SELDON LAB PARTNERS - Founder @ Andon Labs", "checked": false},
+    {"id": "f-98", "name": "Eric Ho", "city": "SF", "tags": ["Goodfire", "AI Interpretability"], "links": [], "notes": "CEO @ Goodfire - AI Interpretability", "checked": false},
+    {"id": "f-99", "name": "Shivum Pandove", "city": "SF", "tags": ["Janus", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Janus", "checked": false},
+    {"id": "f-100", "name": "Jet Wu", "city": "SF", "tags": ["Janus", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Janus", "checked": false},
+    {"id": "f-101", "name": "Tim", "city": "SF", "tags": ["Kashikoi", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Kashikoi", "checked": false},
+    {"id": "f-102", "name": "Aaksha", "city": "SF", "tags": ["Kashikoi", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Kashikoi", "checked": false},
+    {"id": "f-103", "name": "Sandra Tang", "city": "SF", "tags": ["AgentHub", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ AgentHub", "checked": false},
+    {"id": "f-104", "name": "Youssef Kallel", "city": "SF", "tags": ["AgentHub", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ AgentHub", "checked": false},
+    {"id": "f-105", "name": "Emil Froberg", "city": "SF", "tags": ["Vectorview", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Vectorview", "checked": false},
+    {"id": "f-106", "name": "Shahul ES", "city": "SF", "tags": ["Ragas", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Ragas", "checked": false},
+    {"id": "f-107", "name": "Jithin James", "city": "SF", "tags": ["Ragas", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Ragas", "checked": false},
+    {"id": "f-108", "name": "Rohan Vasishth", "city": "SF", "tags": ["Bluejay", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Bluejay", "checked": false},
+    {"id": "f-109", "name": "Faraz Siddiqi", "city": "SF", "tags": ["Bluejay", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Bluejay", "checked": false},
+    {"id": "f-110", "name": "Rene Brandel", "city": "SF", "tags": ["Casco", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Casco", "checked": false},
+    {"id": "f-111", "name": "Ian Saultz", "city": "SF", "tags": ["Casco", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Casco", "checked": false},
+    {"id": "f-112", "name": "Magnus", "city": "SF", "tags": ["Browser Use", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Browser Use", "checked": false},
+    {"id": "f-113", "name": "Gregor", "city": "SF", "tags": ["Browser Use", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Browser Use", "checked": false},
+    {"id": "f-114", "name": "Nithin Sonti", "city": "SF", "tags": ["BrowserOS", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ BrowserOS", "checked": false},
+    {"id": "f-115", "name": "Nikhil Sonti", "city": "SF", "tags": ["BrowserOS", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ BrowserOS", "checked": false},
+    {"id": "f-116", "name": "Suchintan Singh", "city": "SF", "tags": ["Skyvern", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Skyvern", "checked": false},
+    {"id": "f-117", "name": "Shuchang Zheng", "city": "SF", "tags": ["Skyvern", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Skyvern", "checked": false},
+    {"id": "f-118", "name": "Kerem Yilmaz", "city": "SF", "tags": ["Skyvern", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Skyvern", "checked": false},
+    {"id": "f-119", "name": "Dex Horthy", "city": "SF", "tags": ["HumanLayer", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ HumanLayer", "checked": false},
+    {"id": "f-120", "name": "Jesse", "city": "SF", "tags": ["Abundant", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Abundant", "checked": false},
+    {"id": "f-121", "name": "Ke", "city": "SF", "tags": ["Abundant", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Abundant", "checked": false},
+    {"id": "f-122", "name": "Meji", "city": "SF", "tags": ["Abundant", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Abundant", "checked": false},
+    {"id": "f-123", "name": "Alan Zabihi", "city": "SF", "tags": ["Superagent", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Superagent", "checked": false},
+    {"id": "f-124", "name": "Ismail", "city": "SF", "tags": ["Superagent", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Superagent", "checked": false},
+    {"id": "f-125", "name": "ZhenJing Heng", "city": "SF", "tags": ["FlowiseAI", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ FlowiseAI", "checked": false},
+    {"id": "f-126", "name": "Chung Yau Ong", "city": "SF", "tags": ["FlowiseAI", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ FlowiseAI", "checked": false},
+    {"id": "f-127", "name": "Rahul Behal", "city": "SF", "tags": ["Gumloop", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Gumloop", "checked": false},
+    {"id": "f-128", "name": "Max Brodeur-Urbas", "city": "SF", "tags": ["Gumloop", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Gumloop", "checked": false},
+    {"id": "f-129", "name": "Anushka Nijhawan", "city": "SF", "tags": ["Spur", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Spur", "checked": false},
+    {"id": "f-130", "name": "Sneha Sivakumar", "city": "SF", "tags": ["Spur", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Spur", "checked": false},
+    {"id": "f-131", "name": "Jeffrey Tsaw", "city": "SF", "tags": ["Parity", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Parity", "checked": false},
+    {"id": "f-132", "name": "Coleman Smith", "city": "SF", "tags": ["Parity", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Parity", "checked": false},
+    {"id": "f-133", "name": "Wilson Spearman", "city": "SF", "tags": ["Parity", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Parity", "checked": false},
+    {"id": "f-134", "name": "Amaresh", "city": "SF", "tags": ["Opslane", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Opslane", "checked": false},
+    {"id": "f-135", "name": "Abhishek", "city": "SF", "tags": ["Opslane", "YC AI Agents"], "links": [], "notes": "YC AI AGENTS - Founder @ Opslane", "checked": false},
+    {"id": "f-136", "name": "Ilya Abyzov", "city": "SF", "tags": ["Torch", "OpenAI", "Acquired"], "links": [], "notes": "TORCH AI (Acquired by OpenAI) - Founder @ Torch/OpenAI", "checked": false},
+    {"id": "f-137", "name": "Adrian Aoun", "city": "SF", "tags": ["Torch", "OpenAI", "Acquired"], "links": [], "notes": "TORCH AI (Acquired by OpenAI) - @ Torch/OpenAI", "checked": false},
+    {"id": "f-138", "name": "James Hamlin", "city": "SF", "tags": ["Torch", "OpenAI", "Acquired"], "links": [], "notes": "TORCH AI (Acquired by OpenAI) - @ Torch/OpenAI", "checked": false},
+    {"id": "f-139", "name": "Eugene Huang", "city": "SF", "tags": ["Torch", "OpenAI", "Acquired"], "links": [], "notes": "TORCH AI (Acquired by OpenAI) - @ Torch/OpenAI", "checked": false},
+    {"id": "f-140", "name": "Ryan Oman", "city": "SF", "tags": ["Torch", "OpenAI", "Acquired"], "links": [], "notes": "TORCH AI (Acquired by OpenAI) - @ Torch/OpenAI", "checked": false},
+    {"id": "f-141", "name": "Nichole Hopkins", "city": "SF", "tags": ["Coval", "YC S24", "AI Evaluation"], "links": [], "notes": "AI EVALUATION - Founder @ Coval (YC S24)", "checked": false},
+    {"id": "f-142", "name": "Henry Su", "city": "SF", "tags": ["Context.ai", "OpenAI"], "links": [], "notes": "AI EVALUATION - @ Context.ai/OpenAI", "checked": false},
+    {"id": "f-143", "name": "Alex Gamble", "city": "SF", "tags": ["Context.ai", "OpenAI"], "links": [], "notes": "AI EVALUATION - @ Context.ai/OpenAI", "checked": false},
+    {"id": "f-144", "name": "Michael Fester", "city": "SF", "tags": ["AI Agent Testing"], "links": [], "notes": "AI EVALUATION - @ AI Agent Testing", "checked": false},
+    {"id": "f-145", "name": "Cedric Vidal", "city": "SF", "tags": ["Microsoft AI"], "links": [], "notes": "AI EVALUATION - @ Microsoft AI", "checked": false},
+    {"id": "f-146", "name": "Achammah", "city": "SF", "tags": ["Nexus GPT", "YC F25"], "links": [], "notes": "AI EVALUATION - @ Nexus GPT (YC F25)", "checked": false},
+    {"id": "f-147", "name": "RC Ramarathinam", "city": "SF", "tags": ["Summation", "YC"], "links": [], "notes": "YC AI FOUNDERS - Founder @ Summation", "checked": false},
+    {"id": "f-148", "name": "Ian Wong", "city": "SF", "tags": ["Summation", "YC"], "links": [], "notes": "YC AI FOUNDERS - Founder @ Summation", "checked": false},
+    {"id": "f-149", "name": "Sawyer Hood", "city": "SF", "tags": ["AI Tools"], "links": [], "notes": "YC AI FOUNDERS - @ AI Tools", "checked": false},
+    {"id": "f-150", "name": "Dan Advantage", "city": "SF", "tags": ["AI"], "links": [], "notes": "YC AI FOUNDERS - @ AI", "checked": false},
+    {"id": "f-151", "name": "Yashaswin Sharma", "city": "SF", "tags": ["AI Hardware"], "links": [], "notes": "YC AI FOUNDERS - @ AI Hardware", "checked": false},
+    {"id": "f-152", "name": "Pieter Abbeel", "city": "SF", "tags": ["Covariant AI", "Robotics"], "links": [], "notes": "ROBOTICS & RL - Founder @ Covariant AI", "checked": false},
+    {"id": "f-153", "name": "Yang Zhilin", "city": "SF", "tags": ["Moonshot AI"], "links": [], "notes": "ROBOTICS & RL - Founder @ Moonshot AI", "checked": false},
+    {"id": "f-154", "name": "Peter W. Kruger", "city": "SF", "tags": ["Bot Scanner"], "links": [], "notes": "BROWSER AUTOMATION - @ Bot Scanner", "checked": false},
+    {"id": "f-155", "name": "Yubo Song", "city": "SF", "tags": ["Manus AI", "High Valuation"], "links": [], "notes": "AI AGENT COMPANIES - @ Manus AI", "checked": false},
+    {"id": "f-156", "name": "Josh Payne", "city": "SF", "tags": ["Nscale", "AI Infrastructure"], "links": [], "notes": "AI INFRASTRUCTURE - @ Nscale", "checked": false},
+    {"id": "f-157", "name": "Chuck Frisbie", "city": "SF", "tags": ["DataMynd", "Synthetic Data"], "links": [], "notes": "AI INFRASTRUCTURE - @ DataMynd", "checked": false},
+    {"id": "f-158", "name": "Carter Crouch", "city": "SF", "tags": ["Stealth", "Synthetic Data"], "links": [], "notes": "AI INFRASTRUCTURE - @ Stealth (Synthetic Data)", "checked": false},
+    {"id": "f-159", "name": "Karan Goel", "city": "SF", "tags": ["Cartesia AI", "$100M raised", "Voice AI"], "links": [], "notes": "VOICE AI - Founder @ Cartesia AI ($100M raised)", "checked": false},
+    {"id": "f-160", "name": "Kevin Wu", "city": "SF", "tags": ["Leaping AI", "YC W25", "Voice AI"], "links": ["https://x.com/kevinwu_hi"], "notes": "YC AI VOICE (W25) - Founder @ Leaping AI, Voice AI agents for call centers", "checked": false},
+    {"id": "f-161", "name": "Varun Vummadi", "city": "SF", "tags": ["Giga", "$61M Series A", "Voice AI", "YC", "Forbes 30 Under 30"], "links": ["https://x.com/varunvummadi"], "notes": "SF AI STARTUPS - Founder @ Giga, $61M Series A, Voice AI, YC, Forbes 30 Under 30", "checked": false},
+    {"id": "f-162", "name": "Esha Manideep", "city": "SF", "tags": ["Giga", "$61M Series A"], "links": [], "notes": "SF AI STARTUPS - Co-founder @ Giga, $61M Series A, Redpoint-led", "checked": false},
+    {"id": "f-163", "name": "Samuel Oshay", "city": "SF", "tags": ["Recurrency AI", "AI ERP"], "links": ["https://x.com/samueloshay"], "notes": "AI ERP & ACCOUNTING - Founder @ Recurrency AI, AI for ERP software", "checked": false},
+    {"id": "f-164", "name": "Scott Shi", "city": "SF", "tags": ["Salesforce", "Einstein AI", "CTO"], "links": [], "notes": "ENTERPRISE AI - CTO @ Salesforce Einstein AI, founding engineer, ex-Uber AI", "checked": false},
+    {"id": "f-165", "name": "Jon Hillis", "city": "SF", "tags": ["New Theory AI", "Robotics"], "links": ["https://x.com/JonathanHillis"], "notes": "ROBOTICS & AI - Founder @ New Theory AI, Robots learning to think", "checked": false},
+    {"id": "f-166", "name": "Rex Guo", "city": "SF", "tags": ["Culminate Security", "AI Security"], "links": ["https://x.com/Xiaofei_REX"], "notes": "AI SECURITY - Founder @ Culminate Security, AI adoption in security", "checked": false},
+    {"id": "f-167", "name": "Travis McPeak", "city": "SF", "tags": ["Cursor Security", "AI Security"], "links": ["https://www.linkedin.com/in/travismcpeak/", "https://x.com/travismcpeak"], "notes": "AI SECURITY - Founder @ Cursor Security, prev Resourcely, Databricks, Netflix", "checked": false},
+    {"id": "f-168", "name": "Shruti Gupta", "city": "SF", "tags": ["Stealth", "CISO"], "links": ["https://x.com/chatwshruti"], "notes": "AI SECURITY - Founder @ Stealth, prev CISO @ Microsoft Identity, Brex, Instacart, Airbnb", "checked": false},
+    {"id": "f-169", "name": "Elvis", "city": "SF", "tags": ["DAIR.AI"], "links": [], "notes": "AI RESEARCH - @ DAIR.AI", "checked": false},
+    {"id": "f-170", "name": "Mark McQuade", "city": "SF", "tags": ["Arcee AI", "CEO", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Arcee AI, Small Language Models, Enterprise", "checked": false},
+    {"id": "f-171", "name": "Jacob Solawetz", "city": "SF", "tags": ["Arcee AI", "CTO", "Neolabs"], "links": [], "notes": "NEOLABS - CTO @ Arcee AI, prev Roboflow", "checked": false},
+    {"id": "f-172", "name": "Brian Benedict", "city": "SF", "tags": ["Arcee AI", "CRO", "Neolabs"], "links": [], "notes": "NEOLABS - CRO @ Arcee AI, prev Tecton", "checked": false},
+    {"id": "f-173", "name": "Vincent Weisser", "city": "SF", "tags": ["Prime Intellect", "CEO", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Prime Intellect, Decentralized AI Training", "checked": false},
+    {"id": "f-174", "name": "Johannes Hagemann", "city": "SF", "tags": ["Prime Intellect", "CTO", "Neolabs"], "links": [], "notes": "NEOLABS - CTO @ Prime Intellect, prev Aleph Alpha", "checked": false},
+    {"id": "f-175", "name": "Francois Chollet", "city": "SF", "tags": ["Ndea", "Keras Creator", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Ndea, Creator of Keras, prev Google", "checked": false},
+    {"id": "f-176", "name": "Mike Knoop", "city": "SF", "tags": ["Ndea", "Zapier", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Ndea, Co-founder of Zapier", "checked": false},
+    {"id": "f-177", "name": "Aidan Gomez", "city": "SF", "tags": ["Cohere", "CEO", "Transformer", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Cohere, Transformer co-author", "checked": false},
+    {"id": "f-178", "name": "Nick Frosst", "city": "SF", "tags": ["Cohere", "Google Brain", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Cohere, prev Google Brain", "checked": false},
+    {"id": "f-179", "name": "Ivan Zhang", "city": "SF", "tags": ["Cohere", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Cohere", "checked": false},
+    {"id": "f-180", "name": "Arthur Mensch", "city": "Paris", "tags": ["Mistral AI", "CEO", "DeepMind", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Mistral AI, prev DeepMind", "checked": false},
+    {"id": "f-181", "name": "Guillaume Lample", "city": "Paris", "tags": ["Mistral AI", "Chief Scientist", "Neolabs"], "links": [], "notes": "NEOLABS - Chief Scientist @ Mistral AI, prev Meta", "checked": false},
+    {"id": "f-182", "name": "Timothee Lacroix", "city": "Paris", "tags": ["Mistral AI", "CTO", "Neolabs"], "links": [], "notes": "NEOLABS - CTO @ Mistral AI, prev Meta", "checked": false},
+    {"id": "f-183", "name": "Misha Laskin", "city": "SF", "tags": ["Reflection AI", "CEO", "DeepMind Gemini", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Reflection AI, prev DeepMind Gemini", "checked": false},
+    {"id": "f-184", "name": "Ioannis Antonoglou", "city": "SF", "tags": ["Reflection AI", "AlphaGo", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Reflection AI, AlphaGo creator", "checked": false},
+    {"id": "f-185", "name": "Tudor Achim", "city": "SF", "tags": ["Harmonic", "CEO", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Harmonic, prev Helm.ai CTO", "checked": false},
+    {"id": "f-186", "name": "Vlad Tenev", "city": "SF", "tags": ["Harmonic", "Robinhood", "Neolabs"], "links": [], "notes": "NEOLABS - Executive Chairman @ Harmonic, Robinhood Co-founder", "checked": false},
+    {"id": "f-187", "name": "Carina Hong", "city": "SF", "tags": ["Axiom Math", "CEO", "MIT", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Axiom Math, MIT math prize winner, 24yo", "checked": false},
+    {"id": "f-188", "name": "Shubho Sengupta", "city": "SF", "tags": ["Axiom Math", "CTO", "Meta FAIR", "Neolabs"], "links": [], "notes": "NEOLABS - CTO @ Axiom Math, prev Meta FAIR", "checked": false},
+    {"id": "f-189", "name": "Jesse Han", "city": "SF", "tags": ["Morph Labs", "CEO", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Morph Labs, Formal Mathematics AI", "checked": false},
+    {"id": "f-190", "name": "Ramin Hasani", "city": "SF", "tags": ["Liquid AI", "CEO", "MIT", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Liquid AI, MIT CSAIL, Liquid Neural Networks", "checked": false},
+    {"id": "f-191", "name": "Mathias Lechner", "city": "SF", "tags": ["Liquid AI", "MIT", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Liquid AI, MIT", "checked": false},
+    {"id": "f-192", "name": "Alexander Amini", "city": "SF", "tags": ["Liquid AI", "MIT", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Liquid AI, MIT", "checked": false},
+    {"id": "f-193", "name": "David Ha", "city": "Tokyo", "tags": ["Sakana AI", "CEO", "Google Brain", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Sakana AI, prev Google Brain Japan", "checked": false},
+    {"id": "f-194", "name": "Llion Jones", "city": "Tokyo", "tags": ["Sakana AI", "CTO", "Transformer", "Neolabs"], "links": [], "notes": "NEOLABS - CTO @ Sakana AI, Transformer co-author", "checked": false},
+    {"id": "f-195", "name": "Ashish Vaswani", "city": "SF", "tags": ["Essential AI", "CEO", "Transformer", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Essential AI, Transformer first author", "checked": false},
+    {"id": "f-196", "name": "Karol Hausman", "city": "SF", "tags": ["Physical Intelligence", "CEO", "DeepMind", "Stanford", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Physical Intelligence, prev DeepMind, Stanford", "checked": false},
+    {"id": "f-197", "name": "Sergey Levine", "city": "SF", "tags": ["Physical Intelligence", "UC Berkeley", "Neolabs"], "links": [], "notes": "NEOLABS - Chief Scientist @ Physical Intelligence, UC Berkeley Prof", "checked": false},
+    {"id": "f-198", "name": "Chelsea Finn", "city": "SF", "tags": ["Physical Intelligence", "Stanford", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Physical Intelligence, Stanford Prof", "checked": false},
+    {"id": "f-199", "name": "Lachy Groom", "city": "SF", "tags": ["Physical Intelligence", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Physical Intelligence", "checked": false},
+    {"id": "f-200", "name": "Dan Balsam", "city": "SF", "tags": ["Goodfire", "CTO", "Neolabs"], "links": [], "notes": "NEOLABS - CTO @ Goodfire, prev RippleMatch", "checked": false},
+    {"id": "f-201", "name": "Tom McGrath", "city": "SF", "tags": ["Goodfire", "Chief Scientist", "DeepMind", "Neolabs"], "links": [], "notes": "NEOLABS - Chief Scientist @ Goodfire, prev DeepMind", "checked": false},
+    {"id": "f-202", "name": "Emmett Shear", "city": "SF", "tags": ["Softmax", "Twitch", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Softmax, Twitch founder, Organic Alignment", "checked": false},
+    {"id": "f-203", "name": "Adam Goldstein", "city": "SF", "tags": ["Softmax", "Hipmunk", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Softmax, prev Hipmunk", "checked": false},
+    {"id": "f-204", "name": "David Bloomin", "city": "SF", "tags": ["Softmax", "Google", "Facebook", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Softmax, prev Google, Facebook", "checked": false},
+    {"id": "f-205", "name": "Jeffrey Quesnelle", "city": "SF", "tags": ["Nous Research", "CEO", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Nous Research", "checked": false},
+    {"id": "f-206", "name": "Karan Malhotra", "city": "SF", "tags": ["Nous Research", "Neolabs"], "links": [], "notes": "NEOLABS - Head of Behavior @ Nous Research", "checked": false},
+    {"id": "f-207", "name": "Teknium", "city": "SF", "tags": ["Nous Research", "StabilityAI", "Neolabs"], "links": [], "notes": "NEOLABS - Head of Post Training @ Nous Research, prev StabilityAI", "checked": false},
+    {"id": "f-208", "name": "Geoffrey von Maltzahn", "city": "SF", "tags": ["Lila Sciences", "CEO", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Lila Sciences, Scientific Superintelligence", "checked": false},
+    {"id": "f-209", "name": "Molly Gibson", "city": "SF", "tags": ["Lila Sciences", "President", "Neolabs"], "links": [], "notes": "NEOLABS - President @ Lila Sciences", "checked": false},
+    {"id": "f-210", "name": "Liam Fedus", "city": "SF", "tags": ["Periodic Labs", "ChatGPT", "OpenAI", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Periodic Labs, ChatGPT creator, prev OpenAI VP", "checked": false},
+    {"id": "f-211", "name": "Ekin Dogus Cubuk", "city": "SF", "tags": ["Periodic Labs", "Google Brain", "DeepMind", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Periodic Labs, prev Google Brain/DeepMind", "checked": false},
+    {"id": "f-212", "name": "Jason Warner", "city": "SF", "tags": ["Poolside AI", "CEO", "GitHub CTO", "$3B", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Poolside AI, prev GitHub CTO, $3B valuation", "checked": false},
+    {"id": "f-213", "name": "Eiso Kant", "city": "SF", "tags": ["Poolside AI", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Poolside AI", "checked": false},
+    {"id": "f-214", "name": "Mira Murati", "city": "SF", "tags": ["Thinking Machines Lab", "OpenAI CTO", "$50B", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Thinking Machines Lab, prev OpenAI CTO, $50B valuation", "checked": false},
+    {"id": "f-215", "name": "John Schulman", "city": "SF", "tags": ["Thinking Machines Lab", "OpenAI", "Neolabs"], "links": [], "notes": "NEOLABS - Chief Scientist @ Thinking Machines Lab, prev OpenAI", "checked": false},
+    {"id": "f-216", "name": "Barrett Zoph", "city": "SF", "tags": ["Thinking Machines Lab", "OpenAI", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Thinking Machines Lab, prev OpenAI", "checked": false},
+    {"id": "f-217", "name": "Sam Pasupalak", "city": "SF", "tags": ["Skyfall AI", "CEO", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Skyfall AI, prev Maluuba (acq by Microsoft)", "checked": false},
+    {"id": "f-218", "name": "Kaheer Suleman", "city": "SF", "tags": ["Skyfall AI", "Neolabs"], "links": [], "notes": "NEOLABS - Chief AI Officer @ Skyfall AI, prev Maluuba", "checked": false},
+    {"id": "f-219", "name": "Pim de Witte", "city": "SF", "tags": ["General Intuition", "CEO", "$134M seed", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ General Intuition, Medal founder, $134M seed", "checked": false},
+    {"id": "f-220", "name": "Vincent Micheli", "city": "SF", "tags": ["General Intuition", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ General Intuition", "checked": false},
+    {"id": "f-221", "name": "Eloi Alonso", "city": "SF", "tags": ["General Intuition", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ General Intuition", "checked": false},
+    {"id": "f-222", "name": "Fan-Yun Sun", "city": "SF", "tags": ["Moonlake AI", "Stanford", "NVIDIA", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Moonlake AI, Stanford PhD, prev NVIDIA", "checked": false},
+    {"id": "f-223", "name": "Sharon Lee", "city": "SF", "tags": ["Moonlake AI", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Moonlake AI, Generative AI researcher", "checked": false},
+    {"id": "f-224", "name": "Tejas Bhakta", "city": "SF", "tags": ["Morph", "MorphLLM", "YC S23", "Neolabs"], "links": [], "notes": "NEOLABS - Founder @ Morph/MorphLLM, YC S23, Coding Agents", "checked": false},
+    {"id": "f-225", "name": "Gabriel Rene", "city": "SF", "tags": ["Verses AI", "CEO", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Verses AI, Active Inference, Spatial Web", "checked": false},
+    {"id": "f-226", "name": "Candice Pattisapu", "city": "SF", "tags": ["Noumenal Labs", "CEO", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Noumenal Labs, Thermodynamic brains", "checked": false},
+    {"id": "f-227", "name": "Jason Fox", "city": "SF", "tags": ["Noumenal Labs", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Noumenal Labs", "checked": false},
+    {"id": "f-228", "name": "Timoleon Moraitis", "city": "SF", "tags": ["Noemon AI", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Noemon AI, Adaptive Intelligence", "checked": false},
+    {"id": "f-229", "name": "Alexandre LeBrun", "city": "SF", "tags": ["AMI Labs", "CEO", "Nabla", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ AMI Labs, prev Nabla founder", "checked": false},
+    {"id": "f-230", "name": "Jeff Bezos", "city": "SF", "tags": ["Project Prometheus", "$6.2B", "Neolabs"], "links": [], "notes": "NEOLABS - Co-CEO @ Project Prometheus, $6.2B funding", "checked": false},
+    {"id": "f-231", "name": "Vik Bajaj", "city": "SF", "tags": ["Project Prometheus", "Foresite Labs", "Neolabs"], "links": [], "notes": "NEOLABS - Co-CEO @ Project Prometheus, prev Foresite Labs", "checked": false},
+    {"id": "f-232", "name": "Sara Hooker", "city": "SF", "tags": ["Adaption Labs", "Cohere", "Google Brain", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Adaption Labs, prev Cohere, Google Brain", "checked": false},
+    {"id": "f-233", "name": "Sudip Roy", "city": "SF", "tags": ["Adaption Labs", "CTO", "Cohere", "Neolabs"], "links": [], "notes": "NEOLABS - CTO @ Adaption Labs, prev Cohere", "checked": false},
+    {"id": "f-234", "name": "Richard Socher", "city": "SF", "tags": ["You.com", "CEO", "Salesforce", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ You.com, prev Salesforce Chief Scientist", "checked": false},
+    {"id": "f-235", "name": "Charles Kantor", "city": "Paris", "tags": ["H Company", "Neolabs"], "links": [], "notes": "NEOLABS - Founder @ H Company, Paris", "checked": false},
+    {"id": "f-236", "name": "Laurent Sifre", "city": "Paris", "tags": ["H Company", "CTO", "Neolabs"], "links": [], "notes": "NEOLABS - CTO @ H Company", "checked": false},
+    {"id": "f-237", "name": "Dave Lemphers", "city": "Australia", "tags": ["Maincode", "CEO", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Maincode, Australia's LLM 'Matilda'", "checked": false},
+    {"id": "f-238", "name": "Ed Craven", "city": "Australia", "tags": ["Maincode", "Stake.com", "Billionaire", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Maincode, Stake.com billionaire", "checked": false},
+    {"id": "f-239", "name": "Jaemin Shin", "city": "Korea", "tags": ["Trillion Labs", "CEO", "Naver", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Trillion Labs, prev Naver HyperCLOVA X", "checked": false},
+    {"id": "f-240", "name": "Jason Juneyoung Park", "city": "Korea", "tags": ["Trillion Labs", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Trillion Labs", "checked": false},
+    {"id": "f-241", "name": "Bidhan Roy", "city": "SF", "tags": ["Bagel Network", "CEO", "Amazon Alexa", "Neolabs"], "links": [], "notes": "NEOLABS - CEO @ Bagel Network, prev Amazon Alexa ML", "checked": false},
+    {"id": "f-242", "name": "Eddie Zhang", "city": "SF", "tags": ["Isara", "OpenAI", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Isara, prev OpenAI safety researcher", "checked": false},
+    {"id": "f-243", "name": "John Carmack", "city": "SF", "tags": ["Keen Technologies", "Oculus CTO", "DOOM", "Neolabs"], "links": [], "notes": "NEOLABS - Founder @ Keen Technologies, prev Oculus CTO, DOOM creator", "checked": false},
+    {"id": "f-244", "name": "Eric Zelikman", "city": "SF", "tags": ["Humans&", "xAI", "Neolabs"], "links": [], "notes": "NEOLABS - Founder @ Humans&, prev xAI", "checked": false},
+    {"id": "f-245", "name": "Georges Harik", "city": "SF", "tags": ["Humans&", "Google", "Neolabs"], "links": [], "notes": "NEOLABS - Co-founder @ Humans&, early Google employee", "checked": false}
   ],
-  "last_updated": "2026-01-19T09:45:34.376Z"
+  "last_updated": "2026-01-19T00:00:00.000Z"
 }

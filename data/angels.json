@@ -1,8 +1,8 @@
 {
   "category": "angels",
   "entries": [
-    {"id": "angel-1", "name": "Sonakshi Nathani", "city": "SF", "tags": ["Manifest AI", "E-commerce AI"], "links": [], "notes": "E-COMMERCE - CEO @ Manifest AI", "checked": false},
-    {"id": "angel-2", "name": "Ashutosh Singla", "city": "SF", "tags": ["Manifest AI", "E-commerce AI"], "links": [], "notes": "E-COMMERCE - CTO @ Manifest AI", "checked": false},
+    {"id": "angel-1", "name": "Sonakshi Nathani", "city": "SF", "tags": ["Manifest AI", "E-commerce AI"], "links": [], "notes": "E-COMMERCE AI - CEO @ Manifest AI", "checked": false},
+    {"id": "angel-2", "name": "Ashutosh Singla", "city": "SF", "tags": ["Manifest AI", "E-commerce AI"], "links": [], "notes": "E-COMMERCE AI - CTO @ Manifest AI", "checked": false},
     {"id": "angel-3", "name": "Bhavish Aggarwal", "city": "SF", "tags": ["Krutrim", "OLA", "$1B+ valuation", "Unicorn"], "links": [], "notes": "UNICORN AI - Founder @ Krutrim, $50M raised, $1B+ valuation, OLA founder", "checked": false},
     {"id": "angel-4", "name": "Yang Renbin", "city": "SF", "tags": ["Bong", "Alibaba-backed", "AI Education"], "links": [], "notes": "AI EDUCATION - Founder @ Bong, Alibaba-backed AI teaching", "checked": false},
     {"id": "angel-5", "name": "Skyler Chan", "city": "SF", "tags": ["AI Notetaker", "YC Founder"], "links": [], "notes": "AI LEAD GENERATION - YC Founder @ AI Notetaker", "checked": false}
