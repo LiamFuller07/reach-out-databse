@@ -116,46 +116,104 @@ async function callTool(name, args) {
     }
   }
 
-  // Local implementations
+  // GitHub data source
+  const GITHUB_OWNER = "LiamFuller07";
+  const GITHUB_REPO = "reach-out-databse";
+  const GITHUB_BRANCH = "main";
+  const DATA_FILES = ["founders", "researchers", "vcs", "angels"];
+
+  async function fetchGitHubData(category) {
+    const url = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/${category}.json`;
+    const res = await fetch(url);
+    if (!res.ok) return { category, entries: [] };
+    return res.json();
+  }
+
+  async function fetchAllContacts() {
+    const results = await Promise.all(DATA_FILES.map(fetchGitHubData));
+    const allContacts = [];
+    for (const data of results) {
+      for (const entry of (data.entries || [])) {
+        allContacts.push({
+          id: entry.id,
+          name: entry.name,
+          company: entry.tags?.[0] || "",
+          email: "",
+          phone: "",
+          notes: entry.notes || "",
+          city: entry.city || "",
+          tags: entry.tags || [],
+          category: data.category
+        });
+      }
+    }
+    return allContacts;
+  }
+
+  // Local implementations with GitHub data
   switch (name) {
-    case "get_instructions":
+    case "get_instructions": {
+      const contacts = await fetchAllContacts();
+      const byCategory = {};
+      for (const c of contacts) {
+        byCategory[c.category] = (byCategory[c.category] || 0) + 1;
+      }
       return {
         description: "Reach Out Contact Database MCP Server",
         version: "1.0.0",
         tools: TOOLS.map(t => t.name),
-        notes: "Use these tools to manage your outreach contact database."
+        notes: "Use these tools to manage your outreach contact database.",
+        stats: { total: contacts.length, byCategory }
       };
+    }
 
-    case "get_contacts":
+    case "get_contacts": {
+      const contacts = await fetchAllContacts();
+      const limit = args.limit || 100;
+      const offset = args.offset || 0;
       return {
-        contacts: [],
-        total: 0,
-        message: "No contacts configured. Connect to a data source."
+        contacts: contacts.slice(offset, offset + limit),
+        total: contacts.length,
+        limit,
+        offset
       };
+    }
 
-    case "search_contacts":
+    case "search_contacts": {
+      const contacts = await fetchAllContacts();
+      const query = (args.query || "").toLowerCase();
+      const results = contacts.filter(c =>
+        c.name.toLowerCase().includes(query) ||
+        c.company.toLowerCase().includes(query) ||
+        c.notes.toLowerCase().includes(query) ||
+        c.tags.some(t => t.toLowerCase().includes(query))
+      );
       return {
-        results: [],
+        results,
         query: args.query,
-        message: "Search functionality requires a connected data source."
+        total: results.length
       };
+    }
 
-    case "get_contact":
+    case "get_contact": {
+      const contacts = await fetchAllContacts();
+      const contact = contacts.find(c => c.id === args.id);
       return {
-        contact: null,
-        message: `Contact ${args.id} not found.`
+        contact: contact || null,
+        message: contact ? "Found" : `Contact ${args.id} not found.`
       };
+    }
 
     case "add_contact":
       return {
         success: false,
-        message: "Add contact requires a connected data source."
+        message: "Add contact via GitHub: push to data/*.json files"
       };
 
     case "update_contact":
       return {
         success: false,
-        message: "Update contact requires a connected data source."
+        message: "Update contact via GitHub: push to data/*.json files"
       };
 
     default:
