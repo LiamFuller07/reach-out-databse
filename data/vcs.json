@@ -3,128 +3,130 @@
   "firms": [
     {
       "id": "firm-1",
-      "name": "Striker Venture Partners",
-      "city": "SF",
-      "tags": ["$165M fund", "Seed stage", "AI/Robotics focus"],
-      "website": "https://striker.vc",
-      "notes": "Founding team includes former CRV principals, targeting $30M seed checks, backed Skild AI, Dyna Robotics, Periodic Labs, Reflection AI",
-      "partners": [
-        {"id": "vc-1", "name": "Brian Zhan", "role": "Partner", "x": "", "linkedin": "", "notes": "Former Principal @ CRV, Forbes 30 Under 30 (VC), Northwestern CS, former engineer @ Facebook, sister is Stephanie Zhan (Sequoia GP)"}
-      ]
-    },
-    {
-      "id": "firm-2",
-      "name": "Z Fellows",
-      "city": "SF",
-      "tags": ["Accelerator", "$10K grants", "$1B cap"],
-      "website": "https://zfellows.com",
-      "notes": "One-week accelerator giving $10K grants at $1B cap, backed early-stage founders",
-      "partners": [
-        {"id": "vc-2", "name": "Cory Levy", "role": "Founder", "x": "cory", "linkedin": "https://linkedin.com/in/clevy", "notes": "Forbes 30 Under 30, founded After School (20M users, raised $1M at age 19), interned at Founders Fund & USV in high school, University of Illinois CS"}
-      ]
-    },
-    {
-      "id": "firm-3",
-      "name": "Maxq Fund",
-      "city": "SF",
-      "tags": ["$250M target", "Growth stage", "AI focus"],
-      "website": "",
-      "notes": "Founded 2024, targeting $250M fund, focus on AI and growth-stage companies",
-      "partners": [
-        {"id": "vc-3", "name": "Ali Rowghani", "role": "Founder & GP", "x": "ROWGHANI", "linkedin": "https://linkedin.com/in/ali-rowghani-26996a1b", "notes": "Former Managing Partner @ YC Continuity (2014-2023), former COO & CFO @ Twitter (2008-2014), former CFO @ Pixar (2002-2008), Stanford BA & MBA, board member at Deel, PostHog, Pave"}
-      ]
-    },
-    {
-      "id": "firm-4",
-      "name": "Juniper Ventures",
-      "city": "SF",
-      "tags": ["AI Safety", "$500K checks", "Early stage"],
-      "website": "",
-      "notes": "Focus on AI safety/assurance startups, sweet spot $500K checks, backed by Reid Hoffman, Eric Ries, Jan Leike, Woj Zaremba, Geoff Ralston, publishes AI Assurance Technology Report",
-      "partners": [
-        {"id": "vc-4", "name": "Nick Fitz", "role": "Founder & GP", "x": "", "linkedin": "", "notes": "Also Founder & CEO @ Momentum (since 2018), portfolio includes Goodfire, Haize Labs"}
-      ]
-    },
-    {
-      "id": "firm-5",
-      "name": "Y Combinator",
-      "city": "SF",
-      "tags": ["Accelerator", "$500K standard deal", "Top tier"],
-      "website": "https://ycombinator.com",
-      "notes": "World's most prestigious startup accelerator, $500K standard deal, backed Airbnb, Stripe, Coinbase, OpenAI, Instacart",
-      "partners": [
-        {"id": "vc-5", "name": "Garry Tan", "role": "CEO & President", "x": "garrytan", "linkedin": "", "notes": "Former partner at Initialized Capital, co-founder of Posterous, YC alum (W08)"},
-        {"id": "vc-6", "name": "Jared Friedman", "role": "Partner", "x": "jaboris", "linkedin": "", "notes": "Co-founder of Scribd, YC partner since 2015"},
-        {"id": "vc-7", "name": "Diana Hu", "role": "Partner", "x": "dianazhu", "linkedin": "", "notes": "Former Visiting Partner, leads AI/ML investments"},
-        {"id": "vc-8", "name": "Dalton Caldwell", "role": "Managing Director", "x": "daltonc", "linkedin": "", "notes": "Co-founder of App.net and imeem, YC partner since 2013"}
-      ]
-    },
-    {
-      "id": "firm-6",
       "name": "Andreessen Horowitz (a16z)",
       "city": "SF",
       "tags": ["$90B AUM", "Full stack", "Multi-stage"],
       "website": "https://a16z.com",
       "notes": "One of the largest VC firms, known for full-stack approach with operating teams, led Thinking Machines Lab $2B (Jul 2025), major AI investments include Anthropic, Mistral, Character.AI",
       "partners": [
-        {"id": "vc-9", "name": "Marc Andreessen", "role": "Co-founder & GP", "x": "pmarca", "linkedin": "", "notes": "Co-creator of Mosaic browser, co-founder of Netscape, board member at Meta"},
-        {"id": "vc-10", "name": "Ben Horowitz", "role": "Co-founder & GP", "x": "bhorowitz", "linkedin": "", "notes": "Former CEO of Opsware (sold to HP for $1.6B), author of 'The Hard Thing About Hard Things'"},
-        {"id": "vc-11", "name": "Martin Casado", "role": "GP", "x": "martin_casado", "linkedin": "", "notes": "Co-founder of Nicira (acquired by VMware for $1.26B), leads enterprise/infrastructure investments"},
-        {"id": "vc-12", "name": "Anjney Midha", "role": "GP", "x": "AnjneyMidha", "linkedin": "", "notes": "Leads AI investments, former founder, board member at Mistral AI"}
+        {"id": "vc-1", "name": "Marc Andreessen", "role": "Co-founder & GP", "x": "pmarca", "linkedin": "", "notes": "Co-creator of Mosaic browser, co-founder of Netscape, board member at Meta"},
+        {"id": "vc-2", "name": "Ben Horowitz", "role": "Co-founder & GP", "x": "bhorowitz", "linkedin": "", "notes": "Former CEO of Opsware (sold to HP for $1.6B), author of 'The Hard Thing About Hard Things'"},
+        {"id": "vc-3", "name": "Martin Casado", "role": "GP", "x": "martin_casado", "linkedin": "", "notes": "Co-founder of Nicira (acquired by VMware for $1.26B), leads enterprise/infrastructure investments"},
+        {"id": "vc-4", "name": "Anjney Midha", "role": "GP", "x": "AnjneyMidha", "linkedin": "", "notes": "Leads AI investments, former founder, board member at Mistral AI"}
       ]
     },
     {
-      "id": "firm-7",
+      "id": "firm-2",
       "name": "Sequoia Capital",
       "city": "SF",
       "tags": ["$56B AUM", "Top tier", "Multi-stage"],
       "website": "https://sequoiacap.com",
       "notes": "Tops lists with 7 Series A leads, invested in AI labs like Decart ($100M Aug 2025), backed Apple, Google, WhatsApp, Stripe, Zoom",
       "partners": [
-        {"id": "vc-13", "name": "Roelof Botha", "role": "Managing Partner", "x": "roelofbotha", "linkedin": "", "notes": "Former CFO of PayPal, led investments in YouTube, Instagram, MongoDB"},
-        {"id": "vc-14", "name": "Stephanie Zhan", "role": "Partner", "x": "", "linkedin": "", "notes": "Leads AI/ML investments, former Google PM, sister of Brian Zhan (Striker VC)"},
-        {"id": "vc-15", "name": "Konstantine Buhler", "role": "Partner", "x": "konstantine", "linkedin": "", "notes": "Leads AI investments, former founder, board member at Harvey AI"}
+        {"id": "vc-5", "name": "Roelof Botha", "role": "Managing Partner", "x": "roelofbotha", "linkedin": "", "notes": "Former CFO of PayPal, led investments in YouTube, Instagram, MongoDB"},
+        {"id": "vc-6", "name": "Stephanie Zhan", "role": "Partner", "x": "", "linkedin": "", "notes": "Leads AI/ML investments, former Google PM, sister of Brian Zhan (Striker VC)"},
+        {"id": "vc-7", "name": "Konstantine Buhler", "role": "Partner", "x": "konstantine", "linkedin": "", "notes": "Leads AI investments, former founder, board member at Harvey AI"}
+      ]
+    },
+    {
+      "id": "firm-3",
+      "name": "Coatue",
+      "city": "SF",
+      "tags": ["$54B+ AUM", "Late-stage", "Crossover"],
+      "website": "https://coatue.com",
+      "notes": "Midas-listed, hedge fund + venture, lifecycle investing from seed to public",
+      "partners": [
+        {"id": "vc-8", "name": "Philippe Laffont", "role": "Founder & PM", "x": "plaffont", "linkedin": "", "notes": "French hedge fund manager (b.1967), prev Tiger Management analyst, MIT BS/MS CS, investor from seed to public, '7 year predictions'"},
+        {"id": "vc-9", "name": "Thomas Laffont", "role": "Co-Founder & CIO of Privates", "x": "coatue_thomas", "linkedin": "", "notes": "Launched Coatue private investing, leads East Meets West Conference, prev 7 years CAA, Philippe's brother"}
+      ]
+    },
+    {
+      "id": "firm-4",
+      "name": "Insight Partners",
+      "city": "NYC",
+      "tags": ["$30B AUM", "Growth", "Software"],
+      "website": "https://insightpartners.com",
+      "notes": "Backed Qualtrics, Databricks (Dec 2025), software AI focus, $90B+ regulatory AUM",
+      "partners": [
+        {"id": "vc-10", "name": "Jeff Horing", "role": "Co-Founder & MD", "x": "", "linkedin": "", "notes": "Co-founded Insight 1995, low public profile, built firm to $90B+ AUM, oversees one of world's largest software platforms"},
+        {"id": "vc-11", "name": "Deven Parekh", "role": "Managing Director", "x": "djparekh", "linkedin": "", "notes": "Joined 2000, led 140+ investments globally, backed Alibaba/Twitter/JD.com IPOs, Fanatics, Checkout.com, CFR board, US DFC board member"},
+        {"id": "vc-12", "name": "Jeff Lieberman", "role": "Managing Director", "x": "", "linkedin": "", "notes": "Joined 1998, 24+ years continuous tenure, led 100+ deals across 4 continents, backed Qualtrics, DeliveryHero, HelloFresh, Udemy, Forbes Midas List"}
+      ]
+    },
+    {
+      "id": "firm-5",
+      "name": "Thrive Capital",
+      "city": "SF",
+      "tags": ["$25B AUM", "Multi-stage", "AI"],
+      "website": "https://thrivecap.com",
+      "notes": "Backed OpenAI ($1.25B in $40B round 2025), Instagram, Stripe, GitHub, Slack, Robinhood, Cursor",
+      "partners": [
+        {"id": "vc-13", "name": "Josh Kushner", "role": "Founder & Managing Partner", "x": "JoshuaKushner", "linkedin": "", "notes": "Harvard Business School, founded Thrive 2010 at age 24, co-founder Oscar Health, Fortune 100 Most Powerful 2024"},
+        {"id": "vc-14", "name": "Kareem Zaki", "role": "General Partner", "x": "", "linkedin": "", "notes": "Harvard AB, former Blackstone PE, joined 2014, healthcare/fintech focus, led Ramp, Robinhood, Headway, 'best healthcare investor'"},
+        {"id": "vc-15", "name": "Nabil Mallick", "role": "General Partner", "x": "", "linkedin": "", "notes": "Harvard MBA, former Kraft Heinz/Perella Weinberg/Citigroup, board: Glossier, Zola, Vimeo"}
+      ]
+    },
+    {
+      "id": "firm-6",
+      "name": "General Catalyst",
+      "city": "SF",
+      "tags": ["$25B AUM", "Multi-stage", "AI"],
+      "website": "https://generalcatalyst.com",
+      "notes": "Backed Stripe, Snap, Samsara, GitLab, Anthropic, Livongo, AI mega-rounds",
+      "partners": [
+        {"id": "vc-16", "name": "Hemant Taneja", "role": "CEO & Managing Director", "x": "htaneja", "linkedin": "", "notes": "Joined as EIR 2002, 3 undergrad + 2 grad degrees from MIT, author 'Transformation Principles', most influential healthcare investor 2023-24"},
+        {"id": "vc-17", "name": "Deep Nishar", "role": "Managing Director", "x": "", "linkedin": "", "notes": "Joined 2021, former SoftBank Vision Fund Senior Managing Partner (36 investments, 10 IPOs), prev LinkedIn SVP Products, IIT/Harvard MBA"},
+        {"id": "vc-18", "name": "Adam Valkin", "role": "Managing Director", "x": "adamvalkin", "linkedin": "", "notes": "Oversees global early-stage, South African, Harvard, co-founded LOVEFiLM (Amazon), board: Deliveroo, Monzo, Cazoo, Melio"}
+      ]
+    },
+    {
+      "id": "firm-7",
+      "name": "New Enterprise Associates (NEA)",
+      "city": "SF",
+      "tags": ["$25B+ AUM", "Multi-stage", "Tech/Healthcare"],
+      "website": "https://nea.com",
+      "notes": "Backed Salesforce, led H2 Corp Pre-Series A (Dec 2025), Perplexity $500M (Dec 2025), NEA 19 fund ~$5.5B raise",
+      "partners": [
+        {"id": "vc-19", "name": "Scott Sandell", "role": "Executive Chairman & CIO", "x": "ScottDSandell", "linkedin": "", "notes": "Joined 1996, only 4 investors on Midas List every year since 2007, backed Salesforce, Workday, Tableau, Cloudflare, Robinhood, 24 IPOs"},
+        {"id": "vc-20", "name": "Tony Florence", "role": "Co-CEO", "x": "TFlorence_NEA", "linkedin": "", "notes": "Dartmouth MBA/AB Econ, former Morgan Stanley MD & Head Tech Banking NY, backed Jet.com, Casper, Care.com, Cvent IPOs"},
+        {"id": "vc-21", "name": "Mohamad Makhzoumi", "role": "Co-CEO", "x": "", "linkedin": "", "notes": "Joined 2000, UPenn BA, former Summit Partners/UBS, healthcare services focus, Lucile Packard Foundation board"}
       ]
     },
     {
       "id": "firm-8",
-      "name": "Founders Fund",
+      "name": "Dragoneer Investment Group",
       "city": "SF",
-      "tags": ["$14B AUM", "Contrarian", "Deep tech"],
-      "website": "https://foundersfund.com",
-      "notes": "Founded by Peter Thiel, known for contrarian bets, backed SpaceX, Palantir, Stripe, Anduril, xAI $15B (2025)",
+      "tags": ["$22B AUM", "Growth-stage", "Software"],
+      "website": "https://dragoneer.com",
+      "notes": "Growth focus, SF HQ, backed Datadog, Snowflake, Slack, NuBank",
       "partners": [
-        {"id": "vc-16", "name": "Peter Thiel", "role": "Co-founder & Partner", "x": "", "linkedin": "", "notes": "Co-founder of PayPal and Palantir, first outside investor in Facebook"},
-        {"id": "vc-17", "name": "Keith Rabois", "role": "GP", "x": "rabois", "linkedin": "", "notes": "Former COO of Square, executive at PayPal/LinkedIn/Opendoor, now at Khosla Ventures"},
-        {"id": "vc-18", "name": "Trae Stephens", "role": "Partner", "x": "traestephens", "linkedin": "", "notes": "Co-founder of Anduril, former Palantir"}
+        {"id": "vc-22", "name": "Marc Stad", "role": "Founder & Managing Partner", "x": "", "linkedin": "", "notes": "Founded Dragoneer 2012, youngest SF Commissioner in history, Fortune 40u40 2018, led $2.6B AmWINS buyout, prev TPG/McKinsey, Harvard AB/Stanford MBA"},
+        {"id": "vc-23", "name": "Christian Jensen", "role": "Partner & Co-Head of Private Investments", "x": "", "linkedin": "", "notes": "Joined 2016, software/fintech/consumer focus, backed Datadog, Snowflake, Slack, NuBank, ServiceTitan, UiPath, prev Accel/AEA, Yale BA/Stanford MBA"}
       ]
     },
     {
       "id": "firm-9",
-      "name": "Redpoint Ventures",
+      "name": "Bessemer Venture Partners",
       "city": "SF",
-      "tags": ["$6B AUM", "Enterprise", "Consumer"],
-      "website": "https://redpoint.com",
-      "notes": "Leading Silicon Valley VC firm, backed Snowflake, Stripe, Netflix, Twilio, HashiCorp, Nubank",
+      "tags": ["$20B AUM", "Cloud", "All stages"],
+      "website": "https://bvp.com",
+      "notes": "Backed Shopify, cloud focus, AI enterprise deals, conviction-not-consensus model",
       "partners": [
-        {"id": "vc-19", "name": "Jacob Effron", "role": "Partner", "x": "jacobeffron", "linkedin": "", "notes": "Former PM @ Flatiron Health"},
-        {"id": "vc-20", "name": "Patrick Chase", "role": "Partner", "x": "patrickachase", "linkedin": "", "notes": "Former ML Engineer @ LinkedIn"},
-        {"id": "vc-21", "name": "Erica Brescia", "role": "Managing Director", "x": "ericabrescia", "linkedin": "", "notes": "Former COO @ GitHub, Founder @ Bitnami (acquired by VMware)"},
-        {"id": "vc-22", "name": "Jordan Segall", "role": "Partner", "x": "jordan_segall", "linkedin": "", "notes": "Partner @ Redpoint Ventures"}
+        {"id": "vc-24", "name": "Byron Deeter", "role": "Partner", "x": "bdeeter", "linkedin": "", "notes": "Founded Trigo (sold to IBM), co-authored '10 Laws of Cloud Computing', 26 investments >$1B, 13 IPOs, backed Twilio, DocuSign, Anthropic, Perplexity"},
+        {"id": "vc-25", "name": "Jeremy Levine", "role": "Partner", "x": "", "linkedin": "", "notes": "At BVP since 2001, NYC-based, 5 early-stage to billion-dollar IPOs: LinkedIn, Pinterest, Shopify, Yelp, MindBody"},
+        {"id": "vc-26", "name": "Talia Goldberg", "role": "Partner", "x": "TaliaGold", "linkedin": "", "notes": "Youngest elected partner in firm history (2019), UPenn custom tech major, Forbes 30u30, backed Discord, DeepL, Perplexity, Cursor"}
       ]
     },
     {
       "id": "firm-10",
-      "name": "Benchmark",
+      "name": "Technology Crossover Ventures (TCV)",
       "city": "SF",
-      "tags": ["$10B+ AUM", "Early-stage", "Equal partnership"],
-      "website": "https://benchmark.com",
-      "notes": "#56 Time, 6 Series A leads, backed Uber, AI investments like Decart ($100M), equal partnership model",
+      "tags": ["$20B AUM", "Growth", "Late-stage"],
+      "website": "https://tcv.com",
+      "notes": "Backed Netflix, growth AI focus",
       "partners": [
-        {"id": "vc-23", "name": "Peter Fenton", "role": "General Partner", "x": "peterfenton", "linkedin": "", "notes": "Most senior partner, prev 7 years Accel, Stanford MBA, backed Twitter, Docker, Elastic, Yelp, Forbes Midas List #2 in 2015"},
-        {"id": "vc-24", "name": "Eric Vishria", "role": "General Partner", "x": "ericvishria", "linkedin": "", "notes": "Stanford grad at 19, co-founder/CEO RockMelt (acquired by Yahoo), prev Opsware VP, board: Amplitude, Confluent, Cerebras"},
-        {"id": "vc-25", "name": "Chetan Puttagunta", "role": "General Partner", "x": "chetanp", "linkedin": "", "notes": "Joined 2018 from NEA, enterprise/dev tools focus, champion of open source, board chair Elastic, backed MongoDB, MuleSoft"},
-        {"id": "vc-26", "name": "Sarah Tavel", "role": "Venture Partner", "x": "sarahtavel", "linkedin": "", "notes": "First female GP in Benchmark history (2017), Harvard, prev Greylock/Bessemer, sourced Pinterest, backed Chainalysis, All Raise founder"}
+        {"id": "vc-27", "name": "Jay Hoag", "role": "Founding GP", "x": "jaychoag", "linkedin": "", "notes": "Co-founded TCV 1995, 40+ years tech investor, Netflix board 20+ years, also Zillow board, prev Chancellor Capital MD"},
+        {"id": "vc-28", "name": "Woody Marshall", "role": "General Partner", "x": "woodymarshall", "linkedin": "", "notes": "Joined 2008, VC since 1995, prev 12 years Trident Capital, current boards: Spotify, GoFundMe, Airbnb, multiple Forbes Midas List"}
       ]
     },
     {
@@ -135,48 +137,49 @@
       "website": "https://accel.com",
       "notes": "5 Series A leads, backed Slack, Higgsfield ($80M Jan 2026), global presence with 171 team members",
       "partners": [
-        {"id": "vc-27", "name": "Andrew Braccia", "role": "General Partner", "x": "", "linkedin": "", "notes": "Joined 2007, prev decade at Yahoo (VP/GM Marketplace), backed Slack, lynda.com, Squarespace, Vox Media, Cloudera"},
-        {"id": "vc-28", "name": "Sameer Gandhi", "role": "Partner", "x": "skg_accel", "linkedin": "", "notes": "Joined 2008, prev Sequoia (1998-2008), MIT BS/MS, Stanford MBA, backed CrowdStrike, Spotify, Dropbox, Flipkart, Venmo"},
-        {"id": "vc-29", "name": "Rich Wong", "role": "Partner", "x": "RWong", "linkedin": "", "notes": "Joined 2006, MIT degrees, first outside investor at Atlassian, backed UiPath, AdMob (Google), Rovio"},
-        {"id": "vc-30", "name": "Arun Mathew", "role": "Partner", "x": "", "linkedin": "", "notes": "Joined 2009, Wharton/Stanford MBA, prev Insight Partners, backed Qualtrics, Tenable, PagerDuty, 1Password, Webflow"}
+        {"id": "vc-29", "name": "Andrew Braccia", "role": "General Partner", "x": "", "linkedin": "", "notes": "Joined 2007, prev decade at Yahoo (VP/GM Marketplace), backed Slack, lynda.com, Squarespace, Vox Media, Cloudera"},
+        {"id": "vc-30", "name": "Sameer Gandhi", "role": "Partner", "x": "skg_accel", "linkedin": "", "notes": "Joined 2008, prev Sequoia (1998-2008), MIT BS/MS, Stanford MBA, backed CrowdStrike, Spotify, Dropbox, Flipkart, Venmo"},
+        {"id": "vc-31", "name": "Rich Wong", "role": "Partner", "x": "RWong", "linkedin": "", "notes": "Joined 2006, MIT degrees, first outside investor at Atlassian, backed UiPath, AdMob (Google), Rovio"},
+        {"id": "vc-32", "name": "Arun Mathew", "role": "Partner", "x": "", "linkedin": "", "notes": "Joined 2009, Wharton/Stanford MBA, prev Insight Partners, backed Qualtrics, Tenable, PagerDuty, 1Password, Webflow"}
       ]
     },
     {
       "id": "firm-12",
-      "name": "Kleiner Perkins",
+      "name": "Lightspeed Venture Partners",
       "city": "SF",
-      "tags": ["$10B AUM", "AI/Climate", "Historic"],
-      "website": "https://kleinerperkins.com",
-      "notes": "Historic firm, AI/climate focus, backed Amazon, Figma, active in AI rounds",
+      "tags": ["$18B AUM", "Multi-stage", "Consumer"],
+      "website": "https://lsvp.com",
+      "notes": "4 Series A leads, backed Snap, consumer AI focus",
       "partners": [
-        {"id": "vc-31", "name": "Mamoon Hamid", "role": "Managing Member & GP", "x": "mamoonha", "linkedin": "", "notes": "Joined 2017, co-founder Social Capital, first investor in Slack, led Figma ($2.1B return), backed Rippling, Intercom, Glean"},
-        {"id": "vc-32", "name": "Ilya Fushman", "role": "GP & Managing Member", "x": "ilyaf", "linkedin": "", "notes": "Joined 2018, prev Index Ventures GP, Dropbox employee #75, backed Slack, Intercom, Motive, enterprise/infra/fintech focus"}
+        {"id": "vc-33", "name": "Barry Eggers", "role": "Co-Founder & Partner", "x": "BarryEggers", "linkedin": "", "notes": "UCLA/Stanford MBA, former Cisco exec, founded Lightspeed 2000, discovered Snapchat via daughter, Forbes Midas List"},
+        {"id": "vc-34", "name": "Jeremy Liew", "role": "Partner", "x": "jeremysliew", "linkedin": "", "notes": "Australian, Stanford MBA, first investor in Snapchat ($485K became ~$2B), also Affirm, Honest Company, Giphy"},
+        {"id": "vc-35", "name": "Arif Janmohamed", "role": "Partner", "x": "arifj", "linkedin": "", "notes": "Wharton MBA, Waterloo CS, former Cisco Corp Dev, joined 2008, cloud/enterprise SaaS/datacenter focus"}
       ]
     },
     {
       "id": "firm-13",
-      "name": "Greylock Partners",
+      "name": "Khosla Ventures",
       "city": "SF",
-      "tags": ["$8B AUM", "Enterprise", "Seed/Early"],
-      "website": "https://greylock.com",
-      "notes": "Enterprise focus, backed LinkedIn, Figma, Discord, strong AI focus in 2025",
+      "tags": ["$15B AUM", "Deep tech AI", "Early-stage"],
+      "website": "https://khoslaventures.com",
+      "notes": "3 Series A leads, deep tech AI focus, founded by Sun co-founder",
       "partners": [
-        {"id": "vc-33", "name": "Reid Hoffman", "role": "Partner", "x": "reidhoffman", "linkedin": "", "notes": "Co-founder LinkedIn, joined Greylock 2009, PayPal founding team, Microsoft board, author 'Superagency', co-founder Inflection AI"},
-        {"id": "vc-34", "name": "David Sze", "role": "Advisory Partner", "x": "davidsze", "linkedin": "", "notes": "Joined 2000, Yale BA/Stanford MBA, backed Facebook, LinkedIn, Roblox, Discord, Pandora, TikTok/ByteDance"},
-        {"id": "vc-35", "name": "Saam Motamedi", "role": "General Partner", "x": "saammotamedi", "linkedin": "", "notes": "Youngest GP (promoted 2019 at 26), Stanford CS, founded Guru Labs, backed Abnormal, Cresta, Snorkel, AI/cybersecurity focus"}
+        {"id": "vc-36", "name": "Vinod Khosla", "role": "Founder", "x": "vkhosla", "linkedin": "", "notes": "Co-founded Sun Microsystems 1982, Stanford/Carnegie Mellon, early investor OpenAI, DoorDash, Affirm, Guardant Health"},
+        {"id": "vc-37", "name": "Keith Rabois", "role": "Managing Director", "x": "rabois", "linkedin": "", "notes": "PayPal Mafia, Stanford/Harvard Law, former Square COO, first investor DoorDash/Affirm/Faire, co-founded Opendoor, rejoined Khosla Jan 2024"},
+        {"id": "vc-38", "name": "Samir Kaul", "role": "Founding Partner & MD", "x": "SamirKaul1", "linkedin": "", "notes": "Harvard MBA/Maryland MS Biochem, led Nature paper on first flowering plant genome, backed Guardant Health, Nutanix, Impossible Foods"}
       ]
     },
     {
       "id": "firm-14",
-      "name": "Bessemer Venture Partners",
+      "name": "Founders Fund",
       "city": "SF",
-      "tags": ["$20B AUM", "Cloud", "All stages"],
-      "website": "https://bvp.com",
-      "notes": "Backed Shopify, cloud focus, AI enterprise deals, conviction-not-consensus model",
+      "tags": ["$14B AUM", "Contrarian", "Deep tech"],
+      "website": "https://foundersfund.com",
+      "notes": "Founded by Peter Thiel, known for contrarian bets, backed SpaceX, Palantir, Stripe, Anduril, xAI $15B (2025)",
       "partners": [
-        {"id": "vc-36", "name": "Byron Deeter", "role": "Partner", "x": "bdeeter", "linkedin": "", "notes": "Founded Trigo (sold to IBM), co-authored '10 Laws of Cloud Computing', 26 investments >$1B, 13 IPOs, backed Twilio, DocuSign, Anthropic, Perplexity"},
-        {"id": "vc-37", "name": "Jeremy Levine", "role": "Partner", "x": "", "linkedin": "", "notes": "At BVP since 2001, NYC-based, 5 early-stage to billion-dollar IPOs: LinkedIn, Pinterest, Shopify, Yelp, MindBody"},
-        {"id": "vc-38", "name": "Talia Goldberg", "role": "Partner", "x": "TaliaGold", "linkedin": "", "notes": "Youngest elected partner in firm history (2019), UPenn custom tech major, Forbes 30u30, backed Discord, DeepL, Perplexity, Cursor"}
+        {"id": "vc-39", "name": "Peter Thiel", "role": "Co-founder & Partner", "x": "", "linkedin": "", "notes": "Co-founder of PayPal and Palantir, first outside investor in Facebook"},
+        {"id": "vc-40", "name": "Keith Rabois", "role": "GP", "x": "rabois", "linkedin": "", "notes": "Former COO of Square, executive at PayPal/LinkedIn/Opendoor, now at Khosla Ventures"},
+        {"id": "vc-41", "name": "Trae Stephens", "role": "Partner", "x": "traestephens", "linkedin": "", "notes": "Co-founder of Anduril, former Palantir"}
       ]
     },
     {
@@ -187,87 +190,85 @@
       "website": "https://indexventures.com",
       "notes": "5 Series A leads, backed Robinhood, Figma, Discord, fintech/AI focus",
       "partners": [
-        {"id": "vc-39", "name": "Danny Rimer", "role": "Partner", "x": "dannyrimer", "linkedin": "", "notes": "Co-established SF office 2012, Harvard, helped take Netscape public, backed Figma ($20B Adobe acquisition), Discord, Etsy, Skype, Dropbox"},
-        {"id": "vc-40", "name": "Mike Volpi", "role": "Retired Partner", "x": "", "linkedin": "", "notes": "Established SF office 2009, AI/infrastructure/open-source focus, board: Aurora, Cohere, Confluent, Scale, 9 portfolio IPOs"}
+        {"id": "vc-42", "name": "Danny Rimer", "role": "Partner", "x": "dannyrimer", "linkedin": "", "notes": "Co-established SF office 2012, Harvard, helped take Netscape public, backed Figma ($20B Adobe acquisition), Discord, Etsy, Skype, Dropbox"},
+        {"id": "vc-43", "name": "Mike Volpi", "role": "Retired Partner", "x": "", "linkedin": "", "notes": "Established SF office 2009, AI/infrastructure/open-source focus, board: Aurora, Cohere, Confluent, Scale, 9 portfolio IPOs"}
       ]
     },
     {
       "id": "firm-16",
-      "name": "Lightspeed Venture Partners",
-      "city": "SF",
-      "tags": ["$18B AUM", "Multi-stage", "Consumer"],
-      "website": "https://lsvp.com",
-      "notes": "4 Series A leads, backed Snap, consumer AI focus",
-      "partners": [
-        {"id": "vc-41", "name": "Barry Eggers", "role": "Co-Founder & Partner", "x": "BarryEggers", "linkedin": "", "notes": "UCLA/Stanford MBA, former Cisco exec, founded Lightspeed 2000, discovered Snapchat via daughter, Forbes Midas List"},
-        {"id": "vc-42", "name": "Jeremy Liew", "role": "Partner", "x": "jeremysliew", "linkedin": "", "notes": "Australian, Stanford MBA, first investor in Snapchat ($485K became ~$2B), also Affirm, Honest Company, Giphy"},
-        {"id": "vc-43", "name": "Arif Janmohamed", "role": "Partner", "x": "arifj", "linkedin": "", "notes": "Wharton MBA, Waterloo CS, former Cisco Corp Dev, joined 2008, cloud/enterprise SaaS/datacenter focus"}
-      ]
-    },
-    {
-      "id": "firm-17",
-      "name": "Thrive Capital",
-      "city": "SF",
-      "tags": ["$25B AUM", "Multi-stage", "AI"],
-      "website": "https://thrivecap.com",
-      "notes": "Backed OpenAI ($1.25B in $40B round 2025), Instagram, Stripe, GitHub, Slack, Robinhood, Cursor",
-      "partners": [
-        {"id": "vc-44", "name": "Josh Kushner", "role": "Founder & Managing Partner", "x": "JoshuaKushner", "linkedin": "", "notes": "Harvard Business School, founded Thrive 2010 at age 24, co-founder Oscar Health, Fortune 100 Most Powerful 2024"},
-        {"id": "vc-45", "name": "Kareem Zaki", "role": "General Partner", "x": "", "linkedin": "", "notes": "Harvard AB, former Blackstone PE, joined 2014, healthcare/fintech focus, led Ramp, Robinhood, Headway, 'best healthcare investor'"},
-        {"id": "vc-46", "name": "Nabil Mallick", "role": "General Partner", "x": "", "linkedin": "", "notes": "Harvard MBA, former Kraft Heinz/Perella Weinberg/Citigroup, board: Glossier, Zola, Vimeo"}
-      ]
-    },
-    {
-      "id": "firm-18",
-      "name": "Menlo Ventures",
-      "city": "SF",
-      "tags": ["$5B AUM", "Early to growth", "AI"],
-      "website": "https://menlovc.com",
-      "notes": "Backed Uber, launched $100M Anthropic Anthology Fund 2024",
-      "partners": [
-        {"id": "vc-47", "name": "Matt Murphy", "role": "Partner", "x": "mmurph", "linkedin": "", "notes": "15+ years at Kleiner Perkins, co-led iFund, backed DocuSign, AppDynamics, AI infrastructure/DevOps focus"},
-        {"id": "vc-48", "name": "Shawn Carolan", "role": "Partner", "x": "shawnvc", "linkedin": "", "notes": "Stanford MBA, joined 2002, founding CEO Handle Inc, backed Uber, Roku, Chime (IPO 2025), Siri, JUMP Bikes"},
-        {"id": "vc-49", "name": "Venky Ganesan", "role": "Managing Partner", "x": "venkyganesan", "linkedin": "", "notes": "Caltech BS, founded Trigo (IBM), former McKinsey/Microsoft, backed Palo Alto Networks, Upwork, Redfin, former NVCA Chair"}
-      ]
-    },
-    {
-      "id": "firm-19",
-      "name": "First Round Capital",
-      "city": "SF",
-      "tags": ["$2B AUM", "Seed/Pre-seed", "Founders"],
-      "website": "https://firstround.com",
-      "notes": "#174 Time, backed Uber, seed AI labs, known for founder community",
-      "partners": [
-        {"id": "vc-50", "name": "Josh Kopelman", "role": "Co-Founder & Partner", "x": "joshk", "linkedin": "", "notes": "Wharton BS, founded Infonautics (NASDAQ IPO as student), Half.com (eBay), co-founded First Round 2004, Forbes Midas List top 20"},
-        {"id": "vc-51", "name": "Bill Trenchard", "role": "Partner", "x": "btrenchard", "linkedin": "", "notes": "Former LiveOps CEO ($100M revenue), Jump Networks (Microsoft), backed Uber, Looker (Google), Flexport, Verkada"},
-        {"id": "vc-52", "name": "Todd Jackson", "role": "Partner", "x": "tjack", "linkedin": "", "notes": "Stanford, former VP Product Dropbox (through IPO), Twitter Dir PM, co-founder Cover (Twitter), led Gmail to 200M users"},
-        {"id": "vc-53", "name": "Hayley Barna", "role": "Partner", "x": "hayleybay", "linkedin": "", "notes": "Harvard magna cum laude/MBA, co-founder Birchbox, first female partner at First Round, Fortune 40u40, All Raise founder"}
-      ]
-    },
-    {
-      "id": "firm-20",
       "name": "Battery Ventures",
       "city": "SF",
       "tags": ["$13B AUM", "Multi-stage", "Enterprise"],
       "website": "https://battery.com",
       "notes": "Backed Splunk, multi-stage AI investments, created T2D3 SaaS framework",
       "partners": [
-        {"id": "vc-54", "name": "Neeraj Agrawal", "role": "General Partner", "x": "NeerajVC", "linkedin": "", "notes": "Joined 2000, Forbes Midas List 2011-2021 (#9 in 2019), created T2D3, Cornell CS/Harvard MBA, backed Splunk, Marketo, Wayfair, Amplitude"},
-        {"id": "vc-55", "name": "Dharmesh Thakker", "role": "General Partner", "x": "Dthakker02", "linkedin": "", "notes": "Joined 2015, prev Intel Capital MD (cloud/big-data), UT Austin EE/Wharton MBA, backed MongoDB, Cloudera"},
-        {"id": "vc-56", "name": "Chelsea Stoner", "role": "General Partner", "x": "ChelsStoner", "linkedin": "", "notes": "Joined 2006, promoted GP 2014, Forbes Midas Hot Prospects, Northwestern ChemE/UChicago MBA, backed Glassdoor, Avalara, Marketo"}
+        {"id": "vc-44", "name": "Neeraj Agrawal", "role": "General Partner", "x": "NeerajVC", "linkedin": "", "notes": "Joined 2000, Forbes Midas List 2011-2021 (#9 in 2019), created T2D3, Cornell CS/Harvard MBA, backed Splunk, Marketo, Wayfair, Amplitude"},
+        {"id": "vc-45", "name": "Dharmesh Thakker", "role": "General Partner", "x": "Dthakker02", "linkedin": "", "notes": "Joined 2015, prev Intel Capital MD (cloud/big-data), UT Austin EE/Wharton MBA, backed MongoDB, Cloudera"},
+        {"id": "vc-46", "name": "Chelsea Stoner", "role": "General Partner", "x": "ChelsStoner", "linkedin": "", "notes": "Joined 2006, promoted GP 2014, Forbes Midas Hot Prospects, Northwestern ChemE/UChicago MBA, backed Glassdoor, Avalara, Marketo"}
+      ]
+    },
+    {
+      "id": "firm-17",
+      "name": "ARCH Venture Partners",
+      "city": "SF",
+      "tags": ["$13B AUM", "Biotech AI", "Early-stage"],
+      "website": "https://archventure.com",
+      "notes": "Biotech AI focus, SF active, backed Illumina, Alnylam, Altos Labs, Xaira",
+      "partners": [
+        {"id": "vc-47", "name": "Robert Nelsen", "role": "Co-Founder & MD", "x": "rtnarch", "linkedin": "", "notes": "Company founder and VC focused on disruptive innovation esp biotech/AI, backed Illumina, Alnylam, Juno, Beam, Altos Labs, Xaira, UChicago MBA"},
+        {"id": "vc-48", "name": "Keith Crandell", "role": "Co-Founder & MD", "x": "", "linkedin": "", "notes": "Life science therapeutics/tools/devices/diagnostics focus, formed 908 Devices, Twist Bioscience, Quanterix, UChicago MBA"},
+        {"id": "vc-49", "name": "Kristina Burow", "role": "Managing Director", "x": "", "linkedin": "", "notes": "Joined 2002, co-founder Neumora/Orbital Therapeutics, board: Scholar Rock, Metsera, Boundless Bio, prev Novartis BioVenture, UChicago MBA"}
+      ]
+    },
+    {
+      "id": "firm-18",
+      "name": "Norwest Venture Partners",
+      "city": "SF",
+      "tags": ["$12B AUM", "Multi-stage", "Global"],
+      "website": "https://norwest.com",
+      "notes": "Multi-stage, SF ties",
+      "partners": [
+        {"id": "vc-50", "name": "Jeff Crowe", "role": "Senior Managing Partner", "x": "jeffmcrowe", "linkedin": "", "notes": "Consumer focus, backed Talkspace, Opendoor, Madison Reed, Grove Collaborative, Dartmouth alum"},
+        {"id": "vc-51", "name": "Promod Haque", "role": "General Partner", "x": "promodhaque", "linkedin": "", "notes": "31+ years VC, Forbes Hall of Fame (2014, 2016), 13x Midas List including #1 in 2004, $40B+ aggregate exit value, joined 1990"},
+        {"id": "vc-52", "name": "Jon Kossow", "role": "Managing Partner", "x": "", "linkedin": "", "notes": "23+ years investment experience, co-head growth equity, prev Goldman Sachs Director/TA Associates VP, GrowthCap Top Software Investor 2023"}
+      ]
+    },
+    {
+      "id": "firm-19",
+      "name": "Sapphire Ventures",
+      "city": "SF",
+      "tags": ["$11B AUM", "Growth", "Enterprise"],
+      "website": "https://sapphireventures.com",
+      "notes": "Former SAP venture arm now independent, growth enterprise software/AI",
+      "partners": [
+        {"id": "vc-53", "name": "Nino Marakovic", "role": "CEO & Co-Founder", "x": "NinoMarakovic", "linkedin": "", "notes": "25+ years investing/operating, backed 100+ private companies, Austin-based, prev Goldman/Robertson Stephens/MVC Capital, ~$25M sweet spot"},
+        {"id": "vc-54", "name": "Jai Das", "role": "President & Co-Founder", "x": "jai_das", "linkedin": "", "notes": "Born Kolkata, Brown BS/Chicago Booth MBA, joined 2006, 11+ IPOs including Alteryx, Box, Five9, Square, Nutanix, cloud infra/SaaS focus"}
+      ]
+    },
+    {
+      "id": "firm-20",
+      "name": "Benchmark",
+      "city": "SF",
+      "tags": ["$10B+ AUM", "Early-stage", "Equal partnership"],
+      "website": "https://benchmark.com",
+      "notes": "#56 Time, 6 Series A leads, backed Uber, AI investments like Decart ($100M), equal partnership model",
+      "partners": [
+        {"id": "vc-55", "name": "Peter Fenton", "role": "General Partner", "x": "peterfenton", "linkedin": "", "notes": "Most senior partner, prev 7 years Accel, Stanford MBA, backed Twitter, Docker, Elastic, Yelp, Forbes Midas List #2 in 2015"},
+        {"id": "vc-56", "name": "Eric Vishria", "role": "General Partner", "x": "ericvishria", "linkedin": "", "notes": "Stanford grad at 19, co-founder/CEO RockMelt (acquired by Yahoo), prev Opsware VP, board: Amplitude, Confluent, Cerebras"},
+        {"id": "vc-57", "name": "Chetan Puttagunta", "role": "General Partner", "x": "chetanp", "linkedin": "", "notes": "Joined 2018 from NEA, enterprise/dev tools focus, champion of open source, board chair Elastic, backed MongoDB, MuleSoft"},
+        {"id": "vc-58", "name": "Sarah Tavel", "role": "Venture Partner", "x": "sarahtavel", "linkedin": "", "notes": "First female GP in Benchmark history (2017), Harvard, prev Greylock/Bessemer, sourced Pinterest, backed Chainalysis, All Raise founder"}
       ]
     },
     {
       "id": "firm-21",
-      "name": "Spark Capital",
+      "name": "Kleiner Perkins",
       "city": "SF",
-      "tags": ["$5B AUM", "Early-stage", "Consumer"],
-      "website": "https://sparkcapital.com",
-      "notes": "Backed Twitter (Series B), consumer AI focus",
+      "tags": ["$10B AUM", "AI/Climate", "Historic"],
+      "website": "https://kleinerperkins.com",
+      "notes": "Historic firm, AI/climate focus, backed Amazon, Figma, active in AI rounds",
       "partners": [
-        {"id": "vc-57", "name": "Nabeel Hyatt", "role": "General Partner", "x": "nabeel", "linkedin": "", "notes": "Joined 2012, opened SF office, multi-time founder, led Cruise Series A (GM acquisition), backed Discord, Postmates, Sonder"},
-        {"id": "vc-58", "name": "Yasmin Razavi", "role": "General Partner", "x": "YasminRazavi", "linkedin": "", "notes": "Joined 2017, prev McKinsey/Index/Snap PM, Tehran-born, Toronto eng/Harvard MBA, backed Deel, Anthropic Series C, Marqeta"},
-        {"id": "vc-59", "name": "Bijan Sabet", "role": "Co-Founder & GP Emeritus", "x": "bijan", "linkedin": "", "notes": "Co-founded Spark 2005, now US Ambassador to Czech Republic, led Twitter Series B, Tumblr ($1.1B Yahoo), Foursquare"}
+        {"id": "vc-59", "name": "Mamoon Hamid", "role": "Managing Member & GP", "x": "mamoonha", "linkedin": "", "notes": "Joined 2017, co-founder Social Capital, first investor in Slack, led Figma ($2.1B return), backed Rippling, Intercom, Glean"},
+        {"id": "vc-60", "name": "Ilya Fushman", "role": "GP & Managing Member", "x": "ilyaf", "linkedin": "", "notes": "Joined 2018, prev Index Ventures GP, Dropbox employee #75, backed Slack, Intercom, Motive, enterprise/infra/fintech focus"}
       ]
     },
     {
@@ -278,411 +279,410 @@
       "website": "https://gv.com",
       "notes": "Backed Uber, Reka AI $110M (Jul 2025), Alphabet as sole LP",
       "partners": [
-        {"id": "vc-60", "name": "David Krane", "role": "CEO & Managing Partner", "x": "kraneland", "linkedin": "", "notes": "Google employee #84, built GV since founding, backed Uber, Nest, StockX, Blue Bottle, Neuralink, Leader of Year 2024"},
-        {"id": "vc-61", "name": "Michael McBride", "role": "General Partner", "x": "", "linkedin": "", "notes": "Joined 2023, former GitLab CRO (scaled 100x through IPO), prev Meraki (Cisco), Stanford ME, AI/open-source enterprise focus"}
+        {"id": "vc-61", "name": "David Krane", "role": "CEO & Managing Partner", "x": "kraneland", "linkedin": "", "notes": "Google employee #84, built GV since founding, backed Uber, Nest, StockX, Blue Bottle, Neuralink, Leader of Year 2024"},
+        {"id": "vc-62", "name": "Michael McBride", "role": "General Partner", "x": "", "linkedin": "", "notes": "Joined 2023, former GitLab CRO (scaled 100x through IPO), prev Meraki (Cisco), Stanford ME, AI/open-source enterprise focus"}
       ]
     },
     {
       "id": "firm-23",
-      "name": "General Catalyst",
-      "city": "SF",
-      "tags": ["$25B AUM", "Multi-stage", "AI"],
-      "website": "https://generalcatalyst.com",
-      "notes": "Backed Stripe, Snap, Samsara, GitLab, Anthropic, Livongo, AI mega-rounds",
-      "partners": [
-        {"id": "vc-62", "name": "Hemant Taneja", "role": "CEO & Managing Director", "x": "htaneja", "linkedin": "", "notes": "Joined as EIR 2002, 3 undergrad + 2 grad degrees from MIT, author 'Transformation Principles', most influential healthcare investor 2023-24"},
-        {"id": "vc-63", "name": "Deep Nishar", "role": "Managing Director", "x": "", "linkedin": "", "notes": "Joined 2021, former SoftBank Vision Fund Senior Managing Partner (36 investments, 10 IPOs), prev LinkedIn SVP Products, IIT/Harvard MBA"},
-        {"id": "vc-64", "name": "Adam Valkin", "role": "Managing Director", "x": "adamvalkin", "linkedin": "", "notes": "Oversees global early-stage, South African, Harvard, co-founded LOVEFiLM (Amazon), board: Deliveroo, Monzo, Cazoo, Melio"}
-      ]
-    },
-    {
-      "id": "firm-24",
       "name": "Bain Capital Ventures",
       "city": "SF",
       "tags": ["$10B AUM", "Enterprise", "Early to growth"],
       "website": "https://baincapitalventures.com",
       "notes": "Backed LinkedIn, enterprise AI focus",
       "partners": [
-        {"id": "vc-65", "name": "Matt Harris", "role": "Partner", "x": "mattcharris", "linkedin": "", "notes": "Joined 2012, 30 years fintech, founded Village Ventures, Williams College trustee, backed Billtrust, Flywire, Acorns"},
-        {"id": "vc-66", "name": "Aaref Hilaly", "role": "Partner", "x": "aaref", "linkedin": "", "notes": "Joined 2020, 2x founder (CenterRun to Sun $66M, Clearwell to Symantec $410M), prev Sequoia 7 years, Harvard MBA, AI applications focus"},
-        {"id": "vc-67", "name": "Enrique Salem", "role": "Partner & MD", "x": "EnriqueSalem", "linkedin": "", "notes": "Joined 2014, former Symantec CEO (2009-2012), 27 years security, Dartmouth CS, Obama Advisory Board, board: Atlassian, FireEye"}
+        {"id": "vc-63", "name": "Matt Harris", "role": "Partner", "x": "mattcharris", "linkedin": "", "notes": "Joined 2012, 30 years fintech, founded Village Ventures, Williams College trustee, backed Billtrust, Flywire, Acorns"},
+        {"id": "vc-64", "name": "Aaref Hilaly", "role": "Partner", "x": "aaref", "linkedin": "", "notes": "Joined 2020, 2x founder (CenterRun to Sun $66M, Clearwell to Symantec $410M), prev Sequoia 7 years, Harvard MBA, AI applications focus"},
+        {"id": "vc-65", "name": "Enrique Salem", "role": "Partner & MD", "x": "EnriqueSalem", "linkedin": "", "notes": "Joined 2014, former Symantec CEO (2009-2012), 27 years security, Dartmouth CS, Obama Advisory Board, board: Atlassian, FireEye"}
       ]
     },
     {
-      "id": "firm-25",
-      "name": "Khosla Ventures",
-      "city": "SF",
-      "tags": ["$15B AUM", "Deep tech AI", "Early-stage"],
-      "website": "https://khoslaventures.com",
-      "notes": "3 Series A leads, deep tech AI focus, founded by Sun co-founder",
-      "partners": [
-        {"id": "vc-68", "name": "Vinod Khosla", "role": "Founder", "x": "vkhosla", "linkedin": "", "notes": "Co-founded Sun Microsystems 1982, Stanford/Carnegie Mellon, early investor OpenAI, DoorDash, Affirm, Guardant Health"},
-        {"id": "vc-69", "name": "Keith Rabois", "role": "Managing Director", "x": "rabois", "linkedin": "", "notes": "PayPal Mafia, Stanford/Harvard Law, former Square COO, first investor DoorDash/Affirm/Faire, co-founded Opendoor, rejoined Khosla Jan 2024"},
-        {"id": "vc-70", "name": "Samir Kaul", "role": "Founding Partner & MD", "x": "SamirKaul1", "linkedin": "", "notes": "Harvard MBA/Maryland MS Biochem, led Nature paper on first flowering plant genome, backed Guardant Health, Nutanix, Impossible Foods"}
-      ]
-    },
-    {
-      "id": "firm-26",
-      "name": "New Enterprise Associates (NEA)",
-      "city": "SF",
-      "tags": ["$25B+ AUM", "Multi-stage", "Tech/Healthcare"],
-      "website": "https://nea.com",
-      "notes": "Backed Salesforce, led H2 Corp Pre-Series A (Dec 2025), Perplexity $500M (Dec 2025), NEA 19 fund ~$5.5B raise",
-      "partners": [
-        {"id": "vc-71", "name": "Scott Sandell", "role": "Executive Chairman & CIO", "x": "ScottDSandell", "linkedin": "", "notes": "Joined 1996, only 4 investors on Midas List every year since 2007, backed Salesforce, Workday, Tableau, Cloudflare, Robinhood, 24 IPOs"},
-        {"id": "vc-72", "name": "Tony Florence", "role": "Co-CEO", "x": "TFlorence_NEA", "linkedin": "", "notes": "Dartmouth MBA/AB Econ, former Morgan Stanley MD & Head Tech Banking NY, backed Jet.com, Casper, Care.com, Cvent IPOs"},
-        {"id": "vc-73", "name": "Mohamad Makhzoumi", "role": "Co-CEO", "x": "", "linkedin": "", "notes": "Joined 2000, UPenn BA, former Summit Partners/UBS, healthcare services focus, Lucile Packard Foundation board"}
-      ]
-    },
-    {
-      "id": "firm-27",
-      "name": "Matrix Partners",
-      "city": "SF",
-      "tags": ["$5B AUM", "Early-stage", "Seed to Series A"],
-      "website": "https://matrix.vc",
-      "notes": "4 Series A leads, early AI investments",
-      "partners": [
-        {"id": "vc-74", "name": "Ilya Sukhar", "role": "General Partner", "x": "ilyasu", "linkedin": "", "notes": "Cornell CS BS/MS, founded Parse (Facebook ~$85M), was Facebook Head of Dev Products, YC part-time partner, angel in Scale AI, Applied Intuition, GitLab"},
-        {"id": "vc-75", "name": "Jake Jolis", "role": "Partner", "x": "jakejolis", "linkedin": "", "notes": "Stanford, founded Verbling (YC), cloud infra/AI/Enterprise/GenAI focus, backed Applied Intuition, Humanloop, Steadily"},
-        {"id": "vc-76", "name": "Antonio Rodriguez", "role": "General Partner", "x": "antrod", "linkedin": "", "notes": "Harvard/Stanford MBA, Venezuelan, founded Tabblo (HP), backed Oculus VR (Facebook $2.3B), The Echo Nest (Spotify)"}
-      ]
-    },
-    {
-      "id": "firm-28",
-      "name": "Sutter Hill Ventures",
-      "city": "SF",
-      "tags": ["$5B AUM", "Enterprise", "Early-stage"],
-      "website": "https://shv.com",
-      "notes": "#176 Time, backed Snowflake (<$200M investment became $12B+ stake at IPO)",
-      "partners": [
-        {"id": "vc-77", "name": "Mike Speiser", "role": "Managing Director", "x": "laserlikemike", "linkedin": "", "notes": "Harvard MBA, founding CEO Snowflake (2012-14) and Pure Storage, former Yahoo/Veritas, founded Lacework, Clumio, Augment Code"},
-        {"id": "vc-78", "name": "Stefan Dyckerhoff", "role": "Managing Director", "x": "stefandyckerhof", "linkedin": "", "notes": "Stanford MS EE, Juniper employee #33, rose to EVP & GM, former Lacework CEO, one of only 12 partners in SHV history"},
-        {"id": "vc-79", "name": "Sam Pullara", "role": "Managing Director & CTO", "x": "sampullara", "linkedin": "", "notes": "Northwestern MS Physics, former Twitter senior infra engineer (Rails to Scala), co-founded Bagcheck (Twitter), former Yahoo Chief Tech"}
-      ]
-    },
-    {
-      "id": "firm-29",
-      "name": "Initialized Capital",
-      "city": "SF",
-      "tags": ["$3B AUM", "Seed", "Founders"],
-      "website": "https://initialized.com",
-      "notes": "#4 founder votes, backed Instacart, Coinbase, Reddit, Rippling",
-      "partners": [
-        {"id": "vc-80", "name": "Brett Gibson", "role": "Managing Partner", "x": "brettdg", "linkedin": "", "notes": "UC Santa Barbara BA Phil, co-founded Posterous with Garry Tan (Twitter), built YC internal software, backed Bison Trails, AstroForge"},
-        {"id": "vc-81", "name": "Alda Leu Dennis", "role": "General Partner", "x": "AldaLeuDennis", "linkedin": "", "notes": "Stanford, former 137 Ventures MP (led Planet, Wish, Coupang IPOs), former Founders Fund General Counsel, joined 2017"},
-        {"id": "vc-82", "name": "Garry Tan", "role": "Founder & Board Partner", "x": "garrytan", "linkedin": "", "notes": "Co-founded Initialized 2012 with Alexis Ohanian, co-founded Posterous (Twitter), now YC CEO, early backer Coinbase, Instacart, Reddit"}
-      ]
-    },
-    {
-      "id": "firm-30",
-      "name": "500 Global",
-      "city": "SF",
-      "tags": ["$2B AUM", "Seed", "Global"],
-      "website": "https://500.co",
-      "notes": "#8 social, seed AI focus, 2,600+ portfolio companies across 81 countries",
-      "partners": [
-        {"id": "vc-83", "name": "Christine Tsai", "role": "CEO & Founding Partner", "x": "christine_tsai", "linkedin": "", "notes": "Co-founded 500 in 2010, grew to $2.7B AUM, former Google product marketing (AdSense, Analytics, YouTube APIs)"},
-        {"id": "vc-84", "name": "Courtney Powell", "role": "COO & Managing Partner", "x": "CourtneyPowell", "linkedin": "", "notes": "Named COO July 2019, oversees operations across $3B AUM in 80+ countries, impact investing focus"}
-      ]
-    },
-    {
-      "id": "firm-31",
-      "name": "Bonfire Ventures",
-      "city": "LA",
-      "tags": ["$1B AUM", "Seed", "B2B"],
-      "website": "https://bonfirevc.com",
-      "notes": "#3 founder votes, B2B AI focus, recently closed Fund IV at $245M",
-      "partners": [
-        {"id": "vc-85", "name": "Jim Andelman", "role": "Co-Founder & MD", "x": "jimandelman", "linkedin": "", "notes": "Co-founded Bonfire 2017, 20+ years VC, prev founded Rincon Venture Partners, led software at Broadview Capital"},
-        {"id": "vc-86", "name": "Mark Mullen", "role": "Co-Founder & MD", "x": "markmullen", "linkedin": "", "notes": "Co-founded Bonfire 2017, prev founded Double M Partners/Mull Capital, former LA COO under Mayor Villaraigosa, exits: The Trade Desk IPO, Scopely"},
-        {"id": "vc-87", "name": "Brett Queener", "role": "Managing Director", "x": "bqueener", "linkedin": "", "notes": "Joined 2018, former Salesforce exec (through IPO), prev President/COO SmartRecruiters, product/GTM expert"}
-      ]
-    },
-    {
-      "id": "firm-32",
-      "name": "Union Square Ventures",
-      "city": "NYC",
-      "tags": ["$2B AUM", "Early-stage", "Thesis-driven"],
-      "website": "https://usv.com",
-      "notes": "#1 founder votes, AI-active, backed Twitter, Tumblr, Etsy, Coinbase, Kickstarter",
-      "partners": [
-        {"id": "vc-88", "name": "Fred Wilson", "role": "Co-Founder & Partner", "x": "fredwilson", "linkedin": "", "notes": "Co-founded USV 2003, VC since 1987, early backer Twitter, Tumblr, Etsy, Zynga, Kickstarter, Coinbase, prolific blogger at AVC.com"},
-        {"id": "vc-89", "name": "Albert Wenger", "role": "Managing Partner", "x": "albertwenger", "linkedin": "", "notes": "German-American, author 'The World After Capital', former del.icio.us president (Yahoo), angel in Etsy, Tumblr, blogs at Continuations"},
-        {"id": "vc-90", "name": "Rebecca Kaden", "role": "Managing Partner", "x": "rebeccakaden", "linkedin": "", "notes": "First female partner at USV (joined 2018), former journalist, prev Maveron GP (consumer-focused)"}
-      ]
-    },
-    {
-      "id": "firm-33",
-      "name": "Technology Crossover Ventures (TCV)",
-      "city": "SF",
-      "tags": ["$20B AUM", "Growth", "Late-stage"],
-      "website": "https://tcv.com",
-      "notes": "Backed Netflix, growth AI focus",
-      "partners": [
-        {"id": "vc-91", "name": "Jay Hoag", "role": "Founding GP", "x": "jaychoag", "linkedin": "", "notes": "Co-founded TCV 1995, 40+ years tech investor, Netflix board 20+ years, also Zillow board, prev Chancellor Capital MD"},
-        {"id": "vc-92", "name": "Woody Marshall", "role": "General Partner", "x": "woodymarshall", "linkedin": "", "notes": "Joined 2008, VC since 1995, prev 12 years Trident Capital, current boards: Spotify, GoFundMe, Airbnb, multiple Forbes Midas List"}
-      ]
-    },
-    {
-      "id": "firm-34",
-      "name": "Insight Partners",
-      "city": "NYC",
-      "tags": ["$30B AUM", "Growth", "Software"],
-      "website": "https://insightpartners.com",
-      "notes": "Backed Qualtrics, Databricks (Dec 2025), software AI focus, $90B+ regulatory AUM",
-      "partners": [
-        {"id": "vc-93", "name": "Jeff Horing", "role": "Co-Founder & MD", "x": "", "linkedin": "", "notes": "Co-founded Insight 1995, low public profile, built firm to $90B+ AUM, oversees one of world's largest software platforms"},
-        {"id": "vc-94", "name": "Deven Parekh", "role": "Managing Director", "x": "djparekh", "linkedin": "", "notes": "Joined 2000, led 140+ investments globally, backed Alibaba/Twitter/JD.com IPOs, Fanatics, Checkout.com, CFR board, US DFC board member"},
-        {"id": "vc-95", "name": "Jeff Lieberman", "role": "Managing Director", "x": "", "linkedin": "", "notes": "Joined 1998, 24+ years continuous tenure, led 100+ deals across 4 continents, backed Qualtrics, DeliveryHero, HelloFresh, Udemy, Forbes Midas List"}
-      ]
-    },
-    {
-      "id": "firm-35",
-      "name": "Pear VC",
-      "city": "SF",
-      "tags": ["$500M AUM", "Pre-seed", "Technical founders"],
-      "website": "https://pear.vc",
-      "notes": "Backed DoorDash, Dropbox, Gusto, Guardant Health, $432M Fund IV (2023)",
-      "partners": [
-        {"id": "vc-96", "name": "Pejman Nozad", "role": "Co-Founder & Managing Partner", "x": "pejmannozad", "linkedin": "", "notes": "Iranian-American, famously started as rug salesman in SV, Forbes Midas Seed List #1 three years (2023-2025), backed DoorDash, Dropbox, Gusto, AppLovin"},
-        {"id": "vc-97", "name": "Mar Hershenson", "role": "Co-Founder & Managing Partner", "x": "MarHershenson", "linkedin": "", "notes": "Spanish-American from Barcelona, Stanford PhD EE, 3x founder, brings engineering rigor to early-stage investing"}
-      ]
-    },
-    {
-      "id": "firm-36",
-      "name": "Village Global",
-      "city": "SF",
-      "tags": ["$500M AUM", "Seed", "Network-driven"],
-      "website": "https://villageglobal.vc",
-      "notes": "Network-driven model backed by Gates, Bezos, Zuckerberg",
-      "partners": [
-        {"id": "vc-98", "name": "Ben Casnocha", "role": "Co-Founder & GP", "x": "bencasnocha", "linkedin": "", "notes": "Co-authored 'The Startup of You' with Reid Hoffman, former Chief of Staff to Reid Hoffman at LinkedIn, co-founded Village Global 2017"},
-        {"id": "vc-99", "name": "Erik Torenberg", "role": "Partner Emeritus", "x": "eriktorenberg", "linkedin": "", "notes": "Founding employee Product Hunt, founded On Deck, co-founded Village Global 2017, now Partner Emeritus"}
-      ]
-    },
-    {
-      "id": "firm-37",
-      "name": "Lux Capital",
-      "city": "SF",
-      "tags": ["$5B AUM", "Deep tech", "Frontier science"],
-      "website": "https://luxcapital.com",
-      "notes": "Backed Anduril, Planet, deep tech visionary, recently closed $1.5B Fund IX",
-      "partners": [
-        {"id": "vc-100", "name": "Josh Wolfe", "role": "Co-Founder & Managing Partner", "x": "wolfejosh", "linkedin": "", "notes": "Co-founded Lux 2000, deep tech visionary, backed Anduril, Planet, Hadrian, Osmo, Santa Fe Institute trustee, White House emerging tech advisor, ~181K Twitter followers"},
-        {"id": "vc-101", "name": "Peter Hebert", "role": "Co-Founder & Managing Partner", "x": "peterjhebert", "linkedin": "", "notes": "Co-founded Lux 2000, backed Auris Health ($6B J&J), Luxtera ($660M Cisco), Matterport ($2.1B CoStar), co-founded Thematic 2021"},
-        {"id": "vc-102", "name": "Shahin Farshchi", "role": "General Partner", "x": "Farshchi", "linkedin": "", "notes": "UCLA PhD neural interfaces, joined 2007, semiconductors/space/autonomous/robotics/AI focus, backed Zoox, Planet, Relativity Space, MosaicML, Covariant"}
-      ]
-    },
-    {
-      "id": "firm-38",
-      "name": "Sapphire Ventures",
-      "city": "SF",
-      "tags": ["$11B AUM", "Growth", "Enterprise"],
-      "website": "https://sapphireventures.com",
-      "notes": "Former SAP venture arm now independent, growth enterprise software/AI",
-      "partners": [
-        {"id": "vc-103", "name": "Nino Marakovic", "role": "CEO & Co-Founder", "x": "NinoMarakovic", "linkedin": "", "notes": "25+ years investing/operating, backed 100+ private companies, Austin-based, prev Goldman/Robertson Stephens/MVC Capital, ~$25M sweet spot"},
-        {"id": "vc-104", "name": "Jai Das", "role": "President & Co-Founder", "x": "jai_das", "linkedin": "", "notes": "Born Kolkata, Brown BS/Chicago Booth MBA, joined 2006, 11+ IPOs including Alteryx, Box, Five9, Square, Nutanix, cloud infra/SaaS focus"}
-      ]
-    },
-    {
-      "id": "firm-39",
-      "name": "Salesforce Ventures",
-      "city": "SF",
-      "tags": ["$6B+ AUM", "SaaS/AI", "Strategic"],
-      "website": "https://salesforceventures.com",
-      "notes": "$1B AI fund, strategic corporate VC, $5B+ deployed across 400+ companies",
-      "partners": [
-        {"id": "vc-105", "name": "John Somorjai", "role": "President & EVP Corp Dev", "x": "jsomorjai", "linkedin": "", "notes": "Helped found Salesforce Ventures 2009, oversees $5B+ deployed, leads both corp dev and venture investing"},
-        {"id": "vc-106", "name": "Paul Drews", "role": "Managing Partner", "x": "pdrews", "linkedin": "", "notes": "Joined 2020, prev Tenaya Capital partner/Battery VP, board: Databricks, Anthropic, Vercel, Astronomer, Airbyte, Wharton MBA/Duke BS"}
-      ]
-    },
-    {
-      "id": "firm-40",
-      "name": "Greycroft",
-      "city": "SF",
-      "tags": ["$3B AUM", "All stages", "Consumer/Enterprise"],
-      "website": "https://greycroft.com",
-      "notes": "AI/infra focus, SF office",
-      "partners": [
-        {"id": "vc-107", "name": "Dana Settle", "role": "Co-Founder & Managing Partner", "x": "dsettle", "linkedin": "", "notes": "Leads firm operations and investment strategy, LA/SF based, co-founded Greycroft 2006"},
-        {"id": "vc-108", "name": "Ian Sigalow", "role": "Co-Founder & Managing Partner", "x": "Sigalow", "linkedin": "", "notes": "NYC-based, co-founded Greycroft 2006, 'advocate for founders, dreamers, and nerds'"},
-        {"id": "vc-109", "name": "John Elton", "role": "Partner", "x": "johnelton", "linkedin": "", "notes": "Focus on scaling portfolio companies, prev iNovia Capital MP, backed TripleLift (Vista), Chango (Rubicon), Vizu (Nielsen)"}
-      ]
-    },
-    {
-      "id": "firm-41",
-      "name": "ARCH Venture Partners",
-      "city": "SF",
-      "tags": ["$13B AUM", "Biotech AI", "Early-stage"],
-      "website": "https://archventure.com",
-      "notes": "Biotech AI focus, SF active, backed Illumina, Alnylam, Altos Labs, Xaira",
-      "partners": [
-        {"id": "vc-110", "name": "Robert Nelsen", "role": "Co-Founder & MD", "x": "rtnarch", "linkedin": "", "notes": "Company founder and VC focused on disruptive innovation esp biotech/AI, backed Illumina, Alnylam, Juno, Beam, Altos Labs, Xaira, UChicago MBA"},
-        {"id": "vc-111", "name": "Keith Crandell", "role": "Co-Founder & MD", "x": "", "linkedin": "", "notes": "Life science therapeutics/tools/devices/diagnostics focus, formed 908 Devices, Twist Bioscience, Quanterix, UChicago MBA"},
-        {"id": "vc-112", "name": "Kristina Burow", "role": "Managing Director", "x": "", "linkedin": "", "notes": "Joined 2002, co-founder Neumora/Orbital Therapeutics, board: Scholar Rock, Metsera, Boundless Bio, prev Novartis BioVenture, UChicago MBA"}
-      ]
-    },
-    {
-      "id": "firm-42",
-      "name": "Coatue",
-      "city": "SF",
-      "tags": ["$54B+ AUM", "Late-stage", "Crossover"],
-      "website": "https://coatue.com",
-      "notes": "Midas-listed, hedge fund + venture, lifecycle investing from seed to public",
-      "partners": [
-        {"id": "vc-113", "name": "Philippe Laffont", "role": "Founder & PM", "x": "plaffont", "linkedin": "", "notes": "French hedge fund manager (b.1967), prev Tiger Management analyst, MIT BS/MS CS, investor from seed to public, '7 year predictions'"},
-        {"id": "vc-114", "name": "Thomas Laffont", "role": "Co-Founder & CIO of Privates", "x": "coatue_thomas", "linkedin": "", "notes": "Launched Coatue private investing, leads East Meets West Conference, prev 7 years CAA, Philippe's brother"}
-      ]
-    },
-    {
-      "id": "firm-43",
-      "name": "Dragoneer Investment Group",
-      "city": "SF",
-      "tags": ["$22B AUM", "Growth-stage", "Software"],
-      "website": "https://dragoneer.com",
-      "notes": "Growth focus, SF HQ, backed Datadog, Snowflake, Slack, NuBank",
-      "partners": [
-        {"id": "vc-115", "name": "Marc Stad", "role": "Founder & Managing Partner", "x": "", "linkedin": "", "notes": "Founded Dragoneer 2012, youngest SF Commissioner in history, Fortune 40u40 2018, led $2.6B AmWINS buyout, prev TPG/McKinsey, Harvard AB/Stanford MBA"},
-        {"id": "vc-116", "name": "Christian Jensen", "role": "Partner & Co-Head of Private Investments", "x": "", "linkedin": "", "notes": "Joined 2016, software/fintech/consumer focus, backed Datadog, Snowflake, Slack, NuBank, ServiceTitan, UiPath, prev Accel/AEA, Yale BA/Stanford MBA"}
-      ]
-    },
-    {
-      "id": "firm-44",
-      "name": "Norwest Venture Partners",
-      "city": "SF",
-      "tags": ["$12B AUM", "Multi-stage", "Global"],
-      "website": "https://norwest.com",
-      "notes": "Multi-stage, SF ties",
-      "partners": [
-        {"id": "vc-117", "name": "Jeff Crowe", "role": "Senior Managing Partner", "x": "jeffmcrowe", "linkedin": "", "notes": "Consumer focus, backed Talkspace, Opendoor, Madison Reed, Grove Collaborative, Dartmouth alum"},
-        {"id": "vc-118", "name": "Promod Haque", "role": "General Partner", "x": "promodhaque", "linkedin": "", "notes": "31+ years VC, Forbes Hall of Fame (2014, 2016), 13x Midas List including #1 in 2004, $40B+ aggregate exit value, joined 1990"},
-        {"id": "vc-119", "name": "Jon Kossow", "role": "Managing Partner", "x": "", "linkedin": "", "notes": "23+ years investment experience, co-head growth equity, prev Goldman Sachs Director/TA Associates VP, GrowthCap Top Software Investor 2023"}
-      ]
-    },
-    {
-      "id": "firm-45",
-      "name": "Shasta Ventures",
-      "city": "SF",
-      "tags": ["$2B AUM", "Early-stage", "Cloud"],
-      "website": "https://shasta.vc",
-      "notes": "Cloud focus, SF-based, backed Canva, Nest ($3.2B Google)",
-      "partners": [
-        {"id": "vc-120", "name": "Tod Francis", "role": "Co-Founder & MD", "x": "todfrancis", "linkedin": "", "notes": "Co-founded Shasta 2004, early investor Canva, Mint, Zwift, Tonal, Glint, Class Dojo, consumer tech focus"},
-        {"id": "vc-121", "name": "Jason Pressman", "role": "Co-Founder & MD", "x": "jpressman", "linkedin": "", "notes": "Integral role developing Walmart.com, board: Lattice, Nextdoor, Zuora, exits to Google, Adobe, LinkedIn, Salesforce, IBM"},
-        {"id": "vc-122", "name": "Rob Coneybeer", "role": "Co-Founder & MD", "x": "robconeybeer", "linkedin": "", "notes": "24-year VC, Robotics/Space/Connected Hardware/Transportation focus, led Nest Series A ($3.2B Google), prev NEA GP, Georgia Tech MS/Wharton MBA Palmer Scholar"}
-      ]
-    },
-    {
-      "id": "firm-46",
-      "name": "True Ventures",
-      "city": "SF",
-      "tags": ["$3B AUM", "Seed/Early", "Founder-focused"],
-      "website": "https://trueventures.com",
-      "notes": "Early bets, founder-focused, backed Automattic, Duo Security, Fitbit, HashiCorp, Peloton, Ring",
-      "partners": [
-        {"id": "vc-123", "name": "Jon Callaghan", "role": "Co-Founder & Managing Partner", "x": "jcal7", "linkedin": "", "notes": "Co-founded True 2005, VC since 1991, first investor Automattic, Duo Security, Fitbit, Hashicorp, Peloton, Ring, chaired NVCA 2015-16"},
-        {"id": "vc-124", "name": "Phil Black", "role": "Co-Founder & Partner", "x": "MrVelvet", "linkedin": "", "notes": "Co-founding partner, prev Summit Partners where he met Jon Callaghan, early-stage founder focus"},
-        {"id": "vc-125", "name": "Kevin Rose", "role": "Partner", "x": "kevinrose", "linkedin": "", "notes": "Promoted to full-time Partner Feb 2025, founded Digg, angel in Twitter, Square, Nextdoor, Facebook, prev GV GP, AI/health/consumer focus"}
-      ]
-    },
-    {
-      "id": "firm-47",
-      "name": "Venrock",
-      "city": "SF",
-      "tags": ["$4B AUM", "Multi-stage", "Biotech/Tech"],
-      "website": "https://venrock.com",
-      "notes": "Historic firm (Rockefeller origins), biotech/tech AI focus",
-      "partners": [
-        {"id": "vc-126", "name": "Bryan Roberts", "role": "Partner", "x": "BRobertsVC", "linkedin": "", "notes": "Joined 1997, ranked #1 healthcare investor by Forbes since 2008, Harvard PhD chemistry, co-founder Devoted Health, boards: 10X Genomics, Cloudflare"},
-        {"id": "vc-127", "name": "Bob Kocher", "role": "Partner", "x": "bobkocher", "linkedin": "", "notes": "Health tech/services focus, prev Special Assistant to President Obama for Healthcare/Economic Policy, writes at BetterHealthcareSooner.org"}
-      ]
-    },
-    {
-      "id": "firm-48",
-      "name": "Felicis Ventures",
-      "city": "SF",
-      "tags": ["$2B AUM", "Seed/Early", "Unicorn maker"],
-      "website": "https://felicis.com",
-      "notes": "Backed Shopify, Canva, Notion, Plaid, $900M tenth fund (2025)",
-      "partners": [
-        {"id": "vc-128", "name": "Aydin Senkut", "role": "Founder & Managing Partner", "x": "asenkut", "linkedin": "", "notes": "Google employee #63, first PM, Forbes Midas List 12x (2014-2025), NYT Top 20 VC 4x, founded Felicis 2006, backed Shopify, Canva, Notion, Plaid"},
-        {"id": "vc-129", "name": "Sundeep Peechu", "role": "Managing Partner", "x": "speechu", "linkedin": "", "notes": "Founding member Felicis, backed Mercor, Coalition, Plaid, Komodo Health, IPOs: Ginkgo Bioworks, Matterport, Recursion Pharma, Wish"},
-        {"id": "vc-130", "name": "Viviana Faga", "role": "General Partner", "x": "vivfaga", "linkedin": "", "notes": "20+ years SaaS/cloud, former Yammer head of marketing (post-$1.2B Microsoft), prev Salesforce/Zenefits, enterprise/AI/fintech focus"}
-      ]
-    },
-    {
-      "id": "firm-49",
+      "id": "firm-24",
       "name": "IVP (Institutional Venture Partners)",
       "city": "SF",
       "tags": ["$8B AUM", "Growth-stage", "Enterprise"],
       "website": "https://ivp.com",
       "notes": "Backed Grammarly, led Perplexity $500M (Dec 2025)",
       "partners": [
-        {"id": "vc-131", "name": "Jules Maltz", "role": "General Partner", "x": "JulesMaltz", "linkedin": "", "notes": "15+ years at IVP since 2008, backed Dropbox, Grammarly, Slack, Zendesk, Nextdoor, MuleSoft, Forbes Midas List 2018-2020, teaches at Berkeley/Stanford"},
-        {"id": "vc-132", "name": "Somesh Dash", "role": "Managing Director & GP", "x": "someshdash", "linkedin": "", "notes": "Backed Twitter, Netflix, Slack, Snap, Dropbox, Uber, US-India Strategic Partnership Forum board"}
+        {"id": "vc-66", "name": "Jules Maltz", "role": "General Partner", "x": "JulesMaltz", "linkedin": "", "notes": "15+ years at IVP since 2008, backed Dropbox, Grammarly, Slack, Zendesk, Nextdoor, MuleSoft, Forbes Midas List 2018-2020, teaches at Berkeley/Stanford"},
+        {"id": "vc-67", "name": "Somesh Dash", "role": "Managing Director & GP", "x": "someshdash", "linkedin": "", "notes": "Backed Twitter, Netflix, Slack, Snap, Dropbox, Uber, US-India Strategic Partnership Forum board"}
       ]
     },
     {
-      "id": "firm-50",
-      "name": "Commerce Ventures",
+      "id": "firm-25",
+      "name": "Greylock Partners",
       "city": "SF",
-      "tags": ["$1B AUM", "Fintech", "Early-stage"],
-      "website": "https://commerce.vc",
-      "notes": "Fintech/consumer AI focus",
+      "tags": ["$8B AUM", "Enterprise", "Seed/Early"],
+      "website": "https://greylock.com",
+      "notes": "Enterprise focus, backed LinkedIn, Figma, Discord, strong AI focus in 2025",
       "partners": [
-        {"id": "vc-133", "name": "Dan Rosen", "role": "Founder & GP", "x": "venturedan", "linkedin": "", "notes": "Founded Commerce Ventures, 20+ years investing at HarbourVest/Highland, leads FinTech team, board: BillGO, Kin, Socure"},
-        {"id": "vc-134", "name": "Matt Nichols", "role": "General Partner", "x": "mnichols47", "linkedin": "", "notes": "20+ years as investor/operator, leads commerce infra/retail tech, board: Pensa, Instock"},
-        {"id": "vc-135", "name": "Vivek Krishnamurthy", "role": "Partner", "x": "VivekKri", "linkedin": "", "notes": "With Commerce since 2017, promoted Partner 2023, prev FT Partners IB (~$1B deals), FinTech/InsurTech focus"}
+        {"id": "vc-68", "name": "Reid Hoffman", "role": "Partner", "x": "reidhoffman", "linkedin": "", "notes": "Co-founder LinkedIn, joined Greylock 2009, PayPal founding team, Microsoft board, author 'Superagency', co-founder Inflection AI"},
+        {"id": "vc-69", "name": "David Sze", "role": "Advisory Partner", "x": "davidsze", "linkedin": "", "notes": "Joined 2000, Yale BA/Stanford MBA, backed Facebook, LinkedIn, Roblox, Discord, Pandora, TikTok/ByteDance"},
+        {"id": "vc-70", "name": "Saam Motamedi", "role": "General Partner", "x": "saammotamedi", "linkedin": "", "notes": "Youngest GP (promoted 2019 at 26), Stanford CS, founded Guru Labs, backed Abnormal, Cresta, Snorkel, AI/cybersecurity focus"}
       ]
     },
     {
-      "id": "firm-51",
-      "name": "Contrary",
+      "id": "firm-26",
+      "name": "Redpoint Ventures",
       "city": "SF",
-      "tags": ["$500M AUM", "Seed/Early", "Student founders"],
-      "website": "https://contrary.com",
-      "notes": "Diverse founders, early AI focus, backed Ramp, Anduril, Zepto",
+      "tags": ["$6B AUM", "Enterprise", "Consumer"],
+      "website": "https://redpoint.com",
+      "notes": "Leading Silicon Valley VC firm, backed Snowflake, Stripe, Netflix, Twilio, HashiCorp, Nubank",
       "partners": [
-        {"id": "vc-136", "name": "Eric Tarczynski", "role": "Founder & Managing Partner", "x": "etarczynski", "linkedin": "", "notes": "Founded Contrary 2016, built firm focused on student/early-career founders, backed Ramp, Anduril, Zepto, also runs Contrary Research"},
-        {"id": "vc-137", "name": "Kyle Harrison", "role": "General Partner", "x": "kwharrison13", "linkedin": "", "notes": "Prev Index Ventures/Coatue/TCV, author 'Investing 101' Substack with 25K+ subscribers, leads Contrary Research"}
+        {"id": "vc-71", "name": "Jacob Effron", "role": "Partner", "x": "jacobeffron", "linkedin": "", "notes": "Former PM @ Flatiron Health"},
+        {"id": "vc-72", "name": "Patrick Chase", "role": "Partner", "x": "patrickachase", "linkedin": "", "notes": "Former ML Engineer @ LinkedIn"},
+        {"id": "vc-73", "name": "Erica Brescia", "role": "Managing Director", "x": "ericabrescia", "linkedin": "", "notes": "Former COO @ GitHub, Founder @ Bitnami (acquired by VMware)"},
+        {"id": "vc-74", "name": "Jordan Segall", "role": "Partner", "x": "jordan_segall", "linkedin": "", "notes": "Partner @ Redpoint Ventures"}
       ]
     },
     {
-      "id": "firm-52",
+      "id": "firm-27",
+      "name": "Salesforce Ventures",
+      "city": "SF",
+      "tags": ["$6B+ AUM", "SaaS/AI", "Strategic"],
+      "website": "https://salesforceventures.com",
+      "notes": "$1B AI fund, strategic corporate VC, $5B+ deployed across 400+ companies",
+      "partners": [
+        {"id": "vc-75", "name": "John Somorjai", "role": "President & EVP Corp Dev", "x": "jsomorjai", "linkedin": "", "notes": "Helped found Salesforce Ventures 2009, oversees $5B+ deployed, leads both corp dev and venture investing"},
+        {"id": "vc-76", "name": "Paul Drews", "role": "Managing Partner", "x": "pdrews", "linkedin": "", "notes": "Joined 2020, prev Tenaya Capital partner/Battery VP, board: Databricks, Anthropic, Vercel, Astronomer, Airbyte, Wharton MBA/Duke BS"}
+      ]
+    },
+    {
+      "id": "firm-28",
+      "name": "Menlo Ventures",
+      "city": "SF",
+      "tags": ["$5B AUM", "Early to growth", "AI"],
+      "website": "https://menlovc.com",
+      "notes": "Backed Uber, launched $100M Anthropic Anthology Fund 2024",
+      "partners": [
+        {"id": "vc-77", "name": "Matt Murphy", "role": "Partner", "x": "mmurph", "linkedin": "", "notes": "15+ years at Kleiner Perkins, co-led iFund, backed DocuSign, AppDynamics, AI infrastructure/DevOps focus"},
+        {"id": "vc-78", "name": "Shawn Carolan", "role": "Partner", "x": "shawnvc", "linkedin": "", "notes": "Stanford MBA, joined 2002, founding CEO Handle Inc, backed Uber, Roku, Chime (IPO 2025), Siri, JUMP Bikes"},
+        {"id": "vc-79", "name": "Venky Ganesan", "role": "Managing Partner", "x": "venkyganesan", "linkedin": "", "notes": "Caltech BS, founded Trigo (IBM), former McKinsey/Microsoft, backed Palo Alto Networks, Upwork, Redfin, former NVCA Chair"}
+      ]
+    },
+    {
+      "id": "firm-29",
+      "name": "Spark Capital",
+      "city": "SF",
+      "tags": ["$5B AUM", "Early-stage", "Consumer"],
+      "website": "https://sparkcapital.com",
+      "notes": "Backed Twitter (Series B), consumer AI focus",
+      "partners": [
+        {"id": "vc-80", "name": "Nabeel Hyatt", "role": "General Partner", "x": "nabeel", "linkedin": "", "notes": "Joined 2012, opened SF office, multi-time founder, led Cruise Series A (GM acquisition), backed Discord, Postmates, Sonder"},
+        {"id": "vc-81", "name": "Yasmin Razavi", "role": "General Partner", "x": "YasminRazavi", "linkedin": "", "notes": "Joined 2017, prev McKinsey/Index/Snap PM, Tehran-born, Toronto eng/Harvard MBA, backed Deel, Anthropic Series C, Marqeta"},
+        {"id": "vc-82", "name": "Bijan Sabet", "role": "Co-Founder & GP Emeritus", "x": "bijan", "linkedin": "", "notes": "Co-founded Spark 2005, now US Ambassador to Czech Republic, led Twitter Series B, Tumblr ($1.1B Yahoo), Foursquare"}
+      ]
+    },
+    {
+      "id": "firm-30",
+      "name": "Matrix Partners",
+      "city": "SF",
+      "tags": ["$5B AUM", "Early-stage", "Seed to Series A"],
+      "website": "https://matrix.vc",
+      "notes": "4 Series A leads, early AI investments",
+      "partners": [
+        {"id": "vc-83", "name": "Ilya Sukhar", "role": "General Partner", "x": "ilyasu", "linkedin": "", "notes": "Cornell CS BS/MS, founded Parse (Facebook ~$85M), was Facebook Head of Dev Products, YC part-time partner, angel in Scale AI, Applied Intuition, GitLab"},
+        {"id": "vc-84", "name": "Jake Jolis", "role": "Partner", "x": "jakejolis", "linkedin": "", "notes": "Stanford, founded Verbling (YC), cloud infra/AI/Enterprise/GenAI focus, backed Applied Intuition, Humanloop, Steadily"},
+        {"id": "vc-85", "name": "Antonio Rodriguez", "role": "General Partner", "x": "antrod", "linkedin": "", "notes": "Harvard/Stanford MBA, Venezuelan, founded Tabblo (HP), backed Oculus VR (Facebook $2.3B), The Echo Nest (Spotify)"}
+      ]
+    },
+    {
+      "id": "firm-31",
+      "name": "Sutter Hill Ventures",
+      "city": "SF",
+      "tags": ["$5B AUM", "Enterprise", "Early-stage"],
+      "website": "https://shv.com",
+      "notes": "#176 Time, backed Snowflake (<$200M investment became $12B+ stake at IPO)",
+      "partners": [
+        {"id": "vc-86", "name": "Mike Speiser", "role": "Managing Director", "x": "laserlikemike", "linkedin": "", "notes": "Harvard MBA, founding CEO Snowflake (2012-14) and Pure Storage, former Yahoo/Veritas, founded Lacework, Clumio, Augment Code"},
+        {"id": "vc-87", "name": "Stefan Dyckerhoff", "role": "Managing Director", "x": "stefandyckerhof", "linkedin": "", "notes": "Stanford MS EE, Juniper employee #33, rose to EVP & GM, former Lacework CEO, one of only 12 partners in SHV history"},
+        {"id": "vc-88", "name": "Sam Pullara", "role": "Managing Director & CTO", "x": "sampullara", "linkedin": "", "notes": "Northwestern MS Physics, former Twitter senior infra engineer (Rails to Scala), co-founded Bagcheck (Twitter), former Yahoo Chief Tech"}
+      ]
+    },
+    {
+      "id": "firm-32",
+      "name": "Lux Capital",
+      "city": "SF",
+      "tags": ["$5B AUM", "Deep tech", "Frontier science"],
+      "website": "https://luxcapital.com",
+      "notes": "Backed Anduril, Planet, deep tech visionary, recently closed $1.5B Fund IX",
+      "partners": [
+        {"id": "vc-89", "name": "Josh Wolfe", "role": "Co-Founder & Managing Partner", "x": "wolfejosh", "linkedin": "", "notes": "Co-founded Lux 2000, deep tech visionary, backed Anduril, Planet, Hadrian, Osmo, Santa Fe Institute trustee, White House emerging tech advisor, ~181K Twitter followers"},
+        {"id": "vc-90", "name": "Peter Hebert", "role": "Co-Founder & Managing Partner", "x": "peterjhebert", "linkedin": "", "notes": "Co-founded Lux 2000, backed Auris Health ($6B J&J), Luxtera ($660M Cisco), Matterport ($2.1B CoStar), co-founded Thematic 2021"},
+        {"id": "vc-91", "name": "Shahin Farshchi", "role": "General Partner", "x": "Farshchi", "linkedin": "", "notes": "UCLA PhD neural interfaces, joined 2007, semiconductors/space/autonomous/robotics/AI focus, backed Zoox, Planet, Relativity Space, MosaicML, Covariant"}
+      ]
+    },
+    {
+      "id": "firm-33",
+      "name": "Venrock",
+      "city": "SF",
+      "tags": ["$4B AUM", "Multi-stage", "Biotech/Tech"],
+      "website": "https://venrock.com",
+      "notes": "Historic firm (Rockefeller origins), biotech/tech AI focus",
+      "partners": [
+        {"id": "vc-92", "name": "Bryan Roberts", "role": "Partner", "x": "BRobertsVC", "linkedin": "", "notes": "Joined 1997, ranked #1 healthcare investor by Forbes since 2008, Harvard PhD chemistry, co-founder Devoted Health, boards: 10X Genomics, Cloudflare"},
+        {"id": "vc-93", "name": "Bob Kocher", "role": "Partner", "x": "bobkocher", "linkedin": "", "notes": "Health tech/services focus, prev Special Assistant to President Obama for Healthcare/Economic Policy, writes at BetterHealthcareSooner.org"}
+      ]
+    },
+    {
+      "id": "firm-34",
+      "name": "Greycroft",
+      "city": "SF",
+      "tags": ["$3B AUM", "All stages", "Consumer/Enterprise"],
+      "website": "https://greycroft.com",
+      "notes": "AI/infra focus, SF office",
+      "partners": [
+        {"id": "vc-94", "name": "Dana Settle", "role": "Co-Founder & Managing Partner", "x": "dsettle", "linkedin": "", "notes": "Leads firm operations and investment strategy, LA/SF based, co-founded Greycroft 2006"},
+        {"id": "vc-95", "name": "Ian Sigalow", "role": "Co-Founder & Managing Partner", "x": "Sigalow", "linkedin": "", "notes": "NYC-based, co-founded Greycroft 2006, 'advocate for founders, dreamers, and nerds'"},
+        {"id": "vc-96", "name": "John Elton", "role": "Partner", "x": "johnelton", "linkedin": "", "notes": "Focus on scaling portfolio companies, prev iNovia Capital MP, backed TripleLift (Vista), Chango (Rubicon), Vizu (Nielsen)"}
+      ]
+    },
+    {
+      "id": "firm-35",
+      "name": "Initialized Capital",
+      "city": "SF",
+      "tags": ["$3B AUM", "Seed", "Founders"],
+      "website": "https://initialized.com",
+      "notes": "#4 founder votes, backed Instacart, Coinbase, Reddit, Rippling",
+      "partners": [
+        {"id": "vc-97", "name": "Brett Gibson", "role": "Managing Partner", "x": "brettdg", "linkedin": "", "notes": "UC Santa Barbara BA Phil, co-founded Posterous with Garry Tan (Twitter), built YC internal software, backed Bison Trails, AstroForge"},
+        {"id": "vc-98", "name": "Alda Leu Dennis", "role": "General Partner", "x": "AldaLeuDennis", "linkedin": "", "notes": "Stanford, former 137 Ventures MP (led Planet, Wish, Coupang IPOs), former Founders Fund General Counsel, joined 2017"},
+        {"id": "vc-99", "name": "Garry Tan", "role": "Founder & Board Partner", "x": "garrytan", "linkedin": "", "notes": "Co-founded Initialized 2012 with Alexis Ohanian, co-founded Posterous (Twitter), now YC CEO, early backer Coinbase, Instacart, Reddit"}
+      ]
+    },
+    {
+      "id": "firm-36",
+      "name": "True Ventures",
+      "city": "SF",
+      "tags": ["$3B AUM", "Seed/Early", "Founder-focused"],
+      "website": "https://trueventures.com",
+      "notes": "Early bets, founder-focused, backed Automattic, Duo Security, Fitbit, HashiCorp, Peloton, Ring",
+      "partners": [
+        {"id": "vc-100", "name": "Jon Callaghan", "role": "Co-Founder & Managing Partner", "x": "jcal7", "linkedin": "", "notes": "Co-founded True 2005, VC since 1991, first investor Automattic, Duo Security, Fitbit, Hashicorp, Peloton, Ring, chaired NVCA 2015-16"},
+        {"id": "vc-101", "name": "Phil Black", "role": "Co-Founder & Partner", "x": "MrVelvet", "linkedin": "", "notes": "Co-founding partner, prev Summit Partners where he met Jon Callaghan, early-stage founder focus"},
+        {"id": "vc-102", "name": "Kevin Rose", "role": "Partner", "x": "kevinrose", "linkedin": "", "notes": "Promoted to full-time Partner Feb 2025, founded Digg, angel in Twitter, Square, Nextdoor, Facebook, prev GV GP, AI/health/consumer focus"}
+      ]
+    },
+    {
+      "id": "firm-37",
+      "name": "First Round Capital",
+      "city": "SF",
+      "tags": ["$2B AUM", "Seed/Pre-seed", "Founders"],
+      "website": "https://firstround.com",
+      "notes": "#174 Time, backed Uber, seed AI labs, known for founder community",
+      "partners": [
+        {"id": "vc-103", "name": "Josh Kopelman", "role": "Co-Founder & Partner", "x": "joshk", "linkedin": "", "notes": "Wharton BS, founded Infonautics (NASDAQ IPO as student), Half.com (eBay), co-founded First Round 2004, Forbes Midas List top 20"},
+        {"id": "vc-104", "name": "Bill Trenchard", "role": "Partner", "x": "btrenchard", "linkedin": "", "notes": "Former LiveOps CEO ($100M revenue), Jump Networks (Microsoft), backed Uber, Looker (Google), Flexport, Verkada"},
+        {"id": "vc-105", "name": "Todd Jackson", "role": "Partner", "x": "tjack", "linkedin": "", "notes": "Stanford, former VP Product Dropbox (through IPO), Twitter Dir PM, co-founder Cover (Twitter), led Gmail to 200M users"},
+        {"id": "vc-106", "name": "Hayley Barna", "role": "Partner", "x": "hayleybay", "linkedin": "", "notes": "Harvard magna cum laude/MBA, co-founder Birchbox, first female partner at First Round, Fortune 40u40, All Raise founder"}
+      ]
+    },
+    {
+      "id": "firm-38",
+      "name": "500 Global",
+      "city": "SF",
+      "tags": ["$2B AUM", "Seed", "Global"],
+      "website": "https://500.co",
+      "notes": "#8 social, seed AI focus, 2,600+ portfolio companies across 81 countries",
+      "partners": [
+        {"id": "vc-107", "name": "Christine Tsai", "role": "CEO & Founding Partner", "x": "christine_tsai", "linkedin": "", "notes": "Co-founded 500 in 2010, grew to $2.7B AUM, former Google product marketing (AdSense, Analytics, YouTube APIs)"},
+        {"id": "vc-108", "name": "Courtney Powell", "role": "COO & Managing Partner", "x": "CourtneyPowell", "linkedin": "", "notes": "Named COO July 2019, oversees operations across $3B AUM in 80+ countries, impact investing focus"}
+      ]
+    },
+    {
+      "id": "firm-39",
+      "name": "Union Square Ventures",
+      "city": "NYC",
+      "tags": ["$2B AUM", "Early-stage", "Thesis-driven"],
+      "website": "https://usv.com",
+      "notes": "#1 founder votes, AI-active, backed Twitter, Tumblr, Etsy, Coinbase, Kickstarter",
+      "partners": [
+        {"id": "vc-109", "name": "Fred Wilson", "role": "Co-Founder & Partner", "x": "fredwilson", "linkedin": "", "notes": "Co-founded USV 2003, VC since 1987, early backer Twitter, Tumblr, Etsy, Zynga, Kickstarter, Coinbase, prolific blogger at AVC.com"},
+        {"id": "vc-110", "name": "Albert Wenger", "role": "Managing Partner", "x": "albertwenger", "linkedin": "", "notes": "German-American, author 'The World After Capital', former del.icio.us president (Yahoo), angel in Etsy, Tumblr, blogs at Continuations"},
+        {"id": "vc-111", "name": "Rebecca Kaden", "role": "Managing Partner", "x": "rebeccakaden", "linkedin": "", "notes": "First female partner at USV (joined 2018), former journalist, prev Maveron GP (consumer-focused)"}
+      ]
+    },
+    {
+      "id": "firm-40",
+      "name": "Shasta Ventures",
+      "city": "SF",
+      "tags": ["$2B AUM", "Early-stage", "Cloud"],
+      "website": "https://shasta.vc",
+      "notes": "Cloud focus, SF-based, backed Canva, Nest ($3.2B Google)",
+      "partners": [
+        {"id": "vc-112", "name": "Tod Francis", "role": "Co-Founder & MD", "x": "todfrancis", "linkedin": "", "notes": "Co-founded Shasta 2004, early investor Canva, Mint, Zwift, Tonal, Glint, Class Dojo, consumer tech focus"},
+        {"id": "vc-113", "name": "Jason Pressman", "role": "Co-Founder & MD", "x": "jpressman", "linkedin": "", "notes": "Integral role developing Walmart.com, board: Lattice, Nextdoor, Zuora, exits to Google, Adobe, LinkedIn, Salesforce, IBM"},
+        {"id": "vc-114", "name": "Rob Coneybeer", "role": "Co-Founder & MD", "x": "robconeybeer", "linkedin": "", "notes": "24-year VC, Robotics/Space/Connected Hardware/Transportation focus, led Nest Series A ($3.2B Google), prev NEA GP, Georgia Tech MS/Wharton MBA Palmer Scholar"}
+      ]
+    },
+    {
+      "id": "firm-41",
+      "name": "Felicis Ventures",
+      "city": "SF",
+      "tags": ["$2B AUM", "Seed/Early", "Unicorn maker"],
+      "website": "https://felicis.com",
+      "notes": "Backed Shopify, Canva, Notion, Plaid, $900M tenth fund (2025)",
+      "partners": [
+        {"id": "vc-115", "name": "Aydin Senkut", "role": "Founder & Managing Partner", "x": "asenkut", "linkedin": "", "notes": "Google employee #63, first PM, Forbes Midas List 12x (2014-2025), NYT Top 20 VC 4x, founded Felicis 2006, backed Shopify, Canva, Notion, Plaid"},
+        {"id": "vc-116", "name": "Sundeep Peechu", "role": "Managing Partner", "x": "speechu", "linkedin": "", "notes": "Founding member Felicis, backed Mercor, Coalition, Plaid, Komodo Health, IPOs: Ginkgo Bioworks, Matterport, Recursion Pharma, Wish"},
+        {"id": "vc-117", "name": "Viviana Faga", "role": "General Partner", "x": "vivfaga", "linkedin": "", "notes": "20+ years SaaS/cloud, former Yammer head of marketing (post-$1.2B Microsoft), prev Salesforce/Zenefits, enterprise/AI/fintech focus"}
+      ]
+    },
+    {
+      "id": "firm-42",
       "name": "Emergence Capital",
       "city": "SF",
       "tags": ["$2B AUM", "Enterprise SaaS", "Early to growth"],
       "website": "https://emcap.com",
       "notes": "Enterprise SaaS AI focus, $8B+ realized returns, backed Salesforce, Zoom, Veeva, Box, Yammer",
       "partners": [
-        {"id": "vc-138", "name": "Jason Green", "role": "Founder & GP", "x": "jasonegreen", "linkedin": "", "notes": "Co-founded Emergence 2003, early investor Salesforce, Zoom, Veeva, Box, Yammer, $8B+ realized returns, Greenbridge Foundation founder"},
-        {"id": "vc-139", "name": "Joe Floyd", "role": "General Partner", "x": "thejoefloyd", "linkedin": "", "notes": "GP focusing on Series A/B enterprise SaaS, author siliconheroes.com and #LetThemEatTech"},
-        {"id": "vc-140", "name": "Lotti Siniscalco", "role": "Partner", "x": "Carlottasini", "linkedin": "", "notes": "Joined 2018, promoted Partner 2021 (first female partner), backed Oyster, Federato, Method, prev Advent/NerdWallet/Ribbit, Stanford GSB, Italian"}
+        {"id": "vc-118", "name": "Jason Green", "role": "Founder & GP", "x": "jasonegreen", "linkedin": "", "notes": "Co-founded Emergence 2003, early investor Salesforce, Zoom, Veeva, Box, Yammer, $8B+ realized returns, Greenbridge Foundation founder"},
+        {"id": "vc-119", "name": "Joe Floyd", "role": "General Partner", "x": "thejoefloyd", "linkedin": "", "notes": "GP focusing on Series A/B enterprise SaaS, author siliconheroes.com and #LetThemEatTech"},
+        {"id": "vc-120", "name": "Lotti Siniscalco", "role": "Partner", "x": "Carlottasini", "linkedin": "", "notes": "Joined 2018, promoted Partner 2021 (first female partner), backed Oyster, Federato, Method, prev Advent/NerdWallet/Ribbit, Stanford GSB, Italian"}
       ]
     },
     {
-      "id": "firm-53",
-      "name": "Cowboy Ventures",
-      "city": "SF",
-      "tags": ["$1B AUM", "Early-stage", "Consumer/Enterprise"],
-      "website": "https://cowboy.vc",
-      "notes": "Consumer/enterprise AI focus, founded by Aileen Lee who coined 'unicorn'",
-      "partners": [
-        {"id": "vc-141", "name": "Aileen Lee", "role": "Founder & Managing Partner", "x": "aileenlee", "linkedin": "", "notes": "Founded Cowboy 2012, coined term 'unicorn', co-founded All Raise, 10+ years Kleiner Perkins prior, Forbes Most Powerful Women, Midas List"},
-        {"id": "vc-142", "name": "Caroline Duffy", "role": "Partner", "x": "C_lineinthecity", "linkedin": "", "notes": "Joined from Construct Capital, first hire at AI Fund with Andrew Ng, prev Harvard AI researcher, Stanford MBA/Dartmouth BA, enterprise/B2B/AI focus"},
-        {"id": "vc-143", "name": "Ted Wang", "role": "Board Partner", "x": "", "linkedin": "", "notes": "Former leading startup lawyer at Fenwick 10+ years, created Series Seed docs, advised Facebook, Twitter, Dropbox, Wealthfront, founded Stoked Advisors"}
-      ]
-    },
-    {
-      "id": "firm-54",
+      "id": "firm-43",
       "name": "Radical Ventures",
       "city": "SF",
       "tags": ["$1.35B AUM", "AI-focused", "Early to growth"],
       "website": "https://radical.vc",
       "notes": "World's leading AI-focused VC, $550M early-stage + $800M growth fund, backed DatologyAI, Hebbia, Reka, Twelve Labs",
       "partners": [
-        {"id": "vc-144", "name": "Rob Toews", "role": "Partner", "x": "_RobToews", "linkedin": "https://linkedin.com/in/robtoews", "notes": "AI Columnist @ Forbes, leads Bay Area office, prev Highland Capital VC, prev Zoox Strategy Lead (Amazon $1.3B), prev White House AV policy, Harvard MBA/JD"}
+        {"id": "vc-121", "name": "Rob Toews", "role": "Partner", "x": "_RobToews", "linkedin": "https://linkedin.com/in/robtoews", "notes": "AI Columnist @ Forbes, leads Bay Area office, prev Highland Capital VC, prev Zoox Strategy Lead (Amazon $1.3B), prev White House AV policy, Harvard MBA/JD"}
+      ]
+    },
+    {
+      "id": "firm-44",
+      "name": "Bonfire Ventures",
+      "city": "LA",
+      "tags": ["$1B AUM", "Seed", "B2B"],
+      "website": "https://bonfirevc.com",
+      "notes": "#3 founder votes, B2B AI focus, recently closed Fund IV at $245M",
+      "partners": [
+        {"id": "vc-122", "name": "Jim Andelman", "role": "Co-Founder & MD", "x": "jimandelman", "linkedin": "", "notes": "Co-founded Bonfire 2017, 20+ years VC, prev founded Rincon Venture Partners, led software at Broadview Capital"},
+        {"id": "vc-123", "name": "Mark Mullen", "role": "Co-Founder & MD", "x": "markmullen", "linkedin": "", "notes": "Co-founded Bonfire 2017, prev founded Double M Partners/Mull Capital, former LA COO under Mayor Villaraigosa, exits: The Trade Desk IPO, Scopely"},
+        {"id": "vc-124", "name": "Brett Queener", "role": "Managing Director", "x": "bqueener", "linkedin": "", "notes": "Joined 2018, former Salesforce exec (through IPO), prev President/COO SmartRecruiters, product/GTM expert"}
+      ]
+    },
+    {
+      "id": "firm-45",
+      "name": "Commerce Ventures",
+      "city": "SF",
+      "tags": ["$1B AUM", "Fintech", "Early-stage"],
+      "website": "https://commerce.vc",
+      "notes": "Fintech/consumer AI focus",
+      "partners": [
+        {"id": "vc-125", "name": "Dan Rosen", "role": "Founder & GP", "x": "venturedan", "linkedin": "", "notes": "Founded Commerce Ventures, 20+ years investing at HarbourVest/Highland, leads FinTech team, board: BillGO, Kin, Socure"},
+        {"id": "vc-126", "name": "Matt Nichols", "role": "General Partner", "x": "mnichols47", "linkedin": "", "notes": "20+ years as investor/operator, leads commerce infra/retail tech, board: Pensa, Instock"},
+        {"id": "vc-127", "name": "Vivek Krishnamurthy", "role": "Partner", "x": "VivekKri", "linkedin": "", "notes": "With Commerce since 2017, promoted Partner 2023, prev FT Partners IB (~$1B deals), FinTech/InsurTech focus"}
+      ]
+    },
+    {
+      "id": "firm-46",
+      "name": "Cowboy Ventures",
+      "city": "SF",
+      "tags": ["$1B AUM", "Early-stage", "Consumer/Enterprise"],
+      "website": "https://cowboy.vc",
+      "notes": "Consumer/enterprise AI focus, founded by Aileen Lee who coined 'unicorn'",
+      "partners": [
+        {"id": "vc-128", "name": "Aileen Lee", "role": "Founder & Managing Partner", "x": "aileenlee", "linkedin": "", "notes": "Founded Cowboy 2012, coined term 'unicorn', co-founded All Raise, 10+ years Kleiner Perkins prior, Forbes Most Powerful Women, Midas List"},
+        {"id": "vc-129", "name": "Caroline Duffy", "role": "Partner", "x": "C_lineinthecity", "linkedin": "", "notes": "Joined from Construct Capital, first hire at AI Fund with Andrew Ng, prev Harvard AI researcher, Stanford MBA/Dartmouth BA, enterprise/B2B/AI focus"},
+        {"id": "vc-130", "name": "Ted Wang", "role": "Board Partner", "x": "", "linkedin": "", "notes": "Former leading startup lawyer at Fenwick 10+ years, created Series Seed docs, advised Facebook, Twitter, Dropbox, Wealthfront, founded Stoked Advisors"}
+      ]
+    },
+    {
+      "id": "firm-47",
+      "name": "Pear VC",
+      "city": "SF",
+      "tags": ["$500M AUM", "Pre-seed", "Technical founders"],
+      "website": "https://pear.vc",
+      "notes": "Backed DoorDash, Dropbox, Gusto, Guardant Health, $432M Fund IV (2023)",
+      "partners": [
+        {"id": "vc-131", "name": "Pejman Nozad", "role": "Co-Founder & Managing Partner", "x": "pejmannozad", "linkedin": "", "notes": "Iranian-American, famously started as rug salesman in SV, Forbes Midas Seed List #1 three years (2023-2025), backed DoorDash, Dropbox, Gusto, AppLovin"},
+        {"id": "vc-132", "name": "Mar Hershenson", "role": "Co-Founder & Managing Partner", "x": "MarHershenson", "linkedin": "", "notes": "Spanish-American from Barcelona, Stanford PhD EE, 3x founder, brings engineering rigor to early-stage investing"}
+      ]
+    },
+    {
+      "id": "firm-48",
+      "name": "Village Global",
+      "city": "SF",
+      "tags": ["$500M AUM", "Seed", "Network-driven"],
+      "website": "https://villageglobal.vc",
+      "notes": "Network-driven model backed by Gates, Bezos, Zuckerberg",
+      "partners": [
+        {"id": "vc-133", "name": "Ben Casnocha", "role": "Co-Founder & GP", "x": "bencasnocha", "linkedin": "", "notes": "Co-authored 'The Startup of You' with Reid Hoffman, former Chief of Staff to Reid Hoffman at LinkedIn, co-founded Village Global 2017"},
+        {"id": "vc-134", "name": "Erik Torenberg", "role": "Partner Emeritus", "x": "eriktorenberg", "linkedin": "", "notes": "Founding employee Product Hunt, founded On Deck, co-founded Village Global 2017, now Partner Emeritus"}
+      ]
+    },
+    {
+      "id": "firm-49",
+      "name": "Contrary",
+      "city": "SF",
+      "tags": ["$500M AUM", "Seed/Early", "Student founders"],
+      "website": "https://contrary.com",
+      "notes": "Diverse founders, early AI focus, backed Ramp, Anduril, Zepto",
+      "partners": [
+        {"id": "vc-135", "name": "Eric Tarczynski", "role": "Founder & Managing Partner", "x": "etarczynski", "linkedin": "", "notes": "Founded Contrary 2016, built firm focused on student/early-career founders, backed Ramp, Anduril, Zepto, also runs Contrary Research"},
+        {"id": "vc-136", "name": "Kyle Harrison", "role": "General Partner", "x": "kwharrison13", "linkedin": "", "notes": "Prev Index Ventures/Coatue/TCV, author 'Investing 101' Substack with 25K+ subscribers, leads Contrary Research"}
+      ]
+    },
+    {
+      "id": "firm-50",
+      "name": "Maxq Fund",
+      "city": "SF",
+      "tags": ["$250M target", "Growth stage", "AI focus"],
+      "website": "",
+      "notes": "Founded 2024, targeting $250M fund, focus on AI and growth-stage companies",
+      "partners": [
+        {"id": "vc-137", "name": "Ali Rowghani", "role": "Founder & GP", "x": "ROWGHANI", "linkedin": "https://linkedin.com/in/ali-rowghani-26996a1b", "notes": "Former Managing Partner @ YC Continuity (2014-2023), former COO & CFO @ Twitter (2008-2014), former CFO @ Pixar (2002-2008), Stanford BA & MBA, board member at Deel, PostHog, Pave"}
+      ]
+    },
+    {
+      "id": "firm-51",
+      "name": "Striker Venture Partners",
+      "city": "SF",
+      "tags": ["$165M fund", "Seed stage", "AI/Robotics focus"],
+      "website": "https://striker.vc",
+      "notes": "Founding team includes former CRV principals, targeting $30M seed checks, backed Skild AI, Dyna Robotics, Periodic Labs, Reflection AI",
+      "partners": [
+        {"id": "vc-138", "name": "Brian Zhan", "role": "Partner", "x": "", "linkedin": "", "notes": "Former Principal @ CRV, Forbes 30 Under 30 (VC), Northwestern CS, former engineer @ Facebook, sister is Stephanie Zhan (Sequoia GP)"}
+      ]
+    },
+    {
+      "id": "firm-52",
+      "name": "Y Combinator",
+      "city": "SF",
+      "tags": ["Accelerator", "$500K standard deal", "Top tier"],
+      "website": "https://ycombinator.com",
+      "notes": "World's most prestigious startup accelerator, $500K standard deal, backed Airbnb, Stripe, Coinbase, OpenAI, Instacart",
+      "partners": [
+        {"id": "vc-139", "name": "Garry Tan", "role": "CEO & President", "x": "garrytan", "linkedin": "", "notes": "Former partner at Initialized Capital, co-founder of Posterous, YC alum (W08)"},
+        {"id": "vc-140", "name": "Jared Friedman", "role": "Partner", "x": "jaboris", "linkedin": "", "notes": "Co-founder of Scribd, YC partner since 2015"},
+        {"id": "vc-141", "name": "Diana Hu", "role": "Partner", "x": "dianazhu", "linkedin": "", "notes": "Former Visiting Partner, leads AI/ML investments"},
+        {"id": "vc-142", "name": "Dalton Caldwell", "role": "Managing Director", "x": "daltonc", "linkedin": "", "notes": "Co-founder of App.net and imeem, YC partner since 2013"}
+      ]
+    },
+    {
+      "id": "firm-53",
+      "name": "Z Fellows",
+      "city": "SF",
+      "tags": ["Accelerator", "$10K grants", "$1B cap"],
+      "website": "https://zfellows.com",
+      "notes": "One-week accelerator giving $10K grants at $1B cap, backed early-stage founders",
+      "partners": [
+        {"id": "vc-143", "name": "Cory Levy", "role": "Founder", "x": "cory", "linkedin": "https://linkedin.com/in/clevy", "notes": "Forbes 30 Under 30, founded After School (20M users, raised $1M at age 19), interned at Founders Fund & USV in high school, University of Illinois CS"}
+      ]
+    },
+    {
+      "id": "firm-54",
+      "name": "Juniper Ventures",
+      "city": "SF",
+      "tags": ["AI Safety", "$500K checks", "Early stage"],
+      "website": "",
+      "notes": "Focus on AI safety/assurance startups, sweet spot $500K checks, backed by Reid Hoffman, Eric Ries, Jan Leike, Woj Zaremba, Geoff Ralston, publishes AI Assurance Technology Report",
+      "partners": [
+        {"id": "vc-144", "name": "Nick Fitz", "role": "Founder & GP", "x": "", "linkedin": "", "notes": "Also Founder & CEO @ Momentum (since 2018), portfolio includes Goodfire, Haize Labs"}
       ]
     }
   ],
