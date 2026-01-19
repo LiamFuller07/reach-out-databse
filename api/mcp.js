@@ -164,7 +164,8 @@ async function fetchAllContacts(categoryFilter = null) {
         company: entry.tags?.[0] || "",
         city: entry.city || "",
         tags: entry.tags || [],
-        links: entry.links || [],
+        x: entry.x || "",
+        linkedin: entry.linkedin || "",
         notes: entry.notes || "",
         checked: entry.checked || false,
         category: data.category
@@ -180,7 +181,8 @@ function normalizeContact(entry, category) {
     name: entry.name || "",
     city: entry.city || "SF",
     tags: Array.isArray(entry.tags) ? entry.tags : (entry.tags ? [entry.tags] : []),
-    links: Array.isArray(entry.links) ? entry.links : (entry.links ? [entry.links] : []),
+    x: entry.x || "",
+    linkedin: entry.linkedin || "",
     notes: entry.notes || "",
     checked: Boolean(entry.checked)
   };
