@@ -98,6 +98,20 @@
         {"id": "vc-17", "name": "Keith Rabois", "role": "GP", "x": "rabois", "linkedin": "", "notes": "Former COO of Square, executive at PayPal/LinkedIn/Opendoor"},
         {"id": "vc-18", "name": "Trae Stephens", "role": "Partner", "x": "traestephens", "linkedin": "", "notes": "Co-founder of Anduril, former Palantir"}
       ]
+    },
+    {
+      "id": "firm-9",
+      "name": "Redpoint Ventures",
+      "city": "SF",
+      "tags": ["Top tier", "Enterprise", "Consumer", "Multi-stage"],
+      "website": "https://redpoint.com",
+      "notes": "Leading Silicon Valley VC firm, backed Snowflake, Stripe, Netflix, Twilio, HashiCorp, Nubank",
+      "partners": [
+        {"id": "vc-19", "name": "Jacob Effron", "role": "Partner", "x": "jacobeffron", "linkedin": "", "notes": "Former PM @ Flatiron Health"},
+        {"id": "vc-20", "name": "Patrick Chase", "role": "Partner", "x": "patrickachase", "linkedin": "", "notes": "Former ML Engineer @ LinkedIn"},
+        {"id": "vc-21", "name": "Erica Brescia", "role": "Managing Director", "x": "ericabrescia", "linkedin": "", "notes": "Former COO @ GitHub, Founder @ Bitnami (acquired by VMware)"},
+        {"id": "vc-22", "name": "Jordan Segall", "role": "Partner", "x": "jordan_segall", "linkedin": "", "notes": "Partner @ Redpoint Ventures"}
+      ]
     }
   ],
   "last_updated": "2026-01-19T00:00:00.000Z"
