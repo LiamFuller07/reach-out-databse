@@ -1,10 +1,10 @@
 {
   "category": "vcs",
   "entries": [
-    {"id": "vc-1", "name": "Brian Zhan", "city": "SF", "tags": ["Striker VC", "RL/AI Follower"], "x": "", "linkedin": "", "notes": "FROM YOUR FOLLOWERS (RL/AI) - @ Striker VC", "checked": false},
-    {"id": "vc-2", "name": "Cory Levy", "city": "SF", "tags": ["Z Fellows"], "x": "cory", "linkedin": "https://linkedin.com/in/clevy", "notes": "@ Z Fellows", "checked": false},
-    {"id": "vc-3", "name": "Ali Rowghani", "city": "SF", "tags": ["YC Continuity"], "x": "ROWGHANI", "linkedin": "https://linkedin.com/in/ali-rowghani-26996a1b", "notes": "@ YC Continuity", "checked": false},
-    {"id": "vc-4", "name": "Nick Fitz", "city": "SF", "tags": ["Juniper Ventures", "Seldon Batch 1"], "x": "", "linkedin": "", "notes": "SELDON LAB PARTNERS - @ Juniper Ventures", "checked": false}
+    {"id": "vc-1", "name": "Brian Zhan", "city": "SF", "tags": ["Striker VC", "Forbes 30u30", "CRV", "$165M fund"], "x": "", "linkedin": "", "notes": "Partner @ Striker Venture Partners (founding team), former Principal @ CRV, Forbes 30 Under 30 (VC), Northwestern CS, backed Skild AI/Dyna Robotics/Periodic Labs, sister is Stephanie Zhan (Sequoia GP)", "checked": false},
+    {"id": "vc-2", "name": "Cory Levy", "city": "SF", "tags": ["Z Fellows", "Forbes 30u30", "After School founder"], "x": "cory", "linkedin": "https://linkedin.com/in/clevy", "notes": "Founder @ Z Fellows, Forbes 30 Under 30, founded After School (20M users, raised $1M at age 19), Z Fellows gives $10K grants at $1B cap, interned at Founders Fund & USV in high school", "checked": false},
+    {"id": "vc-3", "name": "Ali Rowghani", "city": "SF", "tags": ["Maxq Fund", "prev YC Continuity", "prev Twitter COO", "prev Pixar CFO"], "x": "ROWGHANI", "linkedin": "https://linkedin.com/in/ali-rowghani-26996a1b", "notes": "Founder @ Maxq Fund (2024, targeting $250M), former Managing Partner @ YC Continuity (2014-2023), former COO & CFO @ Twitter, former CFO @ Pixar, Stanford BA & MBA", "checked": false},
+    {"id": "vc-4", "name": "Nick Fitz", "city": "SF", "tags": ["Juniper Ventures", "Momentum", "AI Safety investing"], "x": "", "linkedin": "", "notes": "Founder & GP @ Juniper Ventures, Founder & CEO @ Momentum (since 2018), backed by Reid Hoffman/Eric Ries/Jan Leike/Woj Zaremba, AI safety/assurance focus, portfolio includes Goodfire/Haize Labs", "checked": false}
   ],
   "last_updated": "2026-01-19T00:00:00.000Z"
 }
