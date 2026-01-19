@@ -245,7 +245,9 @@
     {"id": "f-242", "name": "Eddie Zhang", "city": "SF", "tags": ["Isara", "OpenAI", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Isara, prev OpenAI safety researcher", "checked": false},
     {"id": "f-243", "name": "John Carmack", "city": "SF", "tags": ["Keen Technologies", "Oculus CTO", "DOOM", "Neolabs"], "x": "ID_AA_Carmack", "linkedin": "", "notes": "Founder @ Keen Technologies, prev Oculus CTO, DOOM creator", "checked": false},
     {"id": "f-244", "name": "Eric Zelikman", "city": "SF", "tags": ["Humans&", "xAI", "Neolabs"], "x": "", "linkedin": "", "notes": "Founder @ Humans&, prev xAI", "checked": false},
-    {"id": "f-245", "name": "Georges Harik", "city": "SF", "tags": ["Humans&", "Google", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Humans&, early Google employee", "checked": false}
+    {"id": "f-245", "name": "Georges Harik", "city": "SF", "tags": ["Humans&", "Google", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Humans&, early Google employee", "checked": false},
+    {"id": "f-246", "name": "Ari Morcos", "city": "SF", "tags": ["DatologyAI", "$57.6M raised", "Meta AI FAIR", "DeepMind"], "x": "arimorcos", "linkedin": "https://linkedin.com/in/arimorcos", "notes": "Co-founder & CEO @ DatologyAI, $57.6M raised ($46M Series A May 2024), prev Senior Staff Research Scientist @ Meta AI FAIR, prev DeepMind, PhD Harvard (Chris Harvey lab), BS UC San Diego, automated data curation at scale for AI training", "checked": false},
+    {"id": "f-247", "name": "Rob Toews", "city": "SF", "tags": ["Radical Ventures", "Forbes AI Columnist", "Harvard MBA/JD", "Zoox"], "x": "_RobToews", "linkedin": "https://linkedin.com/in/robtoews", "notes": "Partner @ Radical Ventures ($550M early-stage + $800M growth fund), AI Columnist @ Forbes, MBA & JD Harvard, prev Highland Capital VC, prev Strategy Lead @ Zoox (acquired by Amazon $1.3B), prev White House autonomous vehicle policy under Obama, prev Bain & Co, led investments in DatologyAI/Hebbia/Reka/Twelve Labs", "checked": false}
   ],
   "last_updated": "2026-01-19T00:00:00.000Z"
 }
