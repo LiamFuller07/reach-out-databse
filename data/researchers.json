@@ -36,7 +36,8 @@
     {"id": "r-33", "name": "Prof. Max Welling", "city": "SF", "tags": ["Cusp AI", "AI Pioneer", "Neolabs"], "x": "", "linkedin": "", "notes": "CTO @ Cusp AI, AI Pioneer", "checked": false},
     {"id": "r-34", "name": "Oren Etzioni", "city": "SF", "tags": ["Allen AI", "AI2", "Neolabs"], "x": "", "linkedin": "", "notes": "Founding CEO emeritus @ Allen AI/AI2", "checked": false},
     {"id": "r-35", "name": "Ali Farhadi", "city": "SF", "tags": ["Allen AI", "AI2", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Allen AI/AI2", "checked": false},
-    {"id": "r-36", "name": "Buck Shlegeris", "city": "Berkeley", "tags": ["Redwood Research", "AI Control", "Alignment Faking paper"], "x": "", "linkedin": "", "notes": "CEO @ Redwood Research, AI safety focused on AI control & alignment, co-author 'Alignment Faking in LLMs' (with Anthropic Dec 2024), released BashArena", "checked": false}
+    {"id": "r-36", "name": "Buck Shlegeris", "city": "Berkeley", "tags": ["Redwood Research", "AI Control", "Alignment Faking paper"], "x": "", "linkedin": "", "notes": "CEO @ Redwood Research, AI safety focused on AI control & alignment, co-author 'Alignment Faking in LLMs' (with Anthropic Dec 2024), released BashArena", "checked": false},
+    {"id": "r-37", "name": "Ronak Malde", "city": "SF", "tags": ["Google DeepMind", "RL/AI", "Stanford", "Windsurf"], "x": "", "linkedin": "", "notes": "Research @ Google DeepMind (joined July 2025), prev Windsurf (trained SWE-1 frontier coding model), Stanford alumni, prev Google/NVIDIA intern, agentic coding", "checked": false}
   ],
   "last_updated": "2026-01-19T00:00:00.000Z"
 }
