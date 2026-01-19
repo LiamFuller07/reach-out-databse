@@ -1,6 +1,8 @@
 export default function handler(req, res) {
   const baseUrl = process.env.BASE_URL || `https://${req.headers.host}`;
 
+  res.setHeader("Access-Control-Allow-Origin", "*");
+
   res.status(200).json({
     issuer: baseUrl,
     authorization_endpoint: `${baseUrl}/oauth/authorize`,
