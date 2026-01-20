@@ -1,253 +1,3425 @@
 {
   "category": "founders",
   "entries": [
-    {"id": "f-1", "name": "Adam Laitt", "city": "Australia", "tags": ["Traild", "CyRise"], "x": "", "linkedin": "", "notes": "Co-founder & Executive Director @ Traild, prev lawyer in family business, founded with Brad Smorgon, CyRise Seed 2019, accounts payable fraud detection AI", "checked": false},
-    {"id": "f-2", "name": "Ronak Malde", "city": "SF", "tags": ["Google DeepMind", "RL/AI", "Stanford"], "x": "", "linkedin": "", "notes": "Research @ Google DeepMind (joined July 2025), prev Windsurf (trained SWE-1 frontier coding model), Stanford alumni, prev Google/NVIDIA intern, agentic coding", "checked": false},
-    {"id": "f-3", "name": "Eddie Landesberg", "city": "SF", "tags": ["Mercor"], "x": "", "linkedin": "", "notes": "Listed as Mercor founder but research shows Mercor was co-founded by Brendan Foody, Adarsh Hiremath, and Surya Midha only", "checked": false},
-    {"id": "f-4", "name": "Brendan Foody", "city": "SF", "tags": ["Mercor", "$10B valuation", "Thiel Fellow", "Forbes 30u30"], "x": "BrendanFoody", "linkedin": "https://linkedin.com/in/brendan-foody-2995ab10b", "notes": "Co-founder & CEO @ Mercor, $350M Series C at $10B valuation (Oct 2025), youngest self-made billionaire at 22, Thiel Fellow, Forbes 30u30 2025, prev founder Seros", "checked": false},
-    {"id": "f-5", "name": "Adarsh Hiremath", "city": "SF", "tags": ["Mercor", "$10B valuation", "Thiel Fellow", "Forbes 30u30"], "x": "adarsh_exe", "linkedin": "https://linkedin.com/in/adarsh-h-623941204", "notes": "Co-founder & CTO @ Mercor, $350M Series C at $10B valuation, Harvard CS dropout (sophomore), Thiel Fellow, youngest self-made billionaire at 22, Forbes 30u30 2025", "checked": false},
-    {"id": "f-6", "name": "Surya Midha", "city": "SF", "tags": ["Mercor", "$10B valuation", "Thiel Fellow"], "x": "suryamidha", "linkedin": "https://linkedin.com/in/suryamidha", "notes": "Co-founder & COO @ Mercor, $350M Series C at $10B valuation, Thiel Fellow, Georgetown SFS (on leave), first team to win TOC/NDCA/NSDA national debate tournaments", "checked": false},
-    {"id": "f-7", "name": "Carlos Georgescu", "city": "SF", "tags": ["AfterQuery", "YC W25", "Citadel"], "x": "", "linkedin": "", "notes": "Co-founder & CTO @ AfterQuery, YC W25, prev Citadel Securities (2x intern), Meta/Google intern, UBC CS, past acquired ed-tech founder, AI data curation", "checked": false},
-    {"id": "f-8", "name": "Spencer Mateega", "city": "SF", "tags": ["AfterQuery", "YC W25", "Wharton"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ AfterQuery, YC W25, Wharton BS Finance/Stats + Penn MS CS, prev Silver Lake tech PE, Morgan Stanley IB, Meta/Google intern", "checked": false},
-    {"id": "f-9", "name": "Xiangyi Li", "city": "SF", "tags": ["BenchFlow", "Jeff Dean backed"], "x": "", "linkedin": "", "notes": "Founder @ BenchFlow, Pre-Seed backed by Jeff Dean/Arash Ferdowsi/a16z Scout/Founder Collective, prev automotive/clean energy engineer, 60+ benchmarks", "checked": false},
-    {"id": "f-10", "name": "Mahesh Sathiamoorthy", "city": "SF", "tags": ["Bespoke Labs", "Google DeepMind", "KDD Best Paper"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Bespoke Labs, $7.25M seed, prev Staff SWE @ Google DeepMind (YouTube), PhD USC, IIT Kharagpur, KDD 2023 Best Paper, OpenThoughts dataset", "checked": false},
-    {"id": "f-11", "name": "Alex Dimakis", "city": "SF", "tags": ["Bespoke Labs", "UC Berkeley Prof", "IEEE Fellow"], "x": "", "linkedin": "", "notes": "Co-founder & Chief Scientist @ Bespoke Labs, Professor @ UC Berkeley EECS (Dec 2024), prev 12 years UT Austin, IEEE Fellow, 150+ papers, PhD UC Berkeley", "checked": false},
-    {"id": "f-12", "name": "Sophia Wisdom", "city": "SF", "tags": ["Calaveras", "OpenAI", "FlashAttention-3"], "x": "", "linkedin": "", "notes": "CTO @ Calaveras AI, sold 100B+ token code dataset to 4 of top 6 AI labs, prev OpenAI, collaborated with Character.AI on FlashAttention-3, petabytes collected", "checked": false},
-    {"id": "f-13", "name": "Alana Xiang", "city": "SF", "tags": ["Calaveras", "Stanford dropout"], "x": "", "linkedin": "", "notes": "Co-founder @ Calaveras AI, Stanford dropout, prev Center on Long-Term Risk researcher, AI training data curation sold to frontier labs", "checked": false},
-    {"id": "f-14", "name": "Francesco Bonacci", "city": "SF", "tags": ["Cua", "YC X25", "Microsoft"], "x": "", "linkedin": "", "notes": "Founder @ Cua, YC X25, prev Microsoft (Xbox Gaming AI, Windows Agent Arena), 10 yrs exp, Bologna CS, 'Docker for computer-use agents', 9k+ GitHub stars", "checked": false},
-    {"id": "f-15", "name": "Dillon DuPont", "city": "SF", "tags": ["Cua"], "x": "", "linkedin": "", "notes": "Listed as Cua founder but research shows Cua was founded by Francesco Bonacci and Alessandro Puppo", "checked": false},
-    {"id": "f-16", "name": "Nazneen Rajani", "city": "SF", "tags": ["Collinear", "Hugging Face", "MIT TR35"], "x": "", "linkedin": "", "notes": "Founder & CEO @ Collinear AI, prev Research Lead @ Hugging Face (H4 alignment), prev Salesforce, PhD UT Austin CS, MIT Tech Review Innovators Under 35, 100 Women in AI", "checked": false},
-    {"id": "f-17", "name": "Soumyadeep Bakshi", "city": "SF", "tags": ["Collinear", "Wharton", "Deloitte"], "x": "", "linkedin": "", "notes": "Co-founder @ Collinear AI, Wharton/Georgia Tech MS CS, prev Associate Partner @ Monitor Deloitte, prev co-founder Kaizen AI, RLVR datasets for frontier labs", "checked": false},
-    {"id": "f-18", "name": "Anish Tondwalkar", "city": "SF", "tags": ["dmodel", "YC S24", "OpenAI", "Google Brain"], "x": "", "linkedin": "", "notes": "Co-founder @ dmodel, YC S24, prev OpenAI, prev Google Brain, PhD Programming UCSD, MIT EE BS/EECS MEng, AI interpretability/mechanistic LLM understanding", "checked": false},
-    {"id": "f-19", "name": "Daniel Moon", "city": "SF", "tags": ["dmodel", "YC S24", "MIT"], "x": "", "linkedin": "", "notes": "Co-founder @ dmodel, YC S24, MIT EE BS/EECS MEng, prev AMD/Xilinx, prev MIT Microsystems Tech Lab, AI interpretability tools", "checked": false},
-    {"id": "f-20", "name": "Serena Ge", "city": "SF", "tags": ["Datacurve", "YC W24", "Forbes 30u30", "$17.7M"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Datacurve, $17.7M raised ($15M Series A), YC W24, 19 years old, UWaterloo CS dropout, prev Cohere, Forbes 30u30, $1M+ bounties paid", "checked": false},
-    {"id": "f-21", "name": "Charley Lee", "city": "SF", "tags": ["Datacurve", "YC W24", "$17.7M"], "x": "", "linkedin": "", "notes": "Co-founder @ Datacurve, $17.7M raised, YC W24, UWaterloo CS dropout, prev Google STEP intern, shipd.ai bounty platform for frontier coding data", "checked": false},
-    {"id": "f-22", "name": "Tim Lupo", "city": "NYC", "tags": ["Deeptune", "Hebbia", "GaryVee backed"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Deeptune, $3.1M seed from Gary Vaynerchuk/Alexis Ohanian, prev Founding Engineer @ Hebbia.AI, USC alumni, generative voice AI", "checked": false},
-    {"id": "f-23", "name": "Nicolai Ouporov", "city": "SF", "tags": ["Fleet AI", "Columbia", "Respell"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Fleet AI, Columbia BA CS, prev Founding Engineer @ Respell (acquired by Salesforce), prev Stanford Robotics Lab, pro ballet, 3x YoungArts winner", "checked": false},
-    {"id": "f-24", "name": "Andrew Zhou", "city": "SF", "tags": ["Fleet AI", "UCLA"], "x": "", "linkedin": "", "notes": "Team member @ Fleet AI (not confirmed as co-founder), UCLA alumni, building training gyms/simulation environments for AI agents", "checked": false},
-    {"id": "f-25", "name": "Ross Taylor", "city": "SF", "tags": ["General Reasoning", "Meta AI", "Galactica", "Papers with Code"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ General Reasoning, prev Meta AI reasoning team lead (Llama 2/3), first author Galactica paper, co-founded Papers with Code (acquired by Meta)", "checked": false},
-    {"id": "f-26", "name": "Chengxi Taylor", "city": "London", "tags": ["General Reasoning", "Oxford MBA", "Serial Entrepreneur"], "x": "", "linkedin": "", "notes": "Co-founder & President @ General Reasoning, prev CEO MyMiniFactory, MBA Oxford, serial entrepreneur (Satori 3D, Miiji, Kirin), L'Essayeur jewelry (Vogue)", "checked": false},
-    {"id": "f-27", "name": "Kip Parker", "city": "London", "tags": ["General Reasoning", "Mechanistic Interpretability"], "x": "", "linkedin": "", "notes": "Co-founder @ General Reasoning, London-based, won Torus Prize at Mechanistic Interpretability hackathon at Entrepreneur First", "checked": false},
-    {"id": "f-28", "name": "Thomas Grady", "city": "SF", "tags": ["General Reasoning"], "x": "", "linkedin": "", "notes": "Co-founder @ General Reasoning (limited public information available)", "checked": false},
-    {"id": "f-29", "name": "Jerry Wu", "city": "SF", "tags": ["Halluminate", "YC", "Capital One"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Halluminate, YC-backed, Alchemist Accelerator, prev Capital One Labs (first AI agent in fintech, 3 patents), Cornell CS & Econ", "checked": false},
-    {"id": "f-30", "name": "Wyatt Marshall", "city": "SF", "tags": ["Halluminate", "YC", "Cornell"], "x": "", "linkedin": "", "notes": "Co-founder & CTO @ Halluminate, YC-backed, Cornell Milstein Scholar, prev data engineering at NYC startups, browser/computer use AI training data", "checked": false},
-    {"id": "f-31", "name": "Maxim Enis", "city": "SF", "tags": ["Habitat", "Ramp", "Williams"], "x": "", "linkedin": "", "notes": "Co-founder @ Habitat Inc, prev 2 years at Ramp, Williams College, building Paradigm AI workspace platform", "checked": false},
-    {"id": "f-32", "name": "Max Kan", "city": "SF", "tags": ["Habitat", "YC", "$100K ARR"], "x": "", "linkedin": "", "notes": "Co-founder & COO @ Habitat Inc, YC alum (pivoted from EdTech 24hrs after acceptance), hit $100K ARR, vocal about AI-enabled vs true AI distinction", "checked": false},
-    {"id": "f-33", "name": "Andrew Megalaa", "city": "SF", "tags": ["Eventual/Daft", "YC", "$30M", "Tesla Autopilot"], "x": "", "linkedin": "", "notes": "Co-founder @ Eventual/Daft (YC), raised $30M from CRV/Felicis/M12/Citi, prev DeepScale (acquired by Tesla Autopilot) & Lyft Level 5, Williams College", "checked": false},
-    {"id": "f-34", "name": "Jibran Hutchins", "city": "SF", "tags": ["Haladir", "YC W26", "CMU"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Haladir, YC W26, Carnegie Mellon, O-1 visa holder, building formal methods for code generation RL environments", "checked": false},
-    {"id": "f-35", "name": "Quan Huynh", "city": "SF", "tags": ["Haladir", "YC W26", "CMU"], "x": "", "linkedin": "", "notes": "Co-founder & CIO @ Haladir, YC W26, Carnegie Mellon/UVA, building formal verification & model checking for next-gen coding data", "checked": false},
-    {"id": "f-36", "name": "Preston Schmittou", "city": "SF", "tags": ["Haladir", "YC W26"], "x": "", "linkedin": "", "notes": "Co-founder @ Haladir, YC W26, Freshman at UVA Wise, building formal methods for coding AI", "checked": false},
-    {"id": "f-37", "name": "Joseph Tso", "city": "SF", "tags": ["Haladir", "YC W26", "Princeton"], "x": "", "linkedin": "", "notes": "Co-founder @ Haladir, YC W26, Princeton CS undergrad, research in Operations Research & ML, built Knot (SKU transaction analysis)", "checked": false},
-    {"id": "f-38", "name": "Jun Park", "city": "SF", "tags": ["Hillclimb", "YC", "Google DeepMind", "ex-Fortnite pro"], "x": "", "linkedin": "", "notes": "Co-founder @ Hillclimb, YC-backed, prev Google DeepMind dropout, built AI coding interviewer to 100K users, ex-Fortnite pro, IMO medalists community", "checked": false},
-    {"id": "f-39", "name": "Ibrakhim Ustelbay", "city": "SF", "tags": ["Hillclimb", "Coinbase", "ex-Fortnite pro"], "x": "", "linkedin": "", "notes": "Co-founder @ Hillclimb, 20 years old, prev Coinbase/Whop/Microsoft intern, IvyHacks Audience Prize winner, ex-Fortnite pro", "checked": false},
-    {"id": "f-40", "name": "Ivan Chub", "city": "SF", "tags": ["Idler", "YC S25", "Dark Forest", "0xPARC"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Idler, YC S25, prev Dark Forest/0xPARC/Zupass/Hack Lodge, ex-Facebook, UW, multimillion-dollar contract with foundation lab for RL envs", "checked": false},
-    {"id": "f-41", "name": "Nalu Concepcion", "city": "SF", "tags": ["Idler", "YC S25", "Cornell", "Microsoft"], "x": "", "linkedin": "", "notes": "Co-founder @ Idler, YC S25, 8 years SWE, Cornell CS & ORIE, prev Microsoft Azure (C# SDK), Notable Capital fellow", "checked": false},
-    {"id": "f-42", "name": "Tony Goss", "city": "SF", "tags": ["Idler", "YC S25", "ZK proofs"], "x": "", "linkedin": "", "notes": "Co-founder @ Idler, YC S25, Tufts grad, prev Dark Forest/Zupass/US Census Bureau, zero-knowledge proof developer, pro ultimate player", "checked": false},
-    {"id": "f-43", "name": "John Qian", "city": "SF", "tags": ["Matrices", "Weights & Biases", "Adept", "Google"], "x": "", "linkedin": "", "notes": "Co-founder @ Matrices, prev founding engineer Weights & Biases/Adept AI Labs/Google, UIUC, AI-native spreadsheet & replica websites for agent training", "checked": false},
-    {"id": "f-44", "name": "Leonardo Axel Setyanto", "city": "SF", "tags": ["Matrices", "Weights & Biases", "YC W13"], "x": "", "linkedin": "", "notes": "Co-founder & CTO @ Matrices, prev Technical Lead Weights & Biases, co-founder CrowdMed (YC W13, $3.1M seed), UT Austin Turing Scholar", "checked": false},
-    {"id": "f-45", "name": "Tamay Besiroglu", "city": "SF", "tags": ["Mechanize", "Epoch AI", "Nat Friedman backed"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Mechanize, co-founded Epoch AI, backed by Nat Friedman/Daniel Gross/Patrick Collison/Jeff Dean, $60T TAM, controversial launch", "checked": false},
-    {"id": "f-46", "name": "Ege Erdil", "city": "SF", "tags": ["Mechanize", "Epoch AI", "Forecasting"], "x": "", "linkedin": "", "notes": "Co-founder @ Mechanize, prev Epoch AI researcher, math/stats/economics/forecasting expert, 20-30 year AGI timeline, virtual work RL environments", "checked": false},
-    {"id": "f-47", "name": "Matthew Barnett", "city": "SF", "tags": ["Mechanize", "Epoch AI", "UC Berkeley"], "x": "", "linkedin": "", "notes": "Co-founder @ Mechanize, prev Epoch AI researcher (2022-2024), UC Berkeley CS, AI alignment researcher, 10-20 year automation timeline", "checked": false},
-    {"id": "f-48", "name": "Abhishek Chandwani", "city": "SF", "tags": ["Metaphi", "Harvard MBA", "BCG"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Metaphi, Harvard Business School MBA, IIT Kharagpur, prev BCG Consultant/Shell, raised $1.07M Seed, evals for long-horizon agents", "checked": false},
-    {"id": "f-49", "name": "Ishan Gupta", "city": "SF", "tags": ["Metaphi"], "x": "", "linkedin": "", "notes": "Co-founder @ Metaphi (limited public information available)", "checked": false},
-    {"id": "f-50", "name": "Sonya Jin", "city": "SF", "tags": ["Phinity Labs", "PearX S25", "Stanford", "NVIDIA"], "x": "", "linkedin": "", "notes": "Co-founder @ Phinity Labs, PearX S25, Stanford AI '25, prev NVIDIA Research Scientist (LLMs), AWS Applied Scientist, RL envs for chip design", "checked": false},
-    {"id": "f-51", "name": "Aadi Nashikkar", "city": "SF", "tags": ["Kopia", "YC W23", "Stanford"], "x": "", "linkedin": "", "notes": "Co-founder @ Kopia (YC W23), Stanford CS '25, prev AI research @ Verizon, founder of Plava & Leda, currently stealth startup SF", "checked": false},
-    {"id": "f-52", "name": "Rob Farlow", "city": "SF", "tags": ["Plato", "Waterloo"], "x": "", "linkedin": "", "notes": "Co-Founder & CEO @ Plato (since Nov 2024), University of Waterloo alum, SF-based, building AI agents", "checked": false},
-    {"id": "f-53", "name": "Pranav Putta", "city": "SF", "tags": ["Plato", "MultiOn", "Georgia Tech"], "x": "", "linkedin": "", "notes": "Co-Founder & CTO @ Plato Agentic Systems, prev MultiOn & Georgia Tech CS, building agent simulations at plato.so", "checked": false},
-    {"id": "f-54", "name": "Justus Mattern", "city": "SF", "tags": ["Proximal", "RWTH Aachen", "Prime Intellect"], "x": "", "linkedin": "", "notes": "Co-Founder @ Proximal, RWTH Aachen University, prev co-founded Revideo, publications at EACL 2024 & ACL 2023, contributed to INTELLECT-2", "checked": false},
-    {"id": "f-55", "name": "Navid Pour", "city": "SF", "tags": ["Proximal", "U of Toronto"], "x": "", "linkedin": "", "notes": "Co-Founder @ Proximal, University of Toronto, SF-based, AI coding agents, open-sourced Osmosis-Structure-0.6B model", "checked": false},
-    {"id": "f-56", "name": "Calvin Chen", "city": "SF", "tags": ["Proximal", "YC W23", "$9M exit"], "x": "", "linkedin": "", "notes": "Co-Founder @ Proximal, USC dropout for YC, prev founded logistics startup ($1.5M ARR, sold for $9M), co-founded Kopia (YC W23)", "checked": false},
-    {"id": "f-57", "name": "Robi Lin", "city": "SF", "tags": ["Sepal AI", "YC", "Bain", "$2M rev"], "x": "", "linkedin": "", "notes": "Co-Founder & CEO @ Sepal AI (YC), prev Bain & Co, scaled Turing's LLM trainer business 50 to 800+ devs, $2M revenue in 2024, Fortune 500 clients", "checked": false},
-    {"id": "f-58", "name": "Kat Hu", "city": "SF", "tags": ["Sepal AI", "YC", "UIUC"], "x": "", "linkedin": "", "notes": "Co-Founder @ Sepal AI (YC), UIUC alum, prev built LLM training business at Turing.com, data development for frontier AI labs", "checked": false},
-    {"id": "f-59", "name": "Rayan Garg", "city": "SF", "tags": ["Theta", "YC X25", "Cornell"], "x": "", "linkedin": "", "notes": "Co-Founder & CEO @ Theta (YC X25), Cornell University, prev Head of Product @ DeepSilicon, self-learning AI agents, improved OpenAI Operator by 43%", "checked": false},
-    {"id": "f-60", "name": "Tanmay Sharma", "city": "SF", "tags": ["Theta", "YC X25", "MultiOn"], "x": "", "linkedin": "", "notes": "Co-Founder @ Theta (YC X25), Indiana University, prev AI Product Engineer @ MultiOn & Atlassian, building agent memory/learning layer", "checked": false},
-    {"id": "f-61", "name": "Gurvir Singh", "city": "SF", "tags": ["Theta", "YC X25", "Cornell"], "x": "", "linkedin": "", "notes": "Co-Founder @ Theta (YC X25), Cornell, built distributed ML systems & RL at Cornell, specializes in post-training optimization", "checked": false},
-    {"id": "f-62", "name": "Daanish Khazi", "city": "SF", "tags": ["The LLM Data Company", "YC X25", "$3.6M"], "x": "", "linkedin": "", "notes": "Co-Founder & CEO @ The LLM Data Company (YC X25), Northwestern CS, prev Traba/Roland Berger consultant, $3.6M raised, 200%+ MoM growth", "checked": false},
-    {"id": "f-63", "name": "Gavin Bains", "city": "SF", "tags": ["The LLM Data Company", "YC X25", "USC"], "x": "", "linkedin": "", "notes": "Co-Founder @ The LLM Data Company (YC X25), USC alum, prev Traba/Koop/Tydo, post-training data & RL environments for frontier AI labs", "checked": false},
-    {"id": "f-64", "name": "Joseph Besgen", "city": "SF", "tags": ["The LLM Data Company", "YC X25", "UC Berkeley"], "x": "", "linkedin": "", "notes": "Co-Founder @ The LLM Data Company (YC X25), UC Berkeley EECS, prev backend eng @ Traba, Facebook/Instagram Business Messaging", "checked": false},
-    {"id": "f-65", "name": "Peter McIntyre", "city": "Toronto", "tags": ["Trajectory Labs", "80,000 Hours", "Open Philanthropy"], "x": "", "linkedin": "", "notes": "Co-Founder @ Trajectory Labs (AI Safety hub, Toronto), prev 80,000 Hours/GovAI/Longview Philanthropy, Non-Trivial founder, funded by Open Philanthropy", "checked": false},
-    {"id": "f-66", "name": "Ben West", "city": "Toronto", "tags": ["Trajectory Labs", "Open Philanthropy"], "x": "", "linkedin": "", "notes": "Associated with Trajectory Labs (AI safety nonprofit in Toronto), funded by Open Philanthropy, workspace for AI safety researchers", "checked": false},
-    {"id": "f-67", "name": "Rithika Kacham", "city": "SF", "tags": ["Verita AI", "Stanford", "Mercor", "NYT"], "x": "", "linkedin": "", "notes": "Founder @ Verita AI, Stanford CS & Product Design dropout (2024), prev employee #20 at Mercor, 22 y/o, featured in NYT, OpenAI client", "checked": false},
-    {"id": "f-68", "name": "Rishi Kalakuntla", "city": "SF", "tags": ["Verita AI"], "x": "", "linkedin": "", "notes": "Team member @ Verita AI, working on multimodal data solutions for AI training, SF-based", "checked": false},
-    {"id": "f-69", "name": "Matthew Sargent", "city": "SF", "tags": ["Vmax", "UCL PhD", "Radical AI"], "x": "", "linkedin": "", "notes": "Co-Founder @ Vmax, UCL PhD in Machine Learning, Radical AI Founders Masterclass ($250K+ Google Cloud compute), offline RL for clinical workflows", "checked": false},
-    {"id": "f-70", "name": "Augustine Mavor-Parker", "city": "SF", "tags": ["Vmax", "UCL PhD", "Redwood Research"], "x": "", "linkedin": "", "notes": "Co-Founder & CTO @ Vmax, UCL PhD in ML, prev Redwood Research/Cold Spring Harbor Lab/South Park Commons, RL + LLM researcher", "checked": false},
-    {"id": "f-71", "name": "Philip Bogdanov", "city": "SF", "tags": ["OpenAI", "Stanford", "Pioneers Program"], "x": "philip_bogdanov", "linkedin": "https://linkedin.com/in/philip-bogdanov", "notes": "Special Projects @ OpenAI (joined Apr 2025), Stanford CS & Product Design, launched OpenAI Pioneers Program & OpenAI to Z Challenge", "checked": false},
-    {"id": "f-72", "name": "Logan Kilpatrick", "city": "SF", "tags": ["Google DeepMind", "Gemini", "prev OpenAI"], "x": "OfficialLoganK", "linkedin": "https://linkedin.com/in/logankilpatrick", "notes": "Product Lead @ Google AI Studio & Gemini API (Google DeepMind), prev Head of Developer Relations @ OpenAI (2022-2024), prev Apple/NASA/Disney", "checked": false},
-    {"id": "f-73", "name": "Zak Stone", "city": "SF", "tags": ["Google TPU", "Harvard"], "x": "", "linkedin": "", "notes": "Product Manager for Cloud TPUs @ Google Brain, Harvard alum, prev Founder @ Perceptio, overseeing TPU v6 (Trillium) & v7 (Ironwood)", "checked": false},
-    {"id": "f-74", "name": "Sholto Douglas", "city": "SF", "tags": ["Anthropic", "DeepMind", "Gemini", "AGI 2027"], "x": "_sholtodouglas", "linkedin": "https://linkedin.com/in/sholto", "notes": "MTS @ Anthropic (joined Feb 2025), prev Google DeepMind/Gemini team, leading RL scaling for agentic models, former world-ranked fencer (#43), predicts AGI by 2027", "checked": false},
-    {"id": "f-75", "name": "Michael Truell", "city": "SF", "tags": ["Cursor", "$29.3B valuation", "$1B+ ARR"], "x": "mntruell", "linkedin": "https://linkedin.com/in/michael-t-5b1bbb122", "notes": "Co-Founder & CEO @ Anysphere/Cursor, MIT CS & Math, 25 y/o, $29.3B valuation (2025), $1B+ ARR, 1M+ daily users, acquired Supermaven", "checked": false},
-    {"id": "f-76", "name": "Sualeh Asif", "city": "SF", "tags": ["Cursor", "$29.3B valuation", "MIT", "IMO"], "x": "sualehasif996", "linkedin": "https://linkedin.com/in/sualeh-a-1a4a97116", "notes": "Co-founder & CPO @ Cursor/Anysphere, $29.3B valuation, MIT CS+Math '22, prev IBM Watson ML, Pakistani Math Olympian (IMO 2016-2018), Neo Scholar", "checked": false},
-    {"id": "f-77", "name": "Aman Sanger", "city": "SF", "tags": ["Cursor", "$29.3B valuation", "MIT", "Youngest billionaire"], "x": "amanrsanger", "linkedin": "https://linkedin.com/in/aman-sanger-482243171", "notes": "Co-founder @ Cursor/Anysphere, $29.3B valuation, MIT CS+Math '22, prev Google/Bridgewater/You.com, Neo Scholar, youngest billionaire cofounder", "checked": false},
-    {"id": "f-78", "name": "Arvid Lunnemark", "city": "SF", "tags": ["Cursor", "Integrous Research", "IOI gold", "$1.3B stake"], "x": "ArVID220u", "linkedin": "https://linkedin.com/in/arvid-lunnemark", "notes": "Former Co-founder/CTO @ Cursor, departed Oct 2025 to found Integrous Research (AI safety lab), MIT CS '22, Swedish IOI gold 2018, estimated $1.3B stake", "checked": false},
-    {"id": "f-79", "name": "Dwarkesh Patel", "city": "SF", "tags": ["Dwarkesh Podcast", "Time 100 AI", "1M+ subscribers"], "x": "dwarkesh_sp", "linkedin": "https://linkedin.com/in/dwarkesh-sp", "notes": "Founder @ Dwarkesh Podcast, UT Austin CS '21, Time 100 Most Influential in AI 2024, 1M+ YouTube subscribers, interviewed Zuckerberg/Amodei/Hassabis", "checked": false},
-    {"id": "f-80", "name": "Jonathan Lachman", "city": "SF", "tags": ["Thinking Machines"], "x": "", "linkedin": "", "notes": "@ Thinking Machines", "checked": false},
-    {"id": "f-81", "name": "Andrew Gritsevskiy", "city": "SF", "tags": ["RunRL", "YC X25", "PhD dropout"], "x": "", "linkedin": "", "notes": "Co-founder @ RunRL, YC X25, PhD dropout (RL research), prev Cavendish Labs, $500K seed, reinforcement learning for LLMs", "checked": false},
-    {"id": "f-82", "name": "Derik Kauffman", "city": "SF", "tags": ["RunRL", "YC X25"], "x": "", "linkedin": "", "notes": "Co-founder @ RunRL, YC X25, prev ran AI research lab in Vermont with co-founder, physics/CS background, RL-as-a-service platform", "checked": false},
-    {"id": "f-83", "name": "Wiley Jones", "city": "SF", "tags": ["DOSS", "AI ERP", "$18M", "Theory Ventures"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ DOSS, UIUC Mechanical Engineering '17, prev Athelas Head of Product/Verkada, $18M raised (Theory Ventures Series A)", "checked": false},
-    {"id": "f-84", "name": "Arnav Mishra", "city": "SF", "tags": ["DOSS", "AI ERP", "Rubrik", "$1M ARR"], "x": "", "linkedin": "", "notes": "Co-founder & CTO @ DOSS, UIUC MS CS '18, prev founding engineer @ Siteline/Rubrik, Contrary Talent Fellow, $1M ARR, AI-native ERP", "checked": false},
-    {"id": "f-85", "name": "Dylan Lynch", "city": "SF", "tags": ["DOSS", "AI ERP"], "x": "", "linkedin": "", "notes": "Founding SDR @ DOSS (not cofounder), Hofstra BBA Cum Laude, sales role at the company", "checked": false},
-    {"id": "f-86", "name": "John Glasgow", "city": "SF", "tags": ["Campfire", "AI ERP", "$100M raised", "YC S23"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Campfire, YC S23, prev VP Biz Dev @ Bill.com, helped sell Invoice2go for $625M, 15+ years finance, $100M raised", "checked": false},
-    {"id": "f-87", "name": "Fernando San Martin", "city": "SF", "tags": ["Campfire", "AI ERP", "Trovata"], "x": "", "linkedin": "", "notes": "Co-founder & CTO @ Campfire, MS Electronics Engineering, prev led backend @ Trovata (used by Square/Etsy), AI-native ERP for mid-market", "checked": false},
-    {"id": "f-88", "name": "Nicolas Kopp", "city": "SF", "tags": ["Rillet", "AI ERP", "$100M+ raised", "a16z", "prev N26 CEO"], "x": "nicckopp", "linkedin": "", "notes": "Co-founder & CEO @ Rillet, LSE MS Accounting, prev US CEO @ N26 ($9B neobank), Morgan Stanley/Goldman/Lazard, $100M+ raised ($70M Series B a16z)", "checked": false},
-    {"id": "f-89", "name": "Stelios Modes", "city": "SF", "tags": ["Rillet", "AI ERP", "N26 architect"], "x": "", "linkedin": "", "notes": "Co-founder & CTO @ Rillet, Manchester MS CS, prev ThoughtWorks lead engineer, architect of N26 payments infrastructure, 15+ years engineering", "checked": false},
-    {"id": "f-90", "name": "Kristen Pascoe", "city": "SF", "tags": ["Rillet", "AI ERP", "CPA"], "x": "", "linkedin": "", "notes": "Head of Product @ Rillet (not cofounder), Ohio State MAcc, CPA since 2016, prev Controller @ Built In, EY", "checked": false},
-    {"id": "f-91", "name": "Stephen Hedlund", "city": "SF", "tags": ["Rillet", "AI ERP", "Chicago Booth"], "x": "", "linkedin": "", "notes": "Head of Finance @ Rillet (not cofounder), Chicago Booth MBA '24, prev finance leadership @ OpenSpace ($900M valuation)/Molekule/Walmart", "checked": false},
-    {"id": "f-92", "name": "Esben Kran", "city": "SF", "tags": ["Seldon Lab", "Apart Research", "Eric Ries"], "x": "", "linkedin": "", "notes": "Co-founder @ Seldon Lab, founded Apart Research at 22 (4000+ AI safety hackers, 20+ papers), AI safety accelerator with Eric Ries, founders raised $10M+", "checked": false},
-    {"id": "f-93", "name": "Finn Metz", "city": "Munich", "tags": ["Seldon Lab", "UC Berkeley", "Eric Ries"], "x": "", "linkedin": "", "notes": "Co-founder @ Seldon Lab, UC Berkeley, Munich-based, AI safety startup accelerator, $53K SFF grant + private investment, co-founded with Eric Ries", "checked": false},
-    {"id": "f-94", "name": "Kristian Ronn", "city": "SF", "tags": ["Lucid Computing", "Seldon", "FHI Oxford", "Normative.io"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Lucid Computing, Lund University, prev FHI Oxford project manager, founded Normative.io (carbon accounting), AI chip location verification", "checked": false},
-    {"id": "f-95", "name": "Luke", "city": "SF", "tags": ["Workshop Labs", "Seldon"], "x": "", "linkedin": "", "notes": "@ Workshop Labs", "checked": false},
-    {"id": "f-96", "name": "Lukas Petersson", "city": "SF", "tags": ["Andon Labs", "YC W24", "Google", "Anthropic"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Andon Labs, YC W24, prev Google LLM research/Disney Research robotics/ESA intern, AI safety evals for Anthropic", "checked": false},
-    {"id": "f-97", "name": "Axel Backlund", "city": "SF", "tags": ["Andon Labs", "YC W24", "McKinsey", "CMU"], "x": "", "linkedin": "", "notes": "Co-founder & CTO @ Andon Labs, YC W24, KTH/Carnegie Mellon, prev McKinsey QuantumBlack, created Vending-Bench for AI agent evaluation", "checked": false},
-    {"id": "f-98", "name": "Eric Ho", "city": "SF", "tags": ["Goodfire", "Forbes 30u30", "$50M Series A", "Anthropic invested"], "x": "", "linkedin": "", "notes": "Co-founder & CEO @ Goodfire, Yale CS, Forbes 30 Under 30 2022, prev founded RippleMatch ($80M raised), $50M Series A, Anthropic's first-ever investment", "checked": false},
-    {"id": "f-99", "name": "Shivum Pandove", "city": "SF", "tags": ["Janus", "YC X25", "CMU dropout"], "x": "", "linkedin": "", "notes": "Co-founder @ Janus, YC X25, CMU ML (dropped out), turned down Anduril offer, scaled 3+ startups as SWE/PM, AI agent simulation testing", "checked": false},
-    {"id": "f-100", "name": "Jet Wu", "city": "SF", "tags": ["Janus", "YC X25", "CMU", "Cerebras AI Fellow"], "x": "", "linkedin": "", "notes": "Co-founder @ Janus, YC X25, CMU senior (dropped out), prev Microsoft TinyTroupe evaluation, Cerebras AI Fellow, Bellingcat OSINT research", "checked": false},
-    {"id": "f-101", "name": "Tim", "city": "SF", "tags": ["Kashikoi", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Kashikoi", "checked": false},
-    {"id": "f-102", "name": "Aaksha", "city": "SF", "tags": ["Kashikoi", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Kashikoi", "checked": false},
-    {"id": "f-103", "name": "Sandra Tang", "city": "SF", "tags": ["AgentHub", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ AgentHub", "checked": false},
-    {"id": "f-104", "name": "Youssef Kallel", "city": "SF", "tags": ["AgentHub", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ AgentHub", "checked": false},
-    {"id": "f-105", "name": "Emil Froberg", "city": "SF", "tags": ["Vectorview", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Vectorview", "checked": false},
-    {"id": "f-106", "name": "Shahul ES", "city": "SF", "tags": ["Ragas", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Ragas", "checked": false},
-    {"id": "f-107", "name": "Jithin James", "city": "SF", "tags": ["Ragas", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Ragas", "checked": false},
-    {"id": "f-108", "name": "Rohan Vasishth", "city": "SF", "tags": ["Bluejay", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Bluejay", "checked": false},
-    {"id": "f-109", "name": "Faraz Siddiqi", "city": "SF", "tags": ["Bluejay", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Bluejay", "checked": false},
-    {"id": "f-110", "name": "Rene Brandel", "city": "SF", "tags": ["Casco", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Casco", "checked": false},
-    {"id": "f-111", "name": "Ian Saultz", "city": "SF", "tags": ["Casco", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Casco", "checked": false},
-    {"id": "f-112", "name": "Magnus Müller", "city": "SF", "tags": ["Browser Use", "YC W25", "$17M seed", "ETH Zurich", "50K GitHub stars"], "x": "mamagnus00", "linkedin": "https://linkedin.com/in/magnus-mueller", "notes": "Co-founder & CEO @ Browser Use, YC W25, ETH Zurich Data Science, prev Cambridge CARES researcher, $17M seed (Felicis + Paul Graham), 50K GitHub stars", "checked": false},
-    {"id": "f-113", "name": "Gregor Žunič", "city": "SF", "tags": ["Browser Use", "YC W25", "$17M seed", "ETH Zurich"], "x": "gregpr07", "linkedin": "https://linkedin.com/in/gregorzunic", "notes": "Co-founder @ Browser Use, YC W25, ETH Zurich MS Data Science + Physics, prev startup founder, $17M seed led by Felicis, built viral demo in 4 days", "checked": false},
-    {"id": "f-114", "name": "Nithin Sonti", "city": "SF", "tags": ["BrowserOS", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ BrowserOS", "checked": false},
-    {"id": "f-115", "name": "Nikhil Sonti", "city": "SF", "tags": ["BrowserOS", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ BrowserOS", "checked": false},
-    {"id": "f-116", "name": "Suchintan Singh", "city": "SF", "tags": ["Skyvern", "YC AI Agents"], "x": "itssuchintan", "linkedin": "https://linkedin.com/in/suchintansingh", "notes": "Founder @ Skyvern", "checked": false},
-    {"id": "f-117", "name": "Shuchang Zheng", "city": "SF", "tags": ["Skyvern", "YC AI Agents"], "x": "", "linkedin": "https://linkedin.com/in/shuchang-zheng-76784958", "notes": "Founder @ Skyvern", "checked": false},
-    {"id": "f-118", "name": "Kerem Yilmaz", "city": "SF", "tags": ["Skyvern", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Skyvern", "checked": false},
-    {"id": "f-119", "name": "Dex Horthy", "city": "SF", "tags": ["HumanLayer", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ HumanLayer", "checked": false},
-    {"id": "f-120", "name": "Jesse", "city": "SF", "tags": ["Abundant", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Abundant", "checked": false},
-    {"id": "f-121", "name": "Ke", "city": "SF", "tags": ["Abundant", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Abundant", "checked": false},
-    {"id": "f-122", "name": "Meji", "city": "SF", "tags": ["Abundant", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Abundant", "checked": false},
-    {"id": "f-123", "name": "Alan Zabihi", "city": "SF", "tags": ["Superagent", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Superagent", "checked": false},
-    {"id": "f-124", "name": "Ismail", "city": "SF", "tags": ["Superagent", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Superagent", "checked": false},
-    {"id": "f-125", "name": "ZhenJing Heng", "city": "SF", "tags": ["FlowiseAI", "YC AI Agents"], "x": "henryhengzj", "linkedin": "https://linkedin.com/in/zhenjing-heng-henry", "notes": "Founder @ FlowiseAI", "checked": false},
-    {"id": "f-126", "name": "Chung Yau Ong", "city": "SF", "tags": ["FlowiseAI", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ FlowiseAI", "checked": false},
-    {"id": "f-127", "name": "Rahul Behal", "city": "SF", "tags": ["Gumloop", "YC AI Agents"], "x": "rbehal1729", "linkedin": "https://linkedin.com/in/rbehal01", "notes": "Founder @ Gumloop", "checked": false},
-    {"id": "f-128", "name": "Max Brodeur-Urbas", "city": "SF", "tags": ["Gumloop", "YC AI Agents"], "x": "MaxBrodeurUrbas", "linkedin": "https://linkedin.com/in/max-brodeur-urbas", "notes": "Founder @ Gumloop", "checked": false},
-    {"id": "f-129", "name": "Anushka Nijhawan", "city": "SF", "tags": ["Spur", "YC AI Agents"], "x": "anushkanijhawn", "linkedin": "https://linkedin.com/in/anushka-nijhawan-8380361b1", "notes": "Founder @ Spur", "checked": false},
-    {"id": "f-130", "name": "Sneha Sivakumar", "city": "SF", "tags": ["Spur", "YC AI Agents"], "x": "sneha8sivakumar", "linkedin": "https://linkedin.com/in/sivakumarsneha", "notes": "Founder @ Spur", "checked": false},
-    {"id": "f-131", "name": "Jeffrey Tsaw", "city": "SF", "tags": ["Parity", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Parity", "checked": false},
-    {"id": "f-132", "name": "Coleman Smith", "city": "SF", "tags": ["Parity", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Parity", "checked": false},
-    {"id": "f-133", "name": "Wilson Spearman", "city": "SF", "tags": ["Parity", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Parity", "checked": false},
-    {"id": "f-134", "name": "Amaresh", "city": "SF", "tags": ["Opslane", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Opslane", "checked": false},
-    {"id": "f-135", "name": "Abhishek", "city": "SF", "tags": ["Opslane", "YC AI Agents"], "x": "", "linkedin": "", "notes": "Founder @ Opslane", "checked": false},
-    {"id": "f-136", "name": "Ilya Abyzov", "city": "SF", "tags": ["Torch", "OpenAI", "Acquired"], "x": "", "linkedin": "", "notes": "Founder @ Torch/OpenAI", "checked": false},
-    {"id": "f-137", "name": "Adrian Aoun", "city": "SF", "tags": ["Torch", "OpenAI", "Acquired"], "x": "", "linkedin": "", "notes": "@ Torch/OpenAI", "checked": false},
-    {"id": "f-138", "name": "James Hamlin", "city": "SF", "tags": ["Torch", "OpenAI", "Acquired"], "x": "", "linkedin": "", "notes": "@ Torch/OpenAI", "checked": false},
-    {"id": "f-139", "name": "Eugene Huang", "city": "SF", "tags": ["Torch", "OpenAI", "Acquired"], "x": "", "linkedin": "", "notes": "@ Torch/OpenAI", "checked": false},
-    {"id": "f-140", "name": "Ryan Oman", "city": "SF", "tags": ["Torch", "OpenAI", "Acquired"], "x": "", "linkedin": "", "notes": "@ Torch/OpenAI", "checked": false},
-    {"id": "f-141", "name": "Nichole Hopkins", "city": "SF", "tags": ["Coval", "YC S24", "AI Evaluation"], "x": "", "linkedin": "", "notes": "Founder @ Coval (YC S24)", "checked": false},
-    {"id": "f-142", "name": "Henry Su", "city": "SF", "tags": ["Context.ai", "OpenAI"], "x": "", "linkedin": "", "notes": "@ Context.ai/OpenAI", "checked": false},
-    {"id": "f-143", "name": "Alex Gamble", "city": "SF", "tags": ["Context.ai", "OpenAI"], "x": "", "linkedin": "", "notes": "@ Context.ai/OpenAI", "checked": false},
-    {"id": "f-144", "name": "Michael Fester", "city": "SF", "tags": ["AI Agent Testing"], "x": "", "linkedin": "", "notes": "@ AI Agent Testing", "checked": false},
-    {"id": "f-145", "name": "Cedric Vidal", "city": "SF", "tags": ["Microsoft AI"], "x": "", "linkedin": "", "notes": "@ Microsoft AI", "checked": false},
-    {"id": "f-146", "name": "Achammah", "city": "SF", "tags": ["Nexus GPT", "YC F25"], "x": "", "linkedin": "", "notes": "@ Nexus GPT (YC F25)", "checked": false},
-    {"id": "f-147", "name": "RC Ramarathinam", "city": "SF", "tags": ["Summation", "YC"], "x": "", "linkedin": "", "notes": "Founder @ Summation", "checked": false},
-    {"id": "f-148", "name": "Ian Wong", "city": "SF", "tags": ["Summation", "YC"], "x": "", "linkedin": "", "notes": "Founder @ Summation", "checked": false},
-    {"id": "f-149", "name": "Sawyer Hood", "city": "SF", "tags": ["AI Tools"], "x": "", "linkedin": "", "notes": "@ AI Tools", "checked": false},
-    {"id": "f-150", "name": "Dan Advantage", "city": "SF", "tags": ["AI"], "x": "", "linkedin": "", "notes": "@ AI", "checked": false},
-    {"id": "f-151", "name": "Yashaswin Sharma", "city": "SF", "tags": ["AI Hardware"], "x": "", "linkedin": "", "notes": "@ AI Hardware", "checked": false},
-    {"id": "f-152", "name": "Pieter Abbeel", "city": "SF", "tags": ["Covariant AI", "Robotics"], "x": "pabbeel", "linkedin": "https://linkedin.com/in/pieterabbeel", "notes": "Founder @ Covariant AI", "checked": false},
-    {"id": "f-153", "name": "Yang Zhilin", "city": "SF", "tags": ["Moonshot AI"], "x": "", "linkedin": "", "notes": "Founder @ Moonshot AI", "checked": false},
-    {"id": "f-154", "name": "Peter W. Kruger", "city": "SF", "tags": ["Bot Scanner"], "x": "", "linkedin": "", "notes": "@ Bot Scanner", "checked": false},
-    {"id": "f-155", "name": "Yubo Song", "city": "SF", "tags": ["Manus AI", "High Valuation"], "x": "", "linkedin": "", "notes": "@ Manus AI", "checked": false},
-    {"id": "f-156", "name": "Josh Payne", "city": "SF", "tags": ["Nscale", "AI Infrastructure"], "x": "", "linkedin": "", "notes": "@ Nscale", "checked": false},
-    {"id": "f-157", "name": "Chuck Frisbie", "city": "SF", "tags": ["DataMynd", "Synthetic Data"], "x": "", "linkedin": "", "notes": "@ DataMynd", "checked": false},
-    {"id": "f-158", "name": "Carter Crouch", "city": "SF", "tags": ["Stealth", "Synthetic Data"], "x": "", "linkedin": "", "notes": "@ Stealth (Synthetic Data)", "checked": false},
-    {"id": "f-159", "name": "Karan Goel", "city": "SF", "tags": ["Cartesia AI", "$100M raised", "Voice AI"], "x": "krandiash", "linkedin": "https://linkedin.com/in/krandiash", "notes": "Founder @ Cartesia AI ($100M raised)", "checked": false},
-    {"id": "f-160", "name": "Kevin Wu", "city": "SF", "tags": ["Leaping AI", "YC W25", "Voice AI"], "x": "kevinwu_hi", "linkedin": "https://linkedin.com/in/kevin-wu-452a6393", "notes": "Founder @ Leaping AI, Voice AI agents for call centers", "checked": false},
-    {"id": "f-161", "name": "Varun Vummadi", "city": "SF", "tags": ["Giga", "$61M Series A", "Voice AI", "YC", "Forbes 30 Under 30"], "x": "varunvummadi", "linkedin": "https://linkedin.com/in/varunvummadi", "notes": "Founder @ Giga, $61M Series A, Voice AI, YC, Forbes 30 Under 30", "checked": false},
-    {"id": "f-162", "name": "Esha Manideep", "city": "SF", "tags": ["Giga", "$61M Series A"], "x": "", "linkedin": "", "notes": "Co-founder @ Giga, $61M Series A, Redpoint-led", "checked": false},
-    {"id": "f-163", "name": "Samuel Oshay", "city": "SF", "tags": ["Recurrency AI", "AI ERP"], "x": "samueloshay", "linkedin": "", "notes": "Founder @ Recurrency AI, AI for ERP software", "checked": false},
-    {"id": "f-164", "name": "Scott Shi", "city": "SF", "tags": ["Salesforce", "Einstein AI", "CTO"], "x": "", "linkedin": "", "notes": "CTO @ Salesforce Einstein AI, founding engineer, ex-Uber AI", "checked": false},
-    {"id": "f-165", "name": "Jon Hillis", "city": "SF", "tags": ["New Theory AI", "Robotics"], "x": "JonathanHillis", "linkedin": "", "notes": "Founder @ New Theory AI, Robots learning to think", "checked": false},
-    {"id": "f-166", "name": "Rex Guo", "city": "SF", "tags": ["Culminate Security", "AI Security"], "x": "Xiaofei_REX", "linkedin": "", "notes": "Founder @ Culminate Security, AI adoption in security", "checked": false},
-    {"id": "f-167", "name": "Travis McPeak", "city": "SF", "tags": ["Cursor Security", "AI Security"], "x": "travismcpeak", "linkedin": "https://linkedin.com/in/travismcpeak", "notes": "Founder @ Cursor Security, prev Resourcely, Databricks, Netflix", "checked": false},
-    {"id": "f-168", "name": "Shruti Gupta", "city": "SF", "tags": ["Stealth", "CISO"], "x": "chatwshruti", "linkedin": "", "notes": "Founder @ Stealth, prev CISO @ Microsoft Identity, Brex, Instacart, Airbnb", "checked": false},
-    {"id": "f-169", "name": "Elvis", "city": "SF", "tags": ["DAIR.AI"], "x": "", "linkedin": "", "notes": "@ DAIR.AI", "checked": false},
-    {"id": "f-170", "name": "Mark McQuade", "city": "SF", "tags": ["Arcee AI", "CEO", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Arcee AI, Small Language Models, Enterprise", "checked": false},
-    {"id": "f-171", "name": "Jacob Solawetz", "city": "SF", "tags": ["Arcee AI", "CTO", "Neolabs"], "x": "", "linkedin": "", "notes": "CTO @ Arcee AI, prev Roboflow", "checked": false},
-    {"id": "f-172", "name": "Brian Benedict", "city": "SF", "tags": ["Arcee AI", "CRO", "Neolabs"], "x": "", "linkedin": "", "notes": "CRO @ Arcee AI, prev Tecton", "checked": false},
-    {"id": "f-173", "name": "Vincent Weisser", "city": "SF", "tags": ["Prime Intellect", "CEO", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Prime Intellect, Decentralized AI Training", "checked": false},
-    {"id": "f-174", "name": "Johannes Hagemann", "city": "SF", "tags": ["Prime Intellect", "CTO", "Neolabs"], "x": "", "linkedin": "", "notes": "CTO @ Prime Intellect, prev Aleph Alpha", "checked": false},
-    {"id": "f-175", "name": "Francois Chollet", "city": "SF", "tags": ["Ndea", "Keras Creator", "Neolabs"], "x": "fchollet", "linkedin": "https://linkedin.com/in/fchollet", "notes": "Co-founder @ Ndea, Creator of Keras, prev Google", "checked": false},
-    {"id": "f-176", "name": "Mike Knoop", "city": "SF", "tags": ["Ndea", "Zapier", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Ndea, Co-founder of Zapier", "checked": false},
-    {"id": "f-177", "name": "Aidan Gomez", "city": "SF", "tags": ["Cohere", "CEO", "Transformer", "Neolabs"], "x": "aidangomez", "linkedin": "https://ca.linkedin.com/in/aidangomez", "notes": "CEO @ Cohere, Transformer co-author", "checked": false},
-    {"id": "f-178", "name": "Nick Frosst", "city": "SF", "tags": ["Cohere", "Google Brain", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Cohere, prev Google Brain", "checked": false},
-    {"id": "f-179", "name": "Ivan Zhang", "city": "SF", "tags": ["Cohere", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Cohere", "checked": false},
-    {"id": "f-180", "name": "Arthur Mensch", "city": "Paris", "tags": ["Mistral AI", "CEO", "DeepMind", "Neolabs"], "x": "arthurmensch", "linkedin": "https://linkedin.com/in/arthur-mensch", "notes": "CEO @ Mistral AI, prev DeepMind", "checked": false},
-    {"id": "f-181", "name": "Guillaume Lample", "city": "Paris", "tags": ["Mistral AI", "Chief Scientist", "Neolabs"], "x": "", "linkedin": "", "notes": "Chief Scientist @ Mistral AI, prev Meta", "checked": false},
-    {"id": "f-182", "name": "Timothee Lacroix", "city": "Paris", "tags": ["Mistral AI", "CTO", "Neolabs"], "x": "", "linkedin": "", "notes": "CTO @ Mistral AI, prev Meta", "checked": false},
-    {"id": "f-183", "name": "Misha Laskin", "city": "SF", "tags": ["Reflection AI", "CEO", "DeepMind Gemini", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Reflection AI, prev DeepMind Gemini", "checked": false},
-    {"id": "f-184", "name": "Ioannis Antonoglou", "city": "SF", "tags": ["Reflection AI", "AlphaGo", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Reflection AI, AlphaGo creator", "checked": false},
-    {"id": "f-185", "name": "Tudor Achim", "city": "SF", "tags": ["Harmonic", "CEO", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Harmonic, prev Helm.ai CTO", "checked": false},
-    {"id": "f-186", "name": "Vlad Tenev", "city": "SF", "tags": ["Harmonic", "Robinhood", "Neolabs"], "x": "", "linkedin": "", "notes": "Executive Chairman @ Harmonic, Robinhood Co-founder", "checked": false},
-    {"id": "f-187", "name": "Carina Hong", "city": "SF", "tags": ["Axiom Math", "CEO", "MIT", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Axiom Math, MIT math prize winner, 24yo", "checked": false},
-    {"id": "f-188", "name": "Shubho Sengupta", "city": "SF", "tags": ["Axiom Math", "CTO", "Meta FAIR", "Neolabs"], "x": "", "linkedin": "", "notes": "CTO @ Axiom Math, prev Meta FAIR", "checked": false},
-    {"id": "f-189", "name": "Jesse Han", "city": "SF", "tags": ["Morph Labs", "CEO", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Morph Labs, Formal Mathematics AI", "checked": false},
-    {"id": "f-190", "name": "Ramin Hasani", "city": "SF", "tags": ["Liquid AI", "CEO", "MIT", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Liquid AI, MIT CSAIL, Liquid Neural Networks", "checked": false},
-    {"id": "f-191", "name": "Mathias Lechner", "city": "SF", "tags": ["Liquid AI", "MIT", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Liquid AI, MIT", "checked": false},
-    {"id": "f-192", "name": "Alexander Amini", "city": "SF", "tags": ["Liquid AI", "MIT", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Liquid AI, MIT", "checked": false},
-    {"id": "f-193", "name": "David Ha", "city": "Tokyo", "tags": ["Sakana AI", "CEO", "Google Brain", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Sakana AI, prev Google Brain Japan", "checked": false},
-    {"id": "f-194", "name": "Llion Jones", "city": "Tokyo", "tags": ["Sakana AI", "CTO", "Transformer", "Neolabs"], "x": "", "linkedin": "", "notes": "CTO @ Sakana AI, Transformer co-author", "checked": false},
-    {"id": "f-195", "name": "Ashish Vaswani", "city": "SF", "tags": ["Essential AI", "CEO", "Transformer", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Essential AI, Transformer first author", "checked": false},
-    {"id": "f-196", "name": "Karol Hausman", "city": "SF", "tags": ["Physical Intelligence", "CEO", "DeepMind", "Stanford", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Physical Intelligence, prev DeepMind, Stanford", "checked": false},
-    {"id": "f-197", "name": "Sergey Levine", "city": "SF", "tags": ["Physical Intelligence", "UC Berkeley", "Neolabs"], "x": "", "linkedin": "", "notes": "Chief Scientist @ Physical Intelligence, UC Berkeley Prof", "checked": false},
-    {"id": "f-198", "name": "Chelsea Finn", "city": "SF", "tags": ["Physical Intelligence", "Stanford", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Physical Intelligence, Stanford Prof", "checked": false},
-    {"id": "f-199", "name": "Lachy Groom", "city": "SF", "tags": ["Physical Intelligence", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Physical Intelligence", "checked": false},
-    {"id": "f-200", "name": "Dan Balsam", "city": "SF", "tags": ["Goodfire", "CTO", "Neolabs"], "x": "", "linkedin": "", "notes": "CTO @ Goodfire, prev RippleMatch", "checked": false},
-    {"id": "f-201", "name": "Tom McGrath", "city": "SF", "tags": ["Goodfire", "Chief Scientist", "DeepMind", "Neolabs"], "x": "", "linkedin": "", "notes": "Chief Scientist @ Goodfire, prev DeepMind", "checked": false},
-    {"id": "f-202", "name": "Emmett Shear", "city": "SF", "tags": ["Softmax", "Twitch", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Softmax, Twitch founder, Organic Alignment", "checked": false},
-    {"id": "f-203", "name": "Adam Goldstein", "city": "SF", "tags": ["Softmax", "Hipmunk", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Softmax, prev Hipmunk", "checked": false},
-    {"id": "f-204", "name": "David Bloomin", "city": "SF", "tags": ["Softmax", "Google", "Facebook", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Softmax, prev Google, Facebook", "checked": false},
-    {"id": "f-205", "name": "Jeffrey Quesnelle", "city": "SF", "tags": ["Nous Research", "CEO", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Nous Research", "checked": false},
-    {"id": "f-206", "name": "Karan Malhotra", "city": "SF", "tags": ["Nous Research", "Neolabs"], "x": "", "linkedin": "", "notes": "Head of Behavior @ Nous Research", "checked": false},
-    {"id": "f-207", "name": "Teknium", "city": "SF", "tags": ["Nous Research", "StabilityAI", "Neolabs"], "x": "", "linkedin": "", "notes": "Head of Post Training @ Nous Research, prev StabilityAI", "checked": false},
-    {"id": "f-208", "name": "Geoffrey von Maltzahn", "city": "SF", "tags": ["Lila Sciences", "CEO", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Lila Sciences, Scientific Superintelligence", "checked": false},
-    {"id": "f-209", "name": "Molly Gibson", "city": "SF", "tags": ["Lila Sciences", "President", "Neolabs"], "x": "", "linkedin": "", "notes": "President @ Lila Sciences", "checked": false},
-    {"id": "f-210", "name": "Liam Fedus", "city": "SF", "tags": ["Periodic Labs", "ChatGPT", "OpenAI", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Periodic Labs, ChatGPT creator, prev OpenAI VP", "checked": false},
-    {"id": "f-211", "name": "Ekin Dogus Cubuk", "city": "SF", "tags": ["Periodic Labs", "Google Brain", "DeepMind", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Periodic Labs, prev Google Brain/DeepMind", "checked": false},
-    {"id": "f-212", "name": "Jason Warner", "city": "SF", "tags": ["Poolside AI", "CEO", "GitHub CTO", "$3B", "Neolabs"], "x": "jasoncwarner", "linkedin": "https://linkedin.com/in/jcw148", "notes": "CEO @ Poolside AI, prev GitHub CTO, $3B valuation", "checked": false},
-    {"id": "f-213", "name": "Eiso Kant", "city": "SF", "tags": ["Poolside AI", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Poolside AI", "checked": false},
-    {"id": "f-214", "name": "Mira Murati", "city": "SF", "tags": ["Thinking Machines Lab", "OpenAI CTO", "$50B", "Neolabs"], "x": "miramurati", "linkedin": "", "notes": "Co-founder @ Thinking Machines Lab, prev OpenAI CTO, $50B valuation", "checked": false},
-    {"id": "f-215", "name": "John Schulman", "city": "SF", "tags": ["Thinking Machines Lab", "OpenAI", "Neolabs"], "x": "johnschulman2", "linkedin": "", "notes": "Chief Scientist @ Thinking Machines Lab, prev OpenAI", "checked": false},
-    {"id": "f-216", "name": "Barrett Zoph", "city": "SF", "tags": ["Thinking Machines Lab", "OpenAI", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Thinking Machines Lab, prev OpenAI", "checked": false},
-    {"id": "f-217", "name": "Sam Pasupalak", "city": "SF", "tags": ["Skyfall AI", "CEO", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Skyfall AI, prev Maluuba (acq by Microsoft)", "checked": false},
-    {"id": "f-218", "name": "Kaheer Suleman", "city": "SF", "tags": ["Skyfall AI", "Neolabs"], "x": "", "linkedin": "", "notes": "Chief AI Officer @ Skyfall AI, prev Maluuba", "checked": false},
-    {"id": "f-219", "name": "Pim de Witte", "city": "SF", "tags": ["General Intuition", "CEO", "$134M seed", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ General Intuition, Medal founder, $134M seed", "checked": false},
-    {"id": "f-220", "name": "Vincent Micheli", "city": "SF", "tags": ["General Intuition", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ General Intuition", "checked": false},
-    {"id": "f-221", "name": "Eloi Alonso", "city": "SF", "tags": ["General Intuition", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ General Intuition", "checked": false},
-    {"id": "f-222", "name": "Fan-Yun Sun", "city": "SF", "tags": ["Moonlake AI", "Stanford", "NVIDIA", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Moonlake AI, Stanford PhD, prev NVIDIA", "checked": false},
-    {"id": "f-223", "name": "Sharon Lee", "city": "SF", "tags": ["Moonlake AI", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Moonlake AI, Generative AI researcher", "checked": false},
-    {"id": "f-224", "name": "Tejas Bhakta", "city": "SF", "tags": ["Morph", "MorphLLM", "YC S23", "Neolabs"], "x": "", "linkedin": "", "notes": "Founder @ Morph/MorphLLM, YC S23, Coding Agents", "checked": false},
-    {"id": "f-225", "name": "Gabriel Rene", "city": "SF", "tags": ["Verses AI", "CEO", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Verses AI, Active Inference, Spatial Web", "checked": false},
-    {"id": "f-226", "name": "Candice Pattisapu", "city": "SF", "tags": ["Noumenal Labs", "CEO", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Noumenal Labs, Thermodynamic brains", "checked": false},
-    {"id": "f-227", "name": "Jason Fox", "city": "SF", "tags": ["Noumenal Labs", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Noumenal Labs", "checked": false},
-    {"id": "f-228", "name": "Timoleon Moraitis", "city": "SF", "tags": ["Noemon AI", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Noemon AI, Adaptive Intelligence", "checked": false},
-    {"id": "f-229", "name": "Alexandre LeBrun", "city": "SF", "tags": ["AMI Labs", "CEO", "Nabla", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ AMI Labs, prev Nabla founder", "checked": false},
-    {"id": "f-230", "name": "Jeff Bezos", "city": "SF", "tags": ["Project Prometheus", "$6.2B", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-CEO @ Project Prometheus, $6.2B funding", "checked": false},
-    {"id": "f-231", "name": "Vik Bajaj", "city": "SF", "tags": ["Project Prometheus", "Foresite Labs", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-CEO @ Project Prometheus, prev Foresite Labs", "checked": false},
-    {"id": "f-232", "name": "Sara Hooker", "city": "SF", "tags": ["Adaption Labs", "Cohere", "Google Brain", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Adaption Labs, prev Cohere, Google Brain", "checked": false},
-    {"id": "f-233", "name": "Sudip Roy", "city": "SF", "tags": ["Adaption Labs", "CTO", "Cohere", "Neolabs"], "x": "", "linkedin": "", "notes": "CTO @ Adaption Labs, prev Cohere", "checked": false},
-    {"id": "f-234", "name": "Richard Socher", "city": "SF", "tags": ["You.com", "CEO", "Salesforce", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ You.com, prev Salesforce Chief Scientist", "checked": false},
-    {"id": "f-235", "name": "Charles Kantor", "city": "Paris", "tags": ["H Company", "Neolabs"], "x": "", "linkedin": "", "notes": "Founder @ H Company, Paris", "checked": false},
-    {"id": "f-236", "name": "Laurent Sifre", "city": "Paris", "tags": ["H Company", "CTO", "Neolabs"], "x": "", "linkedin": "", "notes": "CTO @ H Company", "checked": false},
-    {"id": "f-237", "name": "Dave Lemphers", "city": "Australia", "tags": ["Maincode", "CEO", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Maincode, Australia's LLM 'Matilda'", "checked": false},
-    {"id": "f-238", "name": "Ed Craven", "city": "Australia", "tags": ["Maincode", "Stake.com", "Billionaire", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Maincode, Stake.com billionaire", "checked": false},
-    {"id": "f-239", "name": "Jaemin Shin", "city": "Korea", "tags": ["Trillion Labs", "CEO", "Naver", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Trillion Labs, prev Naver HyperCLOVA X", "checked": false},
-    {"id": "f-240", "name": "Jason Juneyoung Park", "city": "Korea", "tags": ["Trillion Labs", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Trillion Labs", "checked": false},
-    {"id": "f-241", "name": "Bidhan Roy", "city": "SF", "tags": ["Bagel Network", "CEO", "Amazon Alexa", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Bagel Network, prev Amazon Alexa ML", "checked": false},
-    {"id": "f-242", "name": "Eddie Zhang", "city": "SF", "tags": ["Isara", "OpenAI", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Isara, prev OpenAI safety researcher", "checked": false},
-    {"id": "f-243", "name": "John Carmack", "city": "SF", "tags": ["Keen Technologies", "Oculus CTO", "DOOM", "Neolabs"], "x": "ID_AA_Carmack", "linkedin": "", "notes": "Founder @ Keen Technologies, prev Oculus CTO, DOOM creator", "checked": false},
-    {"id": "f-244", "name": "Eric Zelikman", "city": "SF", "tags": ["Humans&", "xAI", "Neolabs"], "x": "", "linkedin": "", "notes": "Founder @ Humans&, prev xAI", "checked": false},
-    {"id": "f-245", "name": "Georges Harik", "city": "SF", "tags": ["Humans&", "Google", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Humans&, early Google employee", "checked": false},
-    {"id": "f-246", "name": "Ari Morcos", "city": "SF", "tags": ["DatologyAI", "$57.6M raised", "Meta AI FAIR", "DeepMind"], "x": "arimorcos", "linkedin": "https://linkedin.com/in/arimorcos", "notes": "Co-founder & CEO @ DatologyAI, $57.6M raised ($46M Series A May 2024), prev Senior Staff Research Scientist @ Meta AI FAIR, prev DeepMind, PhD Harvard (Chris Harvey lab), BS UC San Diego, automated data curation at scale for AI training", "checked": false},
-    {"id": "f-247", "name": "Rob Toews", "city": "SF", "tags": ["Radical Ventures", "Forbes AI Columnist", "Harvard MBA/JD", "Zoox"], "x": "_RobToews", "linkedin": "https://linkedin.com/in/robtoews", "notes": "Partner @ Radical Ventures ($550M early-stage + $800M growth fund), AI Columnist @ Forbes, MBA & JD Harvard, prev Highland Capital VC, prev Strategy Lead @ Zoox (acquired by Amazon $1.3B), prev White House autonomous vehicle policy under Obama, prev Bain & Co, led investments in DatologyAI/Hebbia/Reka/Twelve Labs", "checked": false}
+    {
+      "id": "f-1",
+      "name": "Adam Laitt",
+      "city": "Australia",
+      "tags": [
+        "Traild",
+        "CyRise"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/adam-laitt-6944781aa",
+      "notes": "Co-founder & Executive Director @ Traild | Building AI-driven AP automation & fraud protection - anomaly detection for high-risk invoices in mid-market businesses | prev lawyer, Columbia Business School | Melbourne-based | Co-founded with Brad Smorgon (old uni mates)",
+      "checked": false
+    },
+    {
+      "id": "f-2",
+      "name": "Ronak Malde",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "RL/AI",
+        "Stanford"
+      ],
+      "x": "rronak_",
+      "linkedin": "https://linkedin.com/in/ronak-malde",
+      "notes": "Research @ Google DeepMind (joined July 2025) | Working on training agentic coding | prev Windsurf - trained SWE-1 (frontier SWE model) | Stanford grad | Part of $2.4B Windsurf-Google acquihire deal",
+      "checked": false
+    },
+    {
+      "id": "f-3",
+      "name": "Eddie Landesberg",
+      "city": "SF",
+      "tags": [
+        "Mercor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Listed as Mercor founder but research shows Mercor was co-founded by Brendan Foody, Adarsh Hiremath, and Surya Midha only",
+      "checked": false
+    },
+    {
+      "id": "f-4",
+      "name": "Brendan Foody",
+      "city": "SF",
+      "tags": [
+        "Mercor",
+        "$10B valuation",
+        "Thiel Fellow",
+        "Forbes 30u30"
+      ],
+      "x": "BrendanFoody",
+      "linkedin": "https://linkedin.com/in/brendan-foody-2995ab10b",
+      "notes": "Co-founder & CEO @ Mercor | $350M Series C at $10B valuation (Oct 2025) | World's youngest self-made billionaire trio | Fastest company ever: $1M\u2192$500M revenue in 17 months | Pays $1.5M+/day to AI training experts | Works with 6/7 Magnificent 7 & all top 5 AI labs | Thiel Fellow | Harvard dropout | Bellarmine HS debate team with co-founders",
+      "checked": false
+    },
+    {
+      "id": "f-5",
+      "name": "Adarsh Hiremath",
+      "city": "SF",
+      "tags": [
+        "Mercor",
+        "$10B valuation",
+        "Thiel Fellow",
+        "Forbes 30u30"
+      ],
+      "x": "adarsh_exe",
+      "linkedin": "https://linkedin.com/in/adarsh-h-623941204",
+      "notes": "Co-founder & CTO @ Mercor | $10B valuation | World's youngest self-made billionaire (22 y/o) | Building AI-powered hiring platform for expert AI trainers | Harvard CS concurrent BS/MS dropout | Thiel Fellow 2024 | prev Research Assistant to Larry Summers | Bellarmine HS debate team",
+      "checked": false
+    },
+    {
+      "id": "f-6",
+      "name": "Surya Midha",
+      "city": "SF",
+      "tags": [
+        "Mercor",
+        "$10B valuation",
+        "Thiel Fellow"
+      ],
+      "x": "suryamidha",
+      "linkedin": "https://linkedin.com/in/suryamidha",
+      "notes": "Co-founder & Chairman @ Mercor (prev COO) | $10B valuation | World's youngest self-made billionaire | Guided Mercor from $3.6M seed \u2192 $2B Series B | Georgetown (BS Foreign Service) dropout | Thiel Fellow 2024 | prev Brookings Institution intern | Born Mountain View, Bellarmine HS debate team",
+      "checked": false
+    },
+    {
+      "id": "f-7",
+      "name": "Carlos Georgescu",
+      "city": "SF",
+      "tags": [
+        "AfterQuery",
+        "YC W25",
+        "Citadel"
+      ],
+      "x": "CarlosGeorgescu",
+      "linkedin": "https://linkedin.com/in/carlossgg",
+      "notes": "Co-founder & CTO @ AfterQuery (YC W25) | Research lab investigating AI capabilities through novel datasets & experimentation | prev Citadel Securities (2x intern), Meta, Google | UBC CS | Won largest academic scholarship in Canada | Met Spencer at Google summer program in HS",
+      "checked": false
+    },
+    {
+      "id": "f-8",
+      "name": "Spencer Mateega",
+      "city": "SF",
+      "tags": [
+        "AfterQuery",
+        "YC W25",
+        "Wharton"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/spencermateega",
+      "notes": "Co-founder & CEO @ AfterQuery (YC W25) | $500K seed | Building datasets for AI evaluation | prev Google SWE, Silver Lake Tech PE, Morgan Stanley Tech IB, Meta | Wharton BS Finance/Stats + Penn MS CS | Met Carlos at Google HS program, Danny at HS startup",
+      "checked": false
+    },
+    {
+      "id": "f-9",
+      "name": "Xiangyi Li",
+      "city": "SF",
+      "tags": [
+        "BenchFlow",
+        "Jeff Dean backed"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/l1xiangyi",
+      "notes": "Founder @ BenchFlow | Unified AI benchmark runtime platform with 60+ standardized, reproducible environments - 'single platform to verify if AI models actually work' | Pre-Seed from Jeff Dean/Arash Ferdowsi/a16z Scout/Founders Inc | San Jos\u00e9 State | Co-maintaining with Hongji Xu",
+      "checked": false
+    },
+    {
+      "id": "f-10",
+      "name": "Mahesh Sathiamoorthy",
+      "city": "SF",
+      "tags": [
+        "Bespoke Labs",
+        "Google DeepMind",
+        "KDD Best Paper"
+      ],
+      "x": "madiator",
+      "linkedin": "https://linkedin.com/in/smaheswaran",
+      "notes": "Co-founder & CEO @ Bespoke Labs | $7.25M seed | Curating data & RL environments to improve AI models - built OpenThoughts (best open reasoning dataset) & trained Bespoke-MiniCheck/MiniChart | prev Google DeepMind Staff SWE (LLM-based recommender models for YouTube) | USC/IIT Kharagpur",
+      "checked": false
+    },
+    {
+      "id": "f-11",
+      "name": "Alex Dimakis",
+      "city": "SF",
+      "tags": [
+        "Bespoke Labs",
+        "UC Berkeley Prof",
+        "IEEE Fellow"
+      ],
+      "x": "AlexGDimakis",
+      "linkedin": "https://linkedin.com/in/alex-dimakis-b1b20320",
+      "notes": "Co-founder & Chief Scientist @ Bespoke Labs | Professor @ UC Berkeley EECS (Dec 2024) | prev 12 yrs UT Austin | IEEE Fellow | James Massey Award | 150+ papers on Generative AI, InfoTheory, ML | PhD UC Berkeley | NTU Athens",
+      "checked": false
+    },
+    {
+      "id": "f-12",
+      "name": "Sophia Wisdom",
+      "city": "SF",
+      "tags": [
+        "Calaveras",
+        "OpenAI",
+        "FlashAttention-3"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/sophia-wisdom",
+      "notes": "CTO & Dataset Gatherer @ Calaveras AI | Sold 100B+ token code dataset to 4 of top 6 AI labs (no one else found it) | Now expanding into RL environments | prev OpenAI, Google, Apple, Reduct.Video | 10 yrs AI/SWE | SF-based | 26 y/o",
+      "checked": false
+    },
+    {
+      "id": "f-13",
+      "name": "Alana Xiang",
+      "city": "SF",
+      "tags": [
+        "Calaveras",
+        "Stanford dropout"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/alana-xiang",
+      "notes": "Co-founder @ Calaveras AI | Building 100B+ novel code tokens & robust RL environments for frontier labs | Stanford CS dropout (left to learn faster at startup) | prev Center on Long-Term Risk Research Fellow, SERI MATS (AI Alignment with Vivek Hebbar/MIRI)",
+      "checked": false
+    },
+    {
+      "id": "f-14",
+      "name": "Francesco Bonacci",
+      "city": "SF",
+      "tags": [
+        "Cua",
+        "YC X25",
+        "Microsoft"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/francesco-bonacci-70428a121",
+      "notes": "Founder @ Cua (YC X25) | Building 'Docker for Computer-use Agents' - cloud containers for AI agents to safely use real computers at scale | Open-source tools used by 1000s of devs | prev Microsoft (Xbox Gaming AI, Windows Agent Arena) | 7 yrs SWE | Bologna CS | Co-founded with Alessandro Puppo",
+      "checked": false
+    },
+    {
+      "id": "f-15",
+      "name": "Dillon DuPont",
+      "city": "SF",
+      "tags": [
+        "Cua"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/alessandro-puppo",
+      "notes": "Co-founder @ Cua (YC X25) | Building 'Docker for Computer-use Agents' - cloud containers & VMs for AI agents | YC Alum | prev Notion | Co-founded Safurai (Techstars)",
+      "checked": false
+    },
+    {
+      "id": "f-16",
+      "name": "Nazneen Rajani",
+      "city": "SF",
+      "tags": [
+        "Collinear",
+        "Hugging Face",
+        "MIT TR35"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/nazneenrajani",
+      "notes": "Founder & CEO @ Collinear AI | Post-training alignment: stress-testing & customizing LLMs for enterprise deployment | Built Collinear Judges (automated AI safety eval) & Collinear Guard (real-time guardrails) | prev Hugging Face Research Lead (H4 alignment), Salesforce Research Senior Scientist | PhD UT Austin NLP | MIT TR Innovators Under 35",
+      "checked": false
+    },
+    {
+      "id": "f-17",
+      "name": "Soumyadeep Bakshi",
+      "city": "SF",
+      "tags": [
+        "Collinear",
+        "Wharton",
+        "Deloitte"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/soumyadeep-bakshi",
+      "notes": "Co-founder @ Collinear AI | Building curated datasets & simulation environments for responsible AI deployment at frontier labs & F500 | prev Monitor Deloitte Associate Partner (6 yrs consulting) | Wharton MBA, Georgia Tech MS CS",
+      "checked": false
+    },
+    {
+      "id": "f-18",
+      "name": "Anish Tondwalkar",
+      "city": "SF",
+      "tags": [
+        "dmodel",
+        "YC S24",
+        "OpenAI",
+        "Google Brain"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/ani-sh",
+      "notes": "Co-founder & Chief Scientist @ dmodel (YC S24) | Opening the 'black box' of LLMs - manipulating internal model 'thoughts' in realtime for interpretability | prev OpenAI, Google Brain | PhD Programming Languages UCSD (Ranjit Jhala, Wes Weimer) | Advises investors on AI trends",
+      "checked": false
+    },
+    {
+      "id": "f-19",
+      "name": "Daniel Moon",
+      "city": "SF",
+      "tags": [
+        "dmodel",
+        "YC S24",
+        "MIT"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/d-moon",
+      "notes": "Co-founder @ dmodel (YC S24) | Building AI interpretability tools to understand how LLMs work internally | 1st Gen MIT grad (EE BS, EECS MEng) | prev AMD, Xilinx, MIT Microsystems",
+      "checked": false
+    },
+    {
+      "id": "f-20",
+      "name": "Serena Ge",
+      "city": "SF",
+      "tags": [
+        "Datacurve",
+        "YC W24",
+        "Forbes 30u30",
+        "$17.7M"
+      ],
+      "x": "serenaa_ge",
+      "linkedin": "https://linkedin.com/in/serena-ge-4583731b4",
+      "notes": "Co-founder & CEO @ Datacurve (YC W24) | $17.7M raised ($15M Series A) | Expert-quality code data platform for foundation model labs via 'bounty system' - paid $1M+ to skilled engineers | Turned 20 Dec 2024 | UWaterloo CS dropout | prev Cohere CTO (LLM reasoning research) | Pivoted 3x from UncleGPT web agent",
+      "checked": false
+    },
+    {
+      "id": "f-21",
+      "name": "Charley Lee",
+      "city": "SF",
+      "tags": [
+        "Datacurve",
+        "YC W24",
+        "$17.7M"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/charley-lee",
+      "notes": "Co-founder @ Datacurve (YC W24) | $17.7M raised | Building frontier training data for foundation model labs via bounty system | UWaterloo CS dropout | prev Google STEP intern | Met Serena in AI reading groups & advanced CS classes | Built UncleGPT (930 users)",
+      "checked": false
+    },
+    {
+      "id": "f-22",
+      "name": "Tim Lupo",
+      "city": "NYC",
+      "tags": [
+        "Deeptune",
+        "Hebbia",
+        "GaryVee backed"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/timlup",
+      "notes": "Co-founder & CEO @ Deeptune | $3.1M seed from Alexis Ohanian (776) & Gary Vaynerchuk | Cinematic AI dubbing & lip sync - 'making world's media accessible to every human on Earth' | prev Hebbia.AI Founding Engineer, Snackpass, Microsoft, Amazon | USC",
+      "checked": false
+    },
+    {
+      "id": "f-23",
+      "name": "Nicolai Ouporov",
+      "city": "SF",
+      "tags": [
+        "Fleet AI",
+        "Columbia",
+        "Respell"
+      ],
+      "x": "nicolas_ouporov",
+      "linkedin": "https://linkedin.com/in/nicolas-ouporov",
+      "notes": "Co-founder & CEO @ Fleet AI | Building high-fidelity 'training gyms' where AI agents practice tasks under human supervision | prev Respell Founding Engineer (acq by Salesforce) | Columbia BA CS | IEEE publications on embodied AI & human-robot collaboration | Former professional ballet (Boston, SF, Ballet West)",
+      "checked": false
+    },
+    {
+      "id": "f-24",
+      "name": "Andrew Zhou",
+      "city": "SF",
+      "tags": [
+        "Fleet AI",
+        "UCLA"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/fredhavemeyer",
+      "notes": "Founding Team @ Fleet AI | Building 'training gyms' - high-fidelity simulation environments for AI agent practice under human supervision | Also Operating Partner @ Fulcrum Venture Group | prev Macquarie Senior Analyst (software equity research) | Physics background | Team from Anthropic, Microsoft AI, Citadel, Jane Street",
+      "checked": false
+    },
+    {
+      "id": "f-25",
+      "name": "Ross Taylor",
+      "city": "SF",
+      "tags": [
+        "General Reasoning",
+        "Meta AI",
+        "Galactica",
+        "Papers with Code"
+      ],
+      "x": "rosstaylor90",
+      "linkedin": "https://linkedin.com/in/rosstaylor90",
+      "notes": "Co-founder & CEO @ General Reasoning | Enabling agents to work autonomously for extended periods via RL | prev Meta AI LLM team lead (Llama 2/3, Galactica) | Co-founded Papers with Code (acq Meta) | Quant finance/sports betting background | Cambridge | London-based",
+      "checked": false
+    },
+    {
+      "id": "f-26",
+      "name": "Chengxi Taylor",
+      "city": "London",
+      "tags": [
+        "General Reasoning",
+        "Oxford MBA",
+        "Serial Entrepreneur"
+      ],
+      "x": "ChengxiTaylor",
+      "linkedin": "https://linkedin.com/in/chengxi-taylor",
+      "notes": "Co-founder & President @ General Reasoning | Serial deep-tech entrepreneur: prev CEO MyMiniFactory (largest 3D printing platform), Satori (large-format 3D printer), Kirin (text-to-3D diffusion) | 7 yrs NYC finance, CFA | Oxford MBA | Born near Tibetan border | London-based",
+      "checked": false
+    },
+    {
+      "id": "f-27",
+      "name": "Kip Parker",
+      "city": "London",
+      "tags": [
+        "General Reasoning",
+        "Mechanistic Interpretability"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/kip-parker-773b00182",
+      "notes": "Co-founder @ General Reasoning | Won Torus Prize at Mechanistic Interpretability Hackathon @ Entrepreneur First | Co-authored 'Interpreting Neural Networks through the Polytope Lens' paper | London-based",
+      "checked": false
+    },
+    {
+      "id": "f-28",
+      "name": "Thomas Grady",
+      "city": "SF",
+      "tags": [
+        "General Reasoning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ General Reasoning (limited public information available)",
+      "checked": false
+    },
+    {
+      "id": "f-29",
+      "name": "Jerry Wu",
+      "city": "SF",
+      "tags": [
+        "Halluminate",
+        "YC",
+        "Capital One"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/jerry-wu-7814b0100",
+      "notes": "Co-founder & CEO @ Halluminate (YC) | Building eval infrastructure for AI agents - realistic sandboxes & datasets for computer/browser use AI training | Alchemist Accelerator backed | prev Capital One Labs (led product/research, launched first AI agents in finservices, 3 patents) | Cornell CS | Roommates with Wyatt 7 yrs",
+      "checked": false
+    },
+    {
+      "id": "f-30",
+      "name": "Wyatt Marshall",
+      "city": "SF",
+      "tags": [
+        "Halluminate",
+        "YC",
+        "Cornell"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/wyatt-marshall-a40797198",
+      "notes": "Co-founder & CTO @ Halluminate (YC) | High-quality datasets & sandbox environments for computer use AI agents | Cornell CS & Philosophy (Milstein Scholar) | prev Data Engineer @ MediaWallah, SWE @ Silq | Friends with Jerry since first week at Cornell",
+      "checked": false
+    },
+    {
+      "id": "f-31",
+      "name": "Maxim Enis",
+      "city": "SF",
+      "tags": [
+        "Habitat",
+        "Ramp",
+        "Williams"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Habitat Inc, prev 2 years at Ramp, Williams College, building Paradigm AI workspace platform",
+      "checked": false
+    },
+    {
+      "id": "f-32",
+      "name": "Max Kan",
+      "city": "SF",
+      "tags": [
+        "Habitat",
+        "YC",
+        "$100K ARR"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & COO @ Habitat Inc, YC alum (pivoted from EdTech 24hrs after acceptance), hit $100K ARR, vocal about AI-enabled vs true AI distinction",
+      "checked": false
+    },
+    {
+      "id": "f-33",
+      "name": "Andrew Megalaa",
+      "city": "SF",
+      "tags": [
+        "Eventual/Daft",
+        "YC",
+        "$30M",
+        "Tesla Autopilot"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Eventual/Daft (YC), raised $30M from CRV/Felicis/M12/Citi, prev DeepScale (acquired by Tesla Autopilot) & Lyft Level 5, Williams College",
+      "checked": false
+    },
+    {
+      "id": "f-34",
+      "name": "Jibran Hutchins",
+      "city": "SF",
+      "tags": [
+        "Haladir",
+        "YC W26",
+        "CMU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Haladir, YC W26, Carnegie Mellon, O-1 visa holder, building formal methods for code generation RL environments",
+      "checked": false
+    },
+    {
+      "id": "f-35",
+      "name": "Quan Huynh",
+      "city": "SF",
+      "tags": [
+        "Haladir",
+        "YC W26",
+        "CMU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CIO @ Haladir, YC W26, Carnegie Mellon/UVA, building formal verification & model checking for next-gen coding data",
+      "checked": false
+    },
+    {
+      "id": "f-36",
+      "name": "Preston Schmittou",
+      "city": "SF",
+      "tags": [
+        "Haladir",
+        "YC W26"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Haladir, YC W26, Freshman at UVA Wise, building formal methods for coding AI",
+      "checked": false
+    },
+    {
+      "id": "f-37",
+      "name": "Joseph Tso",
+      "city": "SF",
+      "tags": [
+        "Haladir",
+        "YC W26",
+        "Princeton"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Haladir, YC W26, Princeton CS undergrad, research in Operations Research & ML, built Knot (SKU transaction analysis)",
+      "checked": false
+    },
+    {
+      "id": "f-38",
+      "name": "Jun Park",
+      "city": "SF",
+      "tags": [
+        "Hillclimb",
+        "YC",
+        "Google DeepMind",
+        "ex-Fortnite pro"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Hillclimb, YC-backed, prev Google DeepMind dropout, built AI coding interviewer to 100K users, ex-Fortnite pro, IMO medalists community",
+      "checked": false
+    },
+    {
+      "id": "f-39",
+      "name": "Ibrakhim Ustelbay",
+      "city": "SF",
+      "tags": [
+        "Hillclimb",
+        "Coinbase",
+        "ex-Fortnite pro"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Hillclimb, 20 years old, prev Coinbase/Whop/Microsoft intern, IvyHacks Audience Prize winner, ex-Fortnite pro",
+      "checked": false
+    },
+    {
+      "id": "f-40",
+      "name": "Ivan Chub",
+      "city": "SF",
+      "tags": [
+        "Idler",
+        "YC S25",
+        "Dark Forest",
+        "0xPARC"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Idler, YC S25, prev Dark Forest/0xPARC/Zupass/Hack Lodge, ex-Facebook, UW, multimillion-dollar contract with foundation lab for RL envs",
+      "checked": false
+    },
+    {
+      "id": "f-41",
+      "name": "Nalu Concepcion",
+      "city": "SF",
+      "tags": [
+        "Idler",
+        "YC S25",
+        "Cornell",
+        "Microsoft"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Idler, YC S25, 8 years SWE, Cornell CS & ORIE, prev Microsoft Azure (C# SDK), Notable Capital fellow",
+      "checked": false
+    },
+    {
+      "id": "f-42",
+      "name": "Tony Goss",
+      "city": "SF",
+      "tags": [
+        "Idler",
+        "YC S25",
+        "ZK proofs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Idler, YC S25, Tufts grad, prev Dark Forest/Zupass/US Census Bureau, zero-knowledge proof developer, pro ultimate player",
+      "checked": false
+    },
+    {
+      "id": "f-43",
+      "name": "John Qian",
+      "city": "SF",
+      "tags": [
+        "Matrices",
+        "Weights & Biases",
+        "Adept",
+        "Google"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Matrices, prev founding engineer Weights & Biases/Adept AI Labs/Google, UIUC, AI-native spreadsheet & replica websites for agent training",
+      "checked": false
+    },
+    {
+      "id": "f-44",
+      "name": "Leonardo Axel Setyanto",
+      "city": "SF",
+      "tags": [
+        "Matrices",
+        "Weights & Biases",
+        "YC W13"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ Matrices, prev Technical Lead Weights & Biases, co-founder CrowdMed (YC W13, $3.1M seed), UT Austin Turing Scholar",
+      "checked": false
+    },
+    {
+      "id": "f-45",
+      "name": "Tamay Besiroglu",
+      "city": "SF",
+      "tags": [
+        "Mechanize",
+        "Epoch AI",
+        "Nat Friedman backed"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Mechanize, co-founded Epoch AI, backed by Nat Friedman/Daniel Gross/Patrick Collison/Jeff Dean, $60T TAM, controversial launch",
+      "checked": false
+    },
+    {
+      "id": "f-46",
+      "name": "Ege Erdil",
+      "city": "SF",
+      "tags": [
+        "Mechanize",
+        "Epoch AI",
+        "Forecasting"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Mechanize, prev Epoch AI researcher, math/stats/economics/forecasting expert, 20-30 year AGI timeline, virtual work RL environments",
+      "checked": false
+    },
+    {
+      "id": "f-47",
+      "name": "Matthew Barnett",
+      "city": "SF",
+      "tags": [
+        "Mechanize",
+        "Epoch AI",
+        "UC Berkeley"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Mechanize, prev Epoch AI researcher (2022-2024), UC Berkeley CS, AI alignment researcher, 10-20 year automation timeline",
+      "checked": false
+    },
+    {
+      "id": "f-48",
+      "name": "Abhishek Chandwani",
+      "city": "SF",
+      "tags": [
+        "Metaphi",
+        "Harvard MBA",
+        "BCG"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Metaphi, Harvard Business School MBA, IIT Kharagpur, prev BCG Consultant/Shell, raised $1.07M Seed, evals for long-horizon agents",
+      "checked": false
+    },
+    {
+      "id": "f-49",
+      "name": "Ishan Gupta",
+      "city": "SF",
+      "tags": [
+        "Metaphi"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Metaphi (limited public information available)",
+      "checked": false
+    },
+    {
+      "id": "f-50",
+      "name": "Sonya Jin",
+      "city": "SF",
+      "tags": [
+        "Phinity Labs",
+        "PearX S25",
+        "Stanford",
+        "NVIDIA"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Phinity Labs, PearX S25, Stanford AI '25, prev NVIDIA Research Scientist (LLMs), AWS Applied Scientist, RL envs for chip design",
+      "checked": false
+    },
+    {
+      "id": "f-51",
+      "name": "Aadi Nashikkar",
+      "city": "SF",
+      "tags": [
+        "Kopia",
+        "YC W23",
+        "Stanford"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Kopia (YC W23), Stanford CS '25, prev AI research @ Verizon, founder of Plava & Leda, currently stealth startup SF",
+      "checked": false
+    },
+    {
+      "id": "f-52",
+      "name": "Rob Farlow",
+      "city": "SF",
+      "tags": [
+        "Plato",
+        "Waterloo"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CEO @ Plato (since Nov 2024), University of Waterloo alum, SF-based, building AI agents",
+      "checked": false
+    },
+    {
+      "id": "f-53",
+      "name": "Pranav Putta",
+      "city": "SF",
+      "tags": [
+        "Plato",
+        "MultiOn",
+        "Georgia Tech"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CTO @ Plato Agentic Systems, prev MultiOn & Georgia Tech CS, building agent simulations at plato.so",
+      "checked": false
+    },
+    {
+      "id": "f-54",
+      "name": "Justus Mattern",
+      "city": "SF",
+      "tags": [
+        "Proximal",
+        "RWTH Aachen",
+        "Prime Intellect"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Proximal, RWTH Aachen University, prev co-founded Revideo, publications at EACL 2024 & ACL 2023, contributed to INTELLECT-2",
+      "checked": false
+    },
+    {
+      "id": "f-55",
+      "name": "Navid Pour",
+      "city": "SF",
+      "tags": [
+        "Proximal",
+        "U of Toronto"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Proximal, University of Toronto, SF-based, AI coding agents, open-sourced Osmosis-Structure-0.6B model",
+      "checked": false
+    },
+    {
+      "id": "f-56",
+      "name": "Calvin Chen",
+      "city": "SF",
+      "tags": [
+        "Proximal",
+        "YC W23",
+        "$9M exit"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Proximal, USC dropout for YC, prev founded logistics startup ($1.5M ARR, sold for $9M), co-founded Kopia (YC W23)",
+      "checked": false
+    },
+    {
+      "id": "f-57",
+      "name": "Robi Lin",
+      "city": "SF",
+      "tags": [
+        "Sepal AI",
+        "YC",
+        "Bain",
+        "$2M rev"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CEO @ Sepal AI (YC), prev Bain & Co, scaled Turing's LLM trainer business 50 to 800+ devs, $2M revenue in 2024, Fortune 500 clients",
+      "checked": false
+    },
+    {
+      "id": "f-58",
+      "name": "Kat Hu",
+      "city": "SF",
+      "tags": [
+        "Sepal AI",
+        "YC",
+        "UIUC"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Sepal AI (YC), UIUC alum, prev built LLM training business at Turing.com, data development for frontier AI labs",
+      "checked": false
+    },
+    {
+      "id": "f-59",
+      "name": "Rayan Garg",
+      "city": "SF",
+      "tags": [
+        "Theta",
+        "YC X25",
+        "Cornell"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CEO @ Theta (YC X25), Cornell University, prev Head of Product @ DeepSilicon, self-learning AI agents, improved OpenAI Operator by 43%",
+      "checked": false
+    },
+    {
+      "id": "f-60",
+      "name": "Tanmay Sharma",
+      "city": "SF",
+      "tags": [
+        "Theta",
+        "YC X25",
+        "MultiOn"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Theta (YC X25), Indiana University, prev AI Product Engineer @ MultiOn & Atlassian, building agent memory/learning layer",
+      "checked": false
+    },
+    {
+      "id": "f-61",
+      "name": "Gurvir Singh",
+      "city": "SF",
+      "tags": [
+        "Theta",
+        "YC X25",
+        "Cornell"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Theta (YC X25), Cornell, built distributed ML systems & RL at Cornell, specializes in post-training optimization",
+      "checked": false
+    },
+    {
+      "id": "f-62",
+      "name": "Daanish Khazi",
+      "city": "SF",
+      "tags": [
+        "The LLM Data Company",
+        "YC X25",
+        "$3.6M"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CEO @ The LLM Data Company (YC X25), Northwestern CS, prev Traba/Roland Berger consultant, $3.6M raised, 200%+ MoM growth",
+      "checked": false
+    },
+    {
+      "id": "f-63",
+      "name": "Gavin Bains",
+      "city": "SF",
+      "tags": [
+        "The LLM Data Company",
+        "YC X25",
+        "USC"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ The LLM Data Company (YC X25), USC alum, prev Traba/Koop/Tydo, post-training data & RL environments for frontier AI labs",
+      "checked": false
+    },
+    {
+      "id": "f-64",
+      "name": "Joseph Besgen",
+      "city": "SF",
+      "tags": [
+        "The LLM Data Company",
+        "YC X25",
+        "UC Berkeley"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ The LLM Data Company (YC X25), UC Berkeley EECS, prev backend eng @ Traba, Facebook/Instagram Business Messaging",
+      "checked": false
+    },
+    {
+      "id": "f-65",
+      "name": "Peter McIntyre",
+      "city": "Toronto",
+      "tags": [
+        "Trajectory Labs",
+        "80,000 Hours",
+        "Open Philanthropy"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Trajectory Labs (AI Safety hub, Toronto), prev 80,000 Hours/GovAI/Longview Philanthropy, Non-Trivial founder, funded by Open Philanthropy",
+      "checked": false
+    },
+    {
+      "id": "f-66",
+      "name": "Ben West",
+      "city": "Toronto",
+      "tags": [
+        "Trajectory Labs",
+        "Open Philanthropy"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Associated with Trajectory Labs (AI safety nonprofit in Toronto), funded by Open Philanthropy, workspace for AI safety researchers",
+      "checked": false
+    },
+    {
+      "id": "f-67",
+      "name": "Rithika Kacham",
+      "city": "SF",
+      "tags": [
+        "Verita AI",
+        "Stanford",
+        "Mercor",
+        "NYT"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Verita AI, Stanford CS & Product Design dropout (2024), prev employee #20 at Mercor, 22 y/o, featured in NYT, OpenAI client",
+      "checked": false
+    },
+    {
+      "id": "f-68",
+      "name": "Rishi Kalakuntla",
+      "city": "SF",
+      "tags": [
+        "Verita AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Team member @ Verita AI, working on multimodal data solutions for AI training, SF-based",
+      "checked": false
+    },
+    {
+      "id": "f-69",
+      "name": "Matthew Sargent",
+      "city": "SF",
+      "tags": [
+        "Vmax",
+        "UCL PhD",
+        "Radical AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Vmax, UCL PhD in Machine Learning, Radical AI Founders Masterclass ($250K+ Google Cloud compute), offline RL for clinical workflows",
+      "checked": false
+    },
+    {
+      "id": "f-70",
+      "name": "Augustine Mavor-Parker",
+      "city": "SF",
+      "tags": [
+        "Vmax",
+        "UCL PhD",
+        "Redwood Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CTO @ Vmax, UCL PhD in ML, prev Redwood Research/Cold Spring Harbor Lab/South Park Commons, RL + LLM researcher",
+      "checked": false
+    },
+    {
+      "id": "f-71",
+      "name": "Philip Bogdanov",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Stanford",
+        "Pioneers Program"
+      ],
+      "x": "philip_bogdanov",
+      "linkedin": "https://linkedin.com/in/philip-bogdanov",
+      "notes": "Special Projects @ OpenAI (joined Apr 2025), Stanford CS & Product Design, launched OpenAI Pioneers Program & OpenAI to Z Challenge",
+      "checked": false
+    },
+    {
+      "id": "f-72",
+      "name": "Logan Kilpatrick",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "Gemini",
+        "prev OpenAI"
+      ],
+      "x": "OfficialLoganK",
+      "linkedin": "https://linkedin.com/in/logankilpatrick",
+      "notes": "Product Lead @ Google AI Studio & Gemini API (Google DeepMind), prev Head of Developer Relations @ OpenAI (2022-2024), prev Apple/NASA/Disney",
+      "checked": false
+    },
+    {
+      "id": "f-73",
+      "name": "Zak Stone",
+      "city": "SF",
+      "tags": [
+        "Google TPU",
+        "Harvard"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Product Manager for Cloud TPUs @ Google Brain, Harvard alum, prev Founder @ Perceptio, overseeing TPU v6 (Trillium) & v7 (Ironwood)",
+      "checked": false
+    },
+    {
+      "id": "f-74",
+      "name": "Sholto Douglas",
+      "city": "SF",
+      "tags": [
+        "Anthropic",
+        "DeepMind",
+        "Gemini",
+        "AGI 2027"
+      ],
+      "x": "_sholtodouglas",
+      "linkedin": "https://linkedin.com/in/sholto",
+      "notes": "MTS @ Anthropic (joined Feb 2025), prev Google DeepMind/Gemini team, leading RL scaling for agentic models, former world-ranked fencer (#43), predicts AGI by 2027",
+      "checked": false
+    },
+    {
+      "id": "f-75",
+      "name": "Michael Truell",
+      "city": "SF",
+      "tags": [
+        "Cursor",
+        "$29.3B valuation",
+        "$1B+ ARR"
+      ],
+      "x": "mntruell",
+      "linkedin": "https://linkedin.com/in/michael-t-5b1bbb122",
+      "notes": "Co-Founder & CEO @ Anysphere/Cursor, MIT CS & Math, 25 y/o, $29.3B valuation (2025), $1B+ ARR, 1M+ daily users, acquired Supermaven",
+      "checked": false
+    },
+    {
+      "id": "f-76",
+      "name": "Sualeh Asif",
+      "city": "SF",
+      "tags": [
+        "Cursor",
+        "$29.3B valuation",
+        "MIT",
+        "IMO"
+      ],
+      "x": "sualehasif996",
+      "linkedin": "https://linkedin.com/in/sualeh-a-1a4a97116",
+      "notes": "Co-founder & CPO @ Cursor/Anysphere, $29.3B valuation, MIT CS+Math '22, prev IBM Watson ML, Pakistani Math Olympian (IMO 2016-2018), Neo Scholar",
+      "checked": false
+    },
+    {
+      "id": "f-77",
+      "name": "Aman Sanger",
+      "city": "SF",
+      "tags": [
+        "Cursor",
+        "$29.3B valuation",
+        "MIT",
+        "Youngest billionaire"
+      ],
+      "x": "amanrsanger",
+      "linkedin": "https://linkedin.com/in/aman-sanger-482243171",
+      "notes": "Co-founder @ Cursor/Anysphere, $29.3B valuation, MIT CS+Math '22, prev Google/Bridgewater/You.com, Neo Scholar, youngest billionaire cofounder",
+      "checked": false
+    },
+    {
+      "id": "f-78",
+      "name": "Arvid Lunnemark",
+      "city": "SF",
+      "tags": [
+        "Cursor",
+        "Integrous Research",
+        "IOI gold",
+        "$1.3B stake"
+      ],
+      "x": "ArVID220u",
+      "linkedin": "https://linkedin.com/in/arvid-lunnemark",
+      "notes": "Former Co-founder/CTO @ Cursor, departed Oct 2025 to found Integrous Research (AI safety lab), MIT CS '22, Swedish IOI gold 2018, estimated $1.3B stake",
+      "checked": false
+    },
+    {
+      "id": "f-79",
+      "name": "Dwarkesh Patel",
+      "city": "SF",
+      "tags": [
+        "Dwarkesh Podcast",
+        "Time 100 AI",
+        "1M+ subscribers"
+      ],
+      "x": "dwarkesh_sp",
+      "linkedin": "https://linkedin.com/in/dwarkesh-sp",
+      "notes": "Founder @ Dwarkesh Podcast, UT Austin CS '21, Time 100 Most Influential in AI 2024, 1M+ YouTube subscribers, interviewed Zuckerberg/Amodei/Hassabis",
+      "checked": false
+    },
+    {
+      "id": "f-80",
+      "name": "Jonathan Lachman",
+      "city": "SF",
+      "tags": [
+        "Thinking Machines"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Thinking Machines Lab | Working on AI reasoning and intelligence systems",
+      "checked": false
+    },
+    {
+      "id": "f-81",
+      "name": "Andrew Gritsevskiy",
+      "city": "SF",
+      "tags": [
+        "RunRL",
+        "YC X25",
+        "PhD dropout"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ RunRL, YC X25, PhD dropout (RL research), prev Cavendish Labs, $500K seed, reinforcement learning for LLMs",
+      "checked": false
+    },
+    {
+      "id": "f-82",
+      "name": "Derik Kauffman",
+      "city": "SF",
+      "tags": [
+        "RunRL",
+        "YC X25"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ RunRL, YC X25, prev ran AI research lab in Vermont with co-founder, physics/CS background, RL-as-a-service platform",
+      "checked": false
+    },
+    {
+      "id": "f-83",
+      "name": "Wiley Jones",
+      "city": "SF",
+      "tags": [
+        "DOSS",
+        "AI ERP",
+        "$18M",
+        "Theory Ventures"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ DOSS, UIUC Mechanical Engineering '17, prev Athelas Head of Product/Verkada, $18M raised (Theory Ventures Series A)",
+      "checked": false
+    },
+    {
+      "id": "f-84",
+      "name": "Arnav Mishra",
+      "city": "SF",
+      "tags": [
+        "DOSS",
+        "AI ERP",
+        "Rubrik",
+        "$1M ARR"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ DOSS, UIUC MS CS '18, prev founding engineer @ Siteline/Rubrik, Contrary Talent Fellow, $1M ARR, AI-native ERP",
+      "checked": false
+    },
+    {
+      "id": "f-85",
+      "name": "Dylan Lynch",
+      "city": "SF",
+      "tags": [
+        "DOSS",
+        "AI ERP"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founding SDR @ DOSS (not cofounder), Hofstra BBA Cum Laude, sales role at the company",
+      "checked": false
+    },
+    {
+      "id": "f-86",
+      "name": "John Glasgow",
+      "city": "SF",
+      "tags": [
+        "Campfire",
+        "AI ERP",
+        "$100M raised",
+        "YC S23"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Campfire, YC S23, prev VP Biz Dev @ Bill.com, helped sell Invoice2go for $625M, 15+ years finance, $100M raised",
+      "checked": false
+    },
+    {
+      "id": "f-87",
+      "name": "Fernando San Martin",
+      "city": "SF",
+      "tags": [
+        "Campfire",
+        "AI ERP",
+        "Trovata"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ Campfire, MS Electronics Engineering, prev led backend @ Trovata (used by Square/Etsy), AI-native ERP for mid-market",
+      "checked": false
+    },
+    {
+      "id": "f-88",
+      "name": "Nicolas Kopp",
+      "city": "SF",
+      "tags": [
+        "Rillet",
+        "AI ERP",
+        "$100M+ raised",
+        "a16z",
+        "prev N26 CEO"
+      ],
+      "x": "nicckopp",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Rillet, LSE MS Accounting, prev US CEO @ N26 ($9B neobank), Morgan Stanley/Goldman/Lazard, $100M+ raised ($70M Series B a16z)",
+      "checked": false
+    },
+    {
+      "id": "f-89",
+      "name": "Stelios Modes",
+      "city": "SF",
+      "tags": [
+        "Rillet",
+        "AI ERP",
+        "N26 architect"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ Rillet, Manchester MS CS, prev ThoughtWorks lead engineer, architect of N26 payments infrastructure, 15+ years engineering",
+      "checked": false
+    },
+    {
+      "id": "f-90",
+      "name": "Kristen Pascoe",
+      "city": "SF",
+      "tags": [
+        "Rillet",
+        "AI ERP",
+        "CPA"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ AfterQuery (YC W25) | Research lab building novel datasets for AI capabilities evaluation | $500K seed | Won Microsoft AI competition in HS | prev Morgan Stanley (largest IPO 2024), BDT & MSD Partners | Wharton | Built & sold startup with Spencer in HS",
+      "checked": false
+    },
+    {
+      "id": "f-91",
+      "name": "Stephen Hedlund",
+      "city": "SF",
+      "tags": [
+        "Rillet",
+        "AI ERP",
+        "Chicago Booth"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Head of Finance @ Rillet (not cofounder), Chicago Booth MBA '24, prev finance leadership @ OpenSpace ($900M valuation)/Molekule/Walmart",
+      "checked": false
+    },
+    {
+      "id": "f-92",
+      "name": "Esben Kran",
+      "city": "SF",
+      "tags": [
+        "Seldon Lab",
+        "Apart Research",
+        "Eric Ries"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Seldon Lab, founded Apart Research at 22 (4000+ AI safety hackers, 20+ papers), AI safety accelerator with Eric Ries, founders raised $10M+",
+      "checked": false
+    },
+    {
+      "id": "f-93",
+      "name": "Finn Metz",
+      "city": "Munich",
+      "tags": [
+        "Seldon Lab",
+        "UC Berkeley",
+        "Eric Ries"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Seldon Lab, UC Berkeley, Munich-based, AI safety startup accelerator, $53K SFF grant + private investment, co-founded with Eric Ries",
+      "checked": false
+    },
+    {
+      "id": "f-94",
+      "name": "Kristian Ronn",
+      "city": "SF",
+      "tags": [
+        "Lucid Computing",
+        "Seldon",
+        "FHI Oxford",
+        "Normative.io"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Lucid Computing, Lund University, prev FHI Oxford project manager, founded Normative.io (carbon accounting), AI chip location verification",
+      "checked": false
+    },
+    {
+      "id": "f-95",
+      "name": "Luke",
+      "city": "SF",
+      "tags": [
+        "Workshop Labs",
+        "Seldon"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Workshop Labs",
+      "checked": false
+    },
+    {
+      "id": "f-96",
+      "name": "Lukas Petersson",
+      "city": "SF",
+      "tags": [
+        "Andon Labs",
+        "YC W24",
+        "Google",
+        "Anthropic"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Andon Labs, YC W24, prev Google LLM research/Disney Research robotics/ESA intern, AI safety evals for Anthropic",
+      "checked": false
+    },
+    {
+      "id": "f-97",
+      "name": "Axel Backlund",
+      "city": "SF",
+      "tags": [
+        "Andon Labs",
+        "YC W24",
+        "McKinsey",
+        "CMU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ Andon Labs, YC W24, KTH/Carnegie Mellon, prev McKinsey QuantumBlack, created Vending-Bench for AI agent evaluation",
+      "checked": false
+    },
+    {
+      "id": "f-98",
+      "name": "Eric Ho",
+      "city": "SF",
+      "tags": [
+        "Goodfire",
+        "Forbes 30u30",
+        "$50M Series A",
+        "Anthropic invested"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Goodfire | Forbes 30 Under 30 2022 | $50M Series A (Anthropic's first-ever investment) | prev RippleMatch founder ($80M raised) | Yale CS",
+      "checked": false
+    },
+    {
+      "id": "f-99",
+      "name": "Shivum Pandove",
+      "city": "SF",
+      "tags": [
+        "Janus",
+        "YC X25",
+        "CMU dropout"
+      ],
+      "x": "shivump101",
+      "linkedin": "https://linkedin.com/in/shivump1",
+      "notes": "Co-founder @ Janus (YC X25) | Building simulation infrastructure to battle-test AI agents - surfaces hallucinations, rule violations, tool-call failures | Left incoming Anduril role, dropped out CMU ML to build Janus | prev scaling startups in SWE & product + deep learning research in computational biology",
+      "checked": false
+    },
+    {
+      "id": "f-100",
+      "name": "Jet Wu",
+      "city": "SF",
+      "tags": [
+        "Janus",
+        "YC X25",
+        "CMU",
+        "Cerebras AI Fellow"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/jet-wu-cmu",
+      "notes": "Co-founder @ Janus (YC X25) | AI agent simulation testing - runs 1000s of simulations against chat/voice agents | CMU Senior | Left incoming IBM role to build Janus | prev Merck AI Engineer (conversational AI prototypes), RWTH Aachen (transfer learning), Johns Hopkins ML",
+      "checked": false
+    },
+    {
+      "id": "f-101",
+      "name": "Tim",
+      "city": "SF",
+      "tags": [
+        "Kashikoi",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/timmichaud",
+      "notes": "Co-founder @ Kashikoi (YC X25) | Building simulation engine for benchmarking AI agents - replaces static prompts with dynamic world models | prev Moveworks (secured 250+ enterprise agents, broke GPT-4 via red teaming) | Found Qualcomm GPS 50-mile 0-click vuln | Apple CVEs",
+      "checked": false
+    },
+    {
+      "id": "f-102",
+      "name": "Aaksha",
+      "city": "SF",
+      "tags": [
+        "Kashikoi",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/aaksham",
+      "notes": "Co-founder @ Kashikoi (YC X25) | AI agent simulation & eval platform with auto-prompt tuning | prev Moveworks (led Simulation & Eval stack, 250+ enterprise agents for F500) | CMU (Transformer research pre-OpenAI) | Shipped edge speech on 1B+ iPhones | Interspeech 2021 Best Paper nom",
+      "checked": false
+    },
+    {
+      "id": "f-103",
+      "name": "Sandra Tang",
+      "city": "SF",
+      "tags": [
+        "AgentHub",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/sandra-tang",
+      "notes": "Co-founder @ AgentHub (YC S25) | Building AI agent simulation & eval platform - test agents in realistic scenarios before deployment | prev Google, Meta, Nooks, Pomelo | MIT CS & Design | Solo-developed 70+ games (700K+ plays)",
+      "checked": false
+    },
+    {
+      "id": "f-104",
+      "name": "Youssef Kallel",
+      "city": "SF",
+      "tags": [
+        "AgentHub",
+        "YC AI Agents"
+      ],
+      "x": "ymkallel",
+      "linkedin": "https://linkedin.com/in/youssefkallel",
+      "notes": "Co-founder @ AgentHub (YC S25) | AI agent eval in realistic simulations - helps teams catch failures before production | prev Apple Foundation Model Eval team (Tech Lead) | Carnegie Mellon CS",
+      "checked": false
+    },
+    {
+      "id": "f-105",
+      "name": "Emil Froberg",
+      "city": "SF",
+      "tags": [
+        "Vectorview",
+        "YC AI Agents"
+      ],
+      "x": "emilfroberg",
+      "linkedin": "https://linkedin.com/in/emil-froberg",
+      "notes": "Co-founder & CEO @ Andon Labs (prev Vectorview) (YC W24) | AI capability evaluation | prev Klarna (Product & Data lead) | AI safety advocate | Stockholm-based",
+      "checked": false
+    },
+    {
+      "id": "f-106",
+      "name": "Shahul ES",
+      "city": "SF",
+      "tags": [
+        "Ragas",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/shahules",
+      "notes": "Co-founder @ Ragas (YC W24) | Open-source LLM eval standard | Kaggle Grandmaster | OpenAssistant AI contributor | Clients: AWS, Microsoft, Databricks | 5M+ monthly evals | 8 yrs ML/NLP",
+      "checked": false
+    },
+    {
+      "id": "f-107",
+      "name": "Jithin James",
+      "city": "SF",
+      "tags": [
+        "Ragas",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/jjmachan",
+      "notes": "Co-founder @ Ragas (YC W24) | Building open-source standard for LLM application evaluation - RAGAS score is most popular RAG benchmark | 5M+ monthly evaluations, AWS/Microsoft/Databricks clients | prev BentoML early employee (built Bentoctl, Yatai) | Met Shahul in college, collaborating 10+ years",
+      "checked": false
+    },
+    {
+      "id": "f-108",
+      "name": "Rohan Vasishth",
+      "city": "SF",
+      "tags": [
+        "Bluejay",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/rohanvas",
+      "notes": "Co-founder & CEO @ Bluejay (YC X25) | $4M seed | QA platform for voice/text AI | ex-AWS Bedrock | Built profitable SaaS in college | UChicago CS & Econ | 23 y/o",
+      "checked": false
+    },
+    {
+      "id": "f-109",
+      "name": "Faraz Siddiqi",
+      "city": "SF",
+      "tags": [
+        "Bluejay",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/farazmsiddiqi",
+      "notes": "Co-founder & CTO @ Bluejay (YC X25) | $4M seed | AI agent testing platform | ex-Microsoft Copilot | UIUC CS undergrad/masters | Research: synthetic data & context compression",
+      "checked": false
+    },
+    {
+      "id": "f-110",
+      "name": "Rene Brandel",
+      "city": "SF",
+      "tags": [
+        "Casco",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/renebrandel",
+      "notes": "Co-founder & CEO @ Casco (YC X25) | Agentic red teaming for AI security | ex-AWS Generative AI team (Lead Engineer) | Secures AI in 60% of Fortune 500 | Y Combinator",
+      "checked": false
+    },
+    {
+      "id": "f-111",
+      "name": "Ian Saultz",
+      "city": "SF",
+      "tags": [
+        "Casco",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/iansaultz",
+      "notes": "Co-founder & CTO @ Casco (YC X25) | AI security validation | ex-AWS Security Guardian & API Bar Raiser | Head of Product AWS GenAI | Nyack College",
+      "checked": false
+    },
+    {
+      "id": "f-112",
+      "name": "Magnus M\u00fcller",
+      "city": "SF",
+      "tags": [
+        "Browser Use",
+        "YC W25",
+        "$17M seed",
+        "ETH Zurich",
+        "50K GitHub stars"
+      ],
+      "x": "mamagnus00",
+      "linkedin": "https://linkedin.com/in/magnus-mueller",
+      "notes": "Co-founder & CEO @ Browser Use (YC W25) | $17M seed (Felicis/Paul Graham) | 50K+ GitHub stars in 3 months | prev Cambridge CARES | MSc Data Science ETH Z\u00fcrich",
+      "checked": false
+    },
+    {
+      "id": "f-113",
+      "name": "Gregor \u017duni\u010d",
+      "city": "SF",
+      "tags": [
+        "Browser Use",
+        "YC W25",
+        "$17M seed",
+        "ETH Zurich"
+      ],
+      "x": "gregpr07",
+      "linkedin": "https://linkedin.com/in/gregorzunic",
+      "notes": "Co-founder @ Browser Use (YC W25) | $17M seed | Built viral demo in 5 days, #1 Show HN | MSc Data Science ETH Z\u00fcrich | BSc Physics | 60K+ GitHub stars",
+      "checked": false
+    },
+    {
+      "id": "f-114",
+      "name": "Nithin Sonti",
+      "city": "SF",
+      "tags": [
+        "BrowserOS",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/nithinsonti",
+      "notes": "Co-founder @ BrowserOS (YC S24) | Building open-source agentic browser that runs AI agents locally - privacy-first alternative to Perplexity Comet | prev YouTube Recommendations ML eng (Large Recommender Model) | Twin brother of Nikhil",
+      "checked": false
+    },
+    {
+      "id": "f-115",
+      "name": "Nikhil Sonti",
+      "city": "SF",
+      "tags": [
+        "BrowserOS",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/nikhil-sv",
+      "notes": "Co-founder @ BrowserOS (YC S24) | Open-source AI browser automating web tasks locally via natural language | prev Meta (Instagram Reels, Facebook Feed Ranking backend) & Microsoft | Twin brother of Nithin",
+      "checked": false
+    },
+    {
+      "id": "f-116",
+      "name": "Suchintan Singh",
+      "city": "SF",
+      "tags": [
+        "Skyvern",
+        "YC AI Agents"
+      ],
+      "x": "itssuchintan",
+      "linkedin": "https://linkedin.com/in/suchintansingh",
+      "notes": "Co-founder @ Skyvern (YC S23) | AI browser automation agents | prev Wyvern founder ($50K ARR) | prev Gopuff Search Eng Mgr, Faire ML Infra | 12 yrs SWE/ML | BSc Waterloo",
+      "checked": false
+    },
+    {
+      "id": "f-117",
+      "name": "Shuchang Zheng",
+      "city": "SF",
+      "tags": [
+        "Skyvern",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/shuchang-zheng-76784958",
+      "notes": "Co-founder @ Skyvern (YC S23) | AI browser automation with LLMs and computer vision | Building APIs for websites without APIs",
+      "checked": false
+    },
+    {
+      "id": "f-118",
+      "name": "Kerem Yilmaz",
+      "city": "SF",
+      "tags": [
+        "Skyvern",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Skyvern (YC S23) | AI browser automation platform | Building AI agents for web workflows",
+      "checked": false
+    },
+    {
+      "id": "f-119",
+      "name": "Dex Horthy",
+      "city": "SF",
+      "tags": [
+        "HumanLayer",
+        "YC AI Agents"
+      ],
+      "x": "dexhorthy",
+      "linkedin": "https://linkedin.com/in/dexterihorthy",
+      "notes": "Founder & CEO @ HumanLayer (YC F24) | Human-in-the-loop for AI agents | Created '12-Factor Agents' framework | prev replicated.com | Coded NASA tools at 17 | U of Chicago",
+      "checked": false
+    },
+    {
+      "id": "f-120",
+      "name": "Jesse",
+      "city": "SF",
+      "tags": [
+        "Abundant",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/jessehu",
+      "notes": "Co-founder @ Abundant (YC) | High-quality AI training data | ex-Waymo ML Engineer (planning systems for AVs) | Duke University",
+      "checked": false
+    },
+    {
+      "id": "f-121",
+      "name": "Ke",
+      "city": "SF",
+      "tags": [
+        "Abundant",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/kehuangsf",
+      "notes": "Co-founder @ Abundant (YC) | Data platform for agents & multimodal AI | AI/ML expertise | San Francisco-based",
+      "checked": false
+    },
+    {
+      "id": "f-122",
+      "name": "Meji",
+      "city": "SF",
+      "tags": [
+        "Abundant",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Abundant (YC) | Modular annotation platform for AI training data | U of Buckingham",
+      "checked": false
+    },
+    {
+      "id": "f-123",
+      "name": "Alan Zabihi",
+      "city": "SF",
+      "tags": [
+        "Superagent",
+        "YC AI Agents"
+      ],
+      "x": "alanzabihi",
+      "linkedin": "https://linkedin.com/in/alanzabihi",
+      "notes": "Co-founder & CEO @ Superagent (YC W24) | AI safety SDK with guardrails for runtime protection | prev Meta (2013+) | Chalmers U (Industrial Eng, unfinished) | Co-founded KeyCrunch (acq Jetshop)",
+      "checked": false
+    },
+    {
+      "id": "f-124",
+      "name": "Ismail",
+      "city": "SF",
+      "tags": [
+        "Superagent",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/pelaseyed",
+      "notes": "Co-founder & CTO @ Superagent (YC W24) | Open-source AI agent infra | prev Mersenne, Idependent, Bitcall | U of Gothenburg (Organic Chem) | Co-founded KeyCrunch (acq Jetshop)",
+      "checked": false
+    },
+    {
+      "id": "f-125",
+      "name": "ZhenJing Heng",
+      "city": "SF",
+      "tags": [
+        "FlowiseAI",
+        "YC AI Agents"
+      ],
+      "x": "henryhengzj",
+      "linkedin": "https://linkedin.com/in/zhenjing-heng-henry",
+      "notes": "Co-founder @ FlowiseAI | Low-code LLM application builder | Popular open-source no-code AI tool",
+      "checked": false
+    },
+    {
+      "id": "f-126",
+      "name": "Chung Yau Ong",
+      "city": "SF",
+      "tags": [
+        "FlowiseAI",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ FlowiseAI | Low-code LLM application builder | Open-source AI workflow platform",
+      "checked": false
+    },
+    {
+      "id": "f-127",
+      "name": "Rahul Behal",
+      "city": "SF",
+      "tags": [
+        "Gumloop",
+        "YC AI Agents"
+      ],
+      "x": "rbehal1729",
+      "linkedin": "https://linkedin.com/in/rbehal01",
+      "notes": "Co-founder @ Gumloop | Building AI agent automation platform | YC AI Agents ecosystem",
+      "checked": false
+    },
+    {
+      "id": "f-128",
+      "name": "Max Brodeur-Urbas",
+      "city": "SF",
+      "tags": [
+        "Gumloop",
+        "YC AI Agents"
+      ],
+      "x": "MaxBrodeurUrbas",
+      "linkedin": "https://linkedin.com/in/max-brodeur-urbas",
+      "notes": "Co-founder @ Gumloop | AI agent automation platform | YC AI Agents ecosystem",
+      "checked": false
+    },
+    {
+      "id": "f-129",
+      "name": "Anushka Nijhawan",
+      "city": "SF",
+      "tags": [
+        "Spur",
+        "YC AI Agents"
+      ],
+      "x": "anushkanijhawn",
+      "linkedin": "https://linkedin.com/in/anushka-nijhawan-8380361b1",
+      "notes": "Co-founder @ Spur | Building AI workflow automation | YC AI Agents ecosystem",
+      "checked": false
+    },
+    {
+      "id": "f-130",
+      "name": "Sneha Sivakumar",
+      "city": "SF",
+      "tags": [
+        "Spur",
+        "YC AI Agents"
+      ],
+      "x": "sneha8sivakumar",
+      "linkedin": "https://linkedin.com/in/sivakumarsneha",
+      "notes": "Co-founder @ Spur | AI workflow automation platform | YC AI Agents ecosystem",
+      "checked": false
+    },
+    {
+      "id": "f-131",
+      "name": "Jeffrey Tsaw",
+      "city": "SF",
+      "tags": [
+        "Parity",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/jeffrey-tsaw-561b35191",
+      "notes": "Co-founder & CTO @ Parity (YC S24) | Building AI SRE for Kubernetes incident response - auto-triage, root cause analysis, remediation suggestions | prev Crusoe (Bitcoin mining firmware & orchestration) | CMU ECE MS/BS 2022/2021 | Deep learning & RL research | From Hong Kong",
+      "checked": false
+    },
+    {
+      "id": "f-132",
+      "name": "Coleman Smith",
+      "city": "SF",
+      "tags": [
+        "Parity",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/colemansmith-",
+      "notes": "Co-founder & CPO @ Parity (YC S24) | AI SRE platform for K8s | prev Crusoe SWE, Zillow, Amazon | Stanford CS (Systems undergrad, AI coterm) | Met Jeffrey & Wilson sharing on-call rotations at Crusoe",
+      "checked": false
+    },
+    {
+      "id": "f-133",
+      "name": "Wilson Spearman",
+      "city": "SF",
+      "tags": [
+        "Parity",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/wilsonspearman",
+      "notes": "Co-founder & CEO @ Parity (YC S24) | World's first AI SRE - PagerDuty/Datadog integration for K8s incident response | prev Crusoe, Settle, Bridgewater, Apple | MIT CS 2022 | Also building CreativeMode (YC S24) - vibe coding for Minecraft mods",
+      "checked": false
+    },
+    {
+      "id": "f-134",
+      "name": "Amaresh",
+      "city": "SF",
+      "tags": [
+        "Opslane",
+        "YC AI Agents"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/amareshray",
+      "notes": "Co-founder @ Opslane (YC S24) | AI on-call support | prev Atlassian, Campaign Monitor, Poq | Product Manager | Sydney-based",
+      "checked": false
+    },
+    {
+      "id": "f-135",
+      "name": "Abhishek",
+      "city": "SF",
+      "tags": [
+        "Opslane",
+        "YC AI Agents"
+      ],
+      "x": "abhishekray07",
+      "linkedin": "https://linkedin.com/in/abhishekray00",
+      "notes": "Co-founder @ Opslane (YC S24) | AI-powered incident resolution | prev Staff Eng @ Robinhood (5 yrs, 1M\u219220M users) & Quora | UCSD MS CS | Amazon alum",
+      "checked": false
+    },
+    {
+      "id": "f-136",
+      "name": "Ilya Abyzov",
+      "city": "SF",
+      "tags": [
+        "Torch",
+        "OpenAI",
+        "Acquired"
+      ],
+      "x": "IlyaAbyzov",
+      "linkedin": "https://linkedin.com/in/ilyaaby",
+      "notes": "Founder & CEO @ Torch (acq by OpenAI Jan 2026, ~$60-100M) | Now @ OpenAI building ChatGPT Health | Built 'unified medical memory for AI' - aggregates health records from hospitals/labs/wearables | prev Co-founded Forward Health ($400M raised, launched AI CarePods), Uber (launched uberX, led Uber SF)",
+      "checked": false
+    },
+    {
+      "id": "f-137",
+      "name": "Adrian Aoun",
+      "city": "SF",
+      "tags": [
+        "Torch",
+        "OpenAI",
+        "Acquired"
+      ],
+      "x": "adrianaoun",
+      "linkedin": "https://linkedin.com/in/adrianaoun",
+      "notes": "Co-founder @ Torch (acq by OpenAI 2026) | Founder & CEO @ Forward Health ($400M+ raised) - rebuilding healthcare as a product with AI CarePods | prev Head of Special Projects for Google/Alphabet CEO (founded Sidewalk Labs), founded Wavii (acq Google) | PCAST member | Angel: Stripe, Uber, Anduril",
+      "checked": false
+    },
+    {
+      "id": "f-138",
+      "name": "James Hamlin",
+      "city": "SF",
+      "tags": [
+        "Torch",
+        "OpenAI",
+        "Acquired"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Torch (acq by OpenAI 2026) | Now @ OpenAI ChatGPT Health | prev Forward Health core team",
+      "checked": false
+    },
+    {
+      "id": "f-139",
+      "name": "Eugene Huang",
+      "city": "SF",
+      "tags": [
+        "Torch",
+        "OpenAI",
+        "Acquired"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Torch (acq by OpenAI 2026) | Now @ OpenAI ChatGPT Health | prev Forward Health core team",
+      "checked": false
+    },
+    {
+      "id": "f-140",
+      "name": "Ryan Oman",
+      "city": "SF",
+      "tags": [
+        "Torch",
+        "OpenAI",
+        "Acquired"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Torch (acq by OpenAI 2026) | Now @ OpenAI ChatGPT Health | prev Forward Health core team",
+      "checked": false
+    },
+    {
+      "id": "f-141",
+      "name": "Nichole Hopkins",
+      "city": "SF",
+      "tags": [
+        "Coval",
+        "YC S24",
+        "AI Evaluation"
+      ],
+      "x": "bnicholehopkins",
+      "linkedin": "https://linkedin.com/in/bnhop",
+      "notes": "Founder @ Coval (YC S24) | Simulation & eval for voice/chat AI agents | prev Waymo (eval job infrastructure lead) | Solo founder | Autonomous vehicle eval background",
+      "checked": false
+    },
+    {
+      "id": "f-142",
+      "name": "Henry Su",
+      "city": "SF",
+      "tags": [
+        "Context.ai",
+        "OpenAI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Context.ai (acq by OpenAI 2025) | Now PM @ OpenAI building evals | prev Googler | $3.5M raised from GV/Theory Ventures | AI model analytics dashboard",
+      "checked": false
+    },
+    {
+      "id": "f-143",
+      "name": "Alex Gamble",
+      "city": "SF",
+      "tags": [
+        "Context.ai",
+        "OpenAI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ Context.ai (acq by OpenAI 2025) | Now @ OpenAI | prev Googler | Built model evaluation tools | Joined OpenAI to build eval developer tools",
+      "checked": false
+    },
+    {
+      "id": "f-144",
+      "name": "Michael Fester",
+      "city": "SF",
+      "tags": [
+        "AI Agent Testing"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ AI Agent Testing | Building evaluation & testing infrastructure for AI agents",
+      "checked": false
+    },
+    {
+      "id": "f-145",
+      "name": "Cedric Vidal",
+      "city": "SF",
+      "tags": [
+        "Microsoft AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Microsoft AI | Working on AI initiatives at Microsoft",
+      "checked": false
+    },
+    {
+      "id": "f-146",
+      "name": "Achammah",
+      "city": "SF",
+      "tags": [
+        "Nexus GPT",
+        "YC F25"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/assemchammah",
+      "notes": "Founder @ Nexus (YC F25) | No-code AI agent builder for enterprise | 4,000+ plugins | SOC 2/ISO 27001/GDPR certified | prev Snikpic | HEC Paris",
+      "checked": false
+    },
+    {
+      "id": "f-147",
+      "name": "RC Ramarathinam",
+      "city": "SF",
+      "tags": [
+        "Summation",
+        "YC"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ Summation | $35M raised (Benchmark/Kleiner Perkins) | prev Opendoor (core transaction platform lead) | Decision-grade AI for enterprise | Bellevue-based",
+      "checked": false
+    },
+    {
+      "id": "f-148",
+      "name": "Ian Wong",
+      "city": "SF",
+      "tags": [
+        "Summation",
+        "YC"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/ian-wong",
+      "notes": "Co-founder & CEO @ Summation | $35M raised | prev CTO @ Opendoor | First data scientist @ Square | Decision-grade AI platform | ~40 employees | Bellevue",
+      "checked": false
+    },
+    {
+      "id": "f-149",
+      "name": "Sawyer Hood",
+      "city": "SF",
+      "tags": [
+        "AI Tools"
+      ],
+      "x": "sawyerhood",
+      "linkedin": "https://linkedin.com/in/sawyer-hood-24201a81",
+      "notes": "Building new AI interfaces powered by interpretability | Applied AI research fellow (LatentLit) | prev experiments with LLM interactions | San Francisco SWE",
+      "checked": false
+    },
+    {
+      "id": "f-150",
+      "name": "Dan Advantage",
+      "city": "SF",
+      "tags": [
+        "AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ AI | Working in artificial intelligence space",
+      "checked": false
+    },
+    {
+      "id": "f-151",
+      "name": "Yashaswin Sharma",
+      "city": "SF",
+      "tags": [
+        "AI Hardware"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ AI Hardware | Working on specialized hardware for AI/ML workloads",
+      "checked": false
+    },
+    {
+      "id": "f-152",
+      "name": "Pieter Abbeel",
+      "city": "SF",
+      "tags": [
+        "Covariant AI",
+        "Robotics"
+      ],
+      "x": "pabbeel",
+      "linkedin": "https://linkedin.com/in/pieterabbeel",
+      "notes": "Founder & Chief Scientist @ Covariant (joined Amazon 2024) | Professor @ UC Berkeley EECS | Co-founder @ Gradescope | ACM Prize in Computing 2021 | Pioneer in robot learning & RL | PhD UC Berkeley",
+      "checked": false
+    },
+    {
+      "id": "f-153",
+      "name": "Yang Zhilin",
+      "city": "SF",
+      "tags": [
+        "Moonshot AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO @ Moonshot AI/Kimi ($3.3B val) | Building AGI through long-context, multimodal world models | Kimi K2 (1T params, MoE) topped Hugging Face | Co-first author XLNet & Transformer-XL papers | PhD CMU CS 2019 | prev Meta AI, Google Brain | Tsinghua BS | 31 y/o | 'Combine OpenAI tech idealism + ByteDance business philosophy'",
+      "checked": false
+    },
+    {
+      "id": "f-154",
+      "name": "Peter W. Kruger",
+      "city": "SF",
+      "tags": [
+        "Bot Scanner"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Bot Scanner | Building AI detection & bot identification tools",
+      "checked": false
+    },
+    {
+      "id": "f-155",
+      "name": "Yubo Song",
+      "city": "SF",
+      "tags": [
+        "Manus AI",
+        "High Valuation"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO @ Manus AI (acq by Meta Dec 2025, ~$2-3B) | Built autonomous AI agent from Monica browser extension (10M+ users, profitable by 2024) | Now VP @ Meta reporting to COO Javier Olivan | Singapore-based after relocating from Beijing | Benchmark-backed $75M raise | 100-person team joined Meta",
+      "checked": false
+    },
+    {
+      "id": "f-156",
+      "name": "Josh Payne",
+      "city": "SF",
+      "tags": [
+        "Nscale",
+        "AI Infrastructure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Nscale | AI infrastructure company | Building scalable compute solutions for AI workloads",
+      "checked": false
+    },
+    {
+      "id": "f-157",
+      "name": "Chuck Frisbie",
+      "city": "SF",
+      "tags": [
+        "DataMynd",
+        "Synthetic Data"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ DataMynd | Synthetic data generation for AI training | Building tools to create high-quality training datasets",
+      "checked": false
+    },
+    {
+      "id": "f-158",
+      "name": "Carter Crouch",
+      "city": "SF",
+      "tags": [
+        "Stealth",
+        "Synthetic Data"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Stealth (Synthetic Data) | Building synthetic data generation technology for AI model training",
+      "checked": false
+    },
+    {
+      "id": "f-159",
+      "name": "Karan Goel",
+      "city": "SF",
+      "tags": [
+        "Cartesia AI",
+        "$100M raised",
+        "Voice AI"
+      ],
+      "x": "krandiash",
+      "linkedin": "https://linkedin.com/in/krandiash",
+      "notes": "Founder @ Cartesia AI ($100M raised) | Building next-gen voice AI | Real-time, low-latency speech synthesis",
+      "checked": false
+    },
+    {
+      "id": "f-160",
+      "name": "Kevin Wu",
+      "city": "SF",
+      "tags": [
+        "Leaping AI",
+        "YC W25",
+        "Voice AI"
+      ],
+      "x": "kevinwu_hi",
+      "linkedin": "https://linkedin.com/in/kevin-wu-452a6393",
+      "notes": "Founder @ Leaping AI (YC W25) | Voice AI agents for call centers | Building conversational AI for customer service",
+      "checked": false
+    },
+    {
+      "id": "f-161",
+      "name": "Varun Vummadi",
+      "city": "SF",
+      "tags": [
+        "Giga",
+        "$61M Series A",
+        "Voice AI",
+        "YC",
+        "Forbes 30 Under 30"
+      ],
+      "x": "varunvummadi",
+      "linkedin": "https://linkedin.com/in/varunvummadi",
+      "notes": "Co-founder @ Giga ML | $61M Series A (Redpoint-led) | Voice AI | YC alum | Forbes 30 Under 30",
+      "checked": false
+    },
+    {
+      "id": "f-162",
+      "name": "Esha Manideep",
+      "city": "SF",
+      "tags": [
+        "Giga",
+        "$61M Series A"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Giga ML | $61M Series A (Redpoint-led) | Building voice AI infrastructure",
+      "checked": false
+    },
+    {
+      "id": "f-163",
+      "name": "Samuel Oshay",
+      "city": "SF",
+      "tags": [
+        "Recurrency AI",
+        "AI ERP"
+      ],
+      "x": "samueloshay",
+      "linkedin": "",
+      "notes": "Founder @ Recurrency AI | AI for ERP software | Automating enterprise resource planning with AI",
+      "checked": false
+    },
+    {
+      "id": "f-164",
+      "name": "Scott Shi",
+      "city": "SF",
+      "tags": [
+        "Salesforce",
+        "Einstein AI",
+        "CTO"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO @ Salesforce Einstein AI, founding engineer, ex-Uber AI",
+      "checked": false
+    },
+    {
+      "id": "f-165",
+      "name": "Jon Hillis",
+      "city": "SF",
+      "tags": [
+        "New Theory AI",
+        "Robotics"
+      ],
+      "x": "JonathanHillis",
+      "linkedin": "",
+      "notes": "Founder @ New Theory AI | Building robots that learn to think | Robotics + reasoning AI",
+      "checked": false
+    },
+    {
+      "id": "f-166",
+      "name": "Rex Guo",
+      "city": "SF",
+      "tags": [
+        "Culminate Security",
+        "AI Security"
+      ],
+      "x": "Xiaofei_REX",
+      "linkedin": "",
+      "notes": "Founder @ Culminate Security, AI adoption in security",
+      "checked": false
+    },
+    {
+      "id": "f-167",
+      "name": "Travis McPeak",
+      "city": "SF",
+      "tags": [
+        "Cursor Security",
+        "AI Security"
+      ],
+      "x": "travismcpeak",
+      "linkedin": "https://linkedin.com/in/travismcpeak",
+      "notes": "Founder @ Cursor Security | AI security | prev Resourcely founder | prev Databricks, Netflix | Security for AI-powered development",
+      "checked": false
+    },
+    {
+      "id": "f-168",
+      "name": "Shruti Gupta",
+      "city": "SF",
+      "tags": [
+        "Stealth",
+        "CISO"
+      ],
+      "x": "chatwshruti",
+      "linkedin": "",
+      "notes": "Founder @ Stealth, prev CISO @ Microsoft Identity, Brex, Instacart, Airbnb",
+      "checked": false
+    },
+    {
+      "id": "f-169",
+      "name": "Elvis",
+      "city": "SF",
+      "tags": [
+        "DAIR.AI"
+      ],
+      "x": "oaborelvis",
+      "linkedin": "https://linkedin.com/in/oaborelvis",
+      "notes": "Founder @ DAIR.AI | Open-source AI education & research community | Creator of ML Papers Explained, Prompt Engineering Guide (47K+ GitHub stars) | Democratizing AI/ML knowledge | Former ML researcher",
+      "checked": false
+    },
+    {
+      "id": "f-170",
+      "name": "Mark McQuade",
+      "city": "SF",
+      "tags": [
+        "Arcee AI",
+        "CEO",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Arcee AI | Building Small Language Models for enterprise | Focused on efficient, specialized AI models",
+      "checked": false
+    },
+    {
+      "id": "f-171",
+      "name": "Jacob Solawetz",
+      "city": "SF",
+      "tags": [
+        "Arcee AI",
+        "CTO",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO @ Arcee AI | prev Roboflow | Building enterprise Small Language Models",
+      "checked": false
+    },
+    {
+      "id": "f-172",
+      "name": "Brian Benedict",
+      "city": "SF",
+      "tags": [
+        "Arcee AI",
+        "CRO",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CRO @ Arcee AI | prev Tecton | Go-to-market for enterprise Small Language Models",
+      "checked": false
+    },
+    {
+      "id": "f-173",
+      "name": "Vincent Weisser",
+      "city": "SF",
+      "tags": [
+        "Prime Intellect",
+        "CEO",
+        "Neolabs"
+      ],
+      "x": "vincentweisser",
+      "linkedin": "https://linkedin.com/in/vincentweisser",
+      "notes": "Co-founder & CEO @ Prime Intellect | Open superintelligence & decentralized AI infra | Released INTELLECT-3 (100B+ MoE) | Founded VitaDAO | $20.5M raised (Founders Fund) | 27K+ X followers",
+      "checked": false
+    },
+    {
+      "id": "f-174",
+      "name": "Johannes Hagemann",
+      "city": "SF",
+      "tags": [
+        "Prime Intellect",
+        "CTO",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/johannes-hagemann-393b72142",
+      "notes": "Co-founder & CTO @ Prime Intellect | prev Aleph Alpha AI Research Engineer (2022-2023, distributed training) | Strategy @ VitaDAO | MSc HPI IT-Systems Engineering",
+      "checked": false
+    },
+    {
+      "id": "f-175",
+      "name": "Francois Chollet",
+      "city": "SF",
+      "tags": [
+        "Ndea",
+        "Keras Creator",
+        "Neolabs"
+      ],
+      "x": "fchollet",
+      "linkedin": "https://linkedin.com/in/fchollet",
+      "notes": "Co-founder & CEO @ Ndea | Co-founder @ ARC Prize Foundation | Creator of Keras & ARC-AGI | Author of 'Deep Learning with Python' (3rd ed 2025) | prev Google (10 years) | 597K+ X followers",
+      "checked": false
+    },
+    {
+      "id": "f-176",
+      "name": "Mike Knoop",
+      "city": "SF",
+      "tags": [
+        "Ndea",
+        "Zapier",
+        "Neolabs"
+      ],
+      "x": "mikeknoop",
+      "linkedin": "https://linkedin.com/in/mikeknoop",
+      "notes": "Co-founder & CEO @ Ndea | Co-founder & Board @ Zapier | Co-founder @ ARC Prize Foundation | prev Zapier President/CPO | U of Missouri (Mech Eng & Math) | Angel: Cognition, Cartesia, Julius",
+      "checked": false
+    },
+    {
+      "id": "f-177",
+      "name": "Aidan Gomez",
+      "city": "SF",
+      "tags": [
+        "Cohere",
+        "CEO",
+        "Transformer",
+        "Neolabs"
+      ],
+      "x": "aidangomez",
+      "linkedin": "https://ca.linkedin.com/in/aidangomez",
+      "notes": "Co-founder & CEO @ Cohere ($5.5B valuation) | Transformer paper co-author 2017 | Time 100/AI 2023 | PhD Oxford 2024 | Board @ Rivian | prev Google Brain intern | U of Toronto CS/Math",
+      "checked": false
+    },
+    {
+      "id": "f-178",
+      "name": "Nick Frosst",
+      "city": "SF",
+      "tags": [
+        "Cohere",
+        "Google Brain",
+        "Neolabs"
+      ],
+      "x": "nickfrosst",
+      "linkedin": "https://ca.linkedin.com/in/nick-frosst-19b80463",
+      "notes": "Co-founder @ Cohere | prev Google Brain (Geoffrey Hinton's first hire Toronto) | Lead singer @ Good Kid (2.3M Spotify listeners) | U of Toronto CS | Capsule networks research",
+      "checked": false
+    },
+    {
+      "id": "f-179",
+      "name": "Ivan Zhang",
+      "city": "SF",
+      "tags": [
+        "Cohere",
+        "Neolabs"
+      ],
+      "x": "1vnzh",
+      "linkedin": "https://ca.linkedin.com/in/1vnzh",
+      "notes": "Co-founder & CTO @ Cohere | Founded for.ai (now Cohere Labs) | prev biotech/MLOps engineer | U of Toronto | Based in Toronto",
+      "checked": false
+    },
+    {
+      "id": "f-180",
+      "name": "Arthur Mensch",
+      "city": "Paris",
+      "tags": [
+        "Mistral AI",
+        "CEO",
+        "DeepMind",
+        "Neolabs"
+      ],
+      "x": "arthurmensch",
+      "linkedin": "https://linkedin.com/in/arthur-mensch",
+      "notes": "Co-founder & CEO @ Mistral AI (\u20ac11.7B valuation) | prev DeepMind Paris (2020-2023) | Billionaire (~$1.1B) | Knight of National Order of Merit | Time100 2024 | \u00c9cole Polytechnique",
+      "checked": false
+    },
+    {
+      "id": "f-181",
+      "name": "Guillaume Lample",
+      "city": "Paris",
+      "tags": [
+        "Mistral AI",
+        "Chief Scientist",
+        "Neolabs"
+      ],
+      "x": "GuillaumeLample",
+      "linkedin": "https://fr.linkedin.com/in/guillaume-lample-7821095b",
+      "notes": "Co-founder & Chief Scientist @ Mistral AI | prev Meta AI/FAIR (XLM-RoBERTa, Llama paper) | Billionaire (~$1.1B) | PhD Sorbonne | MSc CMU | Created Mixtral 8x7B",
+      "checked": false
+    },
+    {
+      "id": "f-182",
+      "name": "Timothee Lacroix",
+      "city": "Paris",
+      "tags": [
+        "Mistral AI",
+        "CTO",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://fr.linkedin.com/in/timothee-lacroix-59517977",
+      "notes": "Co-founder & CTO @ Mistral AI | prev Meta FAIR (8 years, LLaMA paper) | Billionaire (~$1.1B) | PhD \u00c9cole des Ponts | MSc Paris-Saclay | \u00c9cole Normale Sup\u00e9rieure",
+      "checked": false
+    },
+    {
+      "id": "f-183",
+      "name": "Misha Laskin",
+      "city": "SF",
+      "tags": [
+        "Reflection AI",
+        "CEO",
+        "DeepMind Gemini",
+        "Neolabs"
+      ],
+      "x": "MishaLaskin",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Reflection AI | prev Google DeepMind (Gemini reward modeling lead) | Postdoc UC Berkeley | YC founder alum | PhD Theoretical Physics UChicago | Superintelligent autonomous coding",
+      "checked": false
+    },
+    {
+      "id": "f-184",
+      "name": "Ioannis Antonoglou",
+      "city": "SF",
+      "tags": [
+        "Reflection AI",
+        "AlphaGo",
+        "Neolabs"
+      ],
+      "x": "real_ioannis",
+      "linkedin": "https://linkedin.com/in/ioannis-alexandros-antonoglou-45393253",
+      "notes": "Co-founder, President & CTO @ Reflection AI | Core architect AlphaGo, AlphaZero, MuZero | DeepMind founding engineer (#25) | 12+ years DeepMind | MSc AI Edinburgh",
+      "checked": false
+    },
+    {
+      "id": "f-185",
+      "name": "Tudor Achim",
+      "city": "SF",
+      "tags": [
+        "Harmonic",
+        "CEO",
+        "Neolabs"
+      ],
+      "x": "tachim",
+      "linkedin": "https://linkedin.com/in/tudorachim",
+      "notes": "Co-founder & CEO @ Harmonic (Mathematical Superintelligence) | Co-founded with Vlad Tenev (Robinhood) | prev CTO @ Helm.ai | prev Quora ML lead | PhD candidate Stanford | BSc CMU CS",
+      "checked": false
+    },
+    {
+      "id": "f-186",
+      "name": "Vlad Tenev",
+      "city": "SF",
+      "tags": [
+        "Harmonic",
+        "Robinhood",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Executive Chairman @ Harmonic, Robinhood Co-founder",
+      "checked": false
+    },
+    {
+      "id": "f-187",
+      "name": "Carina Hong",
+      "city": "SF",
+      "tags": [
+        "Axiom Math",
+        "CEO",
+        "MIT",
+        "Neolabs"
+      ],
+      "x": "CarinaLHong",
+      "linkedin": "https://linkedin.com/in/carina-hong",
+      "notes": "Founder & CEO @ Axiom Math | $64M seed at $300M val | Building AI capable of advanced mathematical reasoning & formal proofs | 24 y/o | Rhodes Scholar | Morgan Prize winner (highest honor for undergrad mathematician, 5th woman ever) | MIT dual Math+Physics in 3 yrs | 9 peer-reviewed papers | Dropped Stanford PhD/JD (Knight-Hennessy) | Team from Meta FAIR, Google Brain",
+      "checked": false
+    },
+    {
+      "id": "f-188",
+      "name": "Shubho Sengupta",
+      "city": "SF",
+      "tags": [
+        "Axiom Math",
+        "CTO",
+        "Meta FAIR",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO @ Axiom Math | prev Meta FAIR | Building AI mathematician for formal proofs | $64M seed",
+      "checked": false
+    },
+    {
+      "id": "f-189",
+      "name": "Jesse Han",
+      "city": "SF",
+      "tags": [
+        "Morph Labs",
+        "CEO",
+        "Neolabs"
+      ],
+      "x": "jessemhan",
+      "linkedin": "https://linkedin.com/in/jesse-michael-han",
+      "notes": "Founder & CEO @ Morph Labs | Building personal AI proof engineer to accelerate formal mathematics | prev OpenAI Senior Research Scientist (GPT-4, 'Solving Formal Math Olympiad Problems' 2022) | PhD Math U Pittsburgh (under Tom Hales) | Led Flypitch project (formal proof of independence of continuum hypothesis) | Built neural theorem provers",
+      "checked": false
+    },
+    {
+      "id": "f-190",
+      "name": "Ramin Hasani",
+      "city": "SF",
+      "tags": [
+        "Liquid AI",
+        "CEO",
+        "MIT",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/raminhasani",
+      "notes": "Co-founder & CEO @ Liquid AI ($297M raised, $2.3B val, AMD/Shopify/Samsung Series A) | Building efficient foundation models from first principles - Liquid Neural Networks | prev Principal AI/ML Scientist @ Vanguard | PhD TU Wien 2020 (Liquid Neural Networks dissertation) | MIT CSAIL Postdoc with Daniela Rus | TEDx speaker",
+      "checked": false
+    },
+    {
+      "id": "f-191",
+      "name": "Mathias Lechner",
+      "city": "SF",
+      "tags": [
+        "Liquid AI",
+        "MIT",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/mlech26l",
+      "notes": "Co-founder & CTO @ Liquid AI ($297M raised, $2.3B val) | Building efficient foundation models using Liquid Neural Networks - novel architecture inspired by C. elegans worm neurons | MIT CSAIL Research Affiliate | PhD ISTA 2022 (Tom Henzinger) | Nature Machine Intelligence publications | Won F1-Tenth Racing Grand Prix | 2022 HPC Innovation Excellence Award",
+      "checked": false
+    },
+    {
+      "id": "f-192",
+      "name": "Alexander Amini",
+      "city": "SF",
+      "tags": [
+        "Liquid AI",
+        "MIT",
+        "Neolabs"
+      ],
+      "x": "xanamini",
+      "linkedin": "https://linkedin.com/in/alexanderamini",
+      "notes": "Co-founder & CSO @ Liquid AI ($2.3B val) | MIT CSAIL Research Affiliate | Creator of 'MIT Introduction to Deep Learning' course (10M+ views, 100K+ students globally) | Building adaptive autonomous agents for safe decision-making | PhD MIT CS 2022 | Inventions deployed on AVs & drug discovery",
+      "checked": false
+    },
+    {
+      "id": "f-193",
+      "name": "David Ha",
+      "city": "Tokyo",
+      "tags": [
+        "Sakana AI",
+        "CEO",
+        "Google Brain",
+        "Neolabs"
+      ],
+      "x": "hardmaru",
+      "linkedin": "https://jp.linkedin.com/in/hardmaru",
+      "notes": "Co-founder & CEO @ Sakana AI ($1.5B val, Japan's fastest unicorn) | TIME100 AI 2025 | prev Google Brain Japan lead (2016-2022) | prev Goldman Sachs MD Japan | PhD Applied Math Tokyo",
+      "checked": false
+    },
+    {
+      "id": "f-194",
+      "name": "Llion Jones",
+      "city": "Tokyo",
+      "tags": [
+        "Sakana AI",
+        "CTO",
+        "Transformer",
+        "Neolabs"
+      ],
+      "x": "YesThisIsLion",
+      "linkedin": "https://jp.linkedin.com/in/llion-jones-9ab3064b",
+      "notes": "Co-founder & CTO @ Sakana AI | Transformer paper co-author 2017 | prev Google (2011-2023, YouTube, Brain) | U of Birmingham | Building biomimicry AI",
+      "checked": false
+    },
+    {
+      "id": "f-195",
+      "name": "Ashish Vaswani",
+      "city": "SF",
+      "tags": [
+        "Essential AI",
+        "CEO",
+        "Transformer",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/ashish-vaswani-99892181",
+      "notes": "Co-founder & CEO @ Essential AI | First author Transformer paper 'Attention Is All You Need' (173K+ citations) | prev Google Brain | prev Adept AI co-founder | PhD USC",
+      "checked": false
+    },
+    {
+      "id": "f-196",
+      "name": "Karol Hausman",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence",
+        "CEO",
+        "DeepMind",
+        "Stanford",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Physical Intelligence, prev DeepMind, Stanford",
+      "checked": false
+    },
+    {
+      "id": "f-197",
+      "name": "Sergey Levine",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence",
+        "UC Berkeley",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Chief Scientist @ Physical Intelligence, UC Berkeley Prof",
+      "checked": false
+    },
+    {
+      "id": "f-198",
+      "name": "Chelsea Finn",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence",
+        "Stanford",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/cbfinn",
+      "notes": "Co-founder @ Physical Intelligence (Pi) | Assistant Prof @ Stanford EECS | Pioneer meta-learning & robot learning | Sloan Fellow | NSF CAREER | ACM Doctoral Dissertation Award | PhD UC Berkeley | BSc MIT",
+      "checked": false
+    },
+    {
+      "id": "f-199",
+      "name": "Lachy Groom",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Physical Intelligence (Pi) | Building AI for robotics and physical world interaction | Investor background",
+      "checked": false
+    },
+    {
+      "id": "f-200",
+      "name": "Dan Balsam",
+      "city": "SF",
+      "tags": [
+        "Goodfire",
+        "CTO",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO @ Goodfire | prev RippleMatch | Building AI interpretability tools | Anthropic-backed",
+      "checked": false
+    },
+    {
+      "id": "f-201",
+      "name": "Tom McGrath",
+      "city": "SF",
+      "tags": [
+        "Goodfire",
+        "Chief Scientist",
+        "DeepMind",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Chief Scientist @ Goodfire | prev DeepMind | AI interpretability research | Anthropic-backed",
+      "checked": false
+    },
+    {
+      "id": "f-202",
+      "name": "Emmett Shear",
+      "city": "SF",
+      "tags": [
+        "Softmax",
+        "Twitch",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Softmax, Twitch founder, Organic Alignment",
+      "checked": false
+    },
+    {
+      "id": "f-203",
+      "name": "Adam Goldstein",
+      "city": "SF",
+      "tags": [
+        "Softmax",
+        "Hipmunk",
+        "Neolabs"
+      ],
+      "x": "adamjgoldstein",
+      "linkedin": "https://linkedin.com/in/adam-goldstein-510bbb22",
+      "notes": "Co-founder, Chairman & Head of Research @ Softmax | Building 'organic alignment' - AI that forms collaborative relationships like ant colonies | prev Hipmunk co-founder | Visiting Scientist @ Levin Lab (Tufts) cancer research | Active Inference researcher",
+      "checked": false
+    },
+    {
+      "id": "f-204",
+      "name": "David Bloomin",
+      "city": "SF",
+      "tags": [
+        "Softmax",
+        "Google",
+        "Facebook",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/daveey",
+      "notes": "Co-founder @ Softmax | 20+ yrs building large-scale infra @ Google, Facebook, Asana | Co-founded Plurality Institute (governance models research) | MettaGrid project (emergent social behaviors via RL) | a16z backed",
+      "checked": false
+    },
+    {
+      "id": "f-205",
+      "name": "Jeffrey Quesnelle",
+      "city": "SF",
+      "tags": [
+        "Nous Research",
+        "CEO",
+        "Neolabs"
+      ],
+      "x": "theemozilla",
+      "linkedin": "https://linkedin.com/in/jeffrey-quesnelle-2490a524",
+      "notes": "Co-founder & CEO @ Nous Research (open-source AI) | Co-authored YaRN scaling paper | prev Eden Network MEV | $50M raised | MSc Michigan CS | BSc Oakland CS/Math",
+      "checked": false
+    },
+    {
+      "id": "f-206",
+      "name": "Karan Malhotra",
+      "city": "SF",
+      "tags": [
+        "Nous Research",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Head of Behavior @ Nous Research | Open-source AI model development | Working on human-centric language models",
+      "checked": false
+    },
+    {
+      "id": "f-207",
+      "name": "Teknium",
+      "city": "SF",
+      "tags": [
+        "Nous Research",
+        "StabilityAI",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Head of Post Training @ Nous Research, prev StabilityAI",
+      "checked": false
+    },
+    {
+      "id": "f-208",
+      "name": "Geoffrey von Maltzahn",
+      "city": "SF",
+      "tags": [
+        "Lila Sciences",
+        "CEO",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Lila Sciences | Building Scientific Superintelligence | Applying AI to accelerate scientific discovery",
+      "checked": false
+    },
+    {
+      "id": "f-209",
+      "name": "Molly Gibson",
+      "city": "SF",
+      "tags": [
+        "Lila Sciences",
+        "President",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "President @ Lila Sciences | Scientific Superintelligence | AI for scientific research acceleration",
+      "checked": false
+    },
+    {
+      "id": "f-210",
+      "name": "Liam Fedus",
+      "city": "SF",
+      "tags": [
+        "Periodic Labs",
+        "ChatGPT",
+        "OpenAI",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Periodic Labs, ChatGPT creator, prev OpenAI VP",
+      "checked": false
+    },
+    {
+      "id": "f-211",
+      "name": "Ekin Dogus Cubuk",
+      "city": "SF",
+      "tags": [
+        "Periodic Labs",
+        "Google Brain",
+        "DeepMind",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Periodic Labs, prev Google Brain/DeepMind",
+      "checked": false
+    },
+    {
+      "id": "f-212",
+      "name": "Jason Warner",
+      "city": "SF",
+      "tags": [
+        "Poolside AI",
+        "CEO",
+        "GitHub CTO",
+        "$3B",
+        "Neolabs"
+      ],
+      "x": "jasoncwarner",
+      "linkedin": "https://linkedin.com/in/jcw148",
+      "notes": "Co-founder & CEO @ Poolside AI ($3B valuation) | Board @ Atlassian, Bridgewater | prev CTO @ GitHub (incl $7.5B Microsoft acq) | prev VP Eng @ Heroku | BSc Penn State | MSc RPI",
+      "checked": false
+    },
+    {
+      "id": "f-213",
+      "name": "Eiso Kant",
+      "city": "SF",
+      "tags": [
+        "Poolside AI",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Poolside AI | Serial entrepreneur | Co-host 'Developing Leadership' podcast with Jason Warner | AI for software development",
+      "checked": false
+    },
+    {
+      "id": "f-214",
+      "name": "Mira Murati",
+      "city": "SF",
+      "tags": [
+        "Thinking Machines Lab",
+        "OpenAI CTO",
+        "$50B",
+        "Neolabs"
+      ],
+      "x": "miramurati",
+      "linkedin": "",
+      "notes": "Co-founder @ Thinking Machines Lab, prev OpenAI CTO, $50B valuation",
+      "checked": false
+    },
+    {
+      "id": "f-215",
+      "name": "John Schulman",
+      "city": "SF",
+      "tags": [
+        "Thinking Machines Lab",
+        "OpenAI",
+        "Neolabs"
+      ],
+      "x": "johnschulman2",
+      "linkedin": "",
+      "notes": "Chief Scientist @ Thinking Machines Lab, prev OpenAI",
+      "checked": false
+    },
+    {
+      "id": "f-216",
+      "name": "Barrett Zoph",
+      "city": "SF",
+      "tags": [
+        "Thinking Machines Lab",
+        "OpenAI",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Thinking Machines Lab | prev OpenAI | AI research and reasoning systems",
+      "checked": false
+    },
+    {
+      "id": "f-217",
+      "name": "Sam Pasupalak",
+      "city": "SF",
+      "tags": [
+        "Skyfall AI",
+        "CEO",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/sam-pasupalak-57b4a220a",
+      "notes": "Co-founder & CEO @ Skyfall AI | Building 'AI CEO' / Enterprise Super Intelligence | prev Inovia Capital | Co-founded Maluuba (acq Microsoft ~$200M) | LSE | Waterloo",
+      "checked": false
+    },
+    {
+      "id": "f-218",
+      "name": "Kaheer Suleman",
+      "city": "SF",
+      "tags": [
+        "Skyfall AI",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/kaheer-suleman-1052b327",
+      "notes": "Co-founder & Chief AI Officer @ Skyfall AI | Co-founded Maluuba (acq Microsoft) | prev Microsoft Principal PM Research Manager | Waterloo | Cambridge-based",
+      "checked": false
+    },
+    {
+      "id": "f-219",
+      "name": "Pim de Witte",
+      "city": "SF",
+      "tags": [
+        "General Intuition",
+        "CEO",
+        "$134M seed",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ General Intuition, Medal founder, $134M seed",
+      "checked": false
+    },
+    {
+      "id": "f-220",
+      "name": "Vincent Micheli",
+      "city": "SF",
+      "tags": [
+        "General Intuition",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/vincent-micheli",
+      "notes": "Co-founder @ General Intuition ($134M seed from Khosla/General Catalyst) | Building world models for spatial reasoning | PhD (world models for decision making) | Papers: GAIA-2, DIAMOND (NeurIPS spotlight), \u0394-IRIS (ICML), IRIS (ICLR oral)",
+      "checked": false
+    },
+    {
+      "id": "f-221",
+      "name": "Eloi Alonso",
+      "city": "SF",
+      "tags": [
+        "General Intuition",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/eloialonso",
+      "notes": "Co-founder @ General Intuition ($134M seed) | World models & RL researcher | PhD U of Geneva (Fran\u00e7ois Fleuret's group) | Co-authored IRIS (transformers as sample-efficient world models) | NYC-based frontier AI lab",
+      "checked": false
+    },
+    {
+      "id": "f-222",
+      "name": "Fan-Yun Sun",
+      "city": "SF",
+      "tags": [
+        "Moonlake AI",
+        "Stanford",
+        "NVIDIA",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Moonlake AI, Stanford PhD, prev NVIDIA",
+      "checked": false
+    },
+    {
+      "id": "f-223",
+      "name": "Sharon Lee",
+      "city": "SF",
+      "tags": [
+        "Moonlake AI",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Moonlake AI, Generative AI researcher",
+      "checked": false
+    },
+    {
+      "id": "f-224",
+      "name": "Tejas Bhakta",
+      "city": "SF",
+      "tags": [
+        "Morph",
+        "MorphLLM",
+        "YC S23",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/tejas-bhakta",
+      "notes": "Founder & CEO @ Morph/MorphLLM (YC S23) | Building fastest code editing models - Fast Apply (10,500 tok/sec, 4x faster than Cerebras) & WarpGrep (5x faster agentic search) | Gets Claude/Gemini edits into code instantly | SF-based, team of 5",
+      "checked": false
+    },
+    {
+      "id": "f-225",
+      "name": "Gabriel Rene",
+      "city": "SF",
+      "tags": [
+        "Verses AI",
+        "CEO",
+        "Neolabs"
+      ],
+      "x": "GReal1111",
+      "linkedin": "https://linkedin.com/in/gabriel-ren\u00e9-0201902",
+      "notes": "Founder & CEO @ Verses AI | Building Active Inference AI (biologically-inspired AGI) with Karl Friston (world's most cited neuroscientist) | Genius platform beat humans in Atari in 12 min vs 2hr for neural nets | Co-author 'The Spatial Web' | IEEE Spatial Web Protocol Chair | 25 yrs tech",
+      "checked": false
+    },
+    {
+      "id": "f-226",
+      "name": "Candice Pattisapu",
+      "city": "SF",
+      "tags": [
+        "Noumenal Labs",
+        "CEO",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/candice-pattisapu-1334b5321",
+      "notes": "Co-founder & CEO @ Noumenal Labs | Building thermodynamic brains for robots - epistemic-foraging intelligence on Extropic hardware | PhD Cognitive Science (Bayesian modeling) | Active Inference emotional state model adopted by Waymo R&D | Working with Karl Friston",
+      "checked": false
+    },
+    {
+      "id": "f-227",
+      "name": "Jason Fox",
+      "city": "SF",
+      "tags": [
+        "Noumenal Labs",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Noumenal Labs | Building scaled probabilistic thermobrain for robotic data collection | Co-authored 'How To Build A Brain' whitepaper | Active Inference + thermodynamic computing researcher",
+      "checked": false
+    },
+    {
+      "id": "f-228",
+      "name": "Timoleon Moraitis",
+      "city": "SF",
+      "tags": [
+        "Noemon AI",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Noemon AI | Building Adaptive Intelligence systems | Novel approaches to machine learning",
+      "checked": false
+    },
+    {
+      "id": "f-229",
+      "name": "Alexandre LeBrun",
+      "city": "SF",
+      "tags": [
+        "AMI Labs",
+        "CEO",
+        "Nabla",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO @ AMI Labs | prev Nabla founder (AI for healthcare) | Building AI medical intelligence systems",
+      "checked": false
+    },
+    {
+      "id": "f-230",
+      "name": "Jeff Bezos",
+      "city": "SF",
+      "tags": [
+        "Project Prometheus",
+        "$6.2B",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-CEO @ Project Prometheus | $6.2B funding | AGI moonshot project | Amazon founder | Building transformative AI research lab",
+      "checked": false
+    },
+    {
+      "id": "f-231",
+      "name": "Vik Bajaj",
+      "city": "SF",
+      "tags": [
+        "Project Prometheus",
+        "Foresite Labs",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-CEO @ Project Prometheus | $6.2B funding | prev Foresite Labs | Leading AGI research initiative with Jeff Bezos",
+      "checked": false
+    },
+    {
+      "id": "f-232",
+      "name": "Sara Hooker",
+      "city": "SF",
+      "tags": [
+        "Adaption Labs",
+        "Cohere",
+        "Google Brain",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Adaption Labs, prev Cohere, Google Brain",
+      "checked": false
+    },
+    {
+      "id": "f-233",
+      "name": "Sudip Roy",
+      "city": "SF",
+      "tags": [
+        "Adaption Labs",
+        "CTO",
+        "Cohere",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO @ Adaption Labs | prev Cohere | Building adaptive AI systems",
+      "checked": false
+    },
+    {
+      "id": "f-234",
+      "name": "Richard Socher",
+      "city": "SF",
+      "tags": [
+        "You.com",
+        "CEO",
+        "Salesforce",
+        "Neolabs"
+      ],
+      "x": "RichardSocher",
+      "linkedin": "https://linkedin.com/in/richardsocher",
+      "notes": "Founder & CEO @ You.com | Founder/GP @ AIX Ventures | prev Salesforce EVP & Chief Scientist | prev MetaMind founder (acq Salesforce) | Time100 AI | WEF YGL | PhD Stanford | 114K X followers",
+      "checked": false
+    },
+    {
+      "id": "f-235",
+      "name": "Charles Kantor",
+      "city": "Paris",
+      "tags": [
+        "H Company",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/charles-kantor",
+      "notes": "Founder @ H Company (Paris) | $220M seed (largest EU AI raise) | Stepped down as CEO June 2025 | Stanford MS AI | Harvard Research Fellow | CentraleSup\u00e9lec",
+      "checked": false
+    },
+    {
+      "id": "f-236",
+      "name": "Laurent Sifre",
+      "city": "Paris",
+      "tags": [
+        "H Company",
+        "CTO",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/sifre",
+      "notes": "Co-founder & CTO @ H Company | prev DeepMind 10 years (AlphaGo, AlphaFold, AlphaStar, Gemini, Gemma) | Only remaining original founder | Building agentic AI (Runner H, Surfer H)",
+      "checked": false
+    },
+    {
+      "id": "f-237",
+      "name": "Dave Lemphers",
+      "city": "Australia",
+      "tags": [
+        "Maincode",
+        "CEO",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO @ Maincode | Building 'Matilda' - Australia's sovereign LLM | Australian AI independence initiative",
+      "checked": false
+    },
+    {
+      "id": "f-238",
+      "name": "Ed Craven",
+      "city": "Australia",
+      "tags": [
+        "Maincode",
+        "Stake.com",
+        "Billionaire",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Maincode | Stake.com co-founder (crypto casino billionaire) | Funding Australia's AI sovereignty with Matilda LLM",
+      "checked": false
+    },
+    {
+      "id": "f-239",
+      "name": "Jaemin Shin",
+      "city": "Korea",
+      "tags": [
+        "Trillion Labs",
+        "CEO",
+        "Naver",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO @ Trillion Labs | prev Naver HyperCLOVA X team | Building large language models | Korea-based AI lab",
+      "checked": false
+    },
+    {
+      "id": "f-240",
+      "name": "Jason Juneyoung Park",
+      "city": "Korea",
+      "tags": [
+        "Trillion Labs",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Trillion Labs | Building Korean AI foundation models",
+      "checked": false
+    },
+    {
+      "id": "f-241",
+      "name": "Bidhan Roy",
+      "city": "SF",
+      "tags": [
+        "Bagel Network",
+        "CEO",
+        "Amazon Alexa",
+        "Neolabs"
+      ],
+      "x": "bidhanxyz",
+      "linkedin": "https://linkedin.com/in/bidhanr",
+      "notes": "Founder & CEO @ Bagel Network | Decentralized ML data marketplace using ZK cryptography - making open-source AI monetizable | $3.1M pre-seed (CoinFund led) | Mentor @ Outlier Ventures | 123K+ Substack subscribers | Toronto-based",
+      "checked": false
+    },
+    {
+      "id": "f-242",
+      "name": "Eddie Zhang",
+      "city": "SF",
+      "tags": [
+        "Isara",
+        "OpenAI",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "https://linkedin.com/in/ezipe",
+      "notes": "Co-founder @ Isara | Building software for 1000s of AI agents to work in tandem on complex tasks (financial data analysis) | prev OpenAI safety researcher (Model Spec, 19-country survey) | Harvard CS PhD (on leave) | UCSB BS top of class at 19 | Co-founded Humanity Unleashed nonprofit",
+      "checked": false
+    },
+    {
+      "id": "f-243",
+      "name": "John Carmack",
+      "city": "SF",
+      "tags": [
+        "Keen Technologies",
+        "Oculus CTO",
+        "DOOM",
+        "Neolabs"
+      ],
+      "x": "ID_AA_Carmack",
+      "linkedin": "",
+      "notes": "Founder @ Keen Technologies (AGI) | prev CTO @ Oculus VR | Founder @ id Software & Armadillo Aerospace | Creator of DOOM, Quake | $20M raised (Nat Friedman/Sequoia) | Partner Richard Sutton | 1M+ X followers",
+      "checked": false
+    },
+    {
+      "id": "f-244",
+      "name": "Eric Zelikman",
+      "city": "SF",
+      "tags": [
+        "Humans&",
+        "xAI",
+        "Neolabs"
+      ],
+      "x": "ericzelikman",
+      "linkedin": "",
+      "notes": "Founder & CEO @ Humans& ($1B raise at $4-5B val) | Building AI with EQ - human-machine collaboration models with long-term memory | prev xAI (Grok 2/3/4 pretraining, agent RL infra) | PhD candidate Stanford (wrote STaR paper) | Co-founders from Google/Meta/Anthropic/OpenAI",
+      "checked": false
+    },
+    {
+      "id": "f-245",
+      "name": "Georges Harik",
+      "city": "SF",
+      "tags": [
+        "Humans&",
+        "Google",
+        "Neolabs"
+      ],
+      "x": "gharik",
+      "linkedin": "https://linkedin.com/in/georges-harik-4579271",
+      "notes": "Co-founder @ Humans& | Google employee #7 - co-created AdWords Online & AdSense targeting, worked on Gmail/Calendar/Android acquisition | Co-founded imo.im (messaging app) | Angel investor | WEF speaker | 25+ years tech",
+      "checked": false
+    },
+    {
+      "id": "f-246",
+      "name": "Ari Morcos",
+      "city": "SF",
+      "tags": [
+        "DatologyAI",
+        "$57.6M raised",
+        "Meta AI FAIR",
+        "DeepMind"
+      ],
+      "x": "arimorcos",
+      "linkedin": "https://linkedin.com/in/arimorcos",
+      "notes": "Co-founder & CEO @ DatologyAI, $57.6M raised ($46M Series A May 2024), prev Senior Staff Research Scientist @ Meta AI FAIR, prev DeepMind, PhD Harvard (Chris Harvey lab), BS UC San Diego, automated data curation at scale for AI training",
+      "checked": false
+    },
+    {
+      "id": "f-247",
+      "name": "Rob Toews",
+      "city": "SF",
+      "tags": [
+        "Radical Ventures",
+        "Forbes AI Columnist",
+        "Harvard MBA/JD",
+        "Zoox"
+      ],
+      "x": "_RobToews",
+      "linkedin": "https://linkedin.com/in/robtoews",
+      "notes": "Partner @ Radical Ventures ($550M early-stage + $800M growth fund), AI Columnist @ Forbes, MBA & JD Harvard, prev Highland Capital VC, prev Strategy Lead @ Zoox (acquired by Amazon $1.3B), prev White House autonomous vehicle policy under Obama, prev Bain & Co, led investments in DatologyAI/Hebbia/Reka/Twelve Labs",
+      "checked": false
+    }
   ],
   "last_updated": "2026-01-19T00:00:00.000Z"
 }
