@@ -25,8 +25,8 @@
     html, body {
       margin: 0;
       padding: 0;
-      height: 100%;
-      overflow-x: hidden;
+      height: 100vh;
+      overflow: hidden;
     }
 
     body {
@@ -38,10 +38,11 @@
     .app {
       max-width: 100%;
       margin: 0 auto;
-      padding: 16px 20px 24px;
-      height: 100%;
+      padding: 16px 20px 12px;
+      height: 100vh;
       display: flex;
       flex-direction: column;
+      overflow: hidden;
     }
 
     .header {
@@ -55,15 +56,16 @@
       display: flex;
       gap: 20px;
       border-bottom: 1px solid var(--border);
-      margin-bottom: 12px;
+      margin-bottom: 8px;
+      flex-shrink: 0;
     }
 
     .tab {
       border: none;
       background: transparent;
       color: var(--muted);
-      padding: 10px 4px;
-      font-size: 14px;
+      padding: 8px 4px;
+      font-size: 13px;
       cursor: pointer;
       border-bottom: 2px solid transparent;
     }
@@ -78,7 +80,8 @@
       display: flex;
       gap: 10px;
       flex-wrap: wrap;
-      margin: 14px 0 18px;
+      margin: 10px 0 12px;
+      flex-shrink: 0;
     }
 
     .panel {
@@ -223,13 +226,15 @@
       border-radius: 12px;
       box-shadow: var(--shadow);
       overflow: hidden;
-      flex: 1;
+      flex: 1 1 0;
       min-height: 0;
+      max-height: calc(100vh - 160px);
     }
 
     #grid {
       width: 100%;
       height: 100%;
+      overflow: hidden;
     }
 
     .detail-panel {
@@ -257,9 +262,9 @@
     .contact a { font-size: 12px; color: #0a66c2; text-decoration: none; }
 
     .footer {
-      margin-top: 12px;
-      padding: 8px 0;
-      font-size: 11px;
+      margin-top: 8px;
+      padding: 4px 0;
+      font-size: 10px;
       color: var(--muted);
       text-align: center;
       flex-shrink: 0;
@@ -539,21 +544,33 @@
         sortable: false,
         filter: false,
         suppressMenu: true,
+        cellClass: 'checkbox-cell',
+        cellRenderer: checkboxRenderer
+      },
+      {
+        headerName: '',
+        width: 44,
+        maxWidth: 44,
+        resizable: false,
+        sortable: false,
+        filter: false,
+        suppressMenu: true,
         cellRenderer: 'agGroupCellRenderer'
       },
-      { field: 'name', headerName: 'Firm', flex: 2, minWidth: 200 },
-      { field: 'city', width: 80 },
-      { field: 'tags', headerName: 'Focus', flex: 2, minWidth: 160, valueFormatter: params => normalizeList(params.value).join(', ') },
+      { field: 'name', headerName: 'Firm', flex: 2, minWidth: 200, editable: true },
+      { field: 'city', width: 80, editable: true },
+      { field: 'tags', headerName: 'Focus', flex: 2, minWidth: 160, editable: true, valueFormatter: params => normalizeList(params.value).join(', ') },
       {
         field: 'website',
         headerName: 'Website',
         width: 140,
+        editable: true,
         cellRenderer: params => {
           if (!params.value) return '';
           return `<a href="${params.value}" target="_blank" style="color:var(--accent)">${params.value.replace(/^https?:\/\//, '')}</a>`;
         }
       },
-      { field: 'notes', headerName: 'Notes', flex: 3, minWidth: 200 },
+      { field: 'notes', headerName: 'Notes', flex: 3, minWidth: 200, editable: true },
       {
         field: 'partners',
         headerName: 'Partners',
@@ -713,17 +730,24 @@
       return REQUIRED_FIELDS.every((field) => !isBlank(row[field]));
     }
 
-    function normalizeRowForSync(row) {
-      return {
+    function normalizeRowForSync(row, category) {
+      const base = {
         id: row.id,
         name: row.name,
         city: normalizeCity(row.city),
         tags: normalizeList(row.tags),
-        x: row.x || '',
-        linkedin: row.linkedin || '',
         notes: row.notes || '',
         checked: Boolean(row.checked)
       };
+      // VCs have different fields
+      if (category === 'vcs') {
+        base.website = row.website || '';
+        base.partners = row.partners || [];
+      } else {
+        base.x = row.x || '';
+        base.linkedin = row.linkedin || '';
+      }
+      return base;
     }
 
     function reorderRowsByChecked(rows) {
@@ -760,10 +784,13 @@
 
     function applyCheckedOrdering() {
       if (!state.gridApi) return;
-      // VCs don't use checked ordering
-      if (state.currentCategory === 'vcs') return;
       const rows = reorderRowsByChecked(getGridRows());
-      DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
+      // VCs use firms array, others use entries
+      if (state.currentCategory === 'vcs') {
+        DATA.vcs = { ...DATA.vcs, firms: rows };
+      } else {
+        DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
+      }
       state.gridApi.setGridOption('rowData', rows);
       if (state.expandedAll) {
         state.gridApi.forEachNode(node => node.setExpanded(true));
@@ -773,7 +800,8 @@
     function setGridData(category) {
       // Handle VCs differently - use firms array with VCDetailRenderer
       if (category === 'vcs') {
-        const firms = DATA.vcs.firms || [];
+        const firms = reorderRowsByChecked(DATA.vcs.firms || []);
+        DATA.vcs = { ...DATA.vcs, firms };
         state.gridApi.setGridOption('columnDefs', vcColumnDefs);
         state.gridApi.setGridOption('detailCellRenderer', VCDetailRenderer);
         state.gridApi.setGridOption('detailRowHeight', 280);
@@ -861,20 +889,27 @@
         setSyncStatus('Name is required to sync.', true);
         return;
       }
-      const normalized = normalizeRowForSync(row);
+      const normalized = normalizeRowForSync(row, state.currentCategory);
       setSyncStatus('Syncing...', false);
       try {
-        await callMcp('upsert_contact', {
+        const payload = {
           category: state.currentCategory,
           id: normalized.id,
           name: normalized.name,
           city: normalized.city,
           tags: normalized.tags,
-          x: normalized.x,
-          linkedin: normalized.linkedin,
           notes: normalized.notes,
           checked: normalized.checked
-        });
+        };
+        // Add category-specific fields
+        if (state.currentCategory === 'vcs') {
+          payload.website = normalized.website;
+          payload.partners = normalized.partners;
+        } else {
+          payload.x = normalized.x;
+          payload.linkedin = normalized.linkedin;
+        }
+        await callMcp('upsert_contact', payload);
         setSyncStatus('Synced.', false);
       } catch (err) {
         setSyncStatus(`Sync failed: ${err.message}`, true);
@@ -957,22 +992,33 @@
         try {
           let synced = 0;
           for (const row of rows) {
-            const normalized = normalizeRowForSync(row);
-            await callMcp('upsert_contact', {
+            const normalized = normalizeRowForSync(row, state.currentCategory);
+            const payload = {
               category: state.currentCategory,
               id: normalized.id,
               name: normalized.name,
               city: normalized.city,
               tags: normalized.tags,
-              x: normalized.x,
-              linkedin: normalized.linkedin,
               notes: normalized.notes,
               checked: normalized.checked
-            });
+            };
+            if (state.currentCategory === 'vcs') {
+              payload.website = normalized.website;
+              payload.partners = normalized.partners;
+            } else {
+              payload.x = normalized.x;
+              payload.linkedin = normalized.linkedin;
+            }
+            await callMcp('upsert_contact', payload);
             synced++;
             setSyncStatus(`Synced ${synced}/${rows.length}...`, false);
           }
-          DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
+          // VCs use firms array, others use entries
+          if (state.currentCategory === 'vcs') {
+            DATA.vcs = { ...DATA.vcs, firms: rows };
+          } else {
+            DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
+          }
           setSyncStatus(`All ${rows.length} rows synced.`, false);
         } catch (err) {
           setSyncStatus(`Sync failed: ${err.message}`, true);
