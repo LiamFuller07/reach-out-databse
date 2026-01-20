@@ -298,6 +298,7 @@
       <button class="btn primary" id="btn-add">Add Row</button>
       <button class="btn success" id="btn-sync">Save/Sync</button>
       <button class="btn tiny" id="toggle-expand">Expand all</button>
+      <button class="btn" id="btn-download">Download JSON</button>
       <span class="muted" id="sync-status"></span>
     </div>
 
@@ -935,6 +936,32 @@
         state.expandedAll = !state.expandedAll;
         document.getElementById('toggle-expand').textContent = state.expandedAll ? 'Collapse all' : 'Expand all';
         state.gridApi.forEachNode(node => node.setExpanded(state.expandedAll));
+      });
+
+      document.getElementById('btn-download').addEventListener('click', () => {
+        const category = state.currentCategory;
+        if (category === 'mcp') return;
+
+        let data;
+        let filename;
+        if (category === 'vcs') {
+          data = DATA.vcs;
+          filename = 'vcs.json';
+        } else {
+          data = DATA[category];
+          filename = `${category}.json`;
+        }
+
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        setSyncStatus(`Downloaded ${filename}`, false);
       });
 
       document.getElementById('mcp-send').addEventListener('click', async () => {
