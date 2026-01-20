@@ -316,7 +316,7 @@
         <button class="btn" id="mcp-key-copy">Copy Key</button>
       </div>
       <div class="panel-row">
-        <input id="mcp-tool" type="text" value="upsert_person" />
+        <input id="mcp-tool" type="text" value="upsert_contact" />
         <button class="btn" id="mcp-snippet-copy">Copy Snippet</button>
       </div>
       <textarea id="mcp-args">{
@@ -811,11 +811,21 @@
           'Content-Type': 'application/json',
           ...(apiKey ? { 'X-Api-Key': apiKey } : {})
         },
-        body: JSON.stringify({ tool, arguments: args })
+        body: JSON.stringify({
+          jsonrpc: '2.0',
+          id: `call-${Date.now()}`,
+          method: 'tools/call',
+          params: { name: tool, arguments: args }
+        })
       });
       const json = await res.json();
-      if (!json.ok) {
-        throw new Error(json.error || 'MCP error');
+      if (json.error) {
+        throw new Error(json.error.message || 'MCP error');
+      }
+      // Parse result from JSON-RPC response
+      const content = json.result?.content?.[0]?.text;
+      if (content) {
+        return JSON.parse(content);
       }
       return json.result;
     }
@@ -839,15 +849,18 @@
         return;
       }
       const normalized = normalizeRowForSync(row);
-      const patch = { ...normalized };
-      delete patch.id;
       setSyncStatus('Syncing...', false);
       try {
-        await callMcp('upsert_person', {
+        await callMcp('upsert_contact', {
           category: state.currentCategory,
-          id: row.id,
-          name: row.name,
-          patch
+          id: normalized.id,
+          name: normalized.name,
+          city: normalized.city,
+          tags: normalized.tags,
+          x: normalized.x,
+          linkedin: normalized.linkedin,
+          notes: normalized.notes,
+          checked: normalized.checked
         });
         setSyncStatus('Synced.', false);
       } catch (err) {
@@ -858,10 +871,16 @@
     async function loadCategory(category) {
       // Prefer MCP live data; fallback to bundled JSON
       try {
-        const json = await callMcp('get_category', { category });
-        DATA[category] = json;
-        // VCs use firms array, others use entries
-        return category === 'vcs' ? (json.firms || []) : (json.entries || []);
+        const result = await callMcp('get_contacts', { category, limit: 1000 });
+        const contacts = result.contacts || [];
+        // Convert API format to local format
+        if (category === 'vcs') {
+          DATA[category] = { firms: contacts };
+          return contacts;
+        } else {
+          DATA[category] = { category, entries: contacts };
+          return contacts;
+        }
       } catch (err) {
         try {
           const response = await fetch(`./data/${category}.json?v=${Date.now()}`);
@@ -921,12 +940,27 @@
           setSyncStatus('Cannot sync: missing name.', true);
           return;
         }
-        const payloadRows = rows.map(normalizeRowForSync);
-        setSyncStatus('Syncing category...', false);
+        setSyncStatus('Syncing all rows...', false);
         try {
-          await callMcp('replace_category', { category: state.currentCategory, data: { entries: payloadRows } });
+          let synced = 0;
+          for (const row of rows) {
+            const normalized = normalizeRowForSync(row);
+            await callMcp('upsert_contact', {
+              category: state.currentCategory,
+              id: normalized.id,
+              name: normalized.name,
+              city: normalized.city,
+              tags: normalized.tags,
+              x: normalized.x,
+              linkedin: normalized.linkedin,
+              notes: normalized.notes,
+              checked: normalized.checked
+            });
+            synced++;
+            setSyncStatus(`Synced ${synced}/${rows.length}...`, false);
+          }
           DATA[state.currentCategory] = { ...DATA[state.currentCategory], entries: rows };
-          setSyncStatus('Category synced.', false);
+          setSyncStatus(`All ${rows.length} rows synced.`, false);
         } catch (err) {
           setSyncStatus(`Sync failed: ${err.message}`, true);
         }
