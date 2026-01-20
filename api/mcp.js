@@ -144,17 +144,23 @@ async function putGitHubFile(category, json, message, sha) {
   return res.json();
 }
 
-// Read from raw.githubusercontent.com (fast, no auth required)
-async function fetchGitHubDataRaw(category) {
-  const url = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/${category}.json`;
-  const res = await fetch(url);
-  if (!res.ok) return { category, entries: [] };
-  return res.json();
+// Read from GitHub API (always fresh, not cached)
+async function fetchGitHubData(category) {
+  try {
+    const { json } = await getGitHubFile(category);
+    return json;
+  } catch (err) {
+    // Fallback to raw URL if API fails
+    const url = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/data/${category}.json?_=${Date.now()}`;
+    const res = await fetch(url);
+    if (!res.ok) return { category, entries: [] };
+    return res.json();
+  }
 }
 
 async function fetchAllContacts(categoryFilter = null) {
   const categories = categoryFilter ? [categoryFilter] : DATA_FILES;
-  const results = await Promise.all(categories.map(fetchGitHubDataRaw));
+  const results = await Promise.all(categories.map(fetchGitHubData));
   const allContacts = [];
   for (const data of results) {
     for (const entry of (data.entries || [])) {
