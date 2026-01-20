@@ -107,7 +107,7 @@
         "YC W25",
         "Wharton"
       ],
-      "x": "",
+      "x": "spencermateega",
       "linkedin": "https://linkedin.com/in/spencermateega",
       "notes": "Co-founder & CEO @ AfterQuery (YC W25) | $500K seed | Building datasets for AI evaluation | prev Google SWE, Silver Lake Tech PE, Morgan Stanley Tech IB, Meta | Wharton BS Finance/Stats + Penn MS CS | Met Carlos at Google HS program, Danny at HS startup",
       "checked": false
@@ -120,7 +120,7 @@
         "BenchFlow",
         "Jeff Dean backed"
       ],
-      "x": "",
+      "x": "xdotli",
       "linkedin": "https://linkedin.com/in/l1xiangyi",
       "notes": "Founder @ BenchFlow | Unified AI benchmark runtime platform with 60+ standardized, reproducible environments - 'single platform to verify if AI models actually work' | Pre-Seed from Jeff Dean/Arash Ferdowsi/a16z Scout/Founders Inc | San Jos\u00e9 State | Co-maintaining with Hongji Xu",
       "checked": false
@@ -162,7 +162,7 @@
         "OpenAI",
         "FlashAttention-3"
       ],
-      "x": "",
+      "x": "cis_female",
       "linkedin": "https://linkedin.com/in/sophia-wisdom",
       "notes": "CTO & Dataset Gatherer @ Calaveras AI | Sold 100B+ token code dataset to 4 of top 6 AI labs (no one else found it) | Now expanding into RL environments | prev OpenAI, Google, Apple, Reduct.Video | 10 yrs AI/SWE | SF-based | 26 y/o",
       "checked": false
@@ -189,7 +189,7 @@
         "YC X25",
         "Microsoft"
       ],
-      "x": "",
+      "x": "francedot",
       "linkedin": "https://linkedin.com/in/francesco-bonacci-70428a121",
       "notes": "Founder @ Cua (YC X25) | Building 'Docker for Computer-use Agents' - cloud containers for AI agents to safely use real computers at scale | Open-source tools used by 1000s of devs | prev Microsoft (Xbox Gaming AI, Windows Agent Arena) | 7 yrs SWE | Bologna CS | Co-founded with Alessandro Puppo",
       "checked": false
@@ -201,7 +201,7 @@
       "tags": [
         "Cua"
       ],
-      "x": "",
+      "x": "ddupont808",
       "linkedin": "https://linkedin.com/in/alessandro-puppo",
       "notes": "Co-founder @ Cua (YC X25) | Building 'Docker for Computer-use Agents' - cloud containers & VMs for AI agents | YC Alum | prev Notion | Co-founded Safurai (Techstars)",
       "checked": false
@@ -215,7 +215,7 @@
         "Hugging Face",
         "MIT TR35"
       ],
-      "x": "",
+      "x": "nazneenrajani",
       "linkedin": "https://linkedin.com/in/nazneenrajani",
       "notes": "Founder & CEO @ Collinear AI | Post-training alignment: stress-testing & customizing LLMs for enterprise deployment | Built Collinear Judges (automated AI safety eval) & Collinear Guard (real-time guardrails) | prev Hugging Face Research Lead (H4 alignment), Salesforce Research Senior Scientist | PhD UT Austin NLP | MIT TR Innovators Under 35",
       "checked": false
@@ -244,7 +244,7 @@
         "OpenAI",
         "Google Brain"
       ],
-      "x": "",
+      "x": "dlbydq",
       "linkedin": "https://linkedin.com/in/ani-sh",
       "notes": "Co-founder & Chief Scientist @ dmodel (YC S24) | Opening the 'black box' of LLMs - manipulating internal model 'thoughts' in realtime for interpretability | prev OpenAI, Google Brain | PhD Programming Languages UCSD (Ranjit Jhala, Wes Weimer) | Advises investors on AI trends",
       "checked": false
@@ -287,7 +287,7 @@
         "YC W24",
         "$17.7M"
       ],
-      "x": "",
+      "x": "charleyslee",
       "linkedin": "https://linkedin.com/in/charley-lee",
       "notes": "Co-founder @ Datacurve (YC W24) | $17.7M raised | Building frontier training data for foundation model labs via bounty system | UWaterloo CS dropout | prev Google STEP intern | Met Serena in AI reading groups & advanced CS classes | Built UncleGPT (930 users)",
       "checked": false
@@ -301,7 +301,7 @@
         "Hebbia",
         "GaryVee backed"
       ],
-      "x": "",
+      "x": "timlup",
       "linkedin": "https://linkedin.com/in/timlup",
       "notes": "Co-founder & CEO @ Deeptune | $3.1M seed from Alexis Ohanian (776) & Gary Vaynerchuk | Cinematic AI dubbing & lip sync - 'making world's media accessible to every human on Earth' | prev Hebbia.AI Founding Engineer, Snackpass, Microsoft, Amazon | USC",
       "checked": false
@@ -328,7 +328,7 @@
         "Fleet AI",
         "UCLA"
       ],
-      "x": "",
+      "x": "andrewthezhou",
       "linkedin": "https://linkedin.com/in/fredhavemeyer",
       "notes": "Founding Team @ Fleet AI | Building 'training gyms' - high-fidelity simulation environments for AI agent practice under human supervision | Also Operating Partner @ Fulcrum Venture Group | prev Macquarie Senior Analyst (software equity research) | Physics background | Team from Anthropic, Microsoft AI, Citadel, Jane Street",
       "checked": false
@@ -370,7 +370,7 @@
         "General Reasoning",
         "Mechanistic Interpretability"
       ],
-      "x": "",
+      "x": "kipperparker",
       "linkedin": "https://linkedin.com/in/kip-parker-773b00182",
       "notes": "Co-founder @ General Reasoning | Won Torus Prize at Mechanistic Interpretability Hackathon @ Entrepreneur First | Co-authored 'Interpreting Neural Networks through the Polytope Lens' paper | London-based",
       "checked": false
@@ -396,7 +396,7 @@
         "YC",
         "Capital One"
       ],
-      "x": "",
+      "x": "Jerr_Wu",
       "linkedin": "https://linkedin.com/in/jerry-wu-7814b0100",
       "notes": "Co-founder & CEO @ Halluminate (YC) | Building eval infrastructure for AI agents - realistic sandboxes & datasets for computer/browser use AI training | Alchemist Accelerator backed | prev Capital One Labs (led product/research, launched first AI agents in finservices, 3 patents) | Cornell CS | Roommates with Wyatt 7 yrs",
       "checked": false
@@ -410,7 +410,7 @@
         "YC",
         "Cornell"
       ],
-      "x": "",
+      "x": "wgm752",
       "linkedin": "https://linkedin.com/in/wyatt-marshall-a40797198",
       "notes": "Co-founder & CTO @ Halluminate (YC) | High-quality datasets & sandbox environments for computer use AI agents | Cornell CS & Philosophy (Milstein Scholar) | prev Data Engineer @ MediaWallah, SWE @ Silq | Friends with Jerry since first week at Cornell",
       "checked": false
@@ -424,8 +424,8 @@
         "Ramp",
         "Williams"
       ],
-      "x": "",
-      "linkedin": "",
+      "x": "enis_max",
+      "linkedin": "https://linkedin.com/in/maximenis/",
       "notes": "Co-founder @ Habitat Inc, prev 2 years at Ramp, Williams College, building Paradigm AI workspace platform",
       "checked": false
     },
@@ -468,7 +468,7 @@
         "CMU"
       ],
       "x": "",
-      "linkedin": "",
+      "linkedin": "https://linkedin.com/in/jibran-hutchins-42500b26b/",
       "notes": "Co-founder & CEO @ Haladir, YC W26, Carnegie Mellon, O-1 visa holder, building formal methods for code generation RL environments",
       "checked": false
     },
@@ -509,7 +509,7 @@
         "Princeton"
       ],
       "x": "",
-      "linkedin": "",
+      "linkedin": "https://linkedin.com/in/josephtso/",
       "notes": "Co-founder @ Haladir, YC W26, Princeton CS undergrad, research in Operations Research & ML, built Knot (SKU transaction analysis)",
       "checked": false
     },
@@ -538,7 +538,7 @@
         "ex-Fortnite pro"
       ],
       "x": "",
-      "linkedin": "",
+      "linkedin": "https://linkedin.com/in/ibrakhim/",
       "notes": "Co-founder @ Hillclimb, 20 years old, prev Coinbase/Whop/Microsoft intern, IvyHacks Audience Prize winner, ex-Fortnite pro",
       "checked": false
     },
@@ -552,8 +552,8 @@
         "Dark Forest",
         "0xPARC"
       ],
-      "x": "",
-      "linkedin": "",
+      "x": "chubivan",
+      "linkedin": "https://linkedin.com/in/ivanchub",
       "notes": "Co-founder & CEO @ Idler, YC S25, prev Dark Forest/0xPARC/Zupass/Hack Lodge, ex-Facebook, UW, multimillion-dollar contract with foundation lab for RL envs",
       "checked": false
     },
@@ -567,8 +567,8 @@
         "Cornell",
         "Microsoft"
       ],
-      "x": "",
-      "linkedin": "",
+      "x": "naluconcepcion",
+      "linkedin": "https://linkedin.com/in/nalu-concepcion/",
       "notes": "Co-founder @ Idler, YC S25, 8 years SWE, Cornell CS & ORIE, prev Microsoft Azure (C# SDK), Notable Capital fellow",
       "checked": false
     },
@@ -596,7 +596,7 @@
         "Adept",
         "Google"
       ],
-      "x": "",
+      "x": "johnlqian",
       "linkedin": "",
       "notes": "Co-founder @ Matrices, prev founding engineer Weights & Biases/Adept AI Labs/Google, UIUC, AI-native spreadsheet & replica websites for agent training",
       "checked": false
@@ -610,7 +610,7 @@
         "Weights & Biases",
         "YC W13"
       ],
-      "x": "",
+      "x": "laxels25",
       "linkedin": "",
       "notes": "Co-founder & CTO @ Matrices, prev Technical Lead Weights & Biases, co-founder CrowdMed (YC W13, $3.1M seed), UT Austin Turing Scholar",
       "checked": false
@@ -624,7 +624,7 @@
         "Epoch AI",
         "Nat Friedman backed"
       ],
-      "x": "",
+      "x": "tamaybes",
       "linkedin": "",
       "notes": "Co-founder & CEO @ Mechanize, co-founded Epoch AI, backed by Nat Friedman/Daniel Gross/Patrick Collison/Jeff Dean, $60T TAM, controversial launch",
       "checked": false
@@ -638,7 +638,7 @@
         "Epoch AI",
         "Forecasting"
       ],
-      "x": "",
+      "x": "EgeErdil2",
       "linkedin": "",
       "notes": "Co-founder @ Mechanize, prev Epoch AI researcher, math/stats/economics/forecasting expert, 20-30 year AGI timeline, virtual work RL environments",
       "checked": false
@@ -652,7 +652,7 @@
         "Epoch AI",
         "UC Berkeley"
       ],
-      "x": "",
+      "x": "MatthewJBar",
       "linkedin": "",
       "notes": "Co-founder @ Mechanize, prev Epoch AI researcher (2022-2024), UC Berkeley CS, AI alignment researcher, 10-20 year automation timeline",
       "checked": false
@@ -666,7 +666,7 @@
         "Harvard MBA",
         "BCG"
       ],
-      "x": "",
+      "x": "abhi_chandwani",
       "linkedin": "",
       "notes": "Co-founder & CEO @ Metaphi, Harvard Business School MBA, IIT Kharagpur, prev BCG Consultant/Shell, raised $1.07M Seed, evals for long-horizon agents",
       "checked": false
@@ -707,7 +707,7 @@
         "YC W23",
         "Stanford"
       ],
-      "x": "",
+      "x": "aadi_nash",
       "linkedin": "",
       "notes": "Co-founder @ Kopia (YC W23), Stanford CS '25, prev AI research @ Verizon, founder of Plava & Leda, currently stealth startup SF",
       "checked": false
@@ -720,7 +720,7 @@
         "Plato",
         "Waterloo"
       ],
-      "x": "",
+      "x": "RobFarlow",
       "linkedin": "",
       "notes": "Co-Founder & CEO @ Plato (since Nov 2024), University of Waterloo alum, SF-based, building AI agents",
       "checked": false
@@ -734,7 +734,7 @@
         "MultiOn",
         "Georgia Tech"
       ],
-      "x": "",
+      "x": "pranav__putta",
       "linkedin": "",
       "notes": "Co-Founder & CTO @ Plato Agentic Systems, prev MultiOn & Georgia Tech CS, building agent simulations at plato.so",
       "checked": false
@@ -748,7 +748,7 @@
         "RWTH Aachen",
         "Prime Intellect"
       ],
-      "x": "",
+      "x": "MatternJustus",
       "linkedin": "",
       "notes": "Co-Founder @ Proximal, RWTH Aachen University, prev co-founded Revideo, publications at EACL 2024 & ACL 2023, contributed to INTELLECT-2",
       "checked": false
@@ -761,7 +761,7 @@
         "Proximal",
         "U of Toronto"
       ],
-      "x": "",
+      "x": "navidkpr",
       "linkedin": "",
       "notes": "Co-Founder @ Proximal, University of Toronto, SF-based, AI coding agents, open-sourced Osmosis-Structure-0.6B model",
       "checked": false
@@ -775,7 +775,7 @@
         "YC W23",
         "$9M exit"
       ],
-      "x": "",
+      "x": "CalvinnChenn",
       "linkedin": "",
       "notes": "Co-Founder @ Proximal, USC dropout for YC, prev founded logistics startup ($1.5M ARR, sold for $9M), co-founded Kopia (YC W23)",
       "checked": false
@@ -790,7 +790,7 @@
         "Bain",
         "$2M rev"
       ],
-      "x": "",
+      "x": "robi_lin",
       "linkedin": "",
       "notes": "Co-Founder & CEO @ Sepal AI (YC), prev Bain & Co, scaled Turing's LLM trainer business 50 to 800+ devs, $2M revenue in 2024, Fortune 500 clients",
       "checked": false
@@ -804,7 +804,7 @@
         "YC",
         "UIUC"
       ],
-      "x": "",
+      "x": "KatQHu1",
       "linkedin": "",
       "notes": "Co-Founder @ Sepal AI (YC), UIUC alum, prev built LLM training business at Turing.com, data development for frontier AI labs",
       "checked": false
@@ -818,7 +818,7 @@
         "YC X25",
         "Cornell"
       ],
-      "x": "",
+      "x": "RayanGarg",
       "linkedin": "",
       "notes": "Co-Founder & CEO @ Theta (YC X25), Cornell University, prev Head of Product @ DeepSilicon, self-learning AI agents, improved OpenAI Operator by 43%",
       "checked": false
@@ -832,7 +832,7 @@
         "YC X25",
         "MultiOn"
       ],
-      "x": "",
+      "x": "tsha444",
       "linkedin": "",
       "notes": "Co-Founder @ Theta (YC X25), Indiana University, prev AI Product Engineer @ MultiOn & Atlassian, building agent memory/learning layer",
       "checked": false
@@ -846,7 +846,7 @@
         "YC X25",
         "Cornell"
       ],
-      "x": "",
+      "x": "_gurvir_",
       "linkedin": "",
       "notes": "Co-Founder @ Theta (YC X25), Cornell, built distributed ML systems & RL at Cornell, specializes in post-training optimization",
       "checked": false
@@ -860,7 +860,7 @@
         "YC X25",
         "$3.6M"
       ],
-      "x": "",
+      "x": "bertgodel",
       "linkedin": "",
       "notes": "Co-Founder & CEO @ The LLM Data Company (YC X25), Northwestern CS, prev Traba/Roland Berger consultant, $3.6M raised, 200%+ MoM growth",
       "checked": false
@@ -874,7 +874,7 @@
         "YC X25",
         "USC"
       ],
-      "x": "",
+      "x": "thegavinbains",
       "linkedin": "",
       "notes": "Co-Founder @ The LLM Data Company (YC X25), USC alum, prev Traba/Koop/Tydo, post-training data & RL environments for frontier AI labs",
       "checked": false
@@ -902,7 +902,7 @@
         "80,000 Hours",
         "Open Philanthropy"
       ],
-      "x": "",
+      "x": "pmcntyr",
       "linkedin": "",
       "notes": "Co-Founder @ Trajectory Labs (AI Safety hub, Toronto), prev 80,000 Hours/GovAI/Longview Philanthropy, Non-Trivial founder, funded by Open Philanthropy",
       "checked": false
@@ -930,7 +930,7 @@
         "Mercor",
         "NYT"
       ],
-      "x": "",
+      "x": "rithika_ka",
       "linkedin": "",
       "notes": "Founder @ Verita AI, Stanford CS & Product Design dropout (2024), prev employee #20 at Mercor, 22 y/o, featured in NYT, OpenAI client",
       "checked": false
@@ -970,7 +970,7 @@
         "UCL PhD",
         "Redwood Research"
       ],
-      "x": "",
+      "x": "MavorParker",
       "linkedin": "",
       "notes": "Co-Founder & CTO @ Vmax, UCL PhD in ML, prev Redwood Research/Cold Spring Harbor Lab/South Park Commons, RL + LLM researcher",
       "checked": false
@@ -1011,7 +1011,7 @@
         "Google TPU",
         "Harvard"
       ],
-      "x": "",
+      "x": "zakstone",
       "linkedin": "",
       "notes": "Product Manager for Cloud TPUs @ Google Brain, Harvard alum, prev Founder @ Perceptio, overseeing TPU v6 (Trillium) & v7 (Ironwood)",
       "checked": false
