@@ -302,6 +302,7 @@
       <button class="tab" data-category="researchers">Researchers</button>
       <button class="tab" data-category="vcs">VCs</button>
       <button class="tab" data-category="angels">Angel investors</button>
+      <button class="tab" data-category="hires">Hires</button>
       <button class="tab" data-category="mcp">MCP</button>
     </div>
 
@@ -361,7 +362,8 @@
       founders: { entries: [] },
       researchers: { entries: [] },
       vcs: { firms: [] },
-      angels: { entries: [] }
+      angels: { entries: [] },
+      hires: { entries: [] }
     };
 
     const state = {
@@ -950,7 +952,7 @@
       const gridDiv = document.getElementById('grid');
       agGrid.createGrid(gridDiv, gridOptions);
 
-      await Promise.all(['founders', 'researchers', 'vcs', 'angels'].map(loadCategory));
+      await Promise.all(['founders', 'researchers', 'vcs', 'angels', 'hires'].map(loadCategory));
       setGridData(state.currentCategory);
 
       document.querySelectorAll('.tab').forEach(btn => {

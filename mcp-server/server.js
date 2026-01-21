@@ -81,7 +81,7 @@ const DEPLOY_MIN_INTERVAL_MS = Number(process.env.DEPLOY_MIN_INTERVAL_MS || 6000
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = process.env.DATA_DIR || path.resolve(__dirname, "../data");
 
-const CATEGORY_SET = new Set(["founders", "researchers", "vcs", "angels"]);
+const CATEGORY_SET = new Set(["founders", "researchers", "vcs", "angels", "hires"]);
 const REQUIRED_FIELDS = ["id", "name"];
 const OPTIONAL_FIELDS = ["city", "tags", "links", "notes", "checked"];
 const CITY_ALIASES = new Map([
@@ -297,7 +297,7 @@ async function flushSync(category) {
   }
 }
 
-const categorySchema = z.enum(["founders", "researchers", "vcs", "angels"]);
+const categorySchema = z.enum(["founders", "researchers", "vcs", "angels", "hires"]);
 const replaceCategorySchema = z.object({
   category: categorySchema,
   data: z.any()
@@ -475,11 +475,13 @@ async function callTool(name, args) {
         path.join(DATA_DIR, "researchers.json"),
         path.join(DATA_DIR, "vcs.json"),
         path.join(DATA_DIR, "angels.json"),
+        path.join(DATA_DIR, "hires.json"),
         ...(HAS_GITHUB ? [
           `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/founders.json`,
           `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/researchers.json`,
           `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/vcs.json`,
-          `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/angels.json`
+          `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/angels.json`,
+          `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data/hires.json`
         ] : [])
       ],
       pages_url: HAS_GITHUB ? `https://${OWNER.toLowerCase()}.github.io/${REPO}/` : null,
@@ -571,7 +573,8 @@ async function callTool(name, args) {
         "data/founders.json",
         "data/researchers.json",
         "data/vcs.json",
-        "data/angels.json"
+        "data/angels.json",
+        "data/hires.json"
       ]
     };
   }
