@@ -6289,7 +6289,22 @@
       "linkedin": "",
       "notes": "PhD student @ UCSD, Embodied & Physical Intelligence, robotics researcher",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024217747-3112",
+      "name": "Jitendra Malik",
+      "city": "SF",
+      "tags": [
+        "UC Berkeley",
+        "Computer Vision Legend",
+        "ICCV Helmholtz Prize",
+        "IEEE Fellow"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor @ UC Berkeley EECS, legendary computer vision researcher, Arthur J. Chick Professor, IEEE/ACM Fellow, multiple lifetime achievement awards",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:36:56.146Z"
+  "last_updated": "2026-01-21T19:36:57.747Z"
 }
