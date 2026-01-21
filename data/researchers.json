@@ -869,7 +869,23 @@
       "linkedin": "",
       "notes": "Typing @ Sentient AGI & Labs Sentient | Physics '23, ECE '24 @ Princeton | Curious about ML",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981674773-8949",
+      "name": "Martin Wexler",
+      "city": "SF",
+      "tags": [
+        "biotechnology",
+        "AI",
+        "blockchain",
+        "quantum",
+        "neuroscience"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Biotechnology student obsessed with Cognition, AI, Blockchain, Quantum Mechanics and Neuroscience.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:51.884Z"
+  "last_updated": "2026-01-21T07:47:54.773Z"
 }
