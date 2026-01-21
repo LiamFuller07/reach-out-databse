@@ -5837,7 +5837,22 @@
       "linkedin": "",
       "notes": "Co-founder & CEO @ Hyperbolic Labs, ex-Avalanche, ex-Citi Securities",
       "checked": false
+    },
+    {
+      "id": "founders-1768990686589-8757",
+      "name": "Red Xiao",
+      "city": "SF",
+      "tags": [
+        "Manus AI",
+        "Founder",
+        "CEO",
+        "AI Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO @ Manus AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:16:32.933Z"
+  "last_updated": "2026-01-21T10:18:06.589Z"
 }
