@@ -1031,16 +1031,16 @@
     {
       "id": "researchers-1768982044243-5781",
       "name": "Boaz Barak",
-      "city": "SF",
+      "city": "Boston",
       "tags": [
-        "computer scientist",
         "Harvard",
         "OpenAI",
-        "theory"
+        "Computer Scientist",
+        "Theoretical CS"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Computer Scientist at Harvard and OpenAI. Writes at windowsontheory.org.",
+      "notes": "Computer scientist at Harvard and OpenAI. windowsontheory.org. Leading theoretical CS researcher.",
       "checked": false
     },
     {
@@ -1225,5 +1225,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:21:27.725Z"
+  "last_updated": "2026-01-21T08:21:28.999Z"
 }
