@@ -2612,7 +2612,22 @@
       "linkedin": "",
       "notes": "NVIDIA Director of Robotics & Distinguished Scientist, Co-Lead of GEAR lab, Stanford PhD, OpenAI's 1st intern, working on Physical AGI and foundation agents",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986198082-3484",
+      "name": "Animesh Garg",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Foundation Models",
+        "Generalizable Autonomy",
+        "RL"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research on Foundation Models for Generalizable Autonomy in Robotics, Reinforcement Learning for manipulation",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:03:15.788Z"
+  "last_updated": "2026-01-21T09:03:18.082Z"
 }
