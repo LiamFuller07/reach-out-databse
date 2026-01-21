@@ -3842,18 +3842,19 @@
       "name": "Craig Weiss",
       "city": "SF",
       "tags": [
-        "YC W22",
+        "AI founder",
         "rome.ai",
-        "Scale AI",
+        "YC W22",
         "Google",
         "Meta",
+        "Scale AI",
         "Snap",
         "Lyft",
         "NASA"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founder & CEO at rome.ai (YC W22). Software engineer. Early Scale AI. Prev: Google, Meta, Snap, Lyft, NASA.",
+      "notes": "Founder & CEO at rome.ai (YC W22). Software engineer background. Prev: Google, Meta, Snap, Lyft, NASA. Early Scale AI.",
       "checked": false
     },
     {
@@ -4302,5 +4303,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:53:35.677Z"
+  "last_updated": "2026-01-21T07:54:02.178Z"
 }
