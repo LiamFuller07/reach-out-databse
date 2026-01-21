@@ -1057,7 +1057,24 @@
       "linkedin": "",
       "notes": "Trying to make deep neural networks among the best understood objects in the universe. Neural network interpretability research.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982048017-6779",
+      "name": "Sebastian Thrun",
+      "city": "SF",
+      "tags": [
+        "AI pioneer",
+        "Stanford",
+        "GaTech",
+        "Udacity",
+        "Google X",
+        "self-driving cars"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO StealthStartup. Adjunct Prof at Stanford and GaTech. Founder of Udacity, led Google X, pioneer of self-driving cars.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:05.373Z"
+  "last_updated": "2026-01-21T07:54:08.017Z"
 }
