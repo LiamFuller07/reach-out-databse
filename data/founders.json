@@ -5347,7 +5347,21 @@
       "linkedin": "",
       "notes": "Building @ Eureka Labs AI. Previously Director of AI @ Tesla, OpenAI founding team. CS231n creator, PhD Stanford. \"I like to train large deep neural nets.\"",
       "checked": false
+    },
+    {
+      "id": "founders-1768985738961-5258",
+      "name": "Lilian Weng",
+      "city": "SF",
+      "tags": [
+        "Thinking Machines Lab",
+        "ex-OpenAI VP",
+        "AI Safety"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Thinking Machines Lab. Ex-VP AI Safety @ OpenAI. Famous for her ML blog posts (lilianweng.github.io).",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:55:37.347Z"
+  "last_updated": "2026-01-21T08:55:38.961Z"
 }
