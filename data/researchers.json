@@ -5245,7 +5245,21 @@
       "linkedin": "",
       "notes": "macOS + iOS @ OpenAI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991013292-2265",
+      "name": "Elliot Norrevik",
+      "city": "SF",
+      "tags": [
+        "World Models",
+        "ex-Lovable",
+        "Interactive AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building interactive world models, prev Lovable.dev",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:23:31.546Z"
+  "last_updated": "2026-01-21T10:23:33.292Z"
 }
