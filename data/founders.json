@@ -6541,7 +6541,21 @@
       "linkedin": "",
       "notes": "Founder & CEO @ Xu Talent, prev Head of Talent @ Kleiner Perkins, alum Twitter, Facebook, Goldman Sachs, Carnegie Mellon",
       "checked": false
+    },
+    {
+      "id": "founders-1768993839576-5689",
+      "name": "Tenex Labs",
+      "city": "SF",
+      "tags": [
+        "Enterprise AI",
+        "AI Strategy",
+        "Consulting"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Full-stack AI partner helping enterprises set & execute AI strategy at startup speed",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:09:32.017Z"
+  "last_updated": "2026-01-21T11:10:39.576Z"
 }
