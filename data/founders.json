@@ -5715,7 +5715,22 @@
       "linkedin": "",
       "notes": "Building OpenMed_AI, AI x Healthcare, Open-Source AI Advocate, eu/acc",
       "checked": false
+    },
+    {
+      "id": "founders-1768989543832-2827",
+      "name": "Charles Packer",
+      "city": "SF",
+      "tags": [
+        "Letta AI",
+        "MemGPT",
+        "Berkeley PhD",
+        "RISE Lab"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Letta AI, creator of MemGPT, AI PhD @ Berkeley (RISE Lab, Sky Computing)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:57:51.503Z"
+  "last_updated": "2026-01-21T09:59:03.832Z"
 }
