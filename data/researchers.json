@@ -6884,7 +6884,23 @@
       "linkedin": "",
       "notes": "Engineer @ AI Dungeon, prev top 25 Valorant, 180k TikTok, Roblox dev with 80M game plays.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769025303504-3359",
+      "name": "Ethan Mollick",
+      "city": "Philadelphia",
+      "tags": [
+        "Wharton",
+        "AI Education",
+        "One Useful Thing",
+        "Innovation",
+        "Professor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor @ Wharton studying AI, innovation & startups. Famous AI educator, author of One Useful Thing newsletter. Democratizing education using tech.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:55:01.756Z"
+  "last_updated": "2026-01-21T19:55:03.504Z"
 }
