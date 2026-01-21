@@ -2968,7 +2968,23 @@
       "linkedin": "",
       "notes": "Fields Medal winner (1998), Professeur titulaire de la chaire Combinatoire @ Collège de France, Fellow of Trinity College Cambridge, one of the world's leading mathematicians",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986740764-2226",
+      "name": "Mausam",
+      "city": "Delhi",
+      "tags": [
+        "IIT Delhi",
+        "Yardi School of AI",
+        "NLP",
+        "ML",
+        "MDP"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founding Head @ Yardi School of Artificial Intelligence at IIT Delhi, AI researcher (NLP, ML, MDP), prev UW Seattle",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:11:37.863Z"
+  "last_updated": "2026-01-21T09:12:20.764Z"
 }
