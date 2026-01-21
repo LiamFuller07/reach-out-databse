@@ -2706,7 +2706,24 @@
       "linkedin": "",
       "notes": "Assistant Professor @ University of Washington, robotics and reinforcement learning, prev post-doc at MIT, PhD at UC Berkeley",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986331085-2708",
+      "name": "Rishabh Agarwal",
+      "city": "Montreal",
+      "tags": [
+        "Periodic Labs",
+        "McGill",
+        "prev DeepMind",
+        "prev Meta",
+        "NeurIPS Best Paper",
+        "RL Scaling"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Reinforcement Learner @ Periodic Labs, Adjunct Prof @ McGill, ex Meta/DeepMind/Google Brain, IIT Bombay, NeurIPS Best Paper, On-Policy Distillation, RL scaling laws research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:04:49.181Z"
+  "last_updated": "2026-01-21T09:05:31.085Z"
 }
