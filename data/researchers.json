@@ -5074,7 +5074,22 @@
       "linkedin": "",
       "notes": "ChatGPT Personalization and Memory @ OpenAI, prev Eng @ Snap",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990687778-7979",
+      "name": "Yuxiang Wei",
+      "city": "Chicago",
+      "tags": [
+        "Illinois CDS PhD",
+        "ex-Meta AI",
+        "ex-Snowflake",
+        "Code Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD candidate @ Illinois CDS, prev research @ Meta AI, Snowflake, training code agents",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:18:05.437Z"
+  "last_updated": "2026-01-21T10:18:07.778Z"
 }
