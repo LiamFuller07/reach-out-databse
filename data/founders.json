@@ -7434,7 +7434,22 @@
       "linkedin": "",
       "notes": "Co-Founder & CTO @ Kepler AI (keplogic), ex LLM research at Databricks Mosaic, CMU master",
       "checked": false
+    },
+    {
+      "id": "founders-1769031294265-4240",
+      "name": "Charlie Holtz",
+      "city": "SF",
+      "tags": [
+        "Conductor",
+        "AI Orchestration",
+        "Claude Code",
+        "Developer Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Conductor (conductor.build) - Mac app for running Claude Code instances in parallel, AI orchestration interfaces, 27K+ followers",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:19:10.537Z"
+  "last_updated": "2026-01-21T21:34:54.265Z"
 }
