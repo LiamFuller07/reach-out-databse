@@ -700,7 +700,25 @@
       "linkedin": "",
       "notes": "@ OpenAI | Past: CTO & Co-Founder Thinking Machines Lab",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981519998-3767",
+      "name": "Jerry Tworek",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "VP RL",
+        "o3",
+        "o1",
+        "GPT-4",
+        "ChatGPT",
+        "Codex"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Ex-VP of RL @ OpenAI | o3, o1, GPT-4, ChatGPT, Codex | Solved Rubik's cube with robotic hand | Cautious AI optimist",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:44:45.920Z"
+  "last_updated": "2026-01-21T07:45:19.998Z"
 }
