@@ -4764,7 +4764,22 @@
       "linkedin": "",
       "notes": "Creator of big-AGI (big-agi.com), open source AI interface",
       "checked": false
+    },
+    {
+      "id": "founders-1768984145389-3569",
+      "name": "Wes Roth",
+      "city": "SF",
+      "tags": [
+        "AI Content",
+        "YouTube",
+        "Automation",
+        "AI Commentary"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI/Automation content creator, YouTube presence, AI commentary",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:28:47.735Z"
+  "last_updated": "2026-01-21T08:29:05.389Z"
 }
