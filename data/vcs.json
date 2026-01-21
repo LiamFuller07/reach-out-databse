@@ -93,7 +93,21 @@
       "linkedin": "",
       "notes": "General Partner at a16z. Nostalgic for the future.",
       "checked": false
+    },
+    {
+      "id": "vcs-1768982099770-7137",
+      "name": "Nick Tomaino",
+      "city": "SF",
+      "tags": [
+        "1confirmation",
+        "Crypto VC",
+        "High Conviction"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @1confirmation. Low extraversion, high conviction investor. Early crypto/web3 VC.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:53:34.493Z"
+  "last_updated": "2026-01-21T07:54:59.770Z"
 }
