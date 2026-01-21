@@ -4893,7 +4893,21 @@
       "linkedin": "",
       "notes": "Tech/AI professional",
       "checked": false
+    },
+    {
+      "id": "founders-1768984306061-7726",
+      "name": "Unconventional AI",
+      "city": "SF",
+      "tags": [
+        "Biology-scale AI",
+        "Novel Architecture",
+        "Compute Efficiency"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Rethinking foundations of computing to bring biology-scale efficiency to AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:31:44.888Z"
+  "last_updated": "2026-01-21T08:31:46.061Z"
 }
