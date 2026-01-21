@@ -6259,7 +6259,22 @@
       "linkedin": "",
       "notes": "Senior Research Scientist @ NVIDIA, Computer Vision & Robotics, prev GoogleX, Meta, Amazon",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024215064-8649",
+      "name": "Jenn Grannen",
+      "city": "SF",
+      "tags": [
+        "Stanford AI Lab",
+        "Robot Learning",
+        "prev Toyota Research",
+        "Berkeley AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ Stanford AI Lab, prev Toyota Research, Berkeley AI. Robot learning researcher - 'I can teach your robot new tricks'",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:36:53.716Z"
+  "last_updated": "2026-01-21T19:36:55.064Z"
 }
