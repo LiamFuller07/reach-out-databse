@@ -6869,7 +6869,22 @@
       "linkedin": "",
       "notes": "Post-doc researcher @ KU Leuven in creative AI & computational humor.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769025301756-4882",
+      "name": "Sensho",
+      "city": "SF",
+      "tags": [
+        "AI Dungeon",
+        "Engineer",
+        "Roblox Dev",
+        "Gaming"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Engineer @ AI Dungeon, prev top 25 Valorant, 180k TikTok, Roblox dev with 80M game plays.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:54:02.510Z"
+  "last_updated": "2026-01-21T19:55:01.756Z"
 }
