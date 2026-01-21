@@ -1,45 +1,564 @@
 {
   "category": "researchers",
   "entries": [
-    {"id": "r-1", "name": "Jacob Steinhardt", "city": "SF", "tags": ["Transluce", "UC Berkeley", "MMLU creator", "AI Safety"], "x": "JacobSteinhardt", "linkedin": "", "notes": "Co-founder & CEO @ Transluce, Associate Prof UC Berkeley, PhD Stanford (advised by Percy Liang), co-author 'Concrete Problems in AI Safety', MMLU creator", "checked": false},
-    {"id": "r-2", "name": "Sarah Schwettmann", "city": "SF", "tags": ["Transluce", "MIT CSAIL", "MAIA creator"], "x": "cogconfluence", "linkedin": "", "notes": "Co-founder & Chief Science Officer @ Transluce, Research Scientist @ MIT CSAIL, PhD MIT (NSF Fellow), creator of MAIA interpretability agent pipeline", "checked": false},
-    {"id": "r-3", "name": "Neil Chowdhury", "city": "SF", "tags": ["Transluce", "OpenAI", "GPT-4o", "o1"], "x": "ChowdhuryNeil", "linkedin": "", "notes": "Founding team @ Transluce, prev AI safety researcher @ OpenAI (GPT-4o, o1), BS/MS MIT, research on o3 truthfulness and hallucination patterns", "checked": false},
-    {"id": "r-4", "name": "Tiffany Tzeng", "city": "SF", "tags": ["Transluce", "Interpretability"], "x": "", "linkedin": "", "notes": "@ Transluce", "checked": false},
-    {"id": "r-5", "name": "Kevin Meng", "city": "SF", "tags": ["Transluce", "MEMIT", "ROME", "MIT"], "x": "mengk20", "linkedin": "", "notes": "Founding member @ Transluce, BS/MS MIT (EECS & AI), creator of Docent, author of MEMIT (ICLR 2023), ROME paper (NeurIPS 2022)", "checked": false},
-    {"id": "r-6", "name": "Caden Juang", "city": "SF", "tags": ["Transluce", "Interpretability"], "x": "", "linkedin": "", "notes": "@ Transluce", "checked": false},
-    {"id": "r-7", "name": "Daniel D. Johnson", "city": "SF", "tags": ["Transluce", "Interpretability"], "x": "_ddjohnson", "linkedin": "", "notes": "MTS @ Transluce", "checked": false},
-    {"id": "r-8", "name": "Dami Choi", "city": "SF", "tags": ["Transluce", "Interpretability"], "x": "damichoi95", "linkedin": "", "notes": "@ Transluce", "checked": false},
-    {"id": "r-9", "name": "Vincent Huang", "city": "SF", "tags": ["Transluce", "MIT", "Interpretability"], "x": "vvhuang_", "linkedin": "", "notes": "@ Transluce, prev MIT", "checked": false},
-    {"id": "r-10", "name": "Robert Friel", "city": "SF", "tags": ["Transluce", "Interpretability"], "x": "", "linkedin": "", "notes": "@ Transluce", "checked": false},
-    {"id": "r-11", "name": "Selena Zhang", "city": "SF", "tags": ["Transluce", "Interpretability"], "x": "", "linkedin": "", "notes": "@ Transluce", "checked": false},
-    {"id": "r-12", "name": "Yossi Gandelsman", "city": "SF", "tags": ["Transluce", "UC Berkeley PhD", "DeepMind", "TTIC faculty 2026"], "x": "YGandelsman", "linkedin": "", "notes": "Researcher @ Transluce, PhD UC Berkeley (advised by Alexei Efros), prev Google DeepMind, MSc Weizmann Institute, joining TTIC faculty 2026", "checked": false},
-    {"id": "r-13", "name": "Aryaman Arora", "city": "SF", "tags": ["Transluce", "Stanford NLP", "ACL 2024 Best Paper"], "x": "aryaman2020", "linkedin": "", "notes": "Researcher @ Transluce, 3rd-year PhD @ Stanford (Dan Jurafsky & Christopher Potts), NSF Fellow, BS Georgetown, Outstanding Paper @ ACL 2024 (CausalGym)", "checked": false},
-    {"id": "r-14", "name": "Craig Weiss", "city": "SF", "tags": ["rome.ai", "RL/AI Follower"], "x": "", "linkedin": "", "notes": "@ rome.ai", "checked": false},
-    {"id": "r-15", "name": "Erfan Miahi", "city": "SF", "tags": ["DeepMind", "RLAI Lab", "RL/AI Follower"], "x": "", "linkedin": "", "notes": "@ DeepMind/RLAI Lab", "checked": false},
-    {"id": "r-16", "name": "Zhengyang Qi", "city": "SF", "tags": ["Snorkel AI", "RL/AI Follower"], "x": "", "linkedin": "", "notes": "@ Snorkel AI", "checked": false},
-    {"id": "r-17", "name": "Ryan Rong", "city": "SF", "tags": ["xAI", "Stanford", "RL/AI Follower"], "x": "", "linkedin": "", "notes": "@ xAI/Stanford", "checked": false},
-    {"id": "r-18", "name": "Mohammed Alshehri", "city": "SF", "tags": ["Applied ML/RL", "RL/AI Follower"], "x": "", "linkedin": "", "notes": "@ Applied ML/RL", "checked": false},
-    {"id": "r-19", "name": "Idan Szpektor", "city": "SF", "tags": ["Google Research", "RL/AI Follower"], "x": "", "linkedin": "", "notes": "@ Google Research", "checked": false},
-    {"id": "r-20", "name": "Robert Scoble", "city": "SF", "tags": ["SF AI", "RL/AI Follower"], "x": "", "linkedin": "", "notes": "@ SF AI", "checked": false},
-    {"id": "r-21", "name": "Jason Weston", "city": "SF", "tags": ["Meta AI FAIR", "NYU", "ICML Test of Time"], "x": "", "linkedin": "", "notes": "Research Scientist @ Meta AI (FAIR), Visiting Prof @ NYU, PhD advised by Vapnik, prev Google/NEC Labs/Max Planck, 100+ papers, ICML 2008 Test of Time Award", "checked": false},
-    {"id": "r-22", "name": "Bo Liu", "city": "SF", "tags": ["Meta AI", "X.COM Researcher"], "x": "", "linkedin": "", "notes": "@ Meta AI", "checked": false},
-    {"id": "r-23", "name": "Ashpreet Bedi", "city": "SF", "tags": ["Agno", "X.COM Researcher"], "x": "", "linkedin": "", "notes": "@ Agno", "checked": false},
-    {"id": "r-24", "name": "Santiago", "city": "SF", "tags": ["svpino", "X.COM Researcher"], "x": "", "linkedin": "", "notes": "@ svpino", "checked": false},
-    {"id": "r-25", "name": "Ilya Sutskever", "city": "SF", "tags": ["Safe Superintelligence", "OpenAI Co-founder", "$32B valuation", "AlexNet"], "x": "ilyasut", "linkedin": "https://linkedin.com/in/ilya-sutskever", "notes": "CEO @ Safe Superintelligence Inc. (SSI), co-founder & former Chief Scientist @ OpenAI, co-inventor of AlexNet, SSI valued at $32B, raised $2B+", "checked": false},
-    {"id": "r-26", "name": "Daniel Levy", "city": "SF", "tags": ["Safe Superintelligence", "Stanford", "prev OpenAI"], "x": "", "linkedin": "", "notes": "President @ Safe Superintelligence Inc., co-founder SSI (with Ilya Sutskever & Daniel Gross), former MTS @ OpenAI, Stanford alumni", "checked": false},
-    {"id": "r-27", "name": "Demis Hassabis", "city": "London", "tags": ["Isomorphic Labs", "DeepMind", "Nobel Prize 2024", "Time Person of Year"], "x": "demishassabis", "linkedin": "https://uk.linkedin.com/in/demishassabis", "notes": "CEO @ Google DeepMind & Isomorphic Labs, 2024 Nobel Prize Chemistry (AlphaFold), knighted 2024, Time Person of Year 2025, Isomorphic raised $600M", "checked": false},
-    {"id": "r-28", "name": "Fei-Fei Li", "city": "SF", "tags": ["World Labs", "Stanford", "ImageNet creator", "Queen Elizabeth Prize"], "x": "drfeifei", "linkedin": "https://linkedin.com/in/fei-fei-li-4541247", "notes": "Co-founder & CEO @ World Labs ($1B+), Stanford Prof, creator of ImageNet, 'Godmother of AI', 2025 Queen Elizabeth Prize for Engineering, Time Person of Year 2025", "checked": false},
-    {"id": "r-29", "name": "Yann LeCun", "city": "Paris", "tags": ["AMI Labs", "Turing Award", "prev Meta", "$3.5B valuation"], "x": "ylecun", "linkedin": "https://linkedin.com/in/yann-lecun", "notes": "Executive Chairman @ AMI Labs, Turing Award winner, former Chief AI Scientist @ Meta (left Nov 2025), AMI targeting $3.5B valuation, V-JEPA 'world models'", "checked": false},
-    {"id": "r-30", "name": "Karl Friston", "city": "London", "tags": ["Verses AI", "#1 cited neuroscientist", "Free Energy Principle"], "x": "", "linkedin": "", "notes": "Chief Scientist @ VERSES AI, most cited neuroscientist in the world, creator of Free Energy Principle & Active Inference, developing Axiom architecture", "checked": false},
-    {"id": "r-31", "name": "Daniela Rus", "city": "SF", "tags": ["Liquid AI", "MIT CSAIL Director", "IEEE Edison Medal", "MacArthur Fellow"], "x": "", "linkedin": "", "notes": "Co-founder @ Liquid AI, Director @ MIT CSAIL, 2025 IEEE Edison Medal, co-inventor liquid neural networks, MacArthur Fellow (2002), member NAE/NAS/AAAS", "checked": false},
-    {"id": "r-32", "name": "Noah Goodman", "city": "SF", "tags": ["Humans&", "Stanford Prof", "Neolabs"], "x": "", "linkedin": "", "notes": "Co-founder @ Humans&, Stanford Prof", "checked": false},
-    {"id": "r-33", "name": "Prof. Max Welling", "city": "SF", "tags": ["Cusp AI", "AI Pioneer", "Neolabs"], "x": "", "linkedin": "", "notes": "CTO @ Cusp AI, AI Pioneer", "checked": false},
-    {"id": "r-34", "name": "Oren Etzioni", "city": "SF", "tags": ["Allen AI", "AI2", "Neolabs"], "x": "", "linkedin": "", "notes": "Founding CEO emeritus @ Allen AI/AI2", "checked": false},
-    {"id": "r-35", "name": "Ali Farhadi", "city": "SF", "tags": ["Allen AI", "AI2", "Neolabs"], "x": "", "linkedin": "", "notes": "CEO @ Allen AI/AI2", "checked": false},
-    {"id": "r-36", "name": "Buck Shlegeris", "city": "Berkeley", "tags": ["Redwood Research", "AI Control", "Alignment Faking paper"], "x": "", "linkedin": "", "notes": "CEO @ Redwood Research, AI safety focused on AI control & alignment, co-author 'Alignment Faking in LLMs' (with Anthropic Dec 2024), released BashArena", "checked": false},
-    {"id": "r-37", "name": "Ronak Malde", "city": "SF", "tags": ["Google DeepMind", "RL/AI", "Stanford", "Windsurf"], "x": "", "linkedin": "", "notes": "Research @ Google DeepMind (joined July 2025), prev Windsurf (trained SWE-1 frontier coding model), Stanford alumni, prev Google/NVIDIA intern, agentic coding", "checked": false},
-    {"id": "r-38", "name": "Ari Morcos", "city": "SF", "tags": ["DatologyAI", "Meta AI FAIR", "DeepMind", "Harvard PhD"], "x": "arimorcos", "linkedin": "https://linkedin.com/in/arimorcos", "notes": "Co-founder & CEO @ DatologyAI, prev Senior Staff Research Scientist @ Meta AI FAIR (understanding neural network mechanisms), prev DeepMind, PhD Harvard (Chris Harvey lab, neuronal circuits), BS UC San Diego, research on self-supervised learning, lottery ticket hypothesis, representation comparison methods", "checked": false},
-    {"id": "r-39", "name": "Rob Toews", "city": "SF", "tags": ["Radical Ventures", "Forbes AI Columnist", "AI Investor"], "x": "_RobToews", "linkedin": "https://linkedin.com/in/robtoews", "notes": "Partner @ Radical Ventures (world's leading AI-focused VC), AI Columnist @ Forbes, publishes annual AI predictions (5/10 correct for 2025), MBA & JD Harvard, prev Highland Capital VC, prev Zoox Strategy Lead, prev White House autonomous vehicle policy, expert on AI scaling laws, foundation models, and AI industry trends", "checked": false}
+    {
+      "id": "r-1",
+      "name": "Jacob Steinhardt",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "UC Berkeley",
+        "MMLU creator",
+        "AI Safety"
+      ],
+      "x": "JacobSteinhardt",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Transluce, Associate Prof UC Berkeley, PhD Stanford (advised by Percy Liang), co-author 'Concrete Problems in AI Safety', MMLU creator",
+      "checked": false
+    },
+    {
+      "id": "r-2",
+      "name": "Sarah Schwettmann",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "MIT CSAIL",
+        "MAIA creator"
+      ],
+      "x": "cogconfluence",
+      "linkedin": "",
+      "notes": "Co-founder & Chief Science Officer @ Transluce, Research Scientist @ MIT CSAIL, PhD MIT (NSF Fellow), creator of MAIA interpretability agent pipeline",
+      "checked": false
+    },
+    {
+      "id": "r-3",
+      "name": "Neil Chowdhury",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "OpenAI",
+        "GPT-4o",
+        "o1"
+      ],
+      "x": "ChowdhuryNeil",
+      "linkedin": "",
+      "notes": "Founding team @ Transluce, prev AI safety researcher @ OpenAI (GPT-4o, o1), BS/MS MIT, research on o3 truthfulness and hallucination patterns",
+      "checked": false
+    },
+    {
+      "id": "r-4",
+      "name": "Tiffany Tzeng",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "Interpretability"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Transluce",
+      "checked": false
+    },
+    {
+      "id": "r-5",
+      "name": "Kevin Meng",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "MEMIT",
+        "ROME",
+        "MIT"
+      ],
+      "x": "mengk20",
+      "linkedin": "",
+      "notes": "Founding member @ Transluce, BS/MS MIT (EECS & AI), creator of Docent, author of MEMIT (ICLR 2023), ROME paper (NeurIPS 2022)",
+      "checked": false
+    },
+    {
+      "id": "r-6",
+      "name": "Caden Juang",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "Interpretability"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Transluce",
+      "checked": false
+    },
+    {
+      "id": "r-7",
+      "name": "Daniel D. Johnson",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "Interpretability"
+      ],
+      "x": "_ddjohnson",
+      "linkedin": "",
+      "notes": "MTS @ Transluce",
+      "checked": false
+    },
+    {
+      "id": "r-8",
+      "name": "Dami Choi",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "Interpretability"
+      ],
+      "x": "damichoi95",
+      "linkedin": "",
+      "notes": "@ Transluce",
+      "checked": false
+    },
+    {
+      "id": "r-9",
+      "name": "Vincent Huang",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "MIT",
+        "Interpretability"
+      ],
+      "x": "vvhuang_",
+      "linkedin": "",
+      "notes": "@ Transluce, prev MIT",
+      "checked": false
+    },
+    {
+      "id": "r-10",
+      "name": "Robert Friel",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "Interpretability"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Transluce",
+      "checked": false
+    },
+    {
+      "id": "r-11",
+      "name": "Selena Zhang",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "Interpretability"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Transluce",
+      "checked": false
+    },
+    {
+      "id": "r-12",
+      "name": "Yossi Gandelsman",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "UC Berkeley PhD",
+        "DeepMind",
+        "TTIC faculty 2026"
+      ],
+      "x": "YGandelsman",
+      "linkedin": "",
+      "notes": "Researcher @ Transluce, PhD UC Berkeley (advised by Alexei Efros), prev Google DeepMind, MSc Weizmann Institute, joining TTIC faculty 2026",
+      "checked": false
+    },
+    {
+      "id": "r-13",
+      "name": "Aryaman Arora",
+      "city": "SF",
+      "tags": [
+        "Transluce",
+        "Stanford NLP",
+        "ACL 2024 Best Paper"
+      ],
+      "x": "aryaman2020",
+      "linkedin": "",
+      "notes": "Researcher @ Transluce, 3rd-year PhD @ Stanford (Dan Jurafsky & Christopher Potts), NSF Fellow, BS Georgetown, Outstanding Paper @ ACL 2024 (CausalGym)",
+      "checked": false
+    },
+    {
+      "id": "r-14",
+      "name": "Craig Weiss",
+      "city": "SF",
+      "tags": [
+        "rome.ai",
+        "RL/AI Follower"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ rome.ai",
+      "checked": false
+    },
+    {
+      "id": "r-15",
+      "name": "Erfan Miahi",
+      "city": "SF",
+      "tags": [
+        "DeepMind",
+        "RLAI Lab",
+        "RL/AI Follower"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ DeepMind/RLAI Lab",
+      "checked": false
+    },
+    {
+      "id": "r-16",
+      "name": "Zhengyang Qi",
+      "city": "SF",
+      "tags": [
+        "Snorkel AI",
+        "RL/AI Follower"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Snorkel AI",
+      "checked": false
+    },
+    {
+      "id": "r-17",
+      "name": "Ryan Rong",
+      "city": "SF",
+      "tags": [
+        "xAI",
+        "Stanford",
+        "RL/AI Follower"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ xAI/Stanford",
+      "checked": false
+    },
+    {
+      "id": "r-18",
+      "name": "Mohammed Alshehri",
+      "city": "SF",
+      "tags": [
+        "Applied ML/RL",
+        "RL/AI Follower"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Applied ML/RL",
+      "checked": false
+    },
+    {
+      "id": "r-19",
+      "name": "Idan Szpektor",
+      "city": "SF",
+      "tags": [
+        "Google Research",
+        "RL/AI Follower"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Google Research",
+      "checked": false
+    },
+    {
+      "id": "r-20",
+      "name": "Robert Scoble",
+      "city": "SF",
+      "tags": [
+        "SF AI",
+        "RL/AI Follower"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ SF AI",
+      "checked": false
+    },
+    {
+      "id": "r-21",
+      "name": "Jason Weston",
+      "city": "SF",
+      "tags": [
+        "Meta AI FAIR",
+        "NYU",
+        "ICML Test of Time"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ Meta AI (FAIR), Visiting Prof @ NYU, PhD advised by Vapnik, prev Google/NEC Labs/Max Planck, 100+ papers, ICML 2008 Test of Time Award",
+      "checked": false
+    },
+    {
+      "id": "r-22",
+      "name": "Bo Liu",
+      "city": "SF",
+      "tags": [
+        "Meta AI",
+        "X.COM Researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Meta AI",
+      "checked": false
+    },
+    {
+      "id": "r-23",
+      "name": "Ashpreet Bedi",
+      "city": "SF",
+      "tags": [
+        "Agno",
+        "X.COM Researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Agno",
+      "checked": false
+    },
+    {
+      "id": "r-24",
+      "name": "Santiago",
+      "city": "SF",
+      "tags": [
+        "svpino",
+        "X.COM Researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ svpino",
+      "checked": false
+    },
+    {
+      "id": "r-25",
+      "name": "Ilya Sutskever",
+      "city": "SF",
+      "tags": [
+        "Safe Superintelligence",
+        "OpenAI Co-founder",
+        "$32B valuation",
+        "AlexNet"
+      ],
+      "x": "ilyasut",
+      "linkedin": "https://linkedin.com/in/ilya-sutskever",
+      "notes": "CEO @ Safe Superintelligence Inc. (SSI), co-founder & former Chief Scientist @ OpenAI, co-inventor of AlexNet, SSI valued at $32B, raised $2B+",
+      "checked": false
+    },
+    {
+      "id": "r-26",
+      "name": "Daniel Levy",
+      "city": "SF",
+      "tags": [
+        "Safe Superintelligence",
+        "Stanford",
+        "prev OpenAI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "President @ Safe Superintelligence Inc., co-founder SSI (with Ilya Sutskever & Daniel Gross), former MTS @ OpenAI, Stanford alumni",
+      "checked": false
+    },
+    {
+      "id": "r-27",
+      "name": "Demis Hassabis",
+      "city": "London",
+      "tags": [
+        "Isomorphic Labs",
+        "DeepMind",
+        "Nobel Prize 2024",
+        "Time Person of Year"
+      ],
+      "x": "demishassabis",
+      "linkedin": "https://uk.linkedin.com/in/demishassabis",
+      "notes": "CEO @ Google DeepMind & Isomorphic Labs, 2024 Nobel Prize Chemistry (AlphaFold), knighted 2024, Time Person of Year 2025, Isomorphic raised $600M",
+      "checked": false
+    },
+    {
+      "id": "r-28",
+      "name": "Fei-Fei Li",
+      "city": "SF",
+      "tags": [
+        "World Labs",
+        "Stanford",
+        "ImageNet creator",
+        "Queen Elizabeth Prize"
+      ],
+      "x": "drfeifei",
+      "linkedin": "https://linkedin.com/in/fei-fei-li-4541247",
+      "notes": "Co-founder & CEO @ World Labs ($1B+), Stanford Prof, creator of ImageNet, 'Godmother of AI', 2025 Queen Elizabeth Prize for Engineering, Time Person of Year 2025",
+      "checked": false
+    },
+    {
+      "id": "r-29",
+      "name": "Yann LeCun",
+      "city": "Paris",
+      "tags": [
+        "AMI Labs",
+        "Turing Award",
+        "prev Meta",
+        "$3.5B valuation"
+      ],
+      "x": "ylecun",
+      "linkedin": "https://linkedin.com/in/yann-lecun",
+      "notes": "Executive Chairman @ AMI Labs, Turing Award winner, former Chief AI Scientist @ Meta (left Nov 2025), AMI targeting $3.5B valuation, V-JEPA 'world models'",
+      "checked": false
+    },
+    {
+      "id": "r-30",
+      "name": "Karl Friston",
+      "city": "London",
+      "tags": [
+        "Verses AI",
+        "#1 cited neuroscientist",
+        "Free Energy Principle"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Chief Scientist @ VERSES AI, most cited neuroscientist in the world, creator of Free Energy Principle & Active Inference, developing Axiom architecture",
+      "checked": false
+    },
+    {
+      "id": "r-31",
+      "name": "Daniela Rus",
+      "city": "SF",
+      "tags": [
+        "Liquid AI",
+        "MIT CSAIL Director",
+        "IEEE Edison Medal",
+        "MacArthur Fellow"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Liquid AI, Director @ MIT CSAIL, 2025 IEEE Edison Medal, co-inventor liquid neural networks, MacArthur Fellow (2002), member NAE/NAS/AAAS",
+      "checked": false
+    },
+    {
+      "id": "r-32",
+      "name": "Noah Goodman",
+      "city": "SF",
+      "tags": [
+        "Humans&",
+        "Stanford Prof",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Humans&, Stanford Prof",
+      "checked": false
+    },
+    {
+      "id": "r-33",
+      "name": "Prof. Max Welling",
+      "city": "SF",
+      "tags": [
+        "Cusp AI",
+        "AI Pioneer",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO @ Cusp AI, AI Pioneer",
+      "checked": false
+    },
+    {
+      "id": "r-34",
+      "name": "Oren Etzioni",
+      "city": "SF",
+      "tags": [
+        "Allen AI",
+        "AI2",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founding CEO emeritus @ Allen AI/AI2",
+      "checked": false
+    },
+    {
+      "id": "r-35",
+      "name": "Ali Farhadi",
+      "city": "SF",
+      "tags": [
+        "Allen AI",
+        "AI2",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Allen AI/AI2",
+      "checked": false
+    },
+    {
+      "id": "r-36",
+      "name": "Buck Shlegeris",
+      "city": "Berkeley",
+      "tags": [
+        "Redwood Research",
+        "AI Control",
+        "Alignment Faking paper"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Redwood Research, AI safety focused on AI control & alignment, co-author 'Alignment Faking in LLMs' (with Anthropic Dec 2024), released BashArena",
+      "checked": false
+    },
+    {
+      "id": "r-37",
+      "name": "Ronak Malde",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "RL/AI",
+        "Stanford",
+        "Windsurf"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research @ Google DeepMind (joined July 2025), prev Windsurf (trained SWE-1 frontier coding model), Stanford alumni, prev Google/NVIDIA intern, agentic coding",
+      "checked": false
+    },
+    {
+      "id": "r-38",
+      "name": "Ari Morcos",
+      "city": "SF",
+      "tags": [
+        "DatologyAI",
+        "Meta AI FAIR",
+        "DeepMind",
+        "Harvard PhD"
+      ],
+      "x": "arimorcos",
+      "linkedin": "https://linkedin.com/in/arimorcos",
+      "notes": "Co-founder & CEO @ DatologyAI, prev Senior Staff Research Scientist @ Meta AI FAIR (understanding neural network mechanisms), prev DeepMind, PhD Harvard (Chris Harvey lab, neuronal circuits), BS UC San Diego, research on self-supervised learning, lottery ticket hypothesis, representation comparison methods",
+      "checked": false
+    },
+    {
+      "id": "r-39",
+      "name": "Rob Toews",
+      "city": "SF",
+      "tags": [
+        "Radical Ventures",
+        "Forbes AI Columnist",
+        "AI Investor"
+      ],
+      "x": "_RobToews",
+      "linkedin": "https://linkedin.com/in/robtoews",
+      "notes": "Partner @ Radical Ventures (world's leading AI-focused VC), AI Columnist @ Forbes, publishes annual AI predictions (5/10 correct for 2025), MBA & JD Harvard, prev Highland Capital VC, prev Zoox Strategy Lead, prev White House autonomous vehicle policy, expert on AI scaling laws, foundation models, and AI industry trends",
+      "checked": false
+    },
+    {
+      "id": "researchers-1768981330300-4118",
+      "name": "Zhoujun (Jorge) Cheng",
+      "city": "SF",
+      "tags": [
+        "UC San Diego",
+        "XLangNLP",
+        "Microsoft Research",
+        "SJTU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ UC San Diego | Prev XLangNLP, Microsoft Research, SJTU | NLP researcher",
+      "checked": false
+    }
   ],
-  "last_updated": "2026-01-19T00:00:00.000Z"
+  "last_updated": "2026-01-21T07:42:10.300Z"
 }
