@@ -4880,7 +4880,20 @@
       "linkedin": "",
       "notes": "CEO @ Intelligence Co, building AI to run companies, believes timeline to AGI is 10 months",
       "checked": false
+    },
+    {
+      "id": "founders-1768984304888-6434",
+      "name": "Arjun Kocher",
+      "city": "SF",
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Tech/AI professional",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:31:42.641Z"
+  "last_updated": "2026-01-21T08:31:44.888Z"
 }
