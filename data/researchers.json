@@ -7152,7 +7152,23 @@
       "linkedin": "",
       "notes": "Co-leading AI Scientist effort @ Anthropic (Discovery team), prev Google DeepMind (Co-led Blueshift team for Gemini)",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026681140-389",
+      "name": "Shannon Shen",
+      "city": "SF",
+      "tags": [
+        "MIT CSAIL",
+        "Allen AI",
+        "Semantic Scholar",
+        "NLP",
+        "PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD Student @ MIT CSAIL, prev Allen AI, Semantic Scholar, Harvard, Brown",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:17:01.082Z"
+  "last_updated": "2026-01-21T20:18:01.140Z"
 }
