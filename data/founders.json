@@ -4,12 +4,15 @@
     {
       "id": "f-1",
       "name": "Adam Laitt",
-      "city": "SF",
-      "tags": [],
+      "city": "Australia",
+      "tags": [
+        "Traild",
+        "CyRise"
+      ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder & Executive Director @ Traild | Building AI-driven AP automation & fraud protection - anomaly detection for high-risk invoices in mid-market businesses | prev lawyer, Columbia Business School | Melbourne-based | Co-founded with Brad Smorgon (old uni mates)",
+      "checked": false
     },
     {
       "id": "f-2",
@@ -6860,5 +6863,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:28:12.480Z"
+  "last_updated": "2026-01-21T19:28:38.840Z"
 }
