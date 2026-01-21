@@ -3676,7 +3676,23 @@
       "linkedin": "",
       "notes": "2x Founder. Building Kalibr.ai - autonomous routing that keeps AI agents running in production.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981580396-3110",
+      "name": "Aditya Joshi",
+      "city": "SF",
+      "tags": [
+        "YC S21",
+        "cybersecurity",
+        "aurals.lc",
+        "demosanon",
+        "builder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "18, building & (mostly) breaking. Research at aurals.lc, demosanon.com. Cybersec & more. Ex-Protex AI (YC S21).",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:16.842Z"
+  "last_updated": "2026-01-21T07:46:20.396Z"
 }
