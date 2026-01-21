@@ -7122,7 +7122,22 @@
       "linkedin": "",
       "notes": "Founding ML engineer in recsys/search, building something new",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026584192-905",
+      "name": "Eugene Yan",
+      "city": "SF",
+      "tags": [
+        "Anthropic",
+        "Amazon",
+        "Applied ML",
+        "RecSys"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Anthropic, prev Principal Applied Scientist @ Amazon, led ML @ Alibaba, Lazada",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:15:43.076Z"
+  "last_updated": "2026-01-21T20:16:24.192Z"
 }
