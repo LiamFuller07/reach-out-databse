@@ -5881,7 +5881,22 @@
       "linkedin": "",
       "notes": "EVP Generative AI @ Klick Health",
       "checked": false
+    },
+    {
+      "id": "founders-1768991133898-8845",
+      "name": "Louis Beaumont",
+      "city": "SF",
+      "tags": [
+        "AI Mediar",
+        "Windows Automation",
+        "ex-CIA",
+        "50k GitHub commits"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ AI Mediar (Cursor for Windows automation), ex-CIA, 50k GitHub commits",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:20:38.119Z"
+  "last_updated": "2026-01-21T10:25:33.898Z"
 }
