@@ -961,7 +961,23 @@
       "linkedin": "",
       "notes": "Ph.D. student at UC Santa Cruz, Intern at Bytedance Seed Team. Working on scalable simple ideas for LLMs. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981789937-2376",
+      "name": "Sri",
+      "city": "SF",
+      "tags": [
+        "Cit Securities",
+        "Together Compute",
+        "Apple",
+        "NVIDIA",
+        "Inference"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Cit Securities | Inference @ Together Compute | Prev Apple, research @ NVIDIA",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:49:48.846Z"
+  "last_updated": "2026-01-21T07:49:49.937Z"
 }
