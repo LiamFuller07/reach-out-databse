@@ -4823,7 +4823,21 @@
       "linkedin": "",
       "notes": "Writer, Author of The Independent Scholar (2026), Creative Director @nockchain, PhD, former professor",
       "checked": false
+    },
+    {
+      "id": "founders-1768984214590-2634",
+      "name": "Mark Kretschmann",
+      "city": "SF",
+      "tags": [
+        "AI Engineering",
+        "Software",
+        "e/acc"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI & Software Engineering",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:29:44.618Z"
+  "last_updated": "2026-01-21T08:30:14.590Z"
 }
