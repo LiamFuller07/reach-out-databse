@@ -6704,7 +6704,24 @@
       "linkedin": "",
       "notes": "MSCS @ UCSD, prev RA @ Tsinghua IIIS. Robot Learning, Embodied AI, and Vision researcher.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024953212-9358",
+      "name": "Josh Greaves",
+      "city": "SF",
+      "tags": [
+        "Martian",
+        "RL",
+        "LLMs",
+        "Routing",
+        "ex-Google Brain",
+        "ex-DeepMind"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Tech Lead @ Martian, RL, LLMs, Routing, ML for Science. Ex-Google Brain, ex-DeepMind.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:47:22.062Z"
+  "last_updated": "2026-01-21T19:49:13.212Z"
 }
