@@ -3978,7 +3978,25 @@
       "linkedin": "",
       "notes": "LLM Efficiency PhD @ University of Edinburgh",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988898008-3501",
+      "name": "Jinyang (Patrick) Li",
+      "city": "Hong Kong",
+      "tags": [
+        "HKU",
+        "PhD",
+        "Columbia MS",
+        "Amazon",
+        "Google Cloud",
+        "MSFT Research",
+        "AI Coding"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS PhD @ HKU, MS @ Columbia, intern @ Amazon, Google Cloud, MSFT Research x3, Alibaba. AI coding for Data",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:48:16.834Z"
+  "last_updated": "2026-01-21T09:48:18.008Z"
 }
