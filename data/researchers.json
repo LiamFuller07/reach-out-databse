@@ -6932,7 +6932,23 @@
       "linkedin": "",
       "notes": "Principal Researcher @ Tencent Hunyuan, Ex-Founder WizardLM AI. Creator of WizardLM Family: WizardLM, WizardCoder, WizardMath. Key contact for LLM evals.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769025384388-1597",
+      "name": "Ayush Maniar",
+      "city": "San Diego",
+      "tags": [
+        "Riot Games",
+        "Generative AI",
+        "UCSD",
+        "IIT Madras",
+        "Gaming AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Generative AI Research @ Riot Games, MS CSE @ UCSD, prev Data Scientist @ Walmart, IIT Madras alumni.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:56:23.095Z"
+  "last_updated": "2026-01-21T19:56:24.388Z"
 }
