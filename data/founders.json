@@ -3523,7 +3523,24 @@
       "linkedin": "",
       "notes": "Co-Founder @ Usekernel (YC S25) | Previously co-founder @ Clever",
       "checked": false
+    },
+    {
+      "id": "founders-1768981421936-4598",
+      "name": "Jordan Singer",
+      "city": "SF",
+      "tags": [
+        "Mainframe",
+        "Async",
+        "Figma",
+        "Diagram",
+        "Square",
+        "AI Design"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Mainframe | Building @async | Prev Figma, Diagram (acq by Figma), Square | AI + design tools",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:43:19.702Z"
+  "last_updated": "2026-01-21T07:43:41.936Z"
 }
