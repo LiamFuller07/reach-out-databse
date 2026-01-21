@@ -6786,7 +6786,23 @@
       "linkedin": "",
       "notes": "Chief Scientist @ Iconic Games, Lead @ IC_ARL, prev Sony AI Global, Meta, Imperial College. RL in games expert.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769025006860-9082",
+      "name": "Nicholas Tomlin",
+      "city": "Chicago",
+      "tags": [
+        "TTIC",
+        "NYU CDS",
+        "Berkeley PhD",
+        "NLP",
+        "Faculty"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Incoming Assistant Professor @ TTIC, Faculty Fellow @ NYU CDS, PhD @ Berkeley. Natural language processing researcher.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:50:05.360Z"
+  "last_updated": "2026-01-21T19:50:06.860Z"
 }
