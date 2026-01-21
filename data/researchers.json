@@ -4955,7 +4955,21 @@
       "linkedin": "",
       "notes": "Prev @ClaudeAI (Anthropic), UMD CS, Adobe, JPMorgan, policy + engineering",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990481151-2650",
+      "name": "Santiago Hernández",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "RL Research",
+        "Reinforcement Learning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "RL enthusiast, research @ OpenAI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:14:39.396Z"
+  "last_updated": "2026-01-21T10:14:41.151Z"
 }
