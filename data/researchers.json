@@ -2880,15 +2880,17 @@
     {
       "id": "researchers-1768986565526-1019",
       "name": "Ian Wu",
-      "city": "SF",
+      "city": "Pittsburgh",
       "tags": [
-        "AI Research"
+        "CMU MLD",
+        "ML PhD",
+        "Machine Learning"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "AI researcher (partial profile view)",
+      "notes": "ML PhD student @ CMU MLD (Machine Learning Department)",
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:09:25.526Z"
+  "last_updated": "2026-01-21T09:10:05.952Z"
 }
