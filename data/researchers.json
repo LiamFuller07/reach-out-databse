@@ -2785,7 +2785,21 @@
       "linkedin": "",
       "notes": "MS in Machine Learning @ CMU MLD",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986428702-6484",
+      "name": "Junyang Lin",
+      "city": "Hangzhou",
+      "tags": [
+        "Alibaba Qwen",
+        "LLM",
+        "Qwen Team Lead"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building Qwen universe @ Alibaba, key lead on Qwen LLM team, one of China's top open-source LLM projects",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:07:07.543Z"
+  "last_updated": "2026-01-21T09:07:08.702Z"
 }
