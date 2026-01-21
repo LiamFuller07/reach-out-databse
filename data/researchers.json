@@ -657,7 +657,22 @@
       "linkedin": "",
       "notes": "Distinguished Scientist @ Meta | LLMs (Gopher, Chinchilla, Gemini) | Compression & RL | Past: Google, OpenAI, Quora",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981482961-6089",
+      "name": "Steven Adler",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "Danger Evals",
+        "AGI Readiness"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Ex-OpenAI safety researcher (danger evals & AGI readiness) | Substack on AI benefits and risks",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:44:41.975Z"
+  "last_updated": "2026-01-21T07:44:42.961Z"
 }
