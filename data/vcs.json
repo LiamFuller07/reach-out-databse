@@ -482,7 +482,20 @@
       "linkedin": "",
       "notes": "Invested in Andon Labs (Vending-Bench creators). Early stage VC firm.",
       "checked": false
+    },
+    {
+      "id": "vcs-1769032661711-3265",
+      "name": "Seldon Lab",
+      "city": "",
+      "tags": [
+        "Andon Labs investor",
+        "AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Invested in Andon Labs (Vending-Bench creators).",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:40.239Z"
+  "last_updated": "2026-01-21T21:57:41.711Z"
 }
