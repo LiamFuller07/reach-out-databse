@@ -3560,7 +3560,25 @@
       "linkedin": "",
       "notes": "CS PhD @ UCSD Hao AI Lab, NeurIPS, LLM Systems - Dynasor (LLM reasoning), DistServe (disaggregated inference), DistCA (disaggregated training)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988084434-924",
+      "name": "Wangchunshu Zhou",
+      "city": "SF",
+      "tags": [
+        "OPPO",
+        "Personal Superintelligence",
+        "AIWaves",
+        "ETHZ",
+        "ByteDance",
+        "MSRA",
+        "AI2"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building personal superintelligence @ OPPO, prev AIWaves, former CS PhD student @ ETHZ, former researcher @ ByteDance, intern @ MSRA and PYI @ AI2",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:33:59.076Z"
+  "last_updated": "2026-01-21T09:34:44.434Z"
 }
