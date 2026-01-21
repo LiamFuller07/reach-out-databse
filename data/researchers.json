@@ -6688,7 +6688,23 @@
       "linkedin": "",
       "notes": "Building robots - one at a time.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024842062-8143",
+      "name": "Guangqi Jiang",
+      "city": "San Diego",
+      "tags": [
+        "UCSD",
+        "Tsinghua IIIS",
+        "Robot Learning",
+        "Embodied AI",
+        "Vision"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "MSCS @ UCSD, prev RA @ Tsinghua IIIS. Robot Learning, Embodied AI, and Vision researcher.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:46:42.060Z"
+  "last_updated": "2026-01-21T19:47:22.062Z"
 }
