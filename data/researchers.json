@@ -948,7 +948,22 @@
       "linkedin": "",
       "notes": "@Eigent_AI / @CamelAIOrg. Researching Scaling Laws of Agents. Previously UniofOxford, KaustVision, Intel, Kumo. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981774406-3056",
+      "name": "Rui-Jie (Ridger) Zhu",
+      "city": "SF",
+      "tags": [
+        "LLM",
+        "PhD",
+        "UC Santa Cruz",
+        "Bytedance"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Ph.D. student at UC Santa Cruz, Intern at Bytedance Seed Team. Working on scalable simple ideas for LLMs. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:49:33.183Z"
+  "last_updated": "2026-01-21T07:49:34.406Z"
 }
