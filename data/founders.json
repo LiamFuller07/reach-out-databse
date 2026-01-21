@@ -3973,7 +3973,23 @@
       "linkedin": "",
       "notes": "Founder @VocalityHealth (YC W25). PhD in AI/ML. Previous founder @fulltrackai (4m users). Shares insights on building AI products. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981794207-7563",
+      "name": "Yuto",
+      "city": "SF",
+      "tags": [
+        "AI Agents",
+        "Exit",
+        "PhD",
+        "Samurai Agent",
+        "Developer Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "7-figure exit founder. PhD in AI (ongoing). Building Samurai Agent - context layer for AI coding agents that improves debugging and prevents regression bugs. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:49:53.045Z"
+  "last_updated": "2026-01-21T07:49:54.207Z"
 }
