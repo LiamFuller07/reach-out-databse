@@ -3804,7 +3804,23 @@
       "linkedin": "",
       "notes": "19yo. CEO of Skale. Angel Investor. Clients include Bolt, ClickUp, Whop.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981630233-9262",
+      "name": "Rohan Sachan",
+      "city": "SF",
+      "tags": [
+        "Powerplay",
+        "startups",
+        "AI",
+        "MLOps",
+        "SaaS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder's Office at Powerplay.app. Startups, AI, MLOps, SaaS.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:08.670Z"
+  "last_updated": "2026-01-21T07:47:10.233Z"
 }
