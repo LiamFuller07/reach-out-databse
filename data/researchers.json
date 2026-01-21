@@ -2536,7 +2536,22 @@
       "linkedin": "",
       "notes": "Engaged with RL scaling laws research. Commented \"Great work Jorge! Super solid and insightful\".",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986123912-9059",
+      "name": "Nathan Lambert",
+      "city": "SF",
+      "tags": [
+        "RLHF",
+        "Allen AI",
+        "prev Hugging Face",
+        "RL for LLMs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "RLHF researcher, prev Hugging Face, Allen Institute for AI, expert on reinforcement learning from human feedback, popular AI newsletter author",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:00:28.370Z"
+  "last_updated": "2026-01-21T09:02:03.912Z"
 }
