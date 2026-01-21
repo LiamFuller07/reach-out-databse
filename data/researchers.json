@@ -4149,7 +4149,21 @@
       "linkedin": "",
       "notes": "CS PhD student @ Princeton, prev CS MEng + BS @ Cornell CIS",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989246935-7935",
+      "name": "Manuel de Prada",
+      "city": "Zurich",
+      "tags": [
+        "ETH Zurich",
+        "NLP PhD",
+        "Hugging Face"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "NLP PhD @ ETH Zürich, prev Hugging Face",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:54:05.807Z"
+  "last_updated": "2026-01-21T09:54:06.935Z"
 }
