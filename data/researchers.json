@@ -3403,7 +3403,21 @@
       "linkedin": "",
       "notes": "Senior Research Scientist @ Google Research, working on efficient and elastic foundation models, Gemini team",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987783567-2157",
+      "name": "Runlong Zhou",
+      "city": "Seattle",
+      "tags": [
+        "UW CSE",
+        "PhD",
+        "Tsinghua IIIS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student @ UW CSE, BEng from Tsinghua IIIS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:29:41.329Z"
+  "last_updated": "2026-01-21T09:29:43.567Z"
 }
