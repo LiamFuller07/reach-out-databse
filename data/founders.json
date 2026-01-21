@@ -5609,7 +5609,22 @@
       "linkedin": "",
       "notes": "CTO @ Varick AI, ex SWE at Amazon, Disney, CapitalOne",
       "checked": false
+    },
+    {
+      "id": "founders-1768987285951-4253",
+      "name": "Banghua Zhu",
+      "city": "Seattle",
+      "tags": [
+        "Radix Ark co-founder",
+        "UW Prof",
+        "prev NVIDIA",
+        "prev Berkeley EECS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Cofounder @ Radix Ark, Assistant Professor @ UW, prev NVIDIA, prev Berkeley EECS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:21:22.016Z"
+  "last_updated": "2026-01-21T09:21:25.951Z"
 }
