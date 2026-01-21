@@ -3782,7 +3782,20 @@
       "linkedin": "",
       "notes": "LLM/MLLM/GenAI Researcher @ Kling AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988733583-6350",
+      "name": "Yiheng Xu",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Agents Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Agents research @ OpenAI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:45:32.461Z"
+  "last_updated": "2026-01-21T09:45:33.583Z"
 }
