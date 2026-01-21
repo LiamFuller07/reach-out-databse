@@ -5462,7 +5462,23 @@
       "linkedin": "",
       "notes": "Assistant Professor @ UC San Diego, Reinforcement Learning and Language research",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991711003-1194",
+      "name": "Kalesha Bullard",
+      "city": "London",
+      "tags": [
+        "DeepMind",
+        "Meta AI",
+        "Georgia Tech PhD",
+        "Multi-Agent Learning",
+        "RL"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ DeepMind, prev Postdoc @ Facebook AI, CS PhD Georgia Tech, Multi-Agent Learning / Interactive Learning / Reinforcement Learning",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:34:39.043Z"
+  "last_updated": "2026-01-21T10:35:11.003Z"
 }
