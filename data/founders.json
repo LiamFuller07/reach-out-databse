@@ -3757,7 +3757,20 @@
       "linkedin": "",
       "notes": "Partner @ a16z | Investor in Cursor, Thinky Machines, BFL, WaveForms AI | Roboticist | Cofounder Fellow AI",
       "checked": false
+    },
+    {
+      "id": "founders-1768981611364-8298",
+      "name": "Bercan",
+      "city": "SF",
+      "tags": [
+        "MicroAGI",
+        "AI Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Employing billions @ MicroAGI | AI agent company",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:50.173Z"
+  "last_updated": "2026-01-21T07:46:51.364Z"
 }
