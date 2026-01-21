@@ -2671,16 +2671,17 @@
     {
       "id": "researchers-1768986245298-7096",
       "name": "Rosanne Liu",
-      "city": "SF",
+      "city": "",
       "tags": [
+        "AI research",
         "ML Collective",
-        "Google Brain",
-        "NeurIPS",
-        "AI Research"
+        "DeepMind",
+        "ICLR",
+        "NeurIPS"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ ML Collective (non-profit research lab), prev Google Brain, NeurIPS area chair, research on neural network understanding",
+      "notes": "Cofounded & running @ml_collective. Host of Deep Learning Classics & Trends. Research at Google DeepMind. DEI/DIA Chair of ICLR & NeurIPS.",
       "checked": false
     },
     {
@@ -7879,5 +7880,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:56.785Z"
+  "last_updated": "2026-01-21T21:58:21.359Z"
 }
