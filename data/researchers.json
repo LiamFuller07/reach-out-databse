@@ -6053,7 +6053,21 @@
       "linkedin": "",
       "notes": "Famous for technical zines, infrastructure educator",
       "checked": false
+    },
+    {
+      "id": "researchers-1768994028841-4990",
+      "name": "Jean Boussier",
+      "city": "Europe",
+      "tags": [
+        "Rails Core",
+        "Ruby",
+        "Intercom"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Rails core, Ruby committer, Senior Principal Engineer @ Intercom",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:12:06.531Z"
+  "last_updated": "2026-01-21T11:13:48.841Z"
 }
