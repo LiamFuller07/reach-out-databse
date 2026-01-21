@@ -231,7 +231,23 @@
       "linkedin": "",
       "notes": "Managing Partner @ Multicoin Capital, Chairman @ fwdind",
       "checked": false
+    },
+    {
+      "id": "vcs-1768994111136-3792",
+      "name": "Sam Teller",
+      "city": "SF",
+      "tags": [
+        "Thrive Capital",
+        "ex-SpaceX",
+        "ex-Tesla",
+        "ex-Neuralink",
+        "ex-Boring Company"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ Thrive Capital, fmr SpaceX, Tesla, Boring Company, Neuralink, Valor Equity, LaunchPad LA",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:10:12.506Z"
+  "last_updated": "2026-01-21T11:15:11.136Z"
 }
