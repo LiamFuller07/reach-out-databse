@@ -5701,7 +5701,21 @@
       "linkedin": "",
       "notes": "Associate Professor @ Princeton PLI/CS, MoTS @ Thinky Machines, prev Facebook AI / Stanford NLP / Tsinghua",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992273426-7206",
+      "name": "Sergio Paniego",
+      "city": "Europe",
+      "tags": [
+        "HuggingFace",
+        "ML Engineer",
+        "AI PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Machine Learning Engineer @ HuggingFace, AI PhD",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:43:30.761Z"
+  "last_updated": "2026-01-21T10:44:33.426Z"
 }
