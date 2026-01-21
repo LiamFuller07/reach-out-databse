@@ -6951,7 +6951,21 @@
       "linkedin": "",
       "notes": "Sunday Robotics - robotics company. \"Leave it to Sunday\"",
       "checked": false
+    },
+    {
+      "id": "founders-1769024714051-9496",
+      "name": "SceniX AI",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Hybrid Simulation",
+        "General-Purpose Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building General-Purpose Robotics through Hybrid Simulation.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:44:57.698Z"
+  "last_updated": "2026-01-21T19:45:14.051Z"
 }
