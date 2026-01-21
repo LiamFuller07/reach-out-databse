@@ -5793,7 +5793,22 @@
       "linkedin": "",
       "notes": "RL for coding @ xAI, Affiliate Assistant Prof @ UW, ex Research Scientist - In Unsloth's following network",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992479974-6608",
+      "name": "Oleksii Kuchaiev",
+      "city": "SF",
+      "tags": [
+        "NVIDIA",
+        "Post-training",
+        "Sr. Director",
+        "Unsloth Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Sr. Director of AI model post-training @ NVIDIA - In Unsloth's following network",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:47:13.686Z"
+  "last_updated": "2026-01-21T10:47:59.974Z"
 }
