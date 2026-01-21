@@ -5511,7 +5511,23 @@
       "linkedin": "",
       "notes": "Staff Research Scientist @ Riot Games (RL), prev MPI-IS, Imperial College, UCL, USC, Georgia Tech, Microsoft Research, UAlberta RLAI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991805830-8635",
+      "name": "Khurram Javed",
+      "city": "SF",
+      "tags": [
+        "Keen Technologies",
+        "John Carmack",
+        "Richard Sutton PhD",
+        "RL",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ Keen Technologies (John Carmack's startup), PhD with Richard Sutton (RL godfather), efficient RL algorithms for robots",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:36:15.224Z"
+  "last_updated": "2026-01-21T10:36:45.830Z"
 }
