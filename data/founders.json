@@ -3629,7 +3629,22 @@
       "linkedin": "",
       "notes": "Co-founder @ Humans& | Prev building Claude @ Anthropic | AI researcher",
       "checked": false
+    },
+    {
+      "id": "founders-1768981572347-5741",
+      "name": "Ibragim",
+      "city": "SF",
+      "tags": [
+        "Nebius AI",
+        "RL Environments",
+        "Coding Agents",
+        "Evals"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Eval coding agents on fresh github issues | RL environments | @ Nebius AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:11.204Z"
+  "last_updated": "2026-01-21T07:46:12.347Z"
 }
