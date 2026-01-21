@@ -4718,7 +4718,22 @@
       "linkedin": "",
       "notes": "Turning AI hallucinations into navigation tools for creative work at Thoughtform | Intuition is the interface | Creative Technologist @loopearplugs",
       "checked": false
+    },
+    {
+      "id": "founders-1768983941349-627",
+      "name": "Shawn Chauhan",
+      "city": "SF",
+      "tags": [
+        "Founder",
+        "ex-Capgemini",
+        "USC CSBA",
+        "Stealth"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder (building something big). Ex-SWE @Capgemini. @USC CSBA. Tweets about tech, startups, geopolitics.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:23:44.854Z"
+  "last_updated": "2026-01-21T08:25:41.349Z"
 }
