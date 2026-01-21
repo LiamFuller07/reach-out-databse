@@ -1574,7 +1574,23 @@
       "linkedin": "",
       "notes": "Scaling RL + prompt evolution @lossfunk",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984421078-4624",
+      "name": "Dan Roy",
+      "city": "Toronto",
+      "tags": [
+        "Google DeepMind",
+        "CIFAR AI Chair",
+        "Vector Institute",
+        "UofT Professor",
+        "Statistics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Google DeepMind (on leave), Canada CIFAR AI Chair, Former Research Director @ Vector Institute, Professor @ UofT (Statistics/CS)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:33:38.933Z"
+  "last_updated": "2026-01-21T08:33:41.078Z"
 }
