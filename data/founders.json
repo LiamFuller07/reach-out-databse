@@ -5896,7 +5896,22 @@
       "linkedin": "",
       "notes": "Co-founder @ AI Mediar (Cursor for Windows automation), ex-CIA, 50k GitHub commits",
       "checked": false
+    },
+    {
+      "id": "founders-1768991185029-5145",
+      "name": "Ryo Lu",
+      "city": "SF",
+      "tags": [
+        "Cursor AI",
+        "Head of Design",
+        "ex-Notion",
+        "ex-Stripe"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Head of Design @ Cursor AI, early Notion, Stripe, built startups",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:25:33.898Z"
+  "last_updated": "2026-01-21T10:26:25.029Z"
 }
