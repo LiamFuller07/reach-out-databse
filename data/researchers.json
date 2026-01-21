@@ -3843,7 +3843,21 @@
       "linkedin": "",
       "notes": "Incoming Asst Prof @ UT Austin CS, RS @ ByteDance, PhD @ UW CSE, ex-Allen AI, Meta AI, MSFT Research",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988786682-7942",
+      "name": "Maria Apostolaki",
+      "city": "Princeton",
+      "tags": [
+        "Princeton",
+        "Asst Prof",
+        "ECE"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Asst Prof @ Princeton ECE",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:46:25.346Z"
+  "last_updated": "2026-01-21T09:46:26.683Z"
 }
