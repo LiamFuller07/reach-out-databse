@@ -3930,7 +3930,20 @@
       "linkedin": "",
       "notes": "CEO @ Box | Your business lives in content, unleash it with AI | Enterprise SaaS pioneer",
       "checked": false
+    },
+    {
+      "id": "founders-1768981787356-9060",
+      "name": "serafim",
+      "city": "SF",
+      "tags": [
+        "21st.dev",
+        "YC W26"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Crafting @ 21st.dev (YC W26) | Developer tools founder",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:48:54.302Z"
+  "last_updated": "2026-01-21T07:49:47.356Z"
 }
