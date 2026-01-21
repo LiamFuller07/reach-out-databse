@@ -7214,7 +7214,23 @@
       "linkedin": "",
       "notes": "Author of \"Data Science from Scratch\", AI/ML/NLP, fizzbuzzbook.com, famously doesn't like notebooks",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026768905-1208",
+      "name": "Simran Khanuja",
+      "city": "SF",
+      "tags": [
+        "CMU LTI",
+        "NLP",
+        "Google",
+        "Microsoft Research",
+        "PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "NLP PhD Student @ CMU LTI, Predoctoral Researcher @ Google, prev Microsoft Research, BITS Pilani",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:19:27.777Z"
+  "last_updated": "2026-01-21T20:19:28.905Z"
 }
