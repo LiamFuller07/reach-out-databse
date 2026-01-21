@@ -4721,7 +4721,23 @@
       "linkedin": "",
       "notes": "Research Engineer @ Zhipu AI (Z.ai), Advanced Computing @ Tsinghua University",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990177176-3149",
+      "name": "Aaron Batilo",
+      "city": "SF",
+      "tags": [
+        "CoreWeave",
+        "ex-Microsoft AI",
+        "ex-Inflection",
+        "ex-Cohere",
+        "MLOps"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Eng @ CoreWeave, prev Microsoft AI, Inflection AI, Cohere, Color - putting ML in YAML",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:09:35.593Z"
+  "last_updated": "2026-01-21T10:09:37.176Z"
 }
