@@ -2596,7 +2596,23 @@
       "linkedin": "",
       "notes": "Building AI that autonomously understands and interacts with the world, creator of DreamerV3 world model, prev Google DeepMind, UC Berkeley, University of Toronto",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986195788-6395",
+      "name": "Jim Fan",
+      "city": "SF",
+      "tags": [
+        "NVIDIA",
+        "Robotics",
+        "GEAR Lab",
+        "Physical AGI",
+        "OpenAI 1st intern"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "NVIDIA Director of Robotics & Distinguished Scientist, Co-Lead of GEAR lab, Stanford PhD, OpenAI's 1st intern, working on Physical AGI and foundation agents",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:03:14.638Z"
+  "last_updated": "2026-01-21T09:03:15.788Z"
 }
