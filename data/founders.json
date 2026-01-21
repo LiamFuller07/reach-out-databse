@@ -6681,7 +6681,22 @@
       "linkedin": "",
       "notes": "Engineering @ Stainless, ex-Heroku, Stripe, Snowflake",
       "checked": false
+    },
+    {
+      "id": "founders-1768994078144-4079",
+      "name": "Adam D'Angelo",
+      "city": "SF",
+      "tags": [
+        "Quora",
+        "Poe",
+        "CEO",
+        "ex-Facebook CTO"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Quora, working on Poe platform",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:13:53.542Z"
+  "last_updated": "2026-01-21T11:14:38.144Z"
 }
