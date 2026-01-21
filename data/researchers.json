@@ -4329,7 +4329,23 @@
       "linkedin": "",
       "notes": "ML, LLMs, RL, RecSys for Keras/JAX @ Google, open source contributor, prev Applied Science @ Amazon Science",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989439391-1900",
+      "name": "Costa Huang",
+      "city": "SF",
+      "tags": [
+        "Periodic Labs",
+        "CleanRL",
+        "RL",
+        "Allen AI",
+        "Hugging Face"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Periodic Labs, creator of CleanRL library, prev RL @ Allen AI & Hugging Face",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:57:18.311Z"
+  "last_updated": "2026-01-21T09:57:19.391Z"
 }
