@@ -7782,7 +7782,23 @@
       "linkedin": "",
       "notes": "Professor and Researcher at EURECOM. Research areas: AI, Knowledge Graph, Open Data, LLM, Information Extraction, Recommender Systems. Academic expert on Knowledge Graphs + LLM integration.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769032298696-9448",
+      "name": "Gong Cheng",
+      "city": "Nanjing",
+      "tags": [
+        "knowledge-graphs",
+        "llm",
+        "big-data",
+        "academia",
+        "nanjing-university"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor of Computer Science at Nanjing University. Research interests: Big Data Search, Knowledge Graph, LLM. Leading academic researcher in knowledge graph space.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:51:36.243Z"
+  "last_updated": "2026-01-21T21:51:38.696Z"
 }
