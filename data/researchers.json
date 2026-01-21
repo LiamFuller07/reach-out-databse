@@ -2920,7 +2920,23 @@
       "linkedin": "",
       "notes": "PhD student @ Carnegie Mellon, Student Researcher @ Google DeepMind",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986648925-4722",
+      "name": "Guanya Shi",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU Robotics",
+        "LeCARLab",
+        "Amazon Scholar",
+        "Caltech PhD",
+        "Agile Robots"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Assistant Professor @ CMU Robotics, leads LeCARLab, Amazon Scholar @ FAR, builds generalist robots with agility, PhD from Caltech",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:10:47.240Z"
+  "last_updated": "2026-01-21T09:10:48.925Z"
 }
