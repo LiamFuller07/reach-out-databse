@@ -7014,7 +7014,22 @@
       "linkedin": "",
       "notes": "Co-Founder & CTO @ Volley Games - Voice AI games on Alexa, Roku, Fire TV. Hosting Cerebral Valley AI Summit.",
       "checked": false
+    },
+    {
+      "id": "founders-1769025199417-9843",
+      "name": "Zhuo Tao",
+      "city": "SF",
+      "tags": [
+        "bakable.ai",
+        "AI Gaming",
+        "ex-Unity",
+        "AI Generated Content"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI + gaming, prev Unity. Building bakable.ai. All work done by AI.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:53:18.207Z"
+  "last_updated": "2026-01-21T19:53:19.417Z"
 }
