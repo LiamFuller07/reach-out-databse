@@ -424,7 +424,22 @@
       "linkedin": "",
       "notes": "Engineer investing in AI/data/infra @ NEA, connected to Foundation Capital network via Jaya Gupta",
       "checked": false
+    },
+    {
+      "id": "vcs-1769029003161-3503",
+      "name": "Alisa Rosenthal",
+      "city": "SF",
+      "tags": [
+        "Acrew Capital",
+        "General Partner",
+        "ex-OpenAI",
+        "Sales"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "General Partner @ Acrew Capital, former OpenAI sales exec, talks ads and sales tactics, appeared on The Information TITV",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:56:42.097Z"
+  "last_updated": "2026-01-21T20:56:43.161Z"
 }
