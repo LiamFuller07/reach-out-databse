@@ -6324,7 +6324,21 @@
       "linkedin": "",
       "notes": "Building inferal.com - 'Your data layer has all the context and does nothing about it' - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "founders-1768993023771-7814",
+      "name": "Varin Nair",
+      "city": "SF",
+      "tags": [
+        "Factory AI",
+        "Engineering",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Engineering @ Factory AI - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:56:59.282Z"
+  "last_updated": "2026-01-21T10:57:03.771Z"
 }
