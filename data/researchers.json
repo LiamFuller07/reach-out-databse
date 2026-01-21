@@ -3048,7 +3048,22 @@
       "linkedin": "",
       "notes": "Generative AI for language and science, research on MT, LLM, GenAI Safety, Drug Discovery, NeurIPS 2025",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986843894-1883",
+      "name": "AK (Ahsen Khaliq)",
+      "city": "SF",
+      "tags": [
+        "Gradio",
+        "HuggingFace",
+        "AI Paper Curator",
+        "ML Community"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Famous AI research paper curator on X, ML @ Gradio (acquired by HuggingFace), massive influence in AI community for surfacing important papers",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:14:01.138Z"
+  "last_updated": "2026-01-21T09:14:03.894Z"
 }
