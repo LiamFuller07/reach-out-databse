@@ -2739,7 +2739,20 @@
       "linkedin": "",
       "notes": "Associate Professor @ UT Austin CompSci, Director @ NVIDIA AI, Co-Leading GEAR Lab (with Jim Fan), Stanford CS PhD, building generalist robot autonomy",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986333281-3384",
+      "name": "Jacob Buckman",
+      "city": "SF",
+      "tags": [
+        "RL",
+        "AI Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "RL researcher (partial profile view)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:05:32.128Z"
+  "last_updated": "2026-01-21T09:05:33.281Z"
 }
