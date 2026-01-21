@@ -7063,7 +7063,21 @@
       "linkedin": "",
       "notes": "@ Palantir, 18 years old",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026539735-4478",
+      "name": "Horace He",
+      "city": "SF",
+      "tags": [
+        "thinkymachines",
+        "PyTorch",
+        "ML Compilers"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ thinkymachines, formerly PyTorch, known for educational ML threads",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:13:44.322Z"
+  "last_updated": "2026-01-21T20:15:39.735Z"
 }
