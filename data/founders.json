@@ -3915,7 +3915,22 @@
       "linkedin": "",
       "notes": "21. Building @fundora_invoice. ML research published.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981734302-8565",
+      "name": "Aaron Levie",
+      "city": "SF",
+      "tags": [
+        "Box",
+        "CEO",
+        "Enterprise SaaS",
+        "AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Box | Your business lives in content, unleash it with AI | Enterprise SaaS pioneer",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:55.975Z"
+  "last_updated": "2026-01-21T07:48:54.302Z"
 }
