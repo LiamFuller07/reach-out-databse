@@ -5314,7 +5314,24 @@
       "linkedin": "",
       "notes": "Developer Relations @ NeuralK-AI, Paris.",
       "checked": false
+    },
+    {
+      "id": "founders-1768985735924-8090",
+      "name": "Jeremy Howard",
+      "city": "SF",
+      "tags": [
+        "Answer.AI",
+        "fast.ai",
+        "Kaggle Founding President",
+        "Enlitic Founder",
+        "Stanford Fellow",
+        "UQ Professor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Answer.AI & fast.ai. Kaggle founding president. Founder @ Fastmail, Enlitic. Prev Professor @ UQ, Stanford Fellow. Democratized deep learning education.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:54:57.930Z"
+  "last_updated": "2026-01-21T08:55:35.924Z"
 }
