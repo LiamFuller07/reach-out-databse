@@ -1728,7 +1728,21 @@
       "linkedin": "",
       "notes": "davidpfau.com - AI researcher",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984708873-9686",
+      "name": "Nenad Tomasev",
+      "city": "London",
+      "tags": [
+        "DeepMind",
+        "Senior Staff Research Scientist",
+        "AI Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Senior Staff Research Scientist @ DeepMind",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:38:27.753Z"
+  "last_updated": "2026-01-21T08:38:28.873Z"
 }
