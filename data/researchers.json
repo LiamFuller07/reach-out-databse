@@ -7510,7 +7510,22 @@
       "linkedin": "",
       "notes": "General Manager, Enterprise Data & AI @ Microsoft, panelist at Atlan's 'Great Data Debate 2026' on context graphs",
       "checked": false
+    },
+    {
+      "id": "researchers-1769030348996-3293",
+      "name": "Davis Blalock",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "ex-Databricks",
+        "MosaicML First Hire",
+        "MIT PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research scientist @ Google DeepMind, Past: @ Databricks (first hire @ MosaicML), MIT PhD, posts about AI technical progress + business side",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:56:40.679Z"
+  "last_updated": "2026-01-21T21:19:08.996Z"
 }
