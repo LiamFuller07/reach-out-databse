@@ -2378,7 +2378,21 @@
       "linkedin": "",
       "notes": "ML Researcher in Tübingen at ELLIS Institute & Max Planck for Intelligent Systems. Working on Safety & Efficiency of modern ML.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985605413-4529",
+      "name": "Felix Petersen",
+      "city": "Stanford",
+      "tags": [
+        "Stanford AI Lab",
+        "Postdoc",
+        "Differentiable Algorithms"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML Researcher, Postdoc @ Stanford AI Lab. Investigating differentiable algorithms.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:53:24.130Z"
+  "last_updated": "2026-01-21T08:53:25.413Z"
 }
