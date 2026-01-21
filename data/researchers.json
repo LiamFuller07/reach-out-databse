@@ -4239,7 +4239,21 @@
       "linkedin": "",
       "notes": "Faster and cheaper LLM inference - ML infrastructure researcher",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989356586-4149",
+      "name": "Aleksa Gordić",
+      "city": "SF",
+      "tags": [
+        "DeepMind",
+        "Microsoft",
+        "LLM Pretraining"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Pretraining LLMs, prev Google DeepMind & Microsoft, blogs at aleksagordic.com/blog",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:55:55.483Z"
+  "last_updated": "2026-01-21T09:55:56.586Z"
 }
