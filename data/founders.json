@@ -6740,7 +6740,24 @@
       "linkedin": "",
       "notes": "Founder @ Surge AI (raising AGI with richness of human intelligence), ex-Google, Facebook, Twitter, MSR, MIT",
       "checked": false
+    },
+    {
+      "id": "founders-1768994199234-8223",
+      "name": "Jeff Weinstein",
+      "city": "SF",
+      "tags": [
+        "Stripe",
+        "Product",
+        "Angel",
+        "Wagon",
+        "Hyperpublic",
+        "2 exits"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Product @ Stripe, angel investor, led Wagon (acq by Box) and Hyperpublic (acq by Groupon)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:15:50.490Z"
+  "last_updated": "2026-01-21T11:16:39.234Z"
 }
