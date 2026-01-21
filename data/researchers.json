@@ -3388,7 +3388,22 @@
       "linkedin": "",
       "notes": "Maths + CS @ UC Berkeley, working on RLLM project, prev SWE @ Xiaomi",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987781329-2190",
+      "name": "Jiaxian Guo",
+      "city": "SF",
+      "tags": [
+        "Google Research",
+        "Gemini",
+        "Foundation Models",
+        "Efficient AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Senior Research Scientist @ Google Research, working on efficient and elastic foundation models, Gemini team",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:29:40.162Z"
+  "last_updated": "2026-01-21T09:29:41.329Z"
 }
