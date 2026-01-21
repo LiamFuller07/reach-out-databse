@@ -6011,7 +6011,21 @@
       "linkedin": "",
       "notes": "Infra @ Prime Intellect",
       "checked": false
+    },
+    {
+      "id": "researchers-1768993736076-3691",
+      "name": "Asternomic",
+      "city": "SF",
+      "tags": [
+        "SpiritStAI",
+        "HF Analyst",
+        "UChicago"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ SpiritStAI, HF analyst, UChicago",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:01:29.967Z"
+  "last_updated": "2026-01-21T11:08:56.076Z"
 }
