@@ -3525,7 +3525,25 @@
       "linkedin": "",
       "notes": "Research Scientist @ Meta FAIR, prev UW NLP",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988037887-1415",
+      "name": "Zhengzhong Tu",
+      "city": "College Station",
+      "tags": [
+        "Texas A&M",
+        "Asst Prof",
+        "Google AI",
+        "UT Austin PhD",
+        "CVPR",
+        "NeurIPS",
+        "ICLR"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Asst Prof AI @ Texas A&M, AE @ IEEE-TIP/TMLR, AC @ CVPR/NeurIPS/ICLR, ex-Google AI (3x intern), PhD @ UT Austin, BS @ Fudan",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:33:56.640Z"
+  "last_updated": "2026-01-21T09:33:57.887Z"
 }
