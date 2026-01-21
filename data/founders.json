@@ -5288,7 +5288,20 @@
       "linkedin": "",
       "notes": "Co-founder & CEO @ Waveforms.ai. Ex OpenAI - GPT-4o/AVM Audio Research Lead. Ex Meta AI. Polytechnique (X11). Her/TARS inspiration.",
       "checked": false
+    },
+    {
+      "id": "founders-1768985606727-9157",
+      "name": "Sean Brown",
+      "city": "UK",
+      "tags": [
+        "Versori",
+        "Founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building Versori (with Dan Jones as CTO).",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:51:55.973Z"
+  "last_updated": "2026-01-21T08:53:26.727Z"
 }
