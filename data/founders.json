@@ -7098,7 +7098,20 @@
       "linkedin": "",
       "notes": "Founder @ Dune Ventures",
       "checked": false
+    },
+    {
+      "id": "founders-1769026371214-3649",
+      "name": "Daniel Schwartz",
+      "city": "",
+      "tags": [
+        "3G Capital",
+        "Co-Managing Partner"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Managing Partner @ 3G Capital",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:12:49.985Z"
+  "last_updated": "2026-01-21T20:12:51.214Z"
 }
