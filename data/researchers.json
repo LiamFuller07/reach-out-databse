@@ -5927,7 +5927,21 @@
       "linkedin": "",
       "notes": "Applied Research @ Prime Intellect, prev Cartesia AI, Beaconsai (YC S19), Soma Capital, Harvard, Morgan Stanley",
       "checked": false
+    },
+    {
+      "id": "researchers-1768993218672-4793",
+      "name": "snimu (Simon Muller)",
+      "city": "SF",
+      "tags": [
+        "Prime Intellect",
+        "Research",
+        "Distributed Training"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research @ Prime Intellect",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:00:17.254Z"
+  "last_updated": "2026-01-21T11:00:18.672Z"
 }
