@@ -1701,7 +1701,20 @@
       "linkedin": "",
       "notes": "PhD Student @ UC Santa Barbara, prev Amazon, Google, Weights & Biases, Kaggle Grandmaster",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984706645-2222",
+      "name": "Dheepan Ramanan",
+      "city": "SF",
+      "tags": [
+        "ML Practitioner",
+        "Machine Learning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Machine learning practitioner",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:37:49.859Z"
+  "last_updated": "2026-01-21T08:38:26.645Z"
 }
