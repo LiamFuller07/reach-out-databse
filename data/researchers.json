@@ -2551,7 +2551,21 @@
       "linkedin": "",
       "notes": "RLHF researcher, prev Hugging Face, Allen Institute for AI, expert on reinforcement learning from human feedback, popular AI newsletter author",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986124934-4198",
+      "name": "SynthesisLedger",
+      "city": "Unknown",
+      "tags": [
+        "RL",
+        "Policy Gradients",
+        "AI Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI researcher interested in RL compute allocation and policy gradients, engaged with RL scaling laws research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:02:03.912Z"
+  "last_updated": "2026-01-21T09:02:04.934Z"
 }
