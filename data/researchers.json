@@ -4853,7 +4853,23 @@
       "linkedin": "",
       "notes": "Technical writer @ DigitalOcean, knowledge optimization",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990372478-8933",
+      "name": "Yi-Chern Tan",
+      "city": "SF",
+      "tags": [
+        "Cohere",
+        "Post-training Lead",
+        "ex-Waymo",
+        "ex-Meta",
+        "Yale"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Lead, post-training @ Cohere, prev Waymo, Facebook, Yale",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:12:51.365Z"
+  "last_updated": "2026-01-21T10:12:52.478Z"
 }
