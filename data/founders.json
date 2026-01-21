@@ -7418,7 +7418,23 @@
       "linkedin": "",
       "notes": "Builder engaging with Jaya Gupta and Kabir Nagrecha on context graphs and tribal knowledge discussion",
       "checked": false
+    },
+    {
+      "id": "founders-1769030350537-8089",
+      "name": "Quinn Leng",
+      "city": "SF",
+      "tags": [
+        "Kepler AI",
+        "Co-Founder",
+        "CTO",
+        "ex-Databricks Mosaic",
+        "CMU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CTO @ Kepler AI (keplogic), ex LLM research at Databricks Mosaic, CMU master",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:57:03.745Z"
+  "last_updated": "2026-01-21T21:19:10.537Z"
 }
