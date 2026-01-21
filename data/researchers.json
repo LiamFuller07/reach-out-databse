@@ -6025,7 +6025,20 @@
       "linkedin": "",
       "notes": "@ SpiritStAI, HF analyst, UChicago",
       "checked": false
+    },
+    {
+      "id": "researchers-1768993925455-1242",
+      "name": "Phil Eaton",
+      "city": "SF",
+      "tags": [
+        "Developer",
+        "Infrastructure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Developer, infrastructure",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:08:56.076Z"
+  "last_updated": "2026-01-21T11:12:05.455Z"
 }
