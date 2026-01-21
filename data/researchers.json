@@ -1207,7 +1207,24 @@
       "linkedin": "",
       "notes": "Claude Code @anthropicai - Building AI coding tools at Anthropic.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982786929-2306",
+      "name": "Rupesh Srivastava",
+      "city": "Santa Cruz",
+      "tags": [
+        "Institute of Foundation Models",
+        "Highway Networks",
+        "Upside-Down RL",
+        "Bayesian Flow Networks",
+        "EvoTorch",
+        "Open-source LLMs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Doer of Technical Stuff. (Co)developed Highway Networks, Upside-Down RL, Bayesian Flow Networks, EvoTorch. Recently joined Institute of Foundation Models (Dec 2025) - training large-scale fully open-source LLMs. 'Learning is compression.' Website: rupeshks.cc",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:57:56.645Z"
+  "last_updated": "2026-01-21T08:06:26.929Z"
 }
