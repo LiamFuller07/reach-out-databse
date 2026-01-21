@@ -3624,7 +3624,21 @@
       "linkedin": "",
       "notes": "Computer Vision Researcher @ Niantic Spatial, interested in CV, robotics, and computer graphics",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988130909-9959",
+      "name": "Zhaozhuo Xu",
+      "city": "Hoboken",
+      "tags": [
+        "Stevens",
+        "Asst Prof",
+        "Rice PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Asst Prof @ Stevens, PhD @ Rice Computer Science",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:35:29.759Z"
+  "last_updated": "2026-01-21T09:35:30.909Z"
 }
