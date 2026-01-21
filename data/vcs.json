@@ -287,7 +287,20 @@
       "linkedin": "",
       "notes": "Partner @ Foundation Capital, YC W23.",
       "checked": false
+    },
+    {
+      "id": "vcs-1769026343338-6774",
+      "name": "Andrew Ciatto",
+      "city": "",
+      "tags": [
+        "Ribbit Capital",
+        "Investor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Investor @ Ribbit Capital",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:43:50.059Z"
+  "last_updated": "2026-01-21T20:12:23.338Z"
 }
