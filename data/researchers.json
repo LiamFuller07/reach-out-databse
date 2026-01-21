@@ -4253,7 +4253,19 @@
       "linkedin": "",
       "notes": "Pretraining LLMs, prev Google DeepMind & Microsoft, blogs at aleksagordic.com/blog",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989357826-8258",
+      "name": "Ayush Satyam",
+      "city": "SF",
+      "tags": [
+        "ML Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:55:56.586Z"
+  "last_updated": "2026-01-21T09:55:57.826Z"
 }
