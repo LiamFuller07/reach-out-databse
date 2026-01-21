@@ -4,15 +4,12 @@
     {
       "id": "f-1",
       "name": "Adam Laitt",
-      "city": "Australia",
-      "tags": [
-        "Traild",
-        "CyRise"
-      ],
+      "city": "SF",
+      "tags": [],
       "x": "",
-      "linkedin": "https://linkedin.com/in/adam-laitt-6944781aa",
-      "notes": "Co-founder & Executive Director @ Traild | Building AI-driven AP automation & fraud protection - anomaly detection for high-risk invoices in mid-market businesses | prev lawyer, Columbia Business School | Melbourne-based | Co-founded with Brad Smorgon (old uni mates)",
-      "checked": false
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-2",
@@ -52,7 +49,7 @@
       ],
       "x": "BrendanFoody",
       "linkedin": "https://linkedin.com/in/brendan-foody-2995ab10b",
-      "notes": "Co-founder & CEO @ Mercor | $350M Series C at $10B valuation (Oct 2025) | World's youngest self-made billionaire trio | Fastest company ever: $1M\u2192$500M revenue in 17 months | Pays $1.5M+/day to AI training experts | Works with 6/7 Magnificent 7 & all top 5 AI labs | Thiel Fellow | Harvard dropout | Bellarmine HS debate team with co-founders",
+      "notes": "Co-founder & CEO @ Mercor | $350M Series C at $10B valuation (Oct 2025) | World's youngest self-made billionaire trio | Fastest company ever: $1M→$500M revenue in 17 months | Pays $1.5M+/day to AI training experts | Works with 6/7 Magnificent 7 & all top 5 AI labs | Thiel Fellow | Harvard dropout | Bellarmine HS debate team with co-founders",
       "checked": false
     },
     {
@@ -81,7 +78,7 @@
       ],
       "x": "suryamidha",
       "linkedin": "https://linkedin.com/in/suryamidha",
-      "notes": "Co-founder & Chairman @ Mercor (prev COO) | $10B valuation | World's youngest self-made billionaire | Guided Mercor from $3.6M seed \u2192 $2B Series B | Georgetown (BS Foreign Service) dropout | Thiel Fellow 2024 | prev Brookings Institution intern | Born Mountain View, Bellarmine HS debate team",
+      "notes": "Co-founder & Chairman @ Mercor (prev COO) | $10B valuation | World's youngest self-made billionaire | Guided Mercor from $3.6M seed → $2B Series B | Georgetown (BS Foreign Service) dropout | Thiel Fellow 2024 | prev Brookings Institution intern | Born Mountain View, Bellarmine HS debate team",
       "checked": false
     },
     {
@@ -122,7 +119,7 @@
       ],
       "x": "xdotli",
       "linkedin": "https://linkedin.com/in/l1xiangyi",
-      "notes": "Founder @ BenchFlow | Unified AI benchmark runtime platform with 60+ standardized, reproducible environments - 'single platform to verify if AI models actually work' | Pre-Seed from Jeff Dean/Arash Ferdowsi/a16z Scout/Founders Inc | San Jos\u00e9 State | Co-maintaining with Hongji Xu",
+      "notes": "Founder @ BenchFlow | Unified AI benchmark runtime platform with 60+ standardized, reproducible environments - 'single platform to verify if AI models actually work' | Pre-Seed from Jeff Dean/Arash Ferdowsi/a16z Scout/Founders Inc | San José State | Co-maintaining with Hongji Xu",
       "checked": false
     },
     {
@@ -1548,7 +1545,7 @@
     },
     {
       "id": "f-112",
-      "name": "Magnus M\u00fcller",
+      "name": "Magnus Müller",
       "city": "SF",
       "tags": [
         "Browser Use",
@@ -1559,12 +1556,12 @@
       ],
       "x": "mamagnus00",
       "linkedin": "https://linkedin.com/in/magnus-mueller",
-      "notes": "Co-founder & CEO @ Browser Use (YC W25) | $17M seed (Felicis/Paul Graham) | 50K+ GitHub stars in 3 months | prev Cambridge CARES | MSc Data Science ETH Z\u00fcrich",
+      "notes": "Co-founder & CEO @ Browser Use (YC W25) | $17M seed (Felicis/Paul Graham) | 50K+ GitHub stars in 3 months | prev Cambridge CARES | MSc Data Science ETH Zürich",
       "checked": false
     },
     {
       "id": "f-113",
-      "name": "Gregor \u017duni\u010d",
+      "name": "Gregor Žunič",
       "city": "SF",
       "tags": [
         "Browser Use",
@@ -1574,7 +1571,7 @@
       ],
       "x": "gregpr07",
       "linkedin": "https://linkedin.com/in/gregorzunic",
-      "notes": "Co-founder @ Browser Use (YC W25) | $17M seed | Built viral demo in 5 days, #1 Show HN | MSc Data Science ETH Z\u00fcrich | BSc Physics | 60K+ GitHub stars",
+      "notes": "Co-founder @ Browser Use (YC W25) | $17M seed | Built viral demo in 5 days, #1 Show HN | MSc Data Science ETH Zürich | BSc Physics | 60K+ GitHub stars",
       "checked": false
     },
     {
@@ -1860,7 +1857,7 @@
       ],
       "x": "abhishekray07",
       "linkedin": "https://linkedin.com/in/abhishekray00",
-      "notes": "Co-founder @ Opslane (YC S24) | AI-powered incident resolution | prev Staff Eng @ Robinhood (5 yrs, 1M\u219220M users) & Quora | UCSD MS CS | Amazon alum",
+      "notes": "Co-founder @ Opslane (YC S24) | AI-powered incident resolution | prev Staff Eng @ Robinhood (5 yrs, 1M→20M users) & Quora | UCSD MS CS | Amazon alum",
       "checked": false
     },
     {
@@ -2461,7 +2458,7 @@
       ],
       "x": "arthurmensch",
       "linkedin": "https://linkedin.com/in/arthur-mensch",
-      "notes": "Co-founder & CEO @ Mistral AI (\u20ac11.7B valuation) | prev DeepMind Paris (2020-2023) | Billionaire (~$1.1B) | Knight of National Order of Merit | Time100 2024 | \u00c9cole Polytechnique",
+      "notes": "Co-founder & CEO @ Mistral AI (€11.7B valuation) | prev DeepMind Paris (2020-2023) | Billionaire (~$1.1B) | Knight of National Order of Merit | Time100 2024 | École Polytechnique",
       "checked": false
     },
     {
@@ -2489,7 +2486,7 @@
       ],
       "x": "",
       "linkedin": "https://fr.linkedin.com/in/timothee-lacroix-59517977",
-      "notes": "Co-founder & CTO @ Mistral AI | prev Meta FAIR (8 years, LLaMA paper) | Billionaire (~$1.1B) | PhD \u00c9cole des Ponts | MSc Paris-Saclay | \u00c9cole Normale Sup\u00e9rieure",
+      "notes": "Co-founder & CTO @ Mistral AI | prev Meta FAIR (8 years, LLaMA paper) | Billionaire (~$1.1B) | PhD École des Ponts | MSc Paris-Saclay | École Normale Supérieure",
       "checked": false
     },
     {
@@ -3033,7 +3030,7 @@
       ],
       "x": "",
       "linkedin": "https://linkedin.com/in/vincent-micheli",
-      "notes": "Co-founder @ General Intuition ($134M seed from Khosla/General Catalyst) | Building world models for spatial reasoning | PhD (world models for decision making) | Papers: GAIA-2, DIAMOND (NeurIPS spotlight), \u0394-IRIS (ICML), IRIS (ICLR oral)",
+      "notes": "Co-founder @ General Intuition ($134M seed from Khosla/General Catalyst) | Building world models for spatial reasoning | PhD (world models for decision making) | Papers: GAIA-2, DIAMOND (NeurIPS spotlight), Δ-IRIS (ICML), IRIS (ICLR oral)",
       "checked": false
     },
     {
@@ -3046,7 +3043,7 @@
       ],
       "x": "",
       "linkedin": "https://linkedin.com/in/eloialonso",
-      "notes": "Co-founder @ General Intuition ($134M seed) | World models & RL researcher | PhD U of Geneva (Fran\u00e7ois Fleuret's group) | Co-authored IRIS (transformers as sample-efficient world models) | NYC-based frontier AI lab",
+      "notes": "Co-founder @ General Intuition ($134M seed) | World models & RL researcher | PhD U of Geneva (François Fleuret's group) | Co-authored IRIS (transformers as sample-efficient world models) | NYC-based frontier AI lab",
       "checked": false
     },
     {
@@ -3102,7 +3099,7 @@
         "Neolabs"
       ],
       "x": "GReal1111",
-      "linkedin": "https://linkedin.com/in/gabriel-ren\u00e9-0201902",
+      "linkedin": "https://linkedin.com/in/gabriel-rené-0201902",
       "notes": "Founder & CEO @ Verses AI | Building Active Inference AI (biologically-inspired AGI) with Karl Friston (world's most cited neuroscientist) | Genius platform beat humans in Atari in 12 min vs 2hr for neural nets | Co-author 'The Spatial Web' | IEEE Spatial Web Protocol Chair | 25 yrs tech",
       "checked": false
     },
@@ -3244,7 +3241,7 @@
       ],
       "x": "",
       "linkedin": "https://linkedin.com/in/charles-kantor",
-      "notes": "Founder @ H Company (Paris) | $220M seed (largest EU AI raise) | Stepped down as CEO June 2025 | Stanford MS AI | Harvard Research Fellow | CentraleSup\u00e9lec",
+      "notes": "Founder @ H Company (Paris) | $220M seed (largest EU AI raise) | Stepped down as CEO June 2025 | Stanford MS AI | Harvard Research Fellow | CentraleSupélec",
       "checked": false
     },
     {
@@ -3421,5 +3418,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-19T00:00:00.000Z"
+  "last_updated": "2026-01-21T07:26:34.827Z"
 }
