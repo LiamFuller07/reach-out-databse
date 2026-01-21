@@ -1,11 +1,88 @@
 {
   "category": "angels",
   "entries": [
-    {"id": "angel-1", "name": "Sonakshi Nathani", "city": "SF", "tags": ["Manifest AI", "E-commerce AI"], "x": "", "linkedin": "", "notes": "CEO @ Manifest AI", "checked": false},
-    {"id": "angel-2", "name": "Ashutosh Singla", "city": "SF", "tags": ["Manifest AI", "E-commerce AI"], "x": "", "linkedin": "", "notes": "CTO @ Manifest AI", "checked": false},
-    {"id": "angel-3", "name": "Bhavish Aggarwal", "city": "SF", "tags": ["Krutrim", "OLA", "$1B+ valuation", "Unicorn"], "x": "", "linkedin": "", "notes": "Founder @ Krutrim, $50M raised, $1B+ valuation, OLA founder", "checked": false},
-    {"id": "angel-4", "name": "Yang Renbin", "city": "SF", "tags": ["Bong", "Alibaba-backed", "AI Education"], "x": "", "linkedin": "", "notes": "Founder @ Bong, Alibaba-backed AI teaching", "checked": false},
-    {"id": "angel-5", "name": "Skyler Chan", "city": "SF", "tags": ["AI Notetaker", "YC Founder"], "x": "", "linkedin": "", "notes": "YC Founder @ AI Notetaker", "checked": false}
+    {
+      "id": "angel-1",
+      "name": "Sonakshi Nathani",
+      "city": "SF",
+      "tags": [
+        "Manifest AI",
+        "E-commerce AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Manifest AI",
+      "checked": false
+    },
+    {
+      "id": "angel-2",
+      "name": "Ashutosh Singla",
+      "city": "SF",
+      "tags": [
+        "Manifest AI",
+        "E-commerce AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO @ Manifest AI",
+      "checked": false
+    },
+    {
+      "id": "angel-3",
+      "name": "Bhavish Aggarwal",
+      "city": "SF",
+      "tags": [
+        "Krutrim",
+        "OLA",
+        "$1B+ valuation",
+        "Unicorn"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Krutrim, $50M raised, $1B+ valuation, OLA founder",
+      "checked": false
+    },
+    {
+      "id": "angel-4",
+      "name": "Yang Renbin",
+      "city": "SF",
+      "tags": [
+        "Bong",
+        "Alibaba-backed",
+        "AI Education"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Bong, Alibaba-backed AI teaching",
+      "checked": false
+    },
+    {
+      "id": "angel-5",
+      "name": "Skyler Chan",
+      "city": "SF",
+      "tags": [
+        "AI Notetaker",
+        "YC Founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "YC Founder @ AI Notetaker",
+      "checked": false
+    },
+    {
+      "id": "angels-1768981686486-4683",
+      "name": "Cory Levy",
+      "city": "SF",
+      "tags": [
+        "Z Fellows",
+        "Angel Investor",
+        "Entrepreneur"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Entrepreneur and early stage angel investor | Z Fellows founder | Follows you",
+      "checked": false
+    }
   ],
-  "last_updated": "2026-01-19T00:00:00.000Z"
+  "last_updated": "2026-01-21T07:48:06.486Z"
 }
