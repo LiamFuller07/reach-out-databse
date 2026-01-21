@@ -185,7 +185,7 @@ function normalizeContact(entry, category) {
   return {
     id: entry.id || `${category}-${Date.now()}-${Math.floor(Math.random() * 10000)}`,
     name: entry.name || "",
-    city: entry.city || "SF",
+    city: entry.city !== undefined ? entry.city : "",
     tags: Array.isArray(entry.tags) ? entry.tags : (entry.tags ? [entry.tags] : []),
     x: entry.x || "",
     linkedin: entry.linkedin || "",

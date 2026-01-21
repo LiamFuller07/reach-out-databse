@@ -911,7 +911,12 @@
           payload.x = normalized.x;
           payload.linkedin = normalized.linkedin;
         }
-        await callMcp('upsert_contact', payload);
+        const result = await callMcp('upsert_contact', payload);
+        // Check if the upsert actually succeeded
+        if (result && result.success === false) {
+          setSyncStatus(`Sync failed: ${result.error || 'Unknown error'}`, true);
+          return;
+        }
         setSyncStatus('Synced.', false);
       } catch (err) {
         setSyncStatus(`Sync failed: ${err.message}`, true);
