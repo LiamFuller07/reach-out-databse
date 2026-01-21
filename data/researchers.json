@@ -1119,7 +1119,22 @@
       "linkedin": "",
       "notes": "Ph.D. at Stanford and UW CSE.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982164784-3072",
+      "name": "Jaana Dogan",
+      "city": "SF",
+      "tags": [
+        "Google",
+        "Principal Engineer",
+        "Platform",
+        "APIs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Principal Engineer at Google. Simpler platform, better APIs. Simplicity and optimism. Personal opinions.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:55:19.847Z"
+  "last_updated": "2026-01-21T07:56:04.784Z"
 }
