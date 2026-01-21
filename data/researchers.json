@@ -6243,7 +6243,23 @@
       "linkedin": "",
       "notes": "@ OpenAI, past: post-training o3/4o, Sora 1 & 2, applied research. Key post-training researcher.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024213716-9652",
+      "name": "Bowen Wen",
+      "city": "SF",
+      "tags": [
+        "NVIDIA",
+        "Robotics",
+        "Computer Vision",
+        "prev GoogleX",
+        "prev Meta"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Senior Research Scientist @ NVIDIA, Computer Vision & Robotics, prev GoogleX, Meta, Amazon",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:36:52.369Z"
+  "last_updated": "2026-01-21T19:36:53.716Z"
 }
