@@ -4062,7 +4062,21 @@
       "linkedin": "",
       "notes": "PhD @ NYU, Research Scientist Intern @ Meta MSL, building self-improving AI in open-ended world, prev memory & learning in the brain",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989099190-5645",
+      "name": "Bryon Kucharski",
+      "city": "SF",
+      "tags": [
+        "Gartner",
+        "Search & LLMs",
+        "UMass"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Search & LLMs @ Gartner, MS from UMass Manning CICS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:49:44.665Z"
+  "last_updated": "2026-01-21T09:51:39.190Z"
 }
