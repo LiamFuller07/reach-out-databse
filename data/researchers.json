@@ -1889,7 +1889,25 @@
       "linkedin": "",
       "notes": "Prof @ Northeastern | MIT TR-35 | AI2050 Early Career Fellow | Prev Columbia, Stanford NLP | Co-created CICERO (Meta's diplomacy AI) | long-horizon human-AI interaction + AI safety",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984920352-5193",
+      "name": "Nina Miolane",
+      "city": "Santa Barbara",
+      "tags": [
+        "UCSB",
+        "Assistant Professor",
+        "Stanford",
+        "Inria",
+        "Imperial College",
+        "Polytechnique",
+        "Geometric Intelligence"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Assistant Prof @ UCSB ECE, PI @ geometric_intel. Prev Stanford, Inria, Imperial College, Polytechnique. Pilot.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:41:20.461Z"
+  "last_updated": "2026-01-21T08:42:00.352Z"
 }
