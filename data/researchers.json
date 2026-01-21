@@ -4226,7 +4226,20 @@
       "linkedin": "",
       "notes": "Team member @ Periodic Labs, Adjunct Prof @ McGill, Member of Mila, creator of Bahdanau attention mechanism (foundational to transformers)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989355483-5284",
+      "name": "Lequn Chen",
+      "city": "SF",
+      "tags": [
+        "LLM Inference",
+        "ML Infrastructure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Faster and cheaper LLM inference - ML infrastructure researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:55:19.014Z"
+  "last_updated": "2026-01-21T09:55:55.483Z"
 }
