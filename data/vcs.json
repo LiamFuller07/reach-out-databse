@@ -154,7 +154,22 @@
       "linkedin": "",
       "notes": "Partner @ Initialized Capital",
       "checked": false
+    },
+    {
+      "id": "vcs-1768990836796-5631",
+      "name": "Molly O'Shea",
+      "city": "SF",
+      "tags": [
+        "Sourcery",
+        "Tech Investor",
+        "Newsletter",
+        "Podcast"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Investing & Tech, Newsletter/Podcast @ Sourcery",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:07:24.602Z"
+  "last_updated": "2026-01-21T10:20:36.796Z"
 }
