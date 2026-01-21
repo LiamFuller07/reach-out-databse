@@ -5361,7 +5361,21 @@
       "linkedin": "",
       "notes": "Co-founder @ Thinking Machines Lab. Ex-VP AI Safety @ OpenAI. Famous for her ML blog posts (lilianweng.github.io).",
       "checked": false
+    },
+    {
+      "id": "founders-1768985800803-6270",
+      "name": "OpenAGI Labs",
+      "city": "SF",
+      "tags": [
+        "Computer-Use Agents",
+        "Open Source",
+        "AGI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building the world's best Computer-Use Agent Models and open ecosystem around it.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:55:38.961Z"
+  "last_updated": "2026-01-21T08:56:40.803Z"
 }
