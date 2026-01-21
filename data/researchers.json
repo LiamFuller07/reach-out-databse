@@ -3767,7 +3767,22 @@
       "linkedin": "",
       "notes": "Asst Prof @ Texas A&M, PhD @ UIUC, BS @ PKU, 3x MSFT Research intern, Data Mining, NLP, AI4Science",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988732461-5445",
+      "name": "Zekun Wang (ZenMoore)",
+      "city": "SF",
+      "tags": [
+        "Kling AI",
+        "LLM",
+        "MLLM",
+        "GenAI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "LLM/MLLM/GenAI Researcher @ Kling AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:44:45.137Z"
+  "last_updated": "2026-01-21T09:45:32.461Z"
 }
