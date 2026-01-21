@@ -6226,7 +6226,24 @@
       "linkedin": "",
       "notes": "Assistant Professor CS @ Carnegie Mellon, Systems and ML, PhD CS Stanford",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024212369-3995",
+      "name": "Will Depue",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Post-training",
+        "o3",
+        "o4o",
+        "Sora",
+        "Applied Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ OpenAI, past: post-training o3/4o, Sora 1 & 2, applied research. Key post-training researcher.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:34:06.492Z"
+  "last_updated": "2026-01-21T19:36:52.369Z"
 }
