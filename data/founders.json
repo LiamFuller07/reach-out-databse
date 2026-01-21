@@ -5484,7 +5484,23 @@
       "linkedin": "",
       "notes": "Program Manager @ DARPA, Professor of Math and CS @ Rutgers-Newark, co-founder @ Redpoll.ai, Math @ Institute for Advanced Study 2021-2023",
       "checked": false
+    },
+    {
+      "id": "founders-1768986562237-1128",
+      "name": "Andy Konwinski",
+      "city": "SF",
+      "tags": [
+        "Databricks co-founder",
+        "Perplexity AI co-founder",
+        "Laude Institute",
+        "Laude Ventures",
+        "Serial Entrepreneur"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder of Databricks ($43B), Perplexity AI, Laude Institute, and Laude Ventures. Serial entrepreneur with multiple successful exits in AI/data infrastructure",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:08:35.053Z"
+  "last_updated": "2026-01-21T09:09:22.237Z"
 }
