@@ -4540,7 +4540,20 @@
       "linkedin": "",
       "notes": "@ Red Hat AI, ex-Microsoft, ex-AWS, three decades in tech, two decades in Asia",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989812860-2979",
+      "name": "Robert Washbourne",
+      "city": "SF",
+      "tags": [
+        "Zyphra",
+        "RL"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "RL @ Zyphra (AI startup)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:02:50.329Z"
+  "last_updated": "2026-01-21T10:03:32.860Z"
 }
