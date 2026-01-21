@@ -6178,7 +6178,23 @@
       "linkedin": "",
       "notes": "Data systems & HCI researcher, created docetl.org and evals.info, PhD @ Berkeley EECS, Stanford CS undergrad, on CS faculty job market",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024043236-904",
+      "name": "Deepak Narayanan",
+      "city": "SF",
+      "tags": [
+        "NVIDIA",
+        "Research Scientist",
+        "Systems",
+        "ML",
+        "Computer Systems"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ NVIDIA, intersection of Computer Systems and ML",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:33:02.942Z"
+  "last_updated": "2026-01-21T19:34:03.236Z"
 }
