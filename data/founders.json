@@ -6696,7 +6696,20 @@
       "linkedin": "",
       "notes": "CEO @ Quora, working on Poe platform",
       "checked": false
+    },
+    {
+      "id": "founders-1768994148076-8960",
+      "name": "David Hariri",
+      "city": "SF",
+      "tags": [
+        "Ada CX",
+        "AI Customer Service"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Making @ Ada CX (AI customer service)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:14:38.144Z"
+  "last_updated": "2026-01-21T11:15:48.076Z"
 }
