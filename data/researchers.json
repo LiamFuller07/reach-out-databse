@@ -7389,7 +7389,24 @@
       "linkedin": "",
       "notes": "Asst Prof of Biomedical Informatics @ Harvard Medical School, Founding Deputy Editor @ NEJM AI, Co-host NEJM AI Grand Rounds",
       "checked": false
+    },
+    {
+      "id": "researchers-1769027017572-5041",
+      "name": "Konstantinos Kanellis",
+      "city": "SF",
+      "tags": [
+        "Wisconsin CS",
+        "Data Systems",
+        "PhD",
+        "Amazon",
+        "Microsoft Research",
+        "CERN"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Data Systems PhD student @ Wisconsin CS, ex-intern @ Amazon Science, Microsoft Research, IBM Research, CERN",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:23:01.185Z"
+  "last_updated": "2026-01-21T20:23:37.572Z"
 }
