@@ -899,7 +899,21 @@
       "linkedin": "",
       "notes": "20. CS at Cambridge University.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981736488-306",
+      "name": "Marshall Richards",
+      "city": "SF",
+      "tags": [
+        "ML",
+        "Robotics",
+        "Computer Operator"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML & robotics | Computer operator | Aiming for wirehead-free utopias",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:57.214Z"
+  "last_updated": "2026-01-21T07:48:56.488Z"
 }
