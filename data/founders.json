@@ -5052,7 +5052,22 @@
       "linkedin": "",
       "notes": "justinlokos.com",
       "checked": false
+    },
+    {
+      "id": "founders-1768984665717-9917",
+      "name": "Ridwan Shariffdeen",
+      "city": "SF",
+      "tags": [
+        "AutoCodeRover",
+        "CEO",
+        "Co-Founder",
+        "Code Generation"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO & Co-Founder @ AutoCodeRover",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:37:09.116Z"
+  "last_updated": "2026-01-21T08:37:45.717Z"
 }
