@@ -2859,7 +2859,24 @@
       "linkedin": "",
       "notes": "AI researcher (partial profile view)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986564450-4065",
+      "name": "Roberta Raileanu",
+      "city": "London",
+      "tags": [
+        "Google DeepMind",
+        "UCL",
+        "Llama-3",
+        "Toolformer",
+        "Rainbow Teaming",
+        "MLGym"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Senior Staff Research Scientist @ Google DeepMind, Honorary Lecturer @ UCL, ex Meta/Microsoft Research/NYU/Princeton, worked on Llama-3, Toolformer, Rainbow Teaming, MLGym",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:08:36.216Z"
+  "last_updated": "2026-01-21T09:09:24.450Z"
 }
