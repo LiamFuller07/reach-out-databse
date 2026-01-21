@@ -2530,14 +2530,17 @@
     {
       "id": "researchers-1768986028370-3044",
       "name": "Junli Wang",
-      "city": "SF",
+      "city": "San Diego",
       "tags": [
-        "AI Researcher",
-        "LLM"
+        "UCSD CSE",
+        "PhD",
+        "Tsinghua",
+        "XLang NLP",
+        "Alibaba Qwen"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Engaged with RL scaling laws research. Commented \"Great work Jorge! Super solid and insightful\".",
+      "notes": "PhD @ UCSD CSE, prev Tsinghua, XLang NLP, Alibaba Qwen team",
       "checked": false
     },
     {
@@ -3434,5 +3437,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:29:44.519Z"
+  "last_updated": "2026-01-21T09:30:55.350Z"
 }
