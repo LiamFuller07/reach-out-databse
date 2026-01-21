@@ -3609,7 +3609,22 @@
       "linkedin": "",
       "notes": "Training LLM researcher",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988129759-7960",
+      "name": "Leonard Bruns",
+      "city": "SF",
+      "tags": [
+        "Niantic",
+        "Computer Vision",
+        "Robotics",
+        "Graphics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Computer Vision Researcher @ Niantic Spatial, interested in CV, robotics, and computer graphics",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:34:46.741Z"
+  "last_updated": "2026-01-21T09:35:29.759Z"
 }
