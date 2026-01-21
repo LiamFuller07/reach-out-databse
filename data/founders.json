@@ -7300,7 +7300,22 @@
       "linkedin": "",
       "notes": "CEO & co-founder @ Duolingo, invented reCAPTCHA, MacArthur Fellow, former CMU CS professor",
       "checked": false
+    },
+    {
+      "id": "founders-1769026953307-295",
+      "name": "Brooke Hopkins",
+      "city": "SF",
+      "tags": [
+        "Covaldev",
+        "YC S24",
+        "Waymo",
+        "Google"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Covaldev (YC S24), ex-Waymo, Google",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:21:56.324Z"
+  "last_updated": "2026-01-21T20:22:33.307Z"
 }
