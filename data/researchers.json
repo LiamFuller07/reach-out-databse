@@ -1937,7 +1937,21 @@
       "linkedin": "",
       "notes": "Professor of CS @ UW, author of 'The Master Algorithm' and '2040'. ML pioneer and influential AI researcher.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985066910-939",
+      "name": "Yacine Mahdid",
+      "city": "SF",
+      "tags": [
+        "neuro/ai",
+        "Deep Learning",
+        "Technical Tutorials"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Makes technical deep learning tutorials focused on neuro/ai intersection.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:42:37.859Z"
+  "last_updated": "2026-01-21T08:44:26.910Z"
 }
