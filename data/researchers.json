@@ -1178,7 +1178,22 @@
       "linkedin": "",
       "notes": "Hill climbing @PrimeIntellect - working on optimization/training for open superintelligence.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982273470-2975",
+      "name": "shyamal",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Duke",
+        "Applied AI",
+        "Explorer"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Applied AI. prev @openai @dukeu. Explorer.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:57:20.689Z"
+  "last_updated": "2026-01-21T07:57:53.470Z"
 }
