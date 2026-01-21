@@ -5955,7 +5955,23 @@
       "linkedin": "",
       "notes": "'Silicon whisperer' - likely GPU/hardware engineer, in Prime Intellect's following",
       "checked": false
+    },
+    {
+      "id": "researchers-1768993251630-2334",
+      "name": "Ameen Patel",
+      "city": "SF",
+      "tags": [
+        "Prime Intellect",
+        "Inference",
+        "prev Together Compute",
+        "Amazon Science",
+        "Waterloo"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Inference @ Prime Intellect, prev Together Compute, Amazon Science, University of Waterloo",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:00:20.573Z"
+  "last_updated": "2026-01-21T11:00:51.630Z"
 }
