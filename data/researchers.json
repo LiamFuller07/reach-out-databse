@@ -3668,7 +3668,24 @@
       "linkedin": "",
       "notes": "Professor of Computer Science @ UC Berkeley",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988174590-4856",
+      "name": "Chenyuan Yang",
+      "city": "Urbana-Champaign",
+      "tags": [
+        "UIUC",
+        "PhD",
+        "Software Reliability",
+        "LLMs",
+        "Fuzzing",
+        "Verification"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "4th-year PhD @ UIUC, improving software systems reliability by fuzzing, reasoning and verification with LLMs",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:36:13.432Z"
+  "last_updated": "2026-01-21T09:36:14.590Z"
 }
