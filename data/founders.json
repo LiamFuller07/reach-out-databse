@@ -4271,14 +4271,13 @@
       "name": "Dan McAteer",
       "city": "SF",
       "tags": [
-        "AI engineer",
         "Sourcegraph",
-        "Token Stream",
-        "AI ethics"
+        "AI Engineer",
+        "Token Stream newsletter"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "AI Engineer at Sourcegraph. Writing Token Stream newsletter. Interested in Goodness, Truth and AI.",
+      "notes": "AI Engineer at Sourcegraph. Writes Token Stream newsletter.",
       "checked": false
     },
     {
@@ -4675,5 +4674,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:21:57.321Z"
+  "last_updated": "2026-01-21T08:21:58.857Z"
 }
