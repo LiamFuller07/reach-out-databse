@@ -7602,7 +7602,21 @@
       "linkedin": "",
       "notes": "Snowflake AI Research Team, co-founder of DeepSpeed AI (Microsoft's distributed training library), Brown CS PhD, UW CSE alum",
       "checked": false
+    },
+    {
+      "id": "researchers-1769030407313-6402",
+      "name": "Aurick Qiao",
+      "city": "SF",
+      "tags": [
+        "thinkymachines",
+        "ML Systems",
+        "Carnegie Mellon PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML Systems @ thinkymachines, PhD CS @ Carnegie Mellon",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:20:06.129Z"
+  "last_updated": "2026-01-21T21:20:07.313Z"
 }
