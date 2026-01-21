@@ -2496,7 +2496,21 @@
       "linkedin": "",
       "notes": "Collaborator on RL scaling laws research with Zhoujun Cheng.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985984125-9344",
+      "name": "Aviral Kumar",
+      "city": "SF",
+      "tags": [
+        "RL Scaling Laws",
+        "LLM RL",
+        "Mentor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Thanked as mentor on RL scaling laws research - \"kind, sharp, and principled\".",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:59:42.945Z"
+  "last_updated": "2026-01-21T08:59:44.125Z"
 }
