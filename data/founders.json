@@ -5957,7 +5957,23 @@
       "linkedin": "",
       "notes": "@ xAI, prev Head of Growth @ Scale AI, Co-founded Pesto Tech",
       "checked": false
+    },
+    {
+      "id": "founders-1768992212486-1359",
+      "name": "Adarsh",
+      "city": "SF",
+      "tags": [
+        "Tensoic",
+        "SGLang",
+        "LMSYS",
+        "IISc Bangalore",
+        "Multimodal"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "21 y/o Founder @ Tensoic, multimodal team @ SGLang (LMSYS), prev IISc Bangalore",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:40:18.990Z"
+  "last_updated": "2026-01-21T10:43:32.486Z"
 }
