@@ -7329,7 +7329,23 @@
       "linkedin": "",
       "notes": "Founding Editor @ Asimov Press",
       "checked": false
+    },
+    {
+      "id": "founders-1769027109141-8891",
+      "name": "Anish Athalye",
+      "city": "SF",
+      "tags": [
+        "Cleanlab AI",
+        "CTO",
+        "MIT CSAIL",
+        "Data Quality",
+        "PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO @ Cleanlab AI (data quality), prev PhD @ MIT CSAIL, research at anish.io, active open-source contributor",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:24:21.690Z"
+  "last_updated": "2026-01-21T20:25:09.141Z"
 }
