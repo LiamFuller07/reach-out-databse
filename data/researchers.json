@@ -2799,7 +2799,23 @@
       "linkedin": "",
       "notes": "Building Qwen universe @ Alibaba, key lead on Qwen LLM team, one of China's top open-source LLM projects",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986468701-4660",
+      "name": "Richard Peng",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU SCS",
+        "UW Adjunct",
+        "Graph Algorithms",
+        "Sparse Matrix",
+        "Theory"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Associate Professor @ CMU SCS, Adjunct Professor @ UW Cheriton CS, research on efficient graph/sparse matrix algorithms, theoretical CS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:07:08.702Z"
+  "last_updated": "2026-01-21T09:07:48.701Z"
 }
