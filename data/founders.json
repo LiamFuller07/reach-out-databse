@@ -7449,7 +7449,21 @@
       "linkedin": "",
       "notes": "Founder @ Conductor (conductor.build) - Mac app for running Claude Code instances in parallel, AI orchestration interfaces, 27K+ followers",
       "checked": false
+    },
+    {
+      "id": "founders-1769031404375-9479",
+      "name": "Jackson de Campos",
+      "city": "SF",
+      "tags": [
+        "Conductor",
+        "AI Orchestration",
+        "Developer Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Conductor (conductor.build) - multi-agent coding orchestration for Mac",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:34:54.265Z"
+  "last_updated": "2026-01-21T21:36:44.375Z"
 }
