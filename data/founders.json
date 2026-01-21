@@ -5746,7 +5746,23 @@
       "linkedin": "",
       "notes": "AI investor & startup founder, founder @ SkipFlag, EIR @ Accel, prev Data Science & ML @ LinkedIn, AOL, MIT",
       "checked": false
+    },
+    {
+      "id": "founders-1768989732874-4344",
+      "name": "Charlie Marsh",
+      "city": "SF",
+      "tags": [
+        "Astral.sh",
+        "Ruff",
+        "uv",
+        "Python Tools",
+        "Khan Academy"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building Astral.sh - creator of Ruff (fast Python linter) and uv (fast Python package manager), prev Staff Engineer @ Spring Discovery & Khan Academy",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:01:27.319Z"
+  "last_updated": "2026-01-21T10:02:12.874Z"
 }
