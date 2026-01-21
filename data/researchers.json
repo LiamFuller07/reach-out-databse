@@ -5337,7 +5337,23 @@
       "linkedin": "",
       "notes": "Research @ Meta Superintelligence Labs - RL/post-training/agents, prev Research @ OpenAI on multimodal and RL",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991629650-2655",
+      "name": "Aldo Pacchiano",
+      "city": "Boston",
+      "tags": [
+        "Broad Institute",
+        "Boston University",
+        "RL",
+        "Bandits",
+        "Experiment Design"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI research at Broad Institute and Boston University, Reinforcement Learning / Bandits / Experiment Design",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:27:05.965Z"
+  "last_updated": "2026-01-21T10:33:49.650Z"
 }
