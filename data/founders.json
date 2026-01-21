@@ -6786,7 +6786,22 @@
       "linkedin": "",
       "notes": "Scaling voice LLMs @ Rime Labs, bioML, industrial policy",
       "checked": false
+    },
+    {
+      "id": "founders-1768994253132-1039",
+      "name": "Neil Chudleigh",
+      "city": "SF",
+      "tags": [
+        "Superwhisper",
+        "Homerow",
+        "PartnerStack",
+        "Developer Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Builds Superwhisper app & Homerow app, prev co-founded PartnerStack",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:16:41.602Z"
+  "last_updated": "2026-01-21T11:17:33.132Z"
 }
