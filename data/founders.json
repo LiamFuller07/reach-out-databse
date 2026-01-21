@@ -5123,7 +5123,23 @@
       "linkedin": "",
       "notes": "LufLuf.me founder | AI PM & early-stage startup advisory | prev Red Bull GenAI PM | prev Google Software Engineer",
       "checked": false
+    },
+    {
+      "id": "founders-1768984833151-6250",
+      "name": "Shumo Chu",
+      "city": "SF",
+      "tags": [
+        "Stealth AI Startup",
+        "Ex-Professor",
+        "UCSB CS",
+        "UW CSE PhD",
+        "Google"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Brewing a stealth mode AI startup. Ex prof @ UCSB CS, PhD @ UW CSE, eng @ Google",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:39:50.655Z"
+  "last_updated": "2026-01-21T08:40:33.151Z"
 }
