@@ -7406,7 +7406,22 @@
       "linkedin": "",
       "notes": "Data Systems PhD student @ Wisconsin CS, ex-intern @ Amazon Science, Microsoft Research, IBM Research, CERN",
       "checked": false
+    },
+    {
+      "id": "researchers-1769027018803-3821",
+      "name": "Anshul Kundaje",
+      "city": "SF",
+      "tags": [
+        "Stanford",
+        "Genomics",
+        "ML",
+        "Professor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Stanford Prof, genomics/ML research, advocate for federally funded academic research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:23:37.572Z"
+  "last_updated": "2026-01-21T20:23:38.803Z"
 }
