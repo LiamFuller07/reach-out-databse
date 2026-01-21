@@ -4423,7 +4423,24 @@
       "linkedin": "",
       "notes": "Co-founder at @HuggingFace - moonshots - angel investor - working on Chrysopoeia. Key figure in open source AI/ML.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982162669-2541",
+      "name": "Sherwood Callaway",
+      "city": "SF",
+      "tags": [
+        "Exited YC Founder",
+        "a16z Infra Scout",
+        "Brex early SWE",
+        "Agents",
+        "Dev Tools",
+        "Observability"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Agents + Dev Tools + Observability ◆ Exited YC Founder @garrytan ◆ Infra Scout @a16z ◆ Early SWE @brexHQ ◆ Also: @crunchbase @11x_official",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:56:01.631Z"
+  "last_updated": "2026-01-21T07:56:02.669Z"
 }
