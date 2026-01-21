@@ -6998,7 +6998,23 @@
       "linkedin": "",
       "notes": "Founder @ emergentic.ai, Adj Prof @ UCLA. AI storytelling & simulation, LACMA-commissioned artist, Games/Media/AI.",
       "checked": false
+    },
+    {
+      "id": "founders-1769025198207-728",
+      "name": "James Wilsterman",
+      "city": "SF",
+      "tags": [
+        "Volley Games",
+        "Voice AI",
+        "CTO",
+        "Cerebral Valley Summit",
+        "Alexa Games"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CTO @ Volley Games - Voice AI games on Alexa, Roku, Fire TV. Hosting Cerebral Valley AI Summit.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:51:39.356Z"
+  "last_updated": "2026-01-21T19:53:18.207Z"
 }
