@@ -4076,7 +4076,21 @@
       "linkedin": "",
       "notes": "Co-founder & CEO @ Vibe Code App | Hiring in-person in SF only | DMs open",
       "checked": false
+    },
+    {
+      "id": "founders-1768981824338-7140",
+      "name": "Roushan Kumar",
+      "city": "SF",
+      "tags": [
+        "Doctransfer",
+        "IIT Patna",
+        "Document AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building Doctransfer.app. IIT Patna CSE background. Document/file transfer product. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:50:23.673Z"
+  "last_updated": "2026-01-21T07:50:24.338Z"
 }
