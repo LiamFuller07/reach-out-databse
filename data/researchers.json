@@ -1621,7 +1621,23 @@
       "linkedin": "",
       "notes": "Author of AI Engineering and Designing MLSys books (@aisysbooks), @chipslib, highly influential ML educator",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984555754-104",
+      "name": "Niels Rogge",
+      "city": "SF",
+      "tags": [
+        "HuggingFace",
+        "ML6",
+        "ML Engineer",
+        "KU Leuven",
+        "Open Source"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML Engineer @ ML6 team @HuggingFace, KU Leuven grad, making AI more accessible for everyone",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:34:45.225Z"
+  "last_updated": "2026-01-21T08:35:55.754Z"
 }
