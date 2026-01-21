@@ -3462,7 +3462,21 @@
       "linkedin": "",
       "notes": "CEO @ E2B | Open-source cloud for AI agents | Building sandboxed environments for agent execution",
       "checked": false
+    },
+    {
+      "id": "founders-1768981366051-8390",
+      "name": "zhenwei",
+      "city": "SF",
+      "tags": [
+        "Cerebras",
+        "Stanford",
+        "DevX"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "DevX @ Cerebras | Prev intl security @ Stanford | AI infrastructure",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:42:12.431Z"
+  "last_updated": "2026-01-21T07:42:46.052Z"
 }
