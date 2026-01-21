@@ -7268,7 +7268,23 @@
       "linkedin": "",
       "notes": "Cofounder & CTO @ schemantic.io, applied AI & data science",
       "checked": false
+    },
+    {
+      "id": "founders-1769026654535-2490",
+      "name": "Randy Olson",
+      "city": "SF",
+      "tags": [
+        "GoodeyeLabs",
+        "AI Quality",
+        "Evals",
+        "Data Viz",
+        "ML Researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CTO @ GoodeyeLabs - building tools that put domain experts in control of AI quality, 15+ years building AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:17:02.319Z"
+  "last_updated": "2026-01-21T20:17:34.535Z"
 }
