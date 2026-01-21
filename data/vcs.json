@@ -468,7 +468,21 @@
       "linkedin": "",
       "notes": "Invested in Andon Labs (Vending-Bench creators). YC standard deal is $500K. One of the most prestigious startup accelerators. Backed companies like Airbnb, Stripe, Dropbox.",
       "checked": false
+    },
+    {
+      "id": "vcs-1769032660239-4200",
+      "name": "Juniper Ventures",
+      "city": "San Francisco",
+      "tags": [
+        "Andon Labs investor",
+        "Seed Stage",
+        "AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Invested in Andon Labs (Vending-Bench creators). Early stage VC firm.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:38.313Z"
+  "last_updated": "2026-01-21T21:57:40.239Z"
 }
