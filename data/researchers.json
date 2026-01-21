@@ -7845,7 +7845,23 @@
       "linkedin": "",
       "notes": "AI risks researcher - \"AI risks are hard to study - we need more transparency and rigor.\" Senior Researcher @GovAIOrg, @METR_Evals. Podcast @HearThisIdea.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769032645961-1730",
+      "name": "Gaurav Sahu",
+      "city": "",
+      "tags": [
+        "AI evals",
+        "LLM evaluation",
+        "Mila",
+        "AI4Science",
+        "benchmarks"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Postdoc @Mila_Quebec. Bridging AI and scientific research. Excited about LLM evaluation (beyond benchmarks). #AI4Science.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:24.682Z"
+  "last_updated": "2026-01-21T21:57:25.961Z"
 }
