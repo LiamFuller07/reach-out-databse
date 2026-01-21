@@ -7571,7 +7571,22 @@
       "linkedin": "",
       "notes": "Built Codebase Knowledge Graphs for Cursor integration via CodeGPT platform. Video showing KG in Cursor editor got 229K views, 2.1K likes. Developer tools + Knowledge Graph focus.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032320466-9689",
+      "name": "Priyanka Vergadia",
+      "city": "",
+      "tags": [
+        "graph-rag",
+        "knowledge-graphs",
+        "ai-education",
+        "google-cloud"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Creates GraphRAG educational content including cheatsheets. Explains how GraphRAG treats documents as interconnected entities vs isolated text chunks. Strong educator presence in the graph + AI space.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:51:41.559Z"
+  "last_updated": "2026-01-21T21:52:00.466Z"
 }
