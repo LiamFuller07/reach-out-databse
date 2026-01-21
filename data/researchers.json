@@ -1078,17 +1078,16 @@
     {
       "id": "researchers-1768982049080-3588",
       "name": "Alex L Zhang",
-      "city": "SF",
+      "city": "Boston",
       "tags": [
-        "AI researcher",
         "MIT CSAIL",
         "Princeton",
-        "GPU MODE",
-        "kernel competitions"
+        "GPU_MODE",
+        "PhD student"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "PhD student at MIT CSAIL, undergrad Princeton. GPU MODE kernel competitions participant.",
+      "notes": "PhD student @MIT_CSAIL, undergrad @Princeton. Active in @GPU_MODE kernel competitions.",
       "checked": false
     },
     {
@@ -1122,5 +1121,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:58.817Z"
+  "last_updated": "2026-01-21T07:55:02.994Z"
 }
