@@ -4769,7 +4769,20 @@
       "linkedin": "",
       "notes": "PhD researcher, intern @ Moonshot AI, work on Kimi Linear, K2, MM-Eureka",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990304276-4743",
+      "name": "Zhuzilin Allen",
+      "city": "SF",
+      "tags": [
+        "Z.ai",
+        "ML Engineer"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Z.ai, github.com/zhuzilin",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:11:14.014Z"
+  "last_updated": "2026-01-21T10:11:44.276Z"
 }
