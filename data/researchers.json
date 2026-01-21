@@ -3308,7 +3308,21 @@
       "linkedin": "",
       "notes": "Founding Member @ Radix Ark, SGLang & Large-scale RL @ LMSYS, prev Tsinghua, CMU, UCLA, Amazon, ByteDance",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987702563-4165",
+      "name": "Joanne Jang",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Labs GM",
+        "Model Behavior"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "GM, Labs @ OpenAI (prev: model behavior)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:27:42.713Z"
+  "last_updated": "2026-01-21T09:28:22.563Z"
 }
