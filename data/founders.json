@@ -4104,7 +4104,21 @@
       "linkedin": "",
       "notes": "Founder @ Build Club (AI community) + @ Solaris AI | SF",
       "checked": false
+    },
+    {
+      "id": "founders-1768981834261-8663",
+      "name": "Saketh Sanjay",
+      "city": "SF",
+      "tags": [
+        "Young Founder",
+        "Tera",
+        "16 years old"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "16 year old founder at Tera. Young technical founder. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:50:25.772Z"
+  "last_updated": "2026-01-21T07:50:34.261Z"
 }
