@@ -4659,7 +4659,25 @@
       "linkedin": "",
       "notes": "Cofounder at Humans And (@humansand) with Eric Zelikman, Gharik, Noah D. Goodman, TheAndiPenguin. Previous: xAI, OpenAI, Meta, Apple. Education: UIUC, UT Austin.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982804047-9916",
+      "name": "Rohan Varma",
+      "city": "SF",
+      "tags": [
+        "Cursor",
+        "AI Code Editor",
+        "Developer Tools",
+        "Palantir",
+        "CZI",
+        "adoptclarity",
+        "tryexplo"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building @cursor_ai - leading AI code editor. Previously: @adoptclarity, @tryexplo, @czi (Chan Zuckerberg Initiative), @palantirtech. Recent work on Cursor Bugbot (AI code reviewer) and Plan mode.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:06:09.311Z"
+  "last_updated": "2026-01-21T08:06:44.047Z"
 }
