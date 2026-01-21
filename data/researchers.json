@@ -3578,7 +3578,25 @@
       "linkedin": "",
       "notes": "Building personal superintelligence @ OPPO, prev AIWaves, former CS PhD student @ ETHZ, former researcher @ ByteDance, intern @ MSRA and PYI @ AI2",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988085581-2652",
+      "name": "Kexin Pei",
+      "city": "Chicago",
+      "tags": [
+        "UChicago",
+        "Asst Prof",
+        "Columbia PhD",
+        "DeepMind",
+        "MSFT Research",
+        "AISec",
+        "ML4Code"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Asst Prof @ UChicago 2024, CS PhD @ Columbia, ex-Google DeepMind, MSFT Research, Purdue, Security/SE/ML, AISec+ML4Code",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:34:44.434Z"
+  "last_updated": "2026-01-21T09:34:45.581Z"
 }
