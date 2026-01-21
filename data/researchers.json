@@ -5400,7 +5400,22 @@
       "linkedin": "",
       "notes": "Assistant Professor @ Cornell Tech + Research Scientist @ Databricks, working on Reinforcement Learning",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991675701-9318",
+      "name": "Jiaxun Cui",
+      "city": "Austin",
+      "tags": [
+        "UT Austin",
+        "PhD",
+        "RL",
+        "SJTU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ UT Austin (utlarg), undergrad SJTU, RL researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:33:53.102Z"
+  "last_updated": "2026-01-21T10:34:35.701Z"
 }
