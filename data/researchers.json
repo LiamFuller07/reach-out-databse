@@ -5029,7 +5029,20 @@
       "linkedin": "",
       "notes": "AI PhD student @ Oxford AIMS, ex-AI Research @ JPMorgan, EE with Great Distinction @ NYU",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990556821-6866",
+      "name": "Kartik Sharma",
+      "city": "LA",
+      "tags": [
+        "UCLA PhD",
+        "ECE"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD ECE @ UCLA",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:15:55.510Z"
+  "last_updated": "2026-01-21T10:15:56.821Z"
 }
