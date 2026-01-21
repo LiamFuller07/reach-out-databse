@@ -3638,7 +3638,23 @@
       "linkedin": "",
       "notes": "Asst Prof @ Stevens, PhD @ Rice Computer Science",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988132195-8782",
+      "name": "Shangbin Feng",
+      "city": "Seattle",
+      "tags": [
+        "UW",
+        "NLP",
+        "PhD",
+        "Model Collaboration",
+        "Compositional Intelligence"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student @ UW CSE/NLP, model collaboration, compositional intelligence and collaborative development",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:35:30.909Z"
+  "last_updated": "2026-01-21T09:35:32.195Z"
 }
