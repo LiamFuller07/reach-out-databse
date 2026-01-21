@@ -4135,7 +4135,21 @@
       "linkedin": "",
       "notes": "PhD student @ OSU NLP, prev Nanjing University, former intern @ Microsoft Research & Intuit",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989245807-8965",
+      "name": "Wentao Guo",
+      "city": "Princeton",
+      "tags": [
+        "Princeton PhD",
+        "Cornell",
+        "CS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS PhD student @ Princeton, prev CS MEng + BS @ Cornell CIS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:52:45.507Z"
+  "last_updated": "2026-01-21T09:54:05.807Z"
 }
