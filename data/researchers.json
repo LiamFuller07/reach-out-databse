@@ -7374,7 +7374,22 @@
       "linkedin": "",
       "notes": "Member of technical staff @ xAI, Co-founder @ LMSYS (Chatbot Arena, vLLM), PhD UC Berkeley",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026981185-7823",
+      "name": "Arjun Manrai",
+      "city": "SF",
+      "tags": [
+        "Harvard Medical School",
+        "NEJM AI",
+        "Biomedical Informatics",
+        "Professor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Asst Prof of Biomedical Informatics @ Harvard Medical School, Founding Deputy Editor @ NEJM AI, Co-host NEJM AI Grand Rounds",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:22:59.913Z"
+  "last_updated": "2026-01-21T20:23:01.185Z"
 }
