@@ -2304,7 +2304,23 @@
       "linkedin": "",
       "notes": "\"The ML Guy\" - ML educator covering ML applications, ML System Design, MLOps, and latest techniques.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985514657-1975",
+      "name": "Aran Nayebi",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU Professor",
+        "ML Department",
+        "BWFUND CASI Fellow",
+        "MIT",
+        "Stanford"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Assistant Professor @ Carnegie Mellon ML Department. BWFUND CASI Fellow. Building a Natural Science of Intelligence. Prev MIT, Stanford.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:51:09.817Z"
+  "last_updated": "2026-01-21T08:51:54.657Z"
 }
