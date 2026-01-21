@@ -410,7 +410,21 @@
       "linkedin": "",
       "notes": "Partner @ Foundation Capital, co-author of 'AI's trillion-dollar opportunity: Context graphs' article with Jaya Gupta, appeared on The Information TITV",
       "checked": false
+    },
+    {
+      "id": "vcs-1769029002097-4890",
+      "name": "Madison Faulkner",
+      "city": "SF",
+      "tags": [
+        "NEA",
+        "AI/Data/Infra",
+        "Engineer-Investor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Engineer investing in AI/data/infra @ NEA, connected to Foundation Capital network via Jaya Gupta",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:56:16.775Z"
+  "last_updated": "2026-01-21T20:56:42.097Z"
 }
