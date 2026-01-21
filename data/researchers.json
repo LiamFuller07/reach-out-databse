@@ -2132,7 +2132,20 @@
       "linkedin": "",
       "notes": "Director @ Max Planck Institute for Intelligent Systems (MPI-IS). Chief Scientist @ Meshcapade. Pioneer in 3D digital humans using vision, graphics, and learning. SMPL body model creator.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985289377-3371",
+      "name": "Micah Goldblum",
+      "city": "NYC",
+      "tags": [
+        "Columbia Professor",
+        "Machine Learning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor @ Columbia University. All things machine learning.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:48:08.297Z"
+  "last_updated": "2026-01-21T08:48:09.377Z"
 }
