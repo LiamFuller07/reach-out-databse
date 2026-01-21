@@ -2953,7 +2953,22 @@
       "linkedin": "",
       "notes": "A.M. Turing Award Recipient (2018, with Hinton & LeCun), most-cited AI researcher, Scientific Director @ MILA Quebec, Prof @ UMontreal, co-founder @ LawZero, Godfather of Deep Learning, AI safety advocate",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986697863-4921",
+      "name": "Timothy Gowers",
+      "city": "Paris",
+      "tags": [
+        "FIELDS MEDALIST",
+        "Collège de France",
+        "Trinity College Cambridge",
+        "Combinatorics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Fields Medal winner (1998), Professeur titulaire de la chaire Combinatoire @ Collège de France, Fellow of Trinity College Cambridge, one of the world's leading mathematicians",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:11:36.674Z"
+  "last_updated": "2026-01-21T09:11:37.863Z"
 }
