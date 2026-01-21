@@ -4995,7 +4995,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Snorkel AI, @uwcse, prev @StanfordAILab - data management systems for ML, weak supervision pioneer",
       "checked": false
+    },
+    {
+      "id": "founders-1768984556821-1899",
+      "name": "Avi Chawla",
+      "city": "SF",
+      "tags": [
+        "Daily Dose of DS",
+        "ML Educator",
+        "LLMs",
+        "RAGs",
+        "IIT Varanasi",
+        "Mastercard AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @dailydoseofds_, Daily tutorials on DS, ML, LLMs, RAGs. IIT Varanasi, ex-AI Engineer @ Mastercard AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:35:22.014Z"
+  "last_updated": "2026-01-21T08:35:56.821Z"
 }
