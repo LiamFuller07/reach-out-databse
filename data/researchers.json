@@ -1771,7 +1771,24 @@
       "linkedin": "",
       "notes": "Asst. professor @ UIUC CS. Formerly in the Stanford DAWN lab and the Berkeley Sky Lab",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984750852-4588",
+      "name": "Amrit Singh Bedi",
+      "city": "Orlando",
+      "tags": [
+        "UCF",
+        "NeurIPS 2025",
+        "SafeRR AI Lab",
+        "AI Alignment",
+        "RL",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS Faculty @ UCF (SafeRR AI Lab), prev UMD, ARL, IITK. Interested in Generative AI Alignment, RL, Optimization methods, Robotics, LLMs. NeurIPS 2025",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:39:08.538Z"
+  "last_updated": "2026-01-21T08:39:10.852Z"
 }
