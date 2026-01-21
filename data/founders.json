@@ -6510,7 +6510,22 @@
       "linkedin": "",
       "notes": "Co-founder @ Pylon (B2B AI-native customer support platform)",
       "checked": false
+    },
+    {
+      "id": "founders-1768993770589-6548",
+      "name": "Nathaniel Whittemore",
+      "city": "SF",
+      "tags": [
+        "Besuper AI",
+        "AIDailyBrief",
+        "Learncap",
+        "AI Adoption"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO @ Besuper AI (professional AI adoption platform), Host @ AIDailyBrief & BreakdownNLW, Venture Partner @ Learncap",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:09:29.446Z"
+  "last_updated": "2026-01-21T11:09:30.589Z"
 }
