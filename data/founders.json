@@ -7635,7 +7635,23 @@
       "linkedin": "",
       "notes": "Team member at Andon Labs. Previously at Tesla and University of Toronto (UofT). Works on AI benchmarking and autonomous systems.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032647189-99",
+      "name": "Mahmoud Mabrouk",
+      "city": "",
+      "tags": [
+        "AI evals",
+        "LLMOps",
+        "evaluation platform",
+        "open-source",
+        "agenta.ai"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building @agenta_ai - open-source LLMOps with integrated prompt management, evaluation, and observability. Follow for AI Engineering and LLMOps content.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:21.986Z"
+  "last_updated": "2026-01-21T21:57:27.189Z"
 }
