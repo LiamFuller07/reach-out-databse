@@ -1364,7 +1364,22 @@
       "linkedin": "",
       "notes": "@ Google Deepmind. Past: @MetaAI, @OpenAI, @unitygames, @losalamosnatlab, @Princeton etc. Always hungry for intelligence. Incredible AI pedigree.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984010020-822",
+      "name": "Sarah Chieng",
+      "city": "SF",
+      "tags": [
+        "Cerebras",
+        "Exa AI Labs",
+        "MIT",
+        "AI Hardware"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Cerebras. Prev: @ExaAiLabs, @shopthrifthouse, @MIT. Working on AI hardware/infrastructure.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:26:47.634Z"
+  "last_updated": "2026-01-21T08:26:50.020Z"
 }
