@@ -2659,7 +2659,22 @@
       "linkedin": "",
       "notes": "Faculty @ MIT CSAIL, leads Improbable AI Lab, research on robot learning, reinforcement learning, and embodied AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986245298-7096",
+      "name": "Rosanne Liu",
+      "city": "SF",
+      "tags": [
+        "ML Collective",
+        "Google Brain",
+        "NeurIPS",
+        "AI Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ ML Collective (non-profit research lab), prev Google Brain, NeurIPS area chair, research on neural network understanding",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:04:03.856Z"
+  "last_updated": "2026-01-21T09:04:05.298Z"
 }
