@@ -5654,7 +5654,23 @@
       "linkedin": "",
       "notes": "Building AI x learning products, Harvard '17, side project longcut.ai, YouTube and Substack creator",
       "checked": false
+    },
+    {
+      "id": "founders-1768987856340-6280",
+      "name": "Dharmesh Kakadia",
+      "city": "SF",
+      "tags": [
+        "Mixtrain.ai",
+        "Post-training",
+        "Nuro",
+        "Zoox",
+        "Microsoft Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building mixtrain.ai - post-training superpower for everyone, prev Nuro, Zoox, Microsoft Research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:23:57.551Z"
+  "last_updated": "2026-01-21T09:30:56.340Z"
 }
