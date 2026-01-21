@@ -4737,7 +4737,23 @@
       "linkedin": "",
       "notes": "Eng @ CoreWeave, prev Microsoft AI, Inflection AI, Cohere, Color - putting ML in YAML",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990271313-1558",
+      "name": "Behrooz Ghorbani",
+      "city": "SF",
+      "tags": [
+        "Reflection AI",
+        "Head of Scaling",
+        "ex-OpenAI",
+        "ex-Google Brain",
+        "Stanford"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Head of Science of Scaling @ Reflection AI, prev OpenAI, Google Brain, Stanford EE",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:09:37.176Z"
+  "last_updated": "2026-01-21T10:11:11.313Z"
 }
