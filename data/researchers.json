@@ -6916,7 +6916,23 @@
       "linkedin": "",
       "notes": "Research @ Tencent Hunyuan X, Co-founder @ WizardLM AI. Prev PKU, Microsoft.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769025383095-1643",
+      "name": "Can Xu",
+      "city": "Shenzhen",
+      "tags": [
+        "Tencent Hunyuan",
+        "WizardLM Creator",
+        "WizardCoder",
+        "WizardMath",
+        "LLM Evals"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Principal Researcher @ Tencent Hunyuan, Ex-Founder WizardLM AI. Creator of WizardLM Family: WizardLM, WizardCoder, WizardMath. Key contact for LLM evals.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:56:21.793Z"
+  "last_updated": "2026-01-21T19:56:23.095Z"
 }
