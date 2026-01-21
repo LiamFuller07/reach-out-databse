@@ -3614,7 +3614,22 @@
       "linkedin": "",
       "notes": "Founder @ Felicis Ventures | 12x Midas List | 10 IPOs | Top tier VC",
       "checked": false
+    },
+    {
+      "id": "founders-1768981571204-1769",
+      "name": "Andi Peng",
+      "city": "SF",
+      "tags": [
+        "Humans&",
+        "Anthropic",
+        "Claude",
+        "Co-founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Humans& | Prev building Claude @ Anthropic | AI researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:10.069Z"
+  "last_updated": "2026-01-21T07:46:11.204Z"
 }
