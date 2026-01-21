@@ -3448,7 +3448,21 @@
       "linkedin": "",
       "notes": "CEO @ OpenRouter (largest LLM marketplace, 500+ models) | Previously co-founder & CTO @ OpenSea",
       "checked": false
+    },
+    {
+      "id": "founders-1768981332431-4051",
+      "name": "Vasek Mlejnsky",
+      "city": "SF",
+      "tags": [
+        "E2B",
+        "AI Infrastructure",
+        "Open Source"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ E2B | Open-source cloud for AI agents | Building sandboxed environments for agent execution",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:42:11.387Z"
+  "last_updated": "2026-01-21T07:42:12.431Z"
 }
