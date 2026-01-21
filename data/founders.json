@@ -5806,7 +5806,23 @@
       "linkedin": "",
       "notes": "CEO @ Exa AI Labs (AI-powered search)",
       "checked": false
+    },
+    {
+      "id": "founders-1768990516097-8623",
+      "name": "David Holz",
+      "city": "SF",
+      "tags": [
+        "Midjourney",
+        "Founder",
+        "Leap Motion",
+        "NASA",
+        "Max Planck"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Midjourney, prev founded Leap Motion, NASA, Max Planck",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:12:50.305Z"
+  "last_updated": "2026-01-21T10:15:16.097Z"
 }
