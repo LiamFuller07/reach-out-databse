@@ -7706,7 +7706,22 @@
       "linkedin": "",
       "notes": "AI Researcher @ Meta Superintelligence Labs, prev OpenAI, prev Google Brain, pioneer of Chain-of-Thought prompting research",
       "checked": false
+    },
+    {
+      "id": "researchers-1769031078590-7104",
+      "name": "Christopher Manning",
+      "city": "SF",
+      "tags": [
+        "Stanford NLP",
+        "cs224n",
+        "StanfordHAI",
+        "AIX Ventures GP"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Stanford NLP, creator of cs224n course, Assoc. Director @ StanfordHAI, Prof CS & Linguistics @ Stanford, GP @ AIX Ventures, legendary NLP researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:30:38.551Z"
+  "last_updated": "2026-01-21T21:31:18.590Z"
 }
