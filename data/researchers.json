@@ -5014,7 +5014,22 @@
       "linkedin": "",
       "notes": "Research @ Google DeepMind, PhD CMU ML, prev AI resident @ Google AI, BS Berkeley EECS",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990555510-6923",
+      "name": "Uljad Berdica",
+      "city": "London",
+      "tags": [
+        "Oxford PhD",
+        "AIMS",
+        "ex-JPMorgan AI",
+        "NYU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI PhD student @ Oxford AIMS, ex-AI Research @ JPMorgan, EE with Great Distinction @ NYU",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:15:54.077Z"
+  "last_updated": "2026-01-21T10:15:55.510Z"
 }
