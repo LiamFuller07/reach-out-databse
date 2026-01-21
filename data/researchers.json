@@ -2013,7 +2013,21 @@
       "linkedin": "",
       "notes": "Working on Llama models @ Meta AI. Previously h2o.ai, Weights & Biases. Podcast host @ctdsshow. fast.ai Fellow. Kaggle Grandmaster.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985146276-5048",
+      "name": "Mariusz Kurman",
+      "city": "SF",
+      "tags": [
+        "Medical AI",
+        "MD",
+        "Healthcare AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "From bedside to byte_side - MD transitioning to AI. Medical AI focus.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:45:08.419Z"
+  "last_updated": "2026-01-21T08:45:46.276Z"
 }
