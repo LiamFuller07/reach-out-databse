@@ -7279,7 +7279,23 @@
       "linkedin": "",
       "notes": "AI researcher @ Meta & NYU, working on compression, representation learning, and memory, hosts AI podcast the-information-bottleneck.com",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026848561-4688",
+      "name": "Abhishek Nagaraj",
+      "city": "SF",
+      "tags": [
+        "Berkeley Haas",
+        "NBER",
+        "Professor",
+        "Tech Policy",
+        "AI for Progress"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Associate Prof @ Berkeley Haas, NBER RA, interested in using tech, AI and data to drive progress",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:20:47.373Z"
+  "last_updated": "2026-01-21T20:20:48.561Z"
 }
