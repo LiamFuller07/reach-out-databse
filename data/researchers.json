@@ -2100,7 +2100,23 @@
       "linkedin": "",
       "notes": "Writer at hua.substack.com. \"optimism of the will, pessimism of the intellect.\"",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985256500-3565",
+      "name": "Ana Dodik",
+      "city": "Boston",
+      "tags": [
+        "MIT CSAIL",
+        "PhD Student",
+        "Geometry Processing",
+        "Meta",
+        "Disney Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Geometry Processing PhD student @ MIT CSAIL. Prev Meta, Disney Research.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:47:00.195Z"
+  "last_updated": "2026-01-21T08:47:36.500Z"
 }
