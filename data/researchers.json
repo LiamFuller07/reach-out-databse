@@ -5042,7 +5042,24 @@
       "linkedin": "",
       "notes": "PhD ECE @ UCLA",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990590518-9054",
+      "name": "Zhibin Gou",
+      "city": "Beijing",
+      "tags": [
+        "DeepSeek",
+        "R1",
+        "V3",
+        "ToRA",
+        "CRITIC",
+        "Tsinghua"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher @ DeepSeek AI, MS Tsinghua, work on DeepSeek-R1/V3 series, ToRA, CRITIC",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:15:56.821Z"
+  "last_updated": "2026-01-21T10:16:30.518Z"
 }
