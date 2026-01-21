@@ -3079,7 +3079,24 @@
       "linkedin": "",
       "notes": "Assistant Professor @ CMU Generative Intelligence Lab, creator of CycleGAN and pix2pix (seminal image-to-image translation papers), understanding and creating pixels",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986902100-5639",
+      "name": "Yevgen Chebotar",
+      "city": "SF",
+      "tags": [
+        "NVIDIA",
+        "Robotic Foundation Models",
+        "prev DeepMind",
+        "RT-2",
+        "VLAs",
+        "prev Figure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotic foundation models @ NVIDIA, prev Google DeepMind (RT-2, VLAs, Offline RL), prev Figure robot (Helix)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:14:59.431Z"
+  "last_updated": "2026-01-21T09:15:02.100Z"
 }
