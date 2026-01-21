@@ -2320,7 +2320,21 @@
       "linkedin": "",
       "notes": "Assistant Professor @ Carnegie Mellon ML Department. BWFUND CASI Fellow. Building a Natural Science of Intelligence. Prev MIT, Stanford.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985517094-7187",
+      "name": "Hervé Bredin",
+      "city": "Paris",
+      "tags": [
+        "pyannote",
+        "Speaker Diarization",
+        "Audio AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Creator of pyannote (speaker diarization toolkit). Audio AI researcher.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:51:54.657Z"
+  "last_updated": "2026-01-21T08:51:57.094Z"
 }
