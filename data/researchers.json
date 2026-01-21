@@ -5320,7 +5320,24 @@
       "linkedin": "",
       "notes": "Big model trainer @ Cursor AI, GPU connoisseur",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991225965-2851",
+      "name": "Shuchao Bi",
+      "city": "SF",
+      "tags": [
+        "Meta Superintelligence Labs",
+        "RL",
+        "Post-training",
+        "Agents",
+        "ex-OpenAI",
+        "Multimodal"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research @ Meta Superintelligence Labs - RL/post-training/agents, prev Research @ OpenAI on multimodal and RL",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:25:30.051Z"
+  "last_updated": "2026-01-21T10:27:05.965Z"
 }
