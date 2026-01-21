@@ -2149,14 +2149,20 @@
     {
       "id": "researchers-1768985290454-2759",
       "name": "Delip Rao",
-      "city": "SF",
+      "city": "Philadelphia",
       "tags": [
+        "Penn",
+        "Johns Hopkins",
+        "UCSC",
+        "Amazon",
+        "Twitter",
         "NLP",
-        "AI Researcher"
+        "Vision",
+        "Deep Learning"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "AI/NLP researcher. (e/σ in handle suggests stats/ML focus)",
+      "notes": "@ Penn. Past: Johns Hopkins, UCSC, Amazon, Twitter. Expertise: NLProc, Vision, Speech, Deep Learning.",
       "checked": false
     },
     {
@@ -2175,5 +2181,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:48:43.047Z"
+  "last_updated": "2026-01-21T08:48:55.160Z"
 }
