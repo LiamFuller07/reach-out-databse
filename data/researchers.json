@@ -3018,7 +3018,21 @@
       "linkedin": "",
       "notes": "MTS @ Thinky Machines (Soumith's company), RL for LLM agents, prev xAI, Meta AI, Berkeley AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986790100-4941",
+      "name": "Boyi Li",
+      "city": "SF",
+      "tags": [
+        "Multimodality",
+        "Embodied Intelligence",
+        "AI Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research on Multimodality for Embodied Intelligence",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:13:08.783Z"
+  "last_updated": "2026-01-21T09:13:10.100Z"
 }
