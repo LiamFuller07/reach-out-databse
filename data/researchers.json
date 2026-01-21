@@ -2363,7 +2363,22 @@
       "linkedin": "",
       "notes": "Machine Learning Researcher @ OpenAI.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985604130-9924",
+      "name": "Jonas Geiping",
+      "city": "Tübingen",
+      "tags": [
+        "ELLIS Institute",
+        "Max Planck",
+        "ML Safety",
+        "ML Efficiency"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML Researcher in Tübingen at ELLIS Institute & Max Planck for Intelligent Systems. Working on Safety & Efficiency of modern ML.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:52:42.355Z"
+  "last_updated": "2026-01-21T08:53:24.130Z"
 }
