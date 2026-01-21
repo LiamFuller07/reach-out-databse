@@ -6223,7 +6223,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Merge API (unified API for integrations) - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "founders-1768992837704-9409",
+      "name": "Yenkel",
+      "city": "SF",
+      "tags": [
+        "Okta",
+        "Auth0",
+        "OpenFGA Creator",
+        "VP R&D",
+        "Authorization",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "VP R&D @ Okta (Auth0 Lab), OG Auth0, creator of OpenFGA (fine-grained authorization), startup advisor/investor - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:53:56.654Z"
+  "last_updated": "2026-01-21T10:53:57.704Z"
 }
