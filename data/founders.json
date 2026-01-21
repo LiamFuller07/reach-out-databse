@@ -5080,7 +5080,21 @@
       "linkedin": "",
       "notes": "Sufficiently advanced technologist",
       "checked": false
+    },
+    {
+      "id": "founders-1768984705482-2116",
+      "name": "Karan Jagtiani",
+      "city": "SF",
+      "tags": [
+        "Skyflo AI",
+        "Cloud Architect",
+        "Storylane"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building @skyflo_ai | Cloud Architect @storylaneio",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:37:48.109Z"
+  "last_updated": "2026-01-21T08:38:25.482Z"
 }
