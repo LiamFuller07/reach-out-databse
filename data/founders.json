@@ -5405,7 +5405,22 @@
       "linkedin": "",
       "notes": "CSO & co-founder @ Reliant AI, ex RL research lead at Google Brain & DeepMind, creator of Atari 2600 RL benchmark, author Distributional RL book (MIT Press 2023)",
       "checked": false
+    },
+    {
+      "id": "founders-1768986241668-6359",
+      "name": "Eric Jang",
+      "city": "SF",
+      "tags": [
+        "1X Tech",
+        "Robotics",
+        "AI",
+        "prev Google Brain"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI at 1X Tech (humanoid robotics), prev Google Brain researcher, known for Gumbel-Softmax trick paper",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:03:16.816Z"
+  "last_updated": "2026-01-21T09:04:01.668Z"
 }
