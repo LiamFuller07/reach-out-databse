@@ -3556,7 +3556,22 @@
       "linkedin": "",
       "notes": "Former Chief Research Officer @ OpenAI | Early exec @ Palantir | Early employee @ PayPal",
       "checked": false
+    },
+    {
+      "id": "founders-1768981521162-7892",
+      "name": "Cathy Di",
+      "city": "SF",
+      "tags": [
+        "Dedalus Labs",
+        "YC S25",
+        "Princeton CS",
+        "AI Alignment"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Dedalus Labs (YC S25) | Princeton CS | AI alignment background",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:44:43.931Z"
+  "last_updated": "2026-01-21T07:45:21.162Z"
 }
