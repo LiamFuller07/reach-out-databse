@@ -6819,7 +6819,25 @@
       "linkedin": "",
       "notes": "2nd year PhD @ UCSD, advised by Raja Mannabrolu. LLMs, RL, and Interactive Systems. Prev intern @ MBZUAI IFM.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769025148166-6661",
+      "name": "Seth Karten",
+      "city": "Princeton",
+      "tags": [
+        "Princeton PhD",
+        "PokeChamp",
+        "PokeAgent",
+        "LLM Economist",
+        "Agents",
+        "Evals",
+        "prev Waymo"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS PhD @ Princeton, creator of PokeChamp/PokeAgent (agent benchmarks), LLM Economist. Former CMU Waymo. Key contact for agent evals.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:51:34.900Z"
+  "last_updated": "2026-01-21T19:52:28.166Z"
 }
