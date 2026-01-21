@@ -5808,7 +5808,23 @@
       "linkedin": "",
       "notes": "Sr. Director of AI model post-training @ NVIDIA - In Unsloth's following network",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992673476-2655",
+      "name": "Klemen Kotar",
+      "city": "SF",
+      "tags": [
+        "Stanford PhD",
+        "World Models",
+        "prev Allen AI",
+        "RL Environments",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS PhD Candidate @ Stanford, building large world models, Previously PYI @ Allen AI - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:47:59.974Z"
+  "last_updated": "2026-01-21T10:51:13.476Z"
 }
