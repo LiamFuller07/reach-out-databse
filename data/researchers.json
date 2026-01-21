@@ -4194,7 +4194,23 @@
       "linkedin": "",
       "notes": "Professional Deep Learning Engineer @ NVIDIA, UC Berkeley alum",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989317841-6378",
+      "name": "Anne Ouyang",
+      "city": "SF",
+      "tags": [
+        "Standard Kernel",
+        "Stanford PhD",
+        "MIT",
+        "NVIDIA cuDNN",
+        "KernelBench"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building Standard_Kernel, CS PhD @ Stanford, prev cuDNN @ NVIDIA, M.Eng & BS CS @ MIT, KernelBench creator, efficient scalable self-improving AI systems",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:54:09.079Z"
+  "last_updated": "2026-01-21T09:55:17.841Z"
 }
