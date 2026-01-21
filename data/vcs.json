@@ -453,7 +453,22 @@
       "linkedin": "",
       "notes": "@ Conviction, formerly @ Neeva, in Jaya Gupta's network suggestions",
       "checked": false
+    },
+    {
+      "id": "vcs-1769032658313-7929",
+      "name": "Y Combinator",
+      "city": "San Francisco",
+      "tags": [
+        "Accelerator",
+        "Andon Labs investor",
+        "AI Safety",
+        "Seed Stage"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Invested in Andon Labs (Vending-Bench creators). YC standard deal is $500K. One of the most prestigious startup accelerators. Backed companies like Airbnb, Stripe, Dropbox.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:57:04.949Z"
+  "last_updated": "2026-01-21T21:57:38.313Z"
 }
