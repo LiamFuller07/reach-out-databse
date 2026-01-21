@@ -7751,7 +7751,22 @@
       "linkedin": "",
       "notes": "AI alignment + LLMs researcher @ Anthropic, on leave from NYU, NLP researcher focused on language understanding",
       "checked": false
+    },
+    {
+      "id": "researchers-1769031133087-3723",
+      "name": "Graham Neubig",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU LTI",
+        "OpenHands",
+        "NLP",
+        "Code Generation"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Associate Professor @ CMU LTI, Co-founder & Chief Scientist @ OpenHands (open-source AI software development), language modeling expert",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:32:11.679Z"
+  "last_updated": "2026-01-21T21:32:13.087Z"
 }
