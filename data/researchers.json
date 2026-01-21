@@ -4284,7 +4284,20 @@
       "linkedin": "",
       "notes": "Ray + vLLM @ Anyscale, prev Stanford & Apple",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989399842-2435",
+      "name": "Jordi",
+      "city": "SF",
+      "tags": [
+        "Meta FAIR",
+        "CodeGen"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ FAIR CodeGen, Meta",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:56:38.689Z"
+  "last_updated": "2026-01-21T09:56:39.842Z"
 }
