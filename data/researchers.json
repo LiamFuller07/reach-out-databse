@@ -1329,7 +1329,25 @@
       "linkedin": "",
       "notes": "Statistics at @ETH. Published at @NeurIPSconf. Now building ML models for robotics arms. DMs open for anything robotics.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984006318-15",
+      "name": "Jeff Dean",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "Chief Scientist",
+        "Gemini Lead",
+        "TensorFlow",
+        "MapReduce",
+        "Bigtable",
+        "AI Legend"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Chief Scientist, Google DeepMind & Google Research. Gemini Lead. Creator of TensorFlow, MapReduce, Bigtable. One of the most influential people in AI/ML history.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:25:39.994Z"
+  "last_updated": "2026-01-21T08:26:46.318Z"
 }
