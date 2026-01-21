@@ -4626,7 +4626,22 @@
       "linkedin": "",
       "notes": "Research Scientist @ Sakana AI Labs, prev Google DeepMind, AI & Multimodal LLM applications, PhD @ UW, alumni MIT & Microsoft",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989997379-8518",
+      "name": "Tianfu Fu",
+      "city": "SF",
+      "tags": [
+        "xAI",
+        "prev OpenAI",
+        "MIT McGovern",
+        "Brain Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher @ xAI, prev MTS @ OpenAI, prev MIT McGovern Institute for Brain Research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:06:36.152Z"
+  "last_updated": "2026-01-21T10:06:37.379Z"
 }
