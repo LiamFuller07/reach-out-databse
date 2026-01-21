@@ -7659,7 +7659,23 @@
       "linkedin": "",
       "notes": "@ Contextual AI, working on cost/performance efficient rerankers for RAG pipelines",
       "checked": false
+    },
+    {
+      "id": "researchers-1769031036285-7579",
+      "name": "Aran Komatsuzaki",
+      "city": "SF",
+      "tags": [
+        "GPT-J creator",
+        "LAION",
+        "MoE",
+        "Open Source AI",
+        "ex-Google"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Early work on GPT-J, LAION, scaling, MoE. Ex ML PhD (Georgia Tech) & Google. Pioneer in open-source large language models",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:29:15.582Z"
+  "last_updated": "2026-01-21T21:30:36.285Z"
 }
