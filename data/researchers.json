@@ -4076,7 +4076,21 @@
       "linkedin": "",
       "notes": "Search & LLMs @ Gartner, MS from UMass Manning CICS",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989101364-4047",
+      "name": "Xinyun Chen",
+      "city": "SF",
+      "tags": [
+        "Meta MSL",
+        "prev DeepMind",
+        "Berkeley PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ Meta MSL, prev Google DeepMind, PhD Berkeley EECS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:51:39.190Z"
+  "last_updated": "2026-01-21T09:51:41.364Z"
 }
