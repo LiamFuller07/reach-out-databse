@@ -4345,7 +4345,21 @@
       "linkedin": "",
       "notes": "@ Periodic Labs, creator of CleanRL library, prev RL @ Allen AI & Hugging Face",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989472670-7551",
+      "name": "Song Han",
+      "city": "Boston",
+      "tags": [
+        "MIT",
+        "Efficiency",
+        "Model Compression"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ MIT, efficiency research, model compression pioneer",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:57:19.391Z"
+  "last_updated": "2026-01-21T09:57:52.670Z"
 }
