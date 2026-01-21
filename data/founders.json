@@ -6064,7 +6064,23 @@
       "linkedin": "",
       "notes": "Co-Founder @ Manifold.ai, Previously MIT Physics, Harvard Math - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "founders-1768992674495-9251",
+      "name": "Nick Khami",
+      "city": "SF",
+      "tags": [
+        "Mintlify",
+        "Trieve",
+        "Search API",
+        "YC W24",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Mintlify, prev built Trieve search API (acq. YC W24), sideprojecting patron.com - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:50:38.828Z"
+  "last_updated": "2026-01-21T10:51:14.495Z"
 }
