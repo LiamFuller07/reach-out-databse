@@ -4030,7 +4030,23 @@
       "linkedin": "",
       "notes": "PhD @ UIUC, prev Meta AI, Google DeepMind, NVIDIA. LLM Post-Training, Personalization & Agents",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988983489-1836",
+      "name": "Weijia Shi",
+      "city": "Seattle",
+      "tags": [
+        "UW NLP",
+        "PhD",
+        "Allen AI",
+        "Meta AI",
+        "UCLA"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student @ UW NLP, prev Allen AI, Meta AI, UCLA CS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:49:03.708Z"
+  "last_updated": "2026-01-21T09:49:43.489Z"
 }
