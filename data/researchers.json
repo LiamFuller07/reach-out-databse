@@ -6441,7 +6441,23 @@
       "linkedin": "",
       "notes": "PhD @ University of Edinburgh. Research on RL, world models, real-world applications.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024435417-5933",
+      "name": "Julian Ibarz",
+      "city": "SF",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "TeslaBot",
+        "Robotics AI",
+        "Embodied AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "TeslaBot Optimus AI Lead @ Tesla. Leading robotics AI for humanoid robots.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:39:47.420Z"
+  "last_updated": "2026-01-21T19:40:35.417Z"
 }
