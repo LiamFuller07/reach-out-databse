@@ -4593,7 +4593,24 @@
       "linkedin": "",
       "notes": "Working on test-time training",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989994924-3404",
+      "name": "Letian Ruan",
+      "city": "SF",
+      "tags": [
+        "UMich",
+        "SJTU",
+        "SGLang",
+        "Mooncake",
+        "MiniMax",
+        "ML Systems"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Undergrad @ UMich CSE & SJTU, Committer @ SGLang & Mooncake project, prev MiniMax AI, ML Systems",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:06:33.690Z"
+  "last_updated": "2026-01-21T10:06:34.924Z"
 }
