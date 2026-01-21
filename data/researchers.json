@@ -4466,7 +4466,21 @@
       "linkedin": "",
       "notes": "SVP Engineering @ CoreWeave, Kubernetes expert, ex-Google",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989684558-2772",
+      "name": "Kalomaze",
+      "city": "SF",
+      "tags": [
+        "Prime Intellect",
+        "ML Research",
+        "Distributed Training"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML researcher @ Prime Intellect (distributed training startup)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:00:41.337Z"
+  "last_updated": "2026-01-21T10:01:24.558Z"
 }
