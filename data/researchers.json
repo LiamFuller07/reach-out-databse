@@ -2116,7 +2116,23 @@
       "linkedin": "",
       "notes": "Geometry Processing PhD student @ MIT CSAIL. Prev Meta, Disney Research.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985288297-5052",
+      "name": "Michael Black",
+      "city": "Tübingen",
+      "tags": [
+        "Max Planck Institute",
+        "MPI-IS Director",
+        "Meshcapade",
+        "3D Digital Humans",
+        "Computer Vision"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Director @ Max Planck Institute for Intelligent Systems (MPI-IS). Chief Scientist @ Meshcapade. Pioneer in 3D digital humans using vision, graphics, and learning. SMPL body model creator.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:47:36.500Z"
+  "last_updated": "2026-01-21T08:48:08.297Z"
 }
