@@ -1333,16 +1333,18 @@
     {
       "id": "f-96",
       "name": "Lukas Petersson",
-      "city": "SF",
+      "city": "San Francisco",
       "tags": [
         "Andon Labs",
-        "YC W24",
-        "Google",
-        "Anthropic"
+        "Vending-Bench",
+        "AI Safety",
+        "Y Combinator",
+        "AI Benchmarks",
+        "Autonomous Agents"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder & CEO @ Andon Labs, YC W24, prev Google LLM research/Disney Research robotics/ESA intern, AI safety evals for Anthropic",
+      "notes": "Co-founder and CEO of Andon Labs. Created Vending-Bench AI benchmark for testing long-term coherence of autonomous agents. Y Combinator backed. Previously at Google (multimodal AI) and Disney Research (robotics). Swedish background from KTH.",
       "checked": false
     },
     {
@@ -7617,5 +7619,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:52:04.660Z"
+  "last_updated": "2026-01-21T21:57:19.350Z"
 }
