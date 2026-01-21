@@ -96,7 +96,23 @@
       "linkedin": "",
       "notes": "GP @ Amplify Partners, prev Canvas VC, Head of Data @ Mattermark, Palantir, C4ADS",
       "checked": false
+    },
+    {
+      "id": "vcs-1768984520928-1885",
+      "name": "Astasia Myers",
+      "city": "SF",
+      "tags": [
+        "Felicis",
+        "GP",
+        "Redpoint",
+        "Quiet Capital",
+        "Cisco Investments"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "General Partner @ Felicis, prev Redpoint, Quiet Capital & Cisco Investments. Blog: medium.com/memory-leak",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:34:10.966Z"
+  "last_updated": "2026-01-21T08:35:20.928Z"
 }
