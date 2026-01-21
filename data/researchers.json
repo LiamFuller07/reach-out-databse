@@ -2523,7 +2523,20 @@
       "linkedin": "",
       "notes": "Mentioned for \"physics of LLM\" research thread. ML theory researcher.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986028370-3044",
+      "name": "Junli Wang",
+      "city": "SF",
+      "tags": [
+        "AI Researcher",
+        "LLM"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Engaged with RL scaling laws research. Commented \"Great work Jorge! Super solid and insightful\".",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:59:45.289Z"
+  "last_updated": "2026-01-21T09:00:28.370Z"
 }
