@@ -7362,7 +7362,22 @@
       "linkedin": "",
       "notes": "Founder & Co-CEO @ Atlan (data catalog platform), hosting 'The Great Data Debate 2026' on context graphs Feb 5, collaborating with Foundation Capital network",
       "checked": false
+    },
+    {
+      "id": "founders-1769028980444-6112",
+      "name": "Tony Gentilcore",
+      "city": "SF",
+      "tags": [
+        "Glean",
+        "Co-Founder",
+        "Enterprise Search",
+        "Context Graphs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & Head of Product Engineering @ Glean (enterprise search/AI), panelist at Atlan's 'Great Data Debate 2026' on context graphs",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:56:18.940Z"
+  "last_updated": "2026-01-21T20:56:20.445Z"
 }
