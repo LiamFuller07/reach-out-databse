@@ -6832,7 +6832,22 @@
       "linkedin": "",
       "notes": "Founder @ Stainless API, prev developer platform & products @ Stripe",
       "checked": false
+    },
+    {
+      "id": "founders-1768994256738-7005",
+      "name": "Peter Reinhardt",
+      "city": "SF",
+      "tags": [
+        "Charm Industrial",
+        "Revoy",
+        "Climate Tech",
+        "MIT Aerospace"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder/CEO @ Charm Industrial, Revoy Inc, Antipode. MIT aerospace",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:17:35.521Z"
+  "last_updated": "2026-01-21T11:17:36.738Z"
 }
