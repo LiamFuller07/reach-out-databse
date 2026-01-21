@@ -6965,7 +6965,23 @@
       "linkedin": "",
       "notes": "Building General-Purpose Robotics through Hybrid Simulation.",
       "checked": false
+    },
+    {
+      "id": "founders-1769024843304-6120",
+      "name": "Robert Nishihara",
+      "city": "SF",
+      "tags": [
+        "Anyscale",
+        "Ray",
+        "Distributed RL",
+        "Berkeley ML PhD",
+        "Co-founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Anyscale, Co-creator of Ray (distributed computing for RL/ML), PhD ML @ Berkeley. Key contact for distributed RL infrastructure.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:45:14.051Z"
+  "last_updated": "2026-01-21T19:47:23.304Z"
 }
