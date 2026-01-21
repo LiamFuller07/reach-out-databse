@@ -4503,7 +4503,21 @@
       "linkedin": "",
       "notes": "Assembling @droid, the frontier software development agent. Available to anyone, with any model, in any IDE/terminal.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982207015-2786",
+      "name": "Prime Intellect",
+      "city": "SF",
+      "tags": [
+        "Open Superintelligence",
+        "Decentralized AI",
+        "Open Source"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Open superintelligence stack - building decentralized AI infrastructure. discord.gg/primeintellect",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:56:46.057Z"
+  "last_updated": "2026-01-21T07:56:47.015Z"
 }
