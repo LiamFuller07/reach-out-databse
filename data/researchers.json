@@ -7077,7 +7077,22 @@
       "linkedin": "",
       "notes": "@ thinkymachines, formerly PyTorch, known for educational ML threads",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026540912-991",
+      "name": "Pranav Rajpurkar",
+      "city": "SF",
+      "tags": [
+        "Harvard",
+        "a2z Radiology AI",
+        "Medical AI",
+        "SQuAD creator"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ a2z Radiology AI, Assistant Professor @ Harvard, created SQuAD benchmark, rajpurkarlab.hms.harvard.edu",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:15:39.735Z"
+  "last_updated": "2026-01-21T20:15:40.912Z"
 }
