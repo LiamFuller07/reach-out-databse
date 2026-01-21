@@ -6117,16 +6117,16 @@
     {
       "id": "researchers-1769023909335-4160",
       "name": "Hamel Husain",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Evals",
-        "ML",
+        "AI evals",
+        "benchmarks",
         "evals.info",
-        "hamel.dev"
+        "evaluation infrastructure"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "ML evals expert, runs evals.info, hamel.dev",
+      "notes": "Evals expert - \"Evals evals evals\". Co-creator of evals.info. 42.4K followers. Made video to explain evals.",
       "checked": false
     },
     {
@@ -7815,5 +7815,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:00.703Z"
+  "last_updated": "2026-01-21T21:57:01.975Z"
 }
