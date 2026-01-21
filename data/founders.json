@@ -4865,7 +4865,22 @@
       "linkedin": "",
       "notes": "Designer @ lowercase.club with Wilson Hou",
       "checked": false
+    },
+    {
+      "id": "founders-1768984302641-8229",
+      "name": "Andrew Pignanelli",
+      "city": "SF",
+      "tags": [
+        "Intelligence Co",
+        "CEO",
+        "AI Agents",
+        "AGI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Intelligence Co, building AI to run companies, believes timeline to AGI is 10 months",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:30:54.901Z"
+  "last_updated": "2026-01-21T08:31:42.641Z"
 }
