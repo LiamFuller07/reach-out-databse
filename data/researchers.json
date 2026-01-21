@@ -5446,7 +5446,23 @@
       "linkedin": "",
       "notes": "RL && LLM research at Robotics AI & Learning Lab @ Berkeley AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991679043-5977",
+      "name": "Prithviraj (Raj) Ammanabrolu",
+      "city": "San Diego",
+      "tags": [
+        "UC San Diego",
+        "Professor",
+        "RL",
+        "Language",
+        "NLP"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Assistant Professor @ UC San Diego, Reinforcement Learning and Language research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:34:37.972Z"
+  "last_updated": "2026-01-21T10:34:39.043Z"
 }
