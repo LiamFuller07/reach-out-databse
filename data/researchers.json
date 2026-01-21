@@ -6628,7 +6628,24 @@
       "linkedin": "",
       "notes": "Robotics AI @ Rek, prev startups, Twilio, Penrose Studios, Mozilla. Building robots.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024759705-8404",
+      "name": "Adithya Murali",
+      "city": "SF",
+      "tags": [
+        "NVIDIA AI",
+        "MIT TR35",
+        "CMU Robotics PhD",
+        "Berkeley AI",
+        "Meta AI",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Sr. Research Scientist @ NVIDIA AI, MIT TR35, PhD @ CMU Robotics, Berkeley AI, AI at Meta. Robotics researcher.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:45:58.415Z"
+  "last_updated": "2026-01-21T19:45:59.705Z"
 }
