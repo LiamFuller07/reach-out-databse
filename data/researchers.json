@@ -1134,7 +1134,23 @@
       "linkedin": "",
       "notes": "Principal Engineer at Google. Simpler platform, better APIs. Simplicity and optimism. Personal opinions.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982202947-8066",
+      "name": "Edward Grefenstette",
+      "city": "London",
+      "tags": [
+        "Google DeepMind",
+        "Director of Research",
+        "UCL DARK",
+        "ELLIS Fellow",
+        "AI/ML"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "FR/US/GB AI/ML Person, Director of Research at @GoogleDeepMind, Honorary Professor at @UCL_DARK, @ELLISforEurope Fellow. All posts are personal.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:56:04.784Z"
+  "last_updated": "2026-01-21T07:56:42.947Z"
 }
