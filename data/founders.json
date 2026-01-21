@@ -4702,7 +4702,23 @@
       "linkedin": "",
       "notes": "Creative director + founder @ hex.inc experimental creative studio.",
       "checked": false
+    },
+    {
+      "id": "founders-1768983824854-5263",
+      "name": "Vince Buyssens",
+      "city": "SF",
+      "tags": [
+        "Thoughtform",
+        "AI Hallucinations",
+        "Creative Tech",
+        "loopearplugs",
+        "Navigation Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Turning AI hallucinations into navigation tools for creative work at Thoughtform | Intuition is the interface | Creative Technologist @loopearplugs",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:23:13.174Z"
+  "last_updated": "2026-01-21T08:23:44.854Z"
 }
