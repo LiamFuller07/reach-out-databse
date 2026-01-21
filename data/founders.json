@@ -5197,7 +5197,21 @@
       "linkedin": "",
       "notes": "supersonicvibes.com - \"a luxury jet-airliner for the mind\". Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "founders-1768985109592-3781",
+      "name": "Marcos Agus",
+      "city": "SF",
+      "tags": [
+        "AI Chronicler",
+        "Robotics",
+        "Follows Liam"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Chronicler - covers robots, AI tech innovation. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:44:25.902Z"
+  "last_updated": "2026-01-21T08:45:09.592Z"
 }
