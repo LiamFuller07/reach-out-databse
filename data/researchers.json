@@ -2326,15 +2326,16 @@
       "name": "Hervé Bredin",
       "city": "Paris",
       "tags": [
-        "pyannote",
-        "Speaker Diarization",
-        "Audio AI"
+        "pyannote Creator",
+        "pyannote AI CSO",
+        "CNRS Researcher",
+        "Speaker Diarization"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Creator of pyannote (speaker diarization toolkit). Audio AI researcher.",
+      "notes": "Creator of pyannote (speaker diarization). Co-founder & CSO @ pyannoteAI. CNRS Researcher (on leave).",
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:51:57.094Z"
+  "last_updated": "2026-01-21T08:52:23.018Z"
 }
