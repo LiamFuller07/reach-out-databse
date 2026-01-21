@@ -2243,7 +2243,21 @@
       "linkedin": "",
       "notes": "Researcher @ Meta. Ex: OpenAI, DeepMind, Google Brain, RWTH Aachen. Belgian. Gamer, Hacker. Co-author Vision Transformer (ViT).",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985421587-7858",
+      "name": "Jean-Rémi King",
+      "city": "Paris",
+      "tags": [
+        "Meta AI",
+        "Neuroscience",
+        "AI-Brain"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher @ Meta AI - Neuroscience. Also on Bluesky: jeanremiking.bsky.social",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:50:20.529Z"
+  "last_updated": "2026-01-21T08:50:21.587Z"
 }
