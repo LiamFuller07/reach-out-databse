@@ -3476,7 +3476,23 @@
       "linkedin": "",
       "notes": "DevX @ Cerebras | Prev intl security @ Stanford | AI infrastructure",
       "checked": false
+    },
+    {
+      "id": "founders-1768981396511-9806",
+      "name": "João Moura",
+      "city": "SF",
+      "tags": [
+        "CrewAI",
+        "Clearbit",
+        "HubSpot",
+        "Open Source",
+        "AI Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ CrewAI | Prev Clearbit (acq by HubSpot) | Creator of Machinery | Open source enthusiast | Public speaker",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:42:46.052Z"
+  "last_updated": "2026-01-21T07:43:16.511Z"
 }
