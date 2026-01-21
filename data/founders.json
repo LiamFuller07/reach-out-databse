@@ -5139,7 +5139,22 @@
       "linkedin": "",
       "notes": "Brewing a stealth mode AI startup. Ex prof @ UCSB CS, PhD @ UW CSE, eng @ Google",
       "checked": false
+    },
+    {
+      "id": "founders-1768984881612-7861",
+      "name": "Sankalp",
+      "city": "SF",
+      "tags": [
+        "LLMs",
+        "AI Product",
+        "Evals",
+        "Post-training"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "LLMs, crafting AI product and evals, open to talk about AI engineering/post-training",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:40:33.151Z"
+  "last_updated": "2026-01-21T08:41:21.612Z"
 }
