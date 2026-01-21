@@ -7492,7 +7492,23 @@
       "linkedin": "",
       "notes": "Foundation Capital VC. Wrote viral article \"AI's trillion-dollar opportunity: Context graphs\" (4.6M views, 6.6K likes). Previously McKinsey, Georgia Tech alum. Key thought leader on context graphs for enterprise AI. 20.5K followers.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032275311-4421",
+      "name": "Akshay Pachaar",
+      "city": "",
+      "tags": [
+        "rag",
+        "graph-rag",
+        "ai-agents",
+        "llm",
+        "memory"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @dailydoseofds_. Simplifying LLMs, AI Agents, RAG. BITS Pilani, 3 Patents, ex-AI Engineer @ LightningAI. Built AI Avatar with human-like memory using Graph RAG. Has MIT lecture. 244.6K followers - major AI educator.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:51:14.003Z"
+  "last_updated": "2026-01-21T21:51:15.311Z"
 }
