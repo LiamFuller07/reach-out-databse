@@ -3291,7 +3291,24 @@
       "linkedin": "",
       "notes": "Superintelligence @ Meta, training & evaluating foundation models, prev LTI @ CMU, OSU NLP",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987662713-4512",
+      "name": "Chayenne Zhao",
+      "city": "SF",
+      "tags": [
+        "Radix Ark",
+        "SGLang",
+        "LMSYS",
+        "Large-scale RL",
+        "Tsinghua",
+        "CMU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founding Member @ Radix Ark, SGLang & Large-scale RL @ LMSYS, prev Tsinghua, CMU, UCLA, Amazon, ByteDance",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:27:41.723Z"
+  "last_updated": "2026-01-21T09:27:42.713Z"
 }
