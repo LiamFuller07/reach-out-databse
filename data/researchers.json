@@ -5259,7 +5259,24 @@
       "linkedin": "",
       "notes": "Building interactive world models, prev Lovable.dev",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991050600-7313",
+      "name": "Adi Ganesh",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Thiel Fellow",
+        "ex-Meta AI",
+        "ex-Nuro",
+        "Stanford",
+        "Gradient Pub"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research @ OpenAI, Thiel Fellow, prev Meta AI, Nuro, Stanford, co-created Gradient Pub",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:23:33.292Z"
+  "last_updated": "2026-01-21T10:24:10.600Z"
 }
