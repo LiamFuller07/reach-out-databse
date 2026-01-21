@@ -2831,7 +2831,23 @@
       "linkedin": "",
       "notes": "Professor @ MIT studying robotics, VP of Robotics Research @ Toyota Research Institute, creator of Drake robotics toolbox, pioneer in robot manipulation and locomotion",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986513845-2363",
+      "name": "Jelani Nelson",
+      "city": "SF",
+      "tags": [
+        "UC Berkeley EECS Chair",
+        "Google Research",
+        "AddisCoder Founder",
+        "Theoretical CS",
+        "Algorithms"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor and Department Chair @ Berkeley EECS, Research Scientist (part-time) @ Google Research, Founder @ AddisCoder (Ethiopian CS education), expert in streaming algorithms and dimensionality reduction",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:08:32.548Z"
+  "last_updated": "2026-01-21T09:08:33.845Z"
 }
