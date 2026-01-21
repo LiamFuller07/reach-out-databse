@@ -7098,16 +7098,16 @@
     {
       "id": "researchers-1769026541997-5331",
       "name": "Sasha Rush",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Cursor",
+        "AI evals",
         "NLP",
-        "Cornell",
-        "Harvard"
+        "Cursor",
+        "researcher"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Researcher @ Cursor, famous NLP researcher, prev Cornell/Harvard Prof, youtube.com/@srush_nlp",
+      "notes": "Researcher at Cursor. Well-known NLP researcher, previously at Cornell and HuggingFace. Has YouTube channel.",
       "checked": false
     },
     {
@@ -7879,5 +7879,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:49.641Z"
+  "last_updated": "2026-01-21T21:57:56.785Z"
 }
