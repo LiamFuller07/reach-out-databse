@@ -4979,7 +4979,23 @@
       "linkedin": "",
       "notes": "Founding engineer @ Antim Labs",
       "checked": false
+    },
+    {
+      "id": "founders-1768984522014-308",
+      "name": "Alex Ratner",
+      "city": "SF",
+      "tags": [
+        "Snorkel AI",
+        "Founder",
+        "Stanford AI Lab",
+        "UW CSE",
+        "Weak Supervision"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Snorkel AI, @uwcse, prev @StanfordAILab - data management systems for ML, weak supervision pioneer",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:34:44.157Z"
+  "last_updated": "2026-01-21T08:35:22.014Z"
 }
