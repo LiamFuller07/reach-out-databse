@@ -7813,7 +7813,22 @@
       "linkedin": "",
       "notes": "From Outstep company. Made prediction: \"Context graph becomes as common a term as data warehouse\" for 2026. Posts about Foundation Capital's thesis on context graphs capturing decision traces. Early context graph thought leader.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769032623256-7779",
+      "name": "Noah MacCallum",
+      "city": "",
+      "tags": [
+        "AI evals",
+        "OpenAI",
+        "AI safety",
+        "applied evals"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Applied Evals @OpenAI, ex-founder, engineer, bio researcher. Cares about safe and flourishing-positive deployment of AI.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:01.975Z"
+  "last_updated": "2026-01-21T21:57:03.256Z"
 }
