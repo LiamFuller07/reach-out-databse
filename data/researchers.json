@@ -4180,7 +4180,21 @@
       "linkedin": "",
       "notes": "@ Stanford & Reflection AI, prev Google DeepMind (PaLM, Gemini), prev Microsoft Research, Princeton",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989249079-573",
+      "name": "Kyle Kranen",
+      "city": "SF",
+      "tags": [
+        "NVIDIA",
+        "Deep Learning Engineer",
+        "Cal"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professional Deep Learning Engineer @ NVIDIA, UC Berkeley alum",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:54:08.054Z"
+  "last_updated": "2026-01-21T09:54:09.079Z"
 }
