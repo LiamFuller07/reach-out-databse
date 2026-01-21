@@ -112,7 +112,20 @@
       "linkedin": "",
       "notes": "General Partner @ Felicis, prev Redpoint, Quiet Capital & Cisco Investments. Blog: medium.com/memory-leak",
       "checked": false
+    },
+    {
+      "id": "vcs-1768985145247-8278",
+      "name": "Phil Trubey",
+      "city": "SF",
+      "tags": [
+        "AI Investor",
+        "Deep Tech"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Looking for AI startups with fundamental technology. Likely investor/scout.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:35:20.928Z"
+  "last_updated": "2026-01-21T08:45:45.247Z"
 }
