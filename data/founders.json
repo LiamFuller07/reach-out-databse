@@ -3434,7 +3434,21 @@
       "linkedin": "",
       "notes": "Co-founder & CEO @ Cognition | Building Devin, the AI software engineer | One of the most hyped AI agent companies | Stanford background",
       "checked": false
+    },
+    {
+      "id": "founders-1768981331387-7550",
+      "name": "Alex Atallah",
+      "city": "SF",
+      "tags": [
+        "OpenRouter",
+        "OpenSea",
+        "LLM Infrastructure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ OpenRouter (largest LLM marketplace, 500+ models) | Previously co-founder & CTO @ OpenSea",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:42:09.219Z"
+  "last_updated": "2026-01-21T07:42:11.387Z"
 }
