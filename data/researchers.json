@@ -3996,7 +3996,23 @@
       "linkedin": "",
       "notes": "CS PhD @ HKU, MS @ Columbia, intern @ Amazon, Google Cloud, MSFT Research x3, Alibaba. AI coding for Data",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988942432-7086",
+      "name": "Zhijian Liu",
+      "city": "San Diego",
+      "tags": [
+        "UCSD",
+        "Asst Prof",
+        "NVIDIA",
+        "MIT PhD",
+        "Efficient AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Asst Prof @ UCSD, Research Scientist @ NVIDIA, PhD @ MIT, Efficient AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:48:18.008Z"
+  "last_updated": "2026-01-21T09:49:02.432Z"
 }
