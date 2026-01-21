@@ -4922,7 +4922,22 @@
       "linkedin": "",
       "notes": "Automates waste & recycling. Scaling @dsqtech. Prev built & sold @sequoiawaste to public company $QRHC",
       "checked": false
+    },
+    {
+      "id": "founders-1768984308401-1564",
+      "name": "Thesis Labs",
+      "city": "SF",
+      "tags": [
+        "YC F25",
+        "AI Discovery",
+        "MLE-Bench",
+        "SOTA"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "YC F25, The AI discovery engine (SOTA on OAI MLE-Bench)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:31:47.218Z"
+  "last_updated": "2026-01-21T08:31:48.401Z"
 }
