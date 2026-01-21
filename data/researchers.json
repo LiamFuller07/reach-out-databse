@@ -5639,7 +5639,22 @@
       "linkedin": "",
       "notes": "@ Mercor, CS @ Stanford, ex Point72 / Tesla / SpaceX / D.E. Shaw",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991971038-9092",
+      "name": "Pranav Mehta",
+      "city": "SF",
+      "tags": [
+        "Mercor",
+        "Microsoft",
+        "IIT Roorkee",
+        "Codeforces CM"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Senior Software Engineer @ Mercor, founder @acodedaily, ex-Microsoft, IIT Roorkee CS, Codeforces CM",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:39:29.922Z"
+  "last_updated": "2026-01-21T10:39:31.038Z"
 }
