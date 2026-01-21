@@ -7587,7 +7587,22 @@
       "linkedin": "",
       "notes": "LLM/AI Research @ Snowflake, 4x Kaggle Grandmaster, Machine Learning specialist",
       "checked": false
+    },
+    {
+      "id": "researchers-1769030406129-5757",
+      "name": "Jeff Rasley",
+      "city": "SF",
+      "tags": [
+        "Snowflake AI Research",
+        "DeepSpeed Co-founder",
+        "Brown PhD",
+        "ML Systems"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Snowflake AI Research Team, co-founder of DeepSpeed AI (Microsoft's distributed training library), Brown CS PhD, UW CSE alum",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:20:04.926Z"
+  "last_updated": "2026-01-21T21:20:06.129Z"
 }
