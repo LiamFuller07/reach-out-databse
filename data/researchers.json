@@ -6551,7 +6551,23 @@
       "linkedin": "",
       "notes": "Building robot brains @ Physical Intelligence, ex Optimus @ Tesla AI, ex 1X Tech, EECS @ UC Berkeley, ZFellows, past VP Berkeley ML. Key robotics contact.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024588250-6334",
+      "name": "Ali Amin",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence",
+        "Waterloo",
+        "Harvard",
+        "Hardware",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Engineer @ Physical Intelligence, from Waterloo & Harvard hardware background.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:42:35.534Z"
+  "last_updated": "2026-01-21T19:43:08.251Z"
 }
