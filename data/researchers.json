@@ -2061,7 +2061,20 @@
       "linkedin": "",
       "notes": "ML Research Scientist @ Morgan Stanley. PhD in CS @ Cornell 2024.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985183347-6181",
+      "name": "Bonnie Li",
+      "city": "London",
+      "tags": [
+        "Google DeepMind",
+        "Research Scientist"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ Google DeepMind.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:46:22.318Z"
+  "last_updated": "2026-01-21T08:46:23.347Z"
 }
