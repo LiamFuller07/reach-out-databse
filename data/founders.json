@@ -5852,7 +5852,22 @@
       "linkedin": "",
       "notes": "Founder & CEO @ Manus AI",
       "checked": false
+    },
+    {
+      "id": "founders-1768990805092-457",
+      "name": "Shayne Coplan",
+      "city": "NYC",
+      "tags": [
+        "Polymarket",
+        "CEO",
+        "Prediction Markets",
+        "Crypto"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Polymarket, Ethereum since '14",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:18:06.589Z"
+  "last_updated": "2026-01-21T10:20:05.092Z"
 }
