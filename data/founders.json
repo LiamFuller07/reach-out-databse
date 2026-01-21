@@ -6481,7 +6481,22 @@
       "linkedin": "",
       "notes": "CEO & Co-founder @ NaturalPay",
       "checked": false
+    },
+    {
+      "id": "founders-1768993735046-4599",
+      "name": "John Maki",
+      "city": "SF",
+      "tags": [
+        "Serotonix",
+        "prev Bain Capital",
+        "AI Committee",
+        "BioNJ"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Serotonix, prev Managing Director @ Audax Group, Principal @ Bain Capital, Chair of AI committee @ BioNJ",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:08:20.341Z"
+  "last_updated": "2026-01-21T11:08:55.046Z"
 }
