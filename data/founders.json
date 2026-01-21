@@ -4225,17 +4225,15 @@
       "name": "Xander Dunn",
       "city": "SF",
       "tags": [
-        "AI founder",
         "Periodic Labs",
+        "AI Scientists",
         "LLMs",
-        "code gen",
-        "deep RL",
-        "Apple",
-        "UChicago"
+        "Code Gen",
+        "ex-Apple"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Building AI scientists at Periodic Labs. Previously: Building LLMs for code gen, Deep RL for industrial robotics at Apple. UChicago background.",
+      "notes": "Building AI scientists at Periodic Labs. LLMs for code generation. Ex-Apple.",
       "checked": false
     },
     {
@@ -4679,5 +4677,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:21:30.257Z"
+  "last_updated": "2026-01-21T08:21:31.474Z"
 }
