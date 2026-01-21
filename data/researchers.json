@@ -4983,7 +4983,23 @@
       "linkedin": "",
       "notes": "PhD @ UW CSE, agents @ Allen AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990518198-1846",
+      "name": "Anh Nguyen",
+      "city": "SF",
+      "tags": [
+        "Apple",
+        "Foundation Models",
+        "Multimodal Agents",
+        "ex-Microsoft",
+        "Phi"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Foundation Models, Multimodal Agents @ Apple, prev Phi @ Microsoft Research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:15:17.097Z"
+  "last_updated": "2026-01-21T10:15:18.198Z"
 }
