@@ -6319,7 +6319,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Mimi Robotics, PhD @ ETH Zurich. Research on discovering scaling laws for robot AI.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024257865-2162",
+      "name": "Weikai Huang",
+      "city": "Seattle",
+      "tags": [
+        "Allen AI",
+        "AI2PRIOR",
+        "UW CSE",
+        "RAIVNLab",
+        "Data-centric AI",
+        "Foundation Models"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI researcher @ UW CSE, RAIVNLab, Allen AI, AI2PRIOR. Computer Vision, Foundation Models, Data-centric AI.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:37:36.405Z"
+  "last_updated": "2026-01-21T19:37:37.865Z"
 }
