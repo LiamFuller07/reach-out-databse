@@ -7539,7 +7539,23 @@
       "linkedin": "",
       "notes": "Built CocoIndex - open-source pipeline that turns meeting notes into auto-updating knowledge graphs with incremental LLM extraction. Went viral on LinkedIn. Building at the intersection of knowledge graphs and LLMs.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032300134-9097",
+      "name": "Santiago (svpino)",
+      "city": "",
+      "tags": [
+        "knowledge-graphs",
+        "ai-agents",
+        "mcp",
+        "cursor",
+        "llm"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Major AI influencer. Posts extensively about Knowledge Graphs for AI agents. Added Knowledge Graph to Cursor using MCP (154K views). Says \"Knowledge graphs are infinitely better than vector search for building memory of agents\" (396K views). High-impact educator.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:51:17.866Z"
+  "last_updated": "2026-01-21T21:51:40.134Z"
 }
