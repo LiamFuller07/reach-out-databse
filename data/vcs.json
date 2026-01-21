@@ -185,7 +185,25 @@
       "linkedin": "",
       "notes": "@ Foundation Capital (VC), prev McKinsey, Georgia Tech alum, @stackfolio (acquired), @peak6, @raymondjames - tweets about AI",
       "checked": false
+    },
+    {
+      "id": "vcs-1768992912341-5809",
+      "name": "Todd Jackson",
+      "city": "SF",
+      "tags": [
+        "First Round",
+        "Partner",
+        "ex-Dropbox VP",
+        "ex-Twitter",
+        "ex-Google",
+        "ex-Facebook",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ First Round Capital. Former VP Product @ Dropbox, Product Director @ Twitter, co-founder Coverscreen, PM @ Google, Facebook - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:49:40.699Z"
+  "last_updated": "2026-01-21T10:55:12.341Z"
 }
