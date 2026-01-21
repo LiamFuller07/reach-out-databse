@@ -3002,7 +3002,23 @@
       "linkedin": "",
       "notes": "Sathaye Family Foundation Professor @ Carnegie Mellon University, research on wireless networks and mobile systems",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986788783-1751",
+      "name": "Yifei Zhou",
+      "city": "SF",
+      "tags": [
+        "Thinky Machines",
+        "RL for LLM Agents",
+        "prev xAI",
+        "prev Meta AI",
+        "prev Berkeley AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "MTS @ Thinky Machines (Soumith's company), RL for LLM agents, prev xAI, Meta AI, Berkeley AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:13:07.349Z"
+  "last_updated": "2026-01-21T09:13:08.783Z"
 }
