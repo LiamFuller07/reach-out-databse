@@ -62,7 +62,23 @@
       "linkedin": "",
       "notes": "Investing in ambitious founders changing the world with AI | General Partners: @benparr @mattprd",
       "checked": false
+    },
+    {
+      "id": "vcs-1768981824788-7120",
+      "name": "Chris Lyon",
+      "city": "SF",
+      "tags": [
+        "Foundation Capital",
+        "CaptivateIQ",
+        "WeWork",
+        "Twitch",
+        "Palantir"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Foundation Capital | Previously CaptivateIQ, WeWork, Twitch, Palantir",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:48:55.444Z"
+  "last_updated": "2026-01-21T07:50:24.788Z"
 }
