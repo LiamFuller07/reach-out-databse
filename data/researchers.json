@@ -2771,7 +2771,21 @@
       "linkedin": "",
       "notes": "Professor @ NYU (CILVR Lab), Prescient Design, co-inventor of GRU (Gated Recurrent Unit), foundational NLP/seq2seq researcher, highly cited",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986427543-8777",
+      "name": "Taeyoun Kim",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU MLD",
+        "Machine Learning",
+        "PhD Student"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "MS in Machine Learning @ CMU MLD",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:06:25.798Z"
+  "last_updated": "2026-01-21T09:07:07.543Z"
 }
