@@ -1150,7 +1150,21 @@
       "linkedin": "",
       "notes": "FR/US/GB AI/ML Person, Director of Research at @GoogleDeepMind, Honorary Professor at @UCL_DARK, @ELLISforEurope Fellow. All posts are personal.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982239698-1145",
+      "name": "samsja",
+      "city": "SF",
+      "tags": [
+        "Prime Intellect",
+        "Research Lead",
+        "Open Source AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Leading research at @PrimeIntellect - open superintelligence stack.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:56:42.947Z"
+  "last_updated": "2026-01-21T07:57:19.698Z"
 }
