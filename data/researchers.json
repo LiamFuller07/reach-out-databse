@@ -3749,7 +3749,25 @@
       "linkedin": "",
       "notes": "Research Scientist @ Meta, ex-PyTorch, AWS, CS PhD @ Purdue, GenAI, LLM4Code, Software Engineering Researcher",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988685137-2531",
+      "name": "Yu Zhang",
+      "city": "College Station",
+      "tags": [
+        "Texas A&M",
+        "Asst Prof",
+        "UIUC PhD",
+        "NLP",
+        "Data Mining",
+        "AI4Science",
+        "MSFT Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Asst Prof @ Texas A&M, PhD @ UIUC, BS @ PKU, 3x MSFT Research intern, Data Mining, NLP, AI4Science",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:44:44.136Z"
+  "last_updated": "2026-01-21T09:44:45.137Z"
 }
