@@ -5746,7 +5746,23 @@
       "linkedin": "",
       "notes": "Researcher | Educator | Strategist | Author | Consultant | Founder | Generative AI | Autonomous AI | Simulations | Robotics | Open Source | Open Standards - In Unsloth's following network",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992406912-8884",
+      "name": "Anshuman",
+      "city": "SF",
+      "tags": [
+        "Zomato",
+        "prev Google",
+        "TensorFlow GSoC",
+        "ML",
+        "Unsloth Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML @ Zomato, prev AI consultant @ Google, GSoC @ TensorFlow - In Unsloth's following network",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:46:45.214Z"
+  "last_updated": "2026-01-21T10:46:46.912Z"
 }
