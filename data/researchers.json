@@ -4782,7 +4782,21 @@
       "linkedin": "",
       "notes": "@ Z.ai, github.com/zhuzilin",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990305349-160",
+      "name": "Shunyu Yao",
+      "city": "SF",
+      "tags": [
+        "Language Agents",
+        "NLP",
+        "LLM Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Language agents researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:11:44.276Z"
+  "last_updated": "2026-01-21T10:11:45.349Z"
 }
