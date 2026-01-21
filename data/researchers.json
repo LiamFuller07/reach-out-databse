@@ -7616,7 +7616,21 @@
       "linkedin": "",
       "notes": "ML Systems @ thinkymachines, PhD CS @ Carnegie Mellon",
       "checked": false
+    },
+    {
+      "id": "researchers-1769030564512-6648",
+      "name": "Damian Tometzki",
+      "city": "Germany",
+      "tags": [
+        "SAP",
+        "AI & Data Science Research",
+        "Linux Kernel"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "SAP Expert; AI & Data Science Research, Linux Kernel specialist",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:20:07.313Z"
+  "last_updated": "2026-01-21T21:22:44.512Z"
 }
