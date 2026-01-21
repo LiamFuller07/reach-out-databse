@@ -5200,7 +5200,21 @@
       "linkedin": "",
       "notes": "PhD, MS, BS @ Carnegie Mellon, advised by Graham Neubig",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990916794-1117",
+      "name": "Yingru Li",
+      "city": "SF",
+      "tags": [
+        "xAI",
+        "Scaling RL",
+        "Reinforcement Learning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Scaling RL @ xAI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:21:19.966Z"
+  "last_updated": "2026-01-21T10:21:56.794Z"
 }
