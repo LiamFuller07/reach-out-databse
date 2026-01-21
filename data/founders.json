@@ -4238,7 +4238,23 @@
       "linkedin": "",
       "notes": "Building AI scientists at Periodic Labs. Previously: Building LLMs for code gen, Deep RL for industrial robotics at Apple. UChicago background.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982009688-3204",
+      "name": "Riley Brown",
+      "city": "SF",
+      "tags": [
+        "AI founder",
+        "vibecodeapp",
+        "Claude Code",
+        "mobile apps",
+        "web apps"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Cofounder of vibecodeapp - the easiest way to use Claude Code to build professional mobile apps and web apps.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:53:28.376Z"
+  "last_updated": "2026-01-21T07:53:29.688Z"
 }
