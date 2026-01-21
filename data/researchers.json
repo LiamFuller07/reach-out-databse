@@ -3906,7 +3906,23 @@
       "linkedin": "",
       "notes": "CS PhD student @ UMass Amherst, working on LLM data engineering and reasoning, prev RA @ GAIR Lab SJTU, MS @ UCAS",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988839479-4021",
+      "name": "Yitao Liu",
+      "city": "Hong Kong",
+      "tags": [
+        "HKU",
+        "XLang NLP",
+        "Princeton NLP",
+        "PhD",
+        "Universal Language Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ HKU XLang NLP, HKU NLP & Princeton NLP, building universal language agents",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:47:18.204Z"
+  "last_updated": "2026-01-21T09:47:19.479Z"
 }
