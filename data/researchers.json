@@ -5290,7 +5290,22 @@
       "linkedin": "",
       "notes": "Shopping @ OpenAI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991087327-6747",
+      "name": "Ruochen Wang",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Sora",
+        "Video Generation",
+        "Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Sora Research @ OpenAI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:24:45.785Z"
+  "last_updated": "2026-01-21T10:24:47.327Z"
 }
