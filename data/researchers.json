@@ -1282,7 +1282,23 @@
       "linkedin": "",
       "notes": "Tech Consultant @Meta | AI & Web Dev Enthusiast",
       "checked": false
+    },
+    {
+      "id": "researchers-1768983937543-628",
+      "name": "Sang Michael Xie",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Stanford AI Lab PhD",
+        "Google Brain",
+        "DeepMind",
+        "Meta GenAI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research @ OpenAI. Prev: PhD @StanfordAILab, @GoogleAI Brain/DeepMind, @Meta GenAI. Top-tier researcher pedigree.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:24:46.881Z"
+  "last_updated": "2026-01-21T08:25:37.543Z"
 }
