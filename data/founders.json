@@ -4301,7 +4301,24 @@
       "linkedin": "",
       "notes": "CTO at FactoryAI - Building software that builds software.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982046875-3623",
+      "name": "Or Hiltch",
+      "city": "SF",
+      "tags": [
+        "AI founder",
+        "openwork.ai",
+        "CUA",
+        "Skyline AI",
+        "StreamRail",
+        "Tel Aviv Uni"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CUAing at openwork.ai. Prev: Co-Founder, CTO at Skyline AI (acquired by JLL), StreamRail (acquired). Lecturer at Tel Aviv Uni.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:02.178Z"
+  "last_updated": "2026-01-21T07:54:06.875Z"
 }
