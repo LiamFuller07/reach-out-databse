@@ -5777,7 +5777,22 @@
       "linkedin": "",
       "notes": "Founder in SF, 15y software engineer, physics grad from top post-Soviet university",
       "checked": false
+    },
+    {
+      "id": "founders-1768990272934-1315",
+      "name": "Jeremy Berman",
+      "city": "SF",
+      "tags": [
+        "Humans&",
+        "Reflection AI",
+        "YC W19",
+        "beatgig"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Humans&, prev post-training @ Reflection AI, co-founded beatgig.com, YC W19",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:07:25.738Z"
+  "last_updated": "2026-01-21T10:11:12.935Z"
 }
