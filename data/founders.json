@@ -4377,7 +4377,23 @@
       "linkedin": "",
       "notes": "20 years old at xAI. Drop out from Northeastern. Prev top 30 League of Legends. withDelphi, Parable VC.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982079434-4262",
+      "name": "Dibyo Majumder",
+      "city": "SF",
+      "tags": [
+        "AI founder",
+        "turf_network",
+        "data context",
+        "Harvard HBS",
+        "2x founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder at turf_network - Data Context for Specialised AI. 2x Founder. Fellow at Harvard HBS.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:38.430Z"
+  "last_updated": "2026-01-21T07:54:39.434Z"
 }
