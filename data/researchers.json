@@ -2936,7 +2936,24 @@
       "linkedin": "",
       "notes": "Assistant Professor @ CMU Robotics, leads LeCARLab, Amazon Scholar @ FAR, builds generalist robots with agility, PhD from Caltech",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986696674-4701",
+      "name": "Yoshua Bengio",
+      "city": "Montreal",
+      "tags": [
+        "TURING AWARD",
+        "MILA",
+        "UMontreal",
+        "Deep Learning Pioneer",
+        "AI Safety",
+        "Most-Cited AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "A.M. Turing Award Recipient (2018, with Hinton & LeCun), most-cited AI researcher, Scientific Director @ MILA Quebec, Prof @ UMontreal, co-founder @ LawZero, Godfather of Deep Learning, AI safety advocate",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:10:48.925Z"
+  "last_updated": "2026-01-21T09:11:36.674Z"
 }
