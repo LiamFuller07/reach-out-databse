@@ -6587,7 +6587,23 @@
       "linkedin": "",
       "notes": "Creator of Redis",
       "checked": false
+    },
+    {
+      "id": "founders-1768993974446-6699",
+      "name": "Thorsten Ball",
+      "city": "Europe",
+      "tags": [
+        "Sourcegraph",
+        "Amp",
+        "ex-Zed",
+        "Author",
+        "Compilers"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Author of interpreterbook.com and compilerbook.com, @ Sourcegraph working on Amp, ex-Zed",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:12:53.099Z"
+  "last_updated": "2026-01-21T11:12:54.446Z"
 }
