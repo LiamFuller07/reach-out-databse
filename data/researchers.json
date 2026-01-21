@@ -7481,7 +7481,22 @@
       "linkedin": "",
       "notes": "Associate Professor @ Berkeley EECS, data management and programming systems, member of RISELab, SLICE Lab, UCBIDS",
       "checked": false
+    },
+    {
+      "id": "researchers-1769027165822-3585",
+      "name": "Shu Lynn Liu",
+      "city": "SF",
+      "tags": [
+        "Berkeley EECS",
+        "NovaSkyAI",
+        "PhD",
+        "UW Madison"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS PhD @ Berkeley EECS, Student Lead @ NovaSkyAI, prev UW Madison, utnslab, mpi_sws",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:26:04.618Z"
+  "last_updated": "2026-01-21T20:26:05.822Z"
 }
