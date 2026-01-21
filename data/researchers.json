@@ -1921,7 +1921,23 @@
       "linkedin": "",
       "notes": "Reinforcement learner @ CoreWeave",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984957859-1242",
+      "name": "Pedro Domingos",
+      "city": "Seattle",
+      "tags": [
+        "UW Professor",
+        "The Master Algorithm",
+        "2040",
+        "ML Pioneer",
+        "Author"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor of CS @ UW, author of 'The Master Algorithm' and '2040'. ML pioneer and influential AI researcher.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:42:01.593Z"
+  "last_updated": "2026-01-21T08:42:37.859Z"
 }
