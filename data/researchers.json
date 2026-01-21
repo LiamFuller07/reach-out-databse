@@ -1063,16 +1063,16 @@
       "name": "Sebastian Thrun",
       "city": "SF",
       "tags": [
-        "AI pioneer",
+        "StealthStartup",
         "Stanford",
-        "GaTech",
-        "Udacity",
+        "Georgia Tech",
+        "Waymo founder",
         "Google X",
-        "self-driving cars"
+        "AI Pioneer"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "CEO StealthStartup. Adjunct Prof at Stanford and GaTech. Founder of Udacity, led Google X, pioneer of self-driving cars.",
+      "notes": "CEO StealthStartup, Adjunct Prof at Stanford and Georgia Tech. Founder of Waymo, Google X. Pioneer in autonomous vehicles and AI education (Udacity founder).",
       "checked": false
     },
     {
@@ -1123,5 +1123,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:35.313Z"
+  "last_updated": "2026-01-21T07:54:57.856Z"
 }
