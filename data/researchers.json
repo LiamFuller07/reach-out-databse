@@ -4297,7 +4297,20 @@
       "linkedin": "",
       "notes": "Research Scientist @ FAIR CodeGen, Meta",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989400913-8858",
+      "name": "Boyuan Feng",
+      "city": "SF",
+      "tags": [
+        "PyTorch",
+        "AI Compiler"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building AI Compiler @ PyTorch",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:56:39.842Z"
+  "last_updated": "2026-01-21T09:56:40.913Z"
 }
