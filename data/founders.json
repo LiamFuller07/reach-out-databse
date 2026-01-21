@@ -4750,7 +4750,21 @@
       "linkedin": "",
       "notes": "Co-founder @ project prometheus | founder @GeneralAgentsCo | previously autopilot @tesla, deep learning @googledeepmind, phd mila.quebec, cs @iitdelhi. Top AI founder.",
       "checked": false
+    },
+    {
+      "id": "founders-1768984127735-6798",
+      "name": "Enrico Ros",
+      "city": "SF",
+      "tags": [
+        "big-AGI",
+        "Open Source",
+        "AI Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Creator of big-AGI (big-agi.com), open source AI interface",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:26:48.887Z"
+  "last_updated": "2026-01-21T08:28:47.735Z"
 }
