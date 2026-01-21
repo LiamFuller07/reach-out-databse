@@ -1838,7 +1838,25 @@
       "linkedin": "",
       "notes": "Gemini Model+HW Codesign @ Google DeepMind | Computer Architecture | NeurIPS",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984834416-7282",
+      "name": "Ruiyi Wang",
+      "city": "San Diego",
+      "tags": [
+        "UCSD",
+        "PhD",
+        "RL",
+        "LLM Reasoning",
+        "Agents",
+        "CMU LTI",
+        "UMich"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "2nd-year PhD @ UCSD CSE with @rajammanabrolu | Prev: LTI @ CMU, UMich CSE, SJTU | Reinforcement Learning, LLM/VLM Reasoning, Embodiment, Agents",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:39:54.088Z"
+  "last_updated": "2026-01-21T08:40:34.416Z"
 }
