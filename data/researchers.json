@@ -1996,7 +1996,24 @@
       "linkedin": "",
       "notes": "Works on alignment and coding agents. AI researcher @ BAIR, Scale, Imbue.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985108419-8648",
+      "name": "Sanyam Bhutani",
+      "city": "SF",
+      "tags": [
+        "Meta AI",
+        "Llama",
+        "Kaggle Grandmaster",
+        "h2o.ai",
+        "Weights & Biases",
+        "fast.ai Fellow"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Working on Llama models @ Meta AI. Previously h2o.ai, Weights & Biases. Podcast host @ctdsshow. fast.ai Fellow. Kaggle Grandmaster.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:45:07.239Z"
+  "last_updated": "2026-01-21T08:45:08.419Z"
 }
