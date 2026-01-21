@@ -5579,7 +5579,21 @@
       "linkedin": "",
       "notes": "CEO @ OpenAI, former President @ Y Combinator, leading the development of GPT/ChatGPT and pursuit of AGI, one of the most influential figures in AI",
       "checked": false
+    },
+    {
+      "id": "founders-1768986900798-214",
+      "name": "Johnny Lee",
+      "city": "Tokyo",
+      "tags": [
+        "Tokyo",
+        "Building",
+        "Tech"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building in Tokyo, johnnyclee.com",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:14:05.388Z"
+  "last_updated": "2026-01-21T09:15:00.798Z"
 }
