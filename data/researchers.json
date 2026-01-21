@@ -4926,7 +4926,20 @@
       "linkedin": "",
       "notes": "Postdoc of Tom Goldstein, PhD Princeton, UC Berkeley alum, working on LLMs",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990478333-5674",
+      "name": "Jack Cook",
+      "city": "Boston",
+      "tags": [
+        "MIT EECS PhD",
+        "Systems for ML"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student @ MIT EECS, systems for ML",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:14:04.131Z"
+  "last_updated": "2026-01-21T10:14:38.333Z"
 }
