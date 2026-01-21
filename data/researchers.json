@@ -1965,7 +1965,22 @@
       "linkedin": "",
       "notes": "PhD student at Wisconsin CS, UW Madison.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985068872-5642",
+      "name": "Davide Crapis",
+      "city": "SF",
+      "tags": [
+        "Ethereum Foundation",
+        "dAI Team",
+        "AI Lead",
+        "Crypto AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Lead at Ethereum Foundation - dAI Team. Works at intersection of AI and crypto/decentralization.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:44:27.903Z"
+  "last_updated": "2026-01-21T08:44:28.872Z"
 }
