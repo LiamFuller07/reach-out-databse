@@ -1267,7 +1267,22 @@
       "linkedin": "",
       "notes": "Post-training @googledeepmind + scout @sequoia, prev cs/ai research @stanford. High-value: DeepMind researcher AND Sequoia scout.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768983886881-4673",
+      "name": "Richard Bankole",
+      "city": "SF",
+      "tags": [
+        "Meta",
+        "Tech Consultant",
+        "AI",
+        "Web Dev"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Tech Consultant @Meta | AI & Web Dev Enthusiast",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:24:43.110Z"
+  "last_updated": "2026-01-21T08:24:46.881Z"
 }
