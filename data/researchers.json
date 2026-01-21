@@ -5606,7 +5606,23 @@
       "linkedin": "",
       "notes": "Research Scientist @ Google DeepMind on Gemini team, Reinforcement Learning + Agents",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991886411-8252",
+      "name": "Jeff Da",
+      "city": "SF",
+      "tags": [
+        "Scale AI",
+        "Allen AI",
+        "RL",
+        "Agents",
+        "Reasoning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ Scale AI, RL + Agents + Reasoning research, ex Allen AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:38:05.321Z"
+  "last_updated": "2026-01-21T10:38:06.411Z"
 }
