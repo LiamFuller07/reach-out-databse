@@ -4012,7 +4012,25 @@
       "linkedin": "",
       "notes": "Asst Prof @ UCSD, Research Scientist @ NVIDIA, PhD @ MIT, Efficient AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988943708-7256",
+      "name": "Zhenrui Yue",
+      "city": "Urbana-Champaign",
+      "tags": [
+        "UIUC",
+        "PhD",
+        "Meta AI",
+        "DeepMind",
+        "NVIDIA",
+        "LLM Post-Training",
+        "Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ UIUC, prev Meta AI, Google DeepMind, NVIDIA. LLM Post-Training, Personalization & Agents",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:49:02.432Z"
+  "last_updated": "2026-01-21T09:49:03.708Z"
 }
