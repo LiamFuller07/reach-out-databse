@@ -5762,7 +5762,23 @@
       "linkedin": "",
       "notes": "ML @ Zomato, prev AI consultant @ Google, GSoC @ TensorFlow - In Unsloth's following network",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992432668-8870",
+      "name": "Shizhe Diao",
+      "city": "SF",
+      "tags": [
+        "NVIDIA",
+        "Post-training",
+        "LMFlow",
+        "Efficient Finetuning",
+        "Unsloth Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher @ NVIDIA focusing on efficient post-training of LLMs, creator of LMFlow for finetuning LLMs - In Unsloth's following network",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:46:46.912Z"
+  "last_updated": "2026-01-21T10:47:12.668Z"
 }
