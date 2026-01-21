@@ -1352,17 +1352,14 @@
       "name": "Axel Backlund",
       "city": "San Francisco",
       "tags": [
+        "AI evals",
+        "red teaming",
         "Andon Labs",
-        "Vending-Bench",
-        "AI Safety",
-        "Y Combinator",
-        "AI Benchmarks",
-        "Autonomous Agents",
-        "Carnegie Mellon"
+        "AI agents"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder and CTO of Andon Labs. Created Vending-Bench AI benchmark. Y Combinator backed. Background from KTH Royal Institute of Technology and Carnegie Mellon. AI and robotics expertise. Bio says \"Vending machine operator\" humorously.",
+      "notes": "Co-founder @andonlabs. Working on AI vending machine evaluation/red teaming. San Francisco based. Did red teaming effort with WSJ.",
       "checked": false
     },
     {
@@ -7684,5 +7681,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:52.104Z"
+  "last_updated": "2026-01-21T21:57:54.628Z"
 }
