@@ -6129,7 +6129,23 @@
       "linkedin": "",
       "notes": "Founder & CEO of Neo4j - the leading graph database company, 'Graphs Are Everywhere' - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "founders-1768992742946-6105",
+      "name": "James Arthur",
+      "city": "SF",
+      "tags": [
+        "ElectricSQL",
+        "CEO",
+        "Data Sync",
+        "Local-First",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO & Co-founder @ ElectricSQL (local-first data sync infrastructure) - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:51:49.680Z"
+  "last_updated": "2026-01-21T10:52:22.946Z"
 }
