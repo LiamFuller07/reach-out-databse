@@ -3739,7 +3739,25 @@
       "linkedin": "",
       "notes": "Co-Founder @ Cheers (YC S24). Helps local businesses get recommended by ChatGPT. Utah -> SF.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981610173-1631",
+      "name": "Marco Mascorro",
+      "city": "SF",
+      "tags": [
+        "a16z",
+        "Cursor",
+        "Thinky Machines",
+        "BFL",
+        "WaveForms AI",
+        "Fellow AI",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ a16z | Investor in Cursor, Thinky Machines, BFL, WaveForms AI | Roboticist | Cofounder Fellow AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:45.925Z"
+  "last_updated": "2026-01-21T07:46:50.173Z"
 }
