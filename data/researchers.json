@@ -1074,7 +1074,23 @@
       "linkedin": "",
       "notes": "CEO StealthStartup. Adjunct Prof at Stanford and GaTech. Founder of Udacity, led Google X, pioneer of self-driving cars.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982049080-3588",
+      "name": "Alex L Zhang",
+      "city": "SF",
+      "tags": [
+        "AI researcher",
+        "MIT CSAIL",
+        "Princeton",
+        "GPU MODE",
+        "kernel competitions"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student at MIT CSAIL, undergrad Princeton. GPU MODE kernel competitions participant.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:08.017Z"
+  "last_updated": "2026-01-21T07:54:09.080Z"
 }
