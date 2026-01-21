@@ -3661,7 +3661,22 @@
       "linkedin": "",
       "notes": "Partner @ Striker VP | Seed: Reflection AI, Skild AI, Periodic Labs, DynaRobotics, Ricursive AI | Angel: Humans& | Acq: Lepton AI, Voyage AI",
       "checked": false
+    },
+    {
+      "id": "founders-1768981576842-9139",
+      "name": "Devon Kelley",
+      "city": "SF",
+      "tags": [
+        "AI agents",
+        "founder",
+        "autonomous routing",
+        "Kalibr.ai"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "2x Founder. Building Kalibr.ai - autonomous routing that keeps AI agents running in production.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:13.451Z"
+  "last_updated": "2026-01-21T07:46:16.842Z"
 }
