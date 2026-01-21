@@ -2984,7 +2984,22 @@
       "linkedin": "",
       "notes": "Founding Head @ Yardi School of Artificial Intelligence at IIT Delhi, AI researcher (NLP, ML, MDP), prev UW Seattle",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986742160-6146",
+      "name": "Swarun Kumar",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU",
+        "Wireless Networks",
+        "Mobile Systems",
+        "Sathaye Professor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Sathaye Family Foundation Professor @ Carnegie Mellon University, research on wireless networks and mobile systems",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:12:20.764Z"
+  "last_updated": "2026-01-21T09:12:22.160Z"
 }
