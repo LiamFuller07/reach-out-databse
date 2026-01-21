@@ -5910,7 +5910,24 @@
       "linkedin": "",
       "notes": "AI researcher, previously @ Google DeepMind, Google Brain - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "researchers-1768993217253-5539",
+      "name": "Jess Li",
+      "city": "SF",
+      "tags": [
+        "Prime Intellect",
+        "Applied Research",
+        "prev Cartesia AI",
+        "Beaconsai YC S19",
+        "Harvard",
+        "Morgan Stanley"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Applied Research @ Prime Intellect, prev Cartesia AI, Beaconsai (YC S19), Soma Capital, Harvard, Morgan Stanley",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:57:02.292Z"
+  "last_updated": "2026-01-21T11:00:17.254Z"
 }
