@@ -3707,7 +3707,23 @@
       "linkedin": "",
       "notes": "CTO/Co-Founder of Yottalabs.ai.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981602262-7367",
+      "name": "Jared Stivala",
+      "city": "SF",
+      "tags": [
+        "founder",
+        "friendware.ai",
+        "MacOS",
+        "AI",
+        "tab-to-complete"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building friendware.ai - Tab-to-complete for everything on MacOS.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:41.034Z"
+  "last_updated": "2026-01-21T07:46:42.262Z"
 }
