@@ -5468,7 +5468,23 @@
       "linkedin": "",
       "notes": "Professor @ UC Berkeley, co-founder of Databricks ($43B), Anyscale (Ray), LMArena (LLM evaluation), Conviva, legendary distributed systems researcher, ACM Fellow",
       "checked": false
+    },
+    {
+      "id": "founders-1768986515053-9424",
+      "name": "Patrick Shafto",
+      "city": "NYC",
+      "tags": [
+        "DARPA PM",
+        "Rutgers Prof",
+        "Redpoll.ai",
+        "prev IAS Math",
+        "Cognitive Science"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Program Manager @ DARPA, Professor of Math and CS @ Rutgers-Newark, co-founder @ Redpoll.ai, Math @ Institute for Advanced Study 2021-2023",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:07:09.826Z"
+  "last_updated": "2026-01-21T09:08:35.053Z"
 }
