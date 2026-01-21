@@ -6425,7 +6425,22 @@
       "linkedin": "",
       "notes": "Designer, builder, investor. Prev founder/CEO @ VenueHQ (Sequoia-backed, acq by Ramp)",
       "checked": false
+    },
+    {
+      "id": "founders-1768993583958-4520",
+      "name": "Alexa Kayman",
+      "city": "SF",
+      "tags": [
+        "Nova Intelligence",
+        "Bagelfund",
+        "prev Cluely",
+        "YC W21"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Head of ops @ Nova Intelligence, grants @ Bagelfund, prev CRO @ Cluely, head of ops @ Bloom (YC W21) at 16, CS @ Columbia",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:06:22.772Z"
+  "last_updated": "2026-01-21T11:06:23.958Z"
 }
