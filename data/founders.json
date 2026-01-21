@@ -7620,7 +7620,22 @@
       "linkedin": "",
       "notes": "Built PyDough - fights prompt injections for analytics using knowledge graphs. DSL reads from KG separately so LLM doesn't link with DBs directly or write arbitrary SQL. Security + KG intersection.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032641986-6406",
+      "name": "Callum Sharrock",
+      "city": "San Francisco",
+      "tags": [
+        "Andon Labs",
+        "Tesla",
+        "UofT",
+        "AI Benchmarks"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Team member at Andon Labs. Previously at Tesla and University of Toronto (UofT). Works on AI benchmarking and autonomous systems.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:20.753Z"
+  "last_updated": "2026-01-21T21:57:21.986Z"
 }
