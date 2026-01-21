@@ -3113,7 +3113,23 @@
       "linkedin": "",
       "notes": "Bren Professor @ Caltech, TIME100 most influential in AI, former Sr Director of AI Research @ NVIDIA, former Principal Scientist @ AWS, pioneer in tensor methods and AI for science",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987284653-6144",
+      "name": "Diyi Yang",
+      "city": "SF",
+      "tags": [
+        "Stanford CS Prof",
+        "Stanford NLP",
+        "Stanford AI Lab",
+        "Humans&",
+        "LLMs for Humans"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Assistant Professor @ Stanford CS, Stanford NLP, Stanford AI Lab, Part-time MTS @ Humans&, research on LLMs for Humans",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:21:23.304Z"
+  "last_updated": "2026-01-21T09:21:24.653Z"
 }
