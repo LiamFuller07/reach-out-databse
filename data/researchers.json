@@ -574,7 +574,23 @@
       "linkedin": "",
       "notes": "CS PhD Student @ UC Berkeley & BerkeleySky | Prev CMU, Cornell CIS | Follows you",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981363896-4486",
+      "name": "Hongyuan Mei",
+      "city": "SF",
+      "tags": [
+        "xAI",
+        "Google DeepMind",
+        "TTIC",
+        "JHU CLSP",
+        "AGI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building AGI @ xAI | Ex-Google DeepMind, TTIC Connect, JHU CLSP | Top ML researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:42:42.886Z"
+  "last_updated": "2026-01-21T07:42:43.896Z"
 }
