@@ -6489,7 +6489,22 @@
       "linkedin": "",
       "notes": "Robotics PhD student @ MIT, VC Fellow @ e14fund, Princeton '21.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024508997-5999",
+      "name": "Haoquan Fang",
+      "city": "Seattle",
+      "tags": [
+        "UW CSE",
+        "Allen AI",
+        "AI2PRIOR",
+        "Undergrad Researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Undergrad @ UW CSE & UW Stat, Student Researcher @ Allen AI, AI2PRIOR.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:41:10.875Z"
+  "last_updated": "2026-01-21T19:41:48.997Z"
 }
