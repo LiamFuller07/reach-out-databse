@@ -1907,7 +1907,21 @@
       "linkedin": "",
       "notes": "Assistant Prof @ UCSB ECE, PI @ geometric_intel. Prev Stanford, Inria, Imperial College, Polytechnique. Pilot.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984921593-4402",
+      "name": "Vivek Kalyan",
+      "city": "SF",
+      "tags": [
+        "CoreWeave",
+        "Reinforcement Learning",
+        "RL"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Reinforcement learner @ CoreWeave",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:42:00.352Z"
+  "last_updated": "2026-01-21T08:42:01.593Z"
 }
