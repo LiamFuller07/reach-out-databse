@@ -768,16 +768,14 @@
       "name": "Isaac Kargar",
       "city": "SF",
       "tags": [
+        "In-Parallel",
         "AI Scientist",
-        "PhD",
-        "AI",
-        "robotics",
-        "in-parallel.com",
-        "resoniks"
+        "PhD AI Robotics",
+        "Resoniks"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Principal AI Scientist at in-parallel.com. PhD in AI and Robotics. Ex CIO/CAIO at resoniks.com.",
+      "notes": "Principal AI Scientist @ in-parallel.com | PhD in AI and Robotics | Ex CIO/CAIO @ resoniks.com | Follows you",
       "checked": false
     },
     {
@@ -965,5 +963,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:49:34.406Z"
+  "last_updated": "2026-01-21T07:49:48.846Z"
 }
