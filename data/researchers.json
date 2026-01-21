@@ -5941,7 +5941,21 @@
       "linkedin": "",
       "notes": "Research @ Prime Intellect",
       "checked": false
+    },
+    {
+      "id": "researchers-1768993220573-6277",
+      "name": "Matej Sirovatka",
+      "city": "SF",
+      "tags": [
+        "Prime Intellect",
+        "Silicon Whisperer",
+        "GPU/Hardware"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "'Silicon whisperer' - likely GPU/hardware engineer, in Prime Intellect's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:00:18.672Z"
+  "last_updated": "2026-01-21T11:00:20.573Z"
 }
