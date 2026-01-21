@@ -15,7 +15,23 @@
       "linkedin": "",
       "notes": "Founder @ Felicis Ventures | 12x Midas List | 10 IPOs | Top tier seed/growth VC",
       "checked": false
+    },
+    {
+      "id": "vcs-1768981684433-343",
+      "name": "Brian Zhan",
+      "city": "SF",
+      "tags": [
+        "Striker VP",
+        "Reflection AI",
+        "Skild AI",
+        "Lepton AI",
+        "Voyage AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ Striker VP | Seed: Reflection AI, Skild AI, Periodic Labs, DynaRobotics, Ricursive AI | Angel: Humans& | Exits: Lepton AI, Voyage AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:48:03.442Z"
+  "last_updated": "2026-01-21T07:48:04.433Z"
 }
