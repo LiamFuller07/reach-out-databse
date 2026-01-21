@@ -6603,7 +6603,22 @@
       "linkedin": "",
       "notes": "Author of interpreterbook.com and compilerbook.com, @ Sourcegraph working on Amp, ex-Zed",
       "checked": false
+    },
+    {
+      "id": "founders-1768993975660-4350",
+      "name": "Jean-Michel Lemieux",
+      "city": "SF",
+      "tags": [
+        "Sea People",
+        "prev CTO Shopify",
+        "prev Atlassian",
+        "Infrastructure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Now @ seapeopleapp.com, prev CTO/VPE @ Shopify and Atlassian",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:12:54.446Z"
+  "last_updated": "2026-01-21T11:12:55.660Z"
 }
