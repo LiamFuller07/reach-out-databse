@@ -3836,7 +3836,26 @@
       "linkedin": "",
       "notes": "22. Founder @ resumate.cv. Prev. PE Fellow @ Meta. Organising team member @ giveago.co.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981633174-9885",
+      "name": "Craig Weiss",
+      "city": "SF",
+      "tags": [
+        "YC W22",
+        "rome.ai",
+        "Scale AI",
+        "Google",
+        "Meta",
+        "Snap",
+        "Lyft",
+        "NASA"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO at rome.ai (YC W22). Software engineer. Early Scale AI. Prev: Google, Meta, Snap, Lyft, NASA.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:11.474Z"
+  "last_updated": "2026-01-21T07:47:13.174Z"
 }
