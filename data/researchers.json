@@ -3732,7 +3732,24 @@
       "linkedin": "",
       "notes": "AI Infrastructure researcher @ ByteDance, prev Alibaba, Broadcom, Samsung. Focused on embodied AI and agentic AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988684136-144",
+      "name": "Danning Xie",
+      "city": "SF",
+      "tags": [
+        "Meta",
+        "PyTorch",
+        "AWS",
+        "Purdue PhD",
+        "LLM4Code",
+        "GenAI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ Meta, ex-PyTorch, AWS, CS PhD @ Purdue, GenAI, LLM4Code, Software Engineering Researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:44:43.070Z"
+  "last_updated": "2026-01-21T09:44:44.136Z"
 }
