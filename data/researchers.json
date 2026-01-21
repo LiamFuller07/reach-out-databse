@@ -5155,7 +5155,22 @@
       "linkedin": "",
       "notes": "PhD Student @ Stanford SVL, prev MIT CSAIL, Berkeley AI, Google DeepMind, NVIDIA Robotics. Robotics, Foundation Models, Spatial Intelligence",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990803781-4521",
+      "name": "Volodymyr Kyrylov",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Technical Staff",
+        "ETH",
+        "USI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Technical Staff @ OpenAI, AI student from USI/ETH",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:19:30.935Z"
+  "last_updated": "2026-01-21T10:20:03.781Z"
 }
