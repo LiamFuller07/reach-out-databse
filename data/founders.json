@@ -6410,7 +6410,22 @@
       "linkedin": "",
       "notes": "Comms @ OpenAI, prev Headline VC, Twitter 1.0, Publicis Groupe",
       "checked": false
+    },
+    {
+      "id": "founders-1768993582772-4958",
+      "name": "TK Kong",
+      "city": "SF",
+      "tags": [
+        "VenueHQ",
+        "Sequoia",
+        "acq Ramp",
+        "Investor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Designer, builder, investor. Prev founder/CEO @ VenueHQ (Sequoia-backed, acq by Ramp)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:06:21.702Z"
+  "last_updated": "2026-01-21T11:06:22.772Z"
 }
