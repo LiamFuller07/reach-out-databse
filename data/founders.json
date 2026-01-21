@@ -7044,7 +7044,21 @@
       "linkedin": "",
       "notes": "AI creative world, running genjams weekly. Cofounder @ Machine Cinema AI & Fantastic Day.",
       "checked": false
+    },
+    {
+      "id": "founders-1769025308055-6118",
+      "name": "Josh Purtell",
+      "city": "SF",
+      "tags": [
+        "Post-training",
+        "Serverless",
+        "Developer Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building serverless post-training for developers. Ars longa.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:53:20.620Z"
+  "last_updated": "2026-01-21T19:55:08.055Z"
 }
