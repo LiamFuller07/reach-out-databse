@@ -6837,7 +6837,24 @@
       "linkedin": "",
       "notes": "CS PhD @ Princeton, creator of PokeChamp/PokeAgent (agent benchmarks), LLM Economist. Former CMU Waymo. Key contact for agent evals.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769025149750-2982",
+      "name": "Silicon Jungle",
+      "city": "SF",
+      "tags": [
+        "Latitude Games",
+        "AI Dungeon",
+        "ex-GitHub Next",
+        "ex-Replit",
+        "ex-tldraw",
+        "shapeshift.ink"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Staff Engineer @ Latitude Games (AI Dungeon), ex GitHub Next, Replit, tldraw. Building shapeshift.ink.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:52:28.166Z"
+  "last_updated": "2026-01-21T19:52:29.750Z"
 }
