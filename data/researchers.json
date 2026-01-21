@@ -1251,7 +1251,23 @@
       "linkedin": "",
       "notes": "Post training @OpenAI. Serial yearner. Ex @stanfordnlp, @ContextualAI, @ugent. Belgian.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768983883110-1683",
+      "name": "Lukas Haas",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "Post-training",
+        "Sequoia Scout",
+        "Stanford",
+        "AI Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Post-training @googledeepmind + scout @sequoia, prev cs/ai research @stanford. High-value: DeepMind researcher AND Sequoia scout.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:24:41.909Z"
+  "last_updated": "2026-01-21T08:24:43.110Z"
 }
