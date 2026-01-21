@@ -4826,7 +4826,20 @@
       "linkedin": "",
       "notes": "PhD @ Stanford, prev Cornell, AI for Energy, contributor @ LMSYS SGLang.ai",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990337882-2298",
+      "name": "Zihan Qiu",
+      "city": "China",
+      "tags": [
+        "Alibaba",
+        "Researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher @ Alibaba",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:12:16.824Z"
+  "last_updated": "2026-01-21T10:12:17.882Z"
 }
