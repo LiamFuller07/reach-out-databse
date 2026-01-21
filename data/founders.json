@@ -4907,7 +4907,22 @@
       "linkedin": "",
       "notes": "Rethinking foundations of computing to bring biology-scale efficiency to AI",
       "checked": false
+    },
+    {
+      "id": "founders-1768984307218-851",
+      "name": "Charlie Dolan",
+      "city": "SF",
+      "tags": [
+        "DSQ Tech",
+        "Sequoia Waste",
+        "Climate Tech",
+        "Exit"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Automates waste & recycling. Scaling @dsqtech. Prev built & sold @sequoiawaste to public company $QRHC",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:31:46.061Z"
+  "last_updated": "2026-01-21T08:31:47.218Z"
 }
