@@ -4580,7 +4580,21 @@
       "linkedin": "",
       "notes": "CEO @SophontAI | Founder @MedARC_AI | PhD at 19 (2023) | ex Research Director Stability AI | Biomed. engineer @ 14 | TEDx talk",
       "checked": false
+    },
+    {
+      "id": "founders-1768982321799-6424",
+      "name": "fal.ai",
+      "city": "SF",
+      "tags": [
+        "Generative Media Cloud",
+        "AI Infrastructure",
+        "Hiring"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "The generative media cloud. Building AI infrastructure for media generation.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:58:40.752Z"
+  "last_updated": "2026-01-21T07:58:41.799Z"
 }
