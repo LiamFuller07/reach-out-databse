@@ -7523,7 +7523,23 @@
       "linkedin": "",
       "notes": "CEO @radiant_app - building meeting assistant with context graphs. Posts about how context graphs are \"the secret sauce for useful AI\". Based in Stockholm, Sweden. 922 followers.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032277866-8504",
+      "name": "Linghua Jin",
+      "city": "",
+      "tags": [
+        "knowledge-graphs",
+        "llm",
+        "cocoindex",
+        "data-pipelines",
+        "open-source"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Built CocoIndex - open-source pipeline that turns meeting notes into auto-updating knowledge graphs with incremental LLM extraction. Went viral on LinkedIn. Building at the intersection of knowledge graphs and LLMs.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:51:16.623Z"
+  "last_updated": "2026-01-21T21:51:17.866Z"
 }
