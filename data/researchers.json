@@ -1395,7 +1395,22 @@
       "linkedin": "",
       "notes": "Everyone can be a scientist @orch_research | Meta Superintelligence Lab | CS PhD in MLSys @UMich | @sjtu1896. Working on superintelligence at Meta.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984124709-9659",
+      "name": "Zhen Wang",
+      "city": "San Diego",
+      "tags": [
+        "NeurIPS",
+        "Moore Foundation",
+        "UC San Diego",
+        "Postdoc"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Moore Foundation Postdoc @ UC San Diego, NeurIPS contributor",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:26:51.307Z"
+  "last_updated": "2026-01-21T08:28:44.709Z"
 }
