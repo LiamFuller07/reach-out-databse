@@ -7630,7 +7630,22 @@
       "linkedin": "",
       "notes": "SAP Expert; AI & Data Science Research, Linux Kernel specialist",
       "checked": false
+    },
+    {
+      "id": "researchers-1769030954135-2495",
+      "name": "Douwe Kiela",
+      "city": "SF",
+      "tags": [
+        "Contextual AI",
+        "Stanford",
+        "RAG",
+        "Enterprise AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO & Co-founder @ Contextual AI (enterprise RAG), Stanford Adjunct Prof, prev Meta AI FAIR, pioneer in multimodal NLP and retrieval-augmented generation",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:22:44.512Z"
+  "last_updated": "2026-01-21T21:29:14.135Z"
 }
