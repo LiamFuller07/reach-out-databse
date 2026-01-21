@@ -3770,7 +3770,22 @@
       "linkedin": "",
       "notes": "Employing billions @ MicroAGI | AI agent company",
       "checked": false
+    },
+    {
+      "id": "founders-1768981614221-7496",
+      "name": "Farrukh Khan",
+      "city": "SF",
+      "tags": [
+        "Inference Analytics",
+        "IBM",
+        "McKinsey",
+        "AI for Sensitive Data"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO @ Inference Analytics | Building AI for sensitive data industries | Alum: IBM Big Data, Informatica, MicroStrategy, McKinsey | Follows you",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:51.364Z"
+  "last_updated": "2026-01-21T07:46:54.221Z"
 }
