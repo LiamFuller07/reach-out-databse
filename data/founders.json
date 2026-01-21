@@ -3692,7 +3692,22 @@
       "linkedin": "",
       "notes": "18, building & (mostly) breaking. Research at aurals.lc, demosanon.com. Cybersec & more. Ex-Protex AI (YC S21).",
       "checked": false
+    },
+    {
+      "id": "founders-1768981601034-9782",
+      "name": "Johnny",
+      "city": "SF",
+      "tags": [
+        "CTO",
+        "co-founder",
+        "Yottalabs.ai",
+        "AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO/Co-Founder of Yottalabs.ai.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:20.396Z"
+  "last_updated": "2026-01-21T07:46:41.034Z"
 }
