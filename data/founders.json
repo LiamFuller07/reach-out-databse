@@ -5639,7 +5639,22 @@
       "linkedin": "",
       "notes": "CTO/Co-Founder of Yottalabs.ai, follows you",
       "checked": false
+    },
+    {
+      "id": "founders-1768987437551-1321",
+      "name": "Zara Zhang",
+      "city": "SF",
+      "tags": [
+        "AI x Learning",
+        "Harvard '17",
+        "Longcut.ai",
+        "Content Creator"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building AI x learning products, Harvard '17, side project longcut.ai, YouTube and Substack creator",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:21:57.870Z"
+  "last_updated": "2026-01-21T09:23:57.551Z"
 }
