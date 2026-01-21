@@ -3591,13 +3591,14 @@
       "name": "Cory Levy",
       "city": "SF",
       "tags": [
+        "entrepreneur",
+        "investor",
         "Z Fellows",
-        "Investor",
-        "Entrepreneur"
+        "early stage"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Entrepreneur and early stage investor | Z Fellows | Follows you",
+      "notes": "Entrepreneur and early stage investor. Z Fellows.",
       "checked": false
     },
     {
@@ -3787,5 +3788,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:54.221Z"
+  "last_updated": "2026-01-21T07:47:06.353Z"
 }
