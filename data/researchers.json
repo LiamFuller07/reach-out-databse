@@ -7230,7 +7230,24 @@
       "linkedin": "",
       "notes": "NLP PhD Student @ CMU LTI, Predoctoral Researcher @ Google, prev Microsoft Research, BITS Pilani",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026803565-4263",
+      "name": "Simon Guo",
+      "city": "SF",
+      "tags": [
+        "Stanford",
+        "Cohere",
+        "Pre-training",
+        "Anyscale",
+        "NVIDIA",
+        "PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS PhD student @ Stanford, prev pre-training @ Cohere, built things @ Apple, Anyscale, NVIDIA, BS Berkeley EECS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:19:28.905Z"
+  "last_updated": "2026-01-21T20:20:03.565Z"
 }
