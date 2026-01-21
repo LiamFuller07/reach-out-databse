@@ -2510,7 +2510,20 @@
       "linkedin": "",
       "notes": "Thanked as mentor on RL scaling laws research - \"kind, sharp, and principled\".",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985985289-6155",
+      "name": "Zeyuan Allen-Zhu",
+      "city": "SF",
+      "tags": [
+        "Physics of LLM",
+        "ML Theory"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Mentioned for \"physics of LLM\" research thread. ML theory researcher.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:59:44.125Z"
+  "last_updated": "2026-01-21T08:59:45.289Z"
 }
