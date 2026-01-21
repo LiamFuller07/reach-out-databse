@@ -1822,7 +1822,23 @@
       "linkedin": "",
       "notes": "Making agents good | prev OpenAI, UWaterloo",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984794088-6335",
+      "name": "Dan Zhang",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "Gemini",
+        "Model-HW Codesign",
+        "NeurIPS",
+        "Computer Architecture"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Gemini Model+HW Codesign @ Google DeepMind | Computer Architecture | NeurIPS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:39:53.011Z"
+  "last_updated": "2026-01-21T08:39:54.088Z"
 }
