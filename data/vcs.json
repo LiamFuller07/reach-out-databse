@@ -63,7 +63,23 @@
       "linkedin": "",
       "notes": "Partner @ a16z, AI enthusiast. Investor in Cursor, unconvAI, Character AI, Replicate, Tabulario, and many AI/data companies",
       "checked": false
+    },
+    {
+      "id": "vcs-1768984419991-9554",
+      "name": "Guru Chahal",
+      "city": "SF",
+      "tags": [
+        "Lightspeed VP",
+        "Anthropic investor",
+        "Exa AI",
+        "Chainguard",
+        "Tech+Infra"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder + Investing @ Lightspeed VP, Tech+Infra. Investments: Anthropic AI, Exa AI Labs, Cyera, Chainguard, NextHop AI, Eve Legal AI, Descope, Nominal, Zscaler",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:30:52.639Z"
+  "last_updated": "2026-01-21T08:33:39.991Z"
 }
