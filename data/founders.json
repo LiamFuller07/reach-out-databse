@@ -6855,11 +6855,13 @@
       "tags": [
         "Tessera Labs",
         "CEO",
-        "PhD UCSD"
+        "PhD UCSD",
+        "Context Graphs",
+        "Enterprise AI"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "CEO & co-founder @ Tessera Labs, PhD UCSD",
+      "notes": "CEO & co-founder @ Tessera Labs, PhD UCSD, working with Foundation Capital/Jaya Gupta on context graphs for enterprise, viral thread on enterprise AI value locked behind tribal knowledge",
       "checked": false
     },
     {
@@ -7347,5 +7349,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:25:09.141Z"
+  "last_updated": "2026-01-21T20:56:17.907Z"
 }
