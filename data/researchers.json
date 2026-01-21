@@ -2350,7 +2350,20 @@
       "linkedin": "",
       "notes": "Principal Scientist @ Naver Labs Europe. Professor @ University of Grenoble Alpes. Also on Bluesky.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985562355-7098",
+      "name": "Tarun Gogineni",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "ML Researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Machine Learning Researcher @ OpenAI.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:52:40.110Z"
+  "last_updated": "2026-01-21T08:52:42.355Z"
 }
