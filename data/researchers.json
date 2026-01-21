@@ -4434,7 +4434,24 @@
       "linkedin": "",
       "notes": "LLMs + Ray @ Anyscale, PhD EECS @ UC Berkeley",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989610011-7000",
+      "name": "Ishan",
+      "city": "SF",
+      "tags": [
+        "NVIDIA",
+        "PyTorch Dynamo",
+        "Inference",
+        "Columbia",
+        "Brev",
+        "Agora"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Inference (Dynamo) @ NVIDIA, prev Brev (acquired), Agora.io (acquired), Columbia",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:00:08.838Z"
+  "last_updated": "2026-01-21T10:00:10.011Z"
 }
