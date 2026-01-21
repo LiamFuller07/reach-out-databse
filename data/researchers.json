@@ -1871,7 +1871,25 @@
       "linkedin": "",
       "notes": "CVPR 2024, Tech Lead, Research Scientist | Solving the Data Bottleneck",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984880461-9200",
+      "name": "Weiyan Shi",
+      "city": "Boston",
+      "tags": [
+        "Northeastern Prof",
+        "MIT TR-35",
+        "AI2050 Fellow",
+        "CICERO co-creator",
+        "Stanford NLP",
+        "Columbia",
+        "AI Safety"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Prof @ Northeastern | MIT TR-35 | AI2050 Early Career Fellow | Prev Columbia, Stanford NLP | Co-created CICERO (Meta's diplomacy AI) | long-horizon human-AI interaction + AI safety",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:41:19.257Z"
+  "last_updated": "2026-01-21T08:41:20.461Z"
 }
