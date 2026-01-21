@@ -5544,7 +5544,23 @@
       "linkedin": "",
       "notes": "Sr. Research Scientist @ NVIDIA AI, PhD in RL, Co-founder Amooka-AI, ex DeepMind / IBM Research / Ford AVs",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991808099-5139",
+      "name": "Chen Tessler",
+      "city": "SF",
+      "tags": [
+        "NVIDIA AI",
+        "Humanoids",
+        "RL",
+        "Technion PhD",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ NVIDIA AI, training humanoids, RL PhD from Technion",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:36:46.935Z"
+  "last_updated": "2026-01-21T10:36:48.099Z"
 }
