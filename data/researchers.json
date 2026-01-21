@@ -2261,16 +2261,19 @@
     {
       "id": "researchers-1768985424082-3833",
       "name": "Pierre-Yves Oudeyer",
-      "city": "France",
+      "city": "Bordeaux",
       "tags": [
-        "AI Researcher",
+        "INRIA Research Director",
+        "Flowers Lab",
+        "Microsoft Research",
+        "Sony CSL Paris",
         "Developmental AI"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "AI researcher (likely INRIA/Flowers team - developmental/intrinsic motivation AI).",
+      "notes": "Research Director @ INRIA, Head of Flowers Lab (intrinsic motivation, developmental AI). Prev Microsoft Research, Sony CSL Paris.",
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:50:24.082Z"
+  "last_updated": "2026-01-21T08:50:55.081Z"
 }
