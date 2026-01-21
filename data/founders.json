@@ -4937,7 +4937,20 @@
       "linkedin": "",
       "notes": "YC F25, The AI discovery engine (SOTA on OAI MLE-Bench)",
       "checked": false
+    },
+    {
+      "id": "founders-1768984481856-1545",
+      "name": "Dhruv",
+      "city": "SF",
+      "tags": [
+        "Tech",
+        "Follows You"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Follows Liam - warm lead",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:31:48.401Z"
+  "last_updated": "2026-01-21T08:34:41.856Z"
 }
