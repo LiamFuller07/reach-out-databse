@@ -3275,7 +3275,23 @@
       "linkedin": "",
       "notes": "Research Scientist @ OpenAI, prev Research Scientist @ Google DeepMind, PhD @ MIT",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987661723-3044",
+      "name": "Xiang Yue",
+      "city": "SF",
+      "tags": [
+        "Meta",
+        "Superintelligence",
+        "Foundation Models",
+        "CMU",
+        "OSU NLP"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Superintelligence @ Meta, training & evaluating foundation models, prev LTI @ CMU, OSU NLP",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:27:07.387Z"
+  "last_updated": "2026-01-21T09:27:41.723Z"
 }
