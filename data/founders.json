@@ -7463,7 +7463,21 @@
       "linkedin": "",
       "notes": "Founder @ Conductor (conductor.build) - multi-agent coding orchestration for Mac",
       "checked": false
+    },
+    {
+      "id": "founders-1769031405753-4055",
+      "name": "Omid Mogasemi",
+      "city": "SF",
+      "tags": [
+        "Conductor",
+        "Founding Engineer",
+        "Developer Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founding Engineer @ Conductor (conductor.build) - multi-agent coding orchestration",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:36:44.375Z"
+  "last_updated": "2026-01-21T21:36:45.753Z"
 }
