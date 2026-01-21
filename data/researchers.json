@@ -5591,7 +5591,22 @@
       "linkedin": "",
       "notes": "CEO @ Winder Research, Author of 'Reinforcement Learning' book, MLOps/ML/RL Consulting",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991885320-2188",
+      "name": "Tim Franzmeyer",
+      "city": "London",
+      "tags": [
+        "Google DeepMind",
+        "Gemini",
+        "RL",
+        "Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ Google DeepMind on Gemini team, Reinforcement Learning + Agents",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:37:26.655Z"
+  "last_updated": "2026-01-21T10:38:05.321Z"
 }
