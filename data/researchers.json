@@ -7343,7 +7343,22 @@
       "linkedin": "",
       "notes": "Stanford CS PhD student, makes ML go brr (ML systems optimization)",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026952024-8403",
+      "name": "Elena Glassman",
+      "city": "SF",
+      "tags": [
+        "Harvard",
+        "CS Professor",
+        "HCI",
+        "MIT PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Asst Professor of CS @ Harvard, Radcliffe Institute Fellow '21-22, MIT EECS PhD '16, HCI research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:21:57.451Z"
+  "last_updated": "2026-01-21T20:22:32.024Z"
 }
