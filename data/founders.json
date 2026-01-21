@@ -6555,7 +6555,24 @@
       "linkedin": "",
       "notes": "Full-stack AI partner helping enterprises set & execute AI strategy at startup speed",
       "checked": false
+    },
+    {
+      "id": "founders-1768993924265-3476",
+      "name": "Mitchell Hashimoto",
+      "city": "SF",
+      "tags": [
+        "HashiCorp",
+        "Ghostty",
+        "Terraform",
+        "Vault",
+        "Vagrant",
+        "Infrastructure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building Ghostty terminal, prev founded HashiCorp (created Vagrant, Terraform, Vault)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:10:39.576Z"
+  "last_updated": "2026-01-21T11:12:04.265Z"
 }
