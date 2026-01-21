@@ -31,7 +31,24 @@
       "linkedin": "",
       "notes": "Partner @ Striker VP | Seed: Reflection AI, Skild AI, Periodic Labs, DynaRobotics, Ricursive AI | Angel: Humans& | Exits: Lepton AI, Voyage AI",
       "checked": false
+    },
+    {
+      "id": "vcs-1768981685455-40",
+      "name": "Marco Mascorro",
+      "city": "SF",
+      "tags": [
+        "a16z",
+        "Cursor",
+        "Thinky Machines",
+        "BFL",
+        "Fellow AI",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ a16z | Investments: Cursor, Thinky Machines, BFL, WaveForms AI | Roboticist | Cofounder Fellow AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:48:04.433Z"
+  "last_updated": "2026-01-21T07:48:05.455Z"
 }
