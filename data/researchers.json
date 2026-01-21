@@ -6504,7 +6504,22 @@
       "linkedin": "",
       "notes": "Undergrad @ UW CSE & UW Stat, Student Researcher @ Allen AI, AI2PRIOR.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024553278-5001",
+      "name": "Dong Anh",
+      "city": "Toronto",
+      "tags": [
+        "UofT",
+        "Mecka AI",
+        "AMD",
+        "CS/Stats"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS & Stats @ UofT, incoming @ Mecka AI & AMD.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:41:48.997Z"
+  "last_updated": "2026-01-21T19:42:33.278Z"
 }
