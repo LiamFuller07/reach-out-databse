@@ -5684,7 +5684,24 @@
       "linkedin": "",
       "notes": "@ Thinky Machines, prev OpenAI, prev Google Brain",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992210761-1149",
+      "name": "Danqi Chen",
+      "city": "Princeton",
+      "tags": [
+        "Princeton",
+        "Professor",
+        "Thinky Machines",
+        "Facebook AI",
+        "Stanford NLP",
+        "Tsinghua"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Associate Professor @ Princeton PLI/CS, MoTS @ Thinky Machines, prev Facebook AI / Stanford NLP / Tsinghua",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:43:29.562Z"
+  "last_updated": "2026-01-21T10:43:30.761Z"
 }
