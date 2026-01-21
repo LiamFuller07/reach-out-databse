@@ -4580,7 +4580,20 @@
       "linkedin": "",
       "notes": "GPU Software @ AMD",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989993690-9218",
+      "name": "Karan Dalal",
+      "city": "SF",
+      "tags": [
+        "Test-Time Training",
+        "ML Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Working on test-time training",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:03:35.422Z"
+  "last_updated": "2026-01-21T10:06:33.690Z"
 }
