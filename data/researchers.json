@@ -3857,7 +3857,22 @@
       "linkedin": "",
       "notes": "Asst Prof @ Princeton ECE",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988787864-7927",
+      "name": "Michio Honda",
+      "city": "Edinburgh",
+      "tags": [
+        "Edinburgh",
+        "Associate Prof",
+        "Transport Protocol",
+        "OS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Associate Professor @ University of Edinburgh, working on transport protocol and OS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:46:26.683Z"
+  "last_updated": "2026-01-21T09:46:27.864Z"
 }
