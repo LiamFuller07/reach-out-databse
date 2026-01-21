@@ -7315,7 +7315,21 @@
       "linkedin": "",
       "notes": "Founder @ Covaldev (YC S24), ex-Waymo, Google",
       "checked": false
+    },
+    {
+      "id": "founders-1769027061690-4057",
+      "name": "Niko McCarty",
+      "city": "SF",
+      "tags": [
+        "Asimov Press",
+        "Founding Editor",
+        "Science Media"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founding Editor @ Asimov Press",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:22:33.307Z"
+  "last_updated": "2026-01-21T20:24:21.690Z"
 }
