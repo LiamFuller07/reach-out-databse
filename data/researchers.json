@@ -2906,7 +2906,21 @@
       "linkedin": "",
       "notes": "Math Professor @ Carnegie Mellon, VP of International Math Olympiad Foundation, social entrepreneur, founder of Expii, working on 'Humanity after AI', US Math Olympiad coach",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986647240-2195",
+      "name": "Max Sobol Mark",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU PhD",
+        "Google DeepMind",
+        "Student Researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student @ Carnegie Mellon, Student Researcher @ Google DeepMind",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:10:07.105Z"
+  "last_updated": "2026-01-21T09:10:47.240Z"
 }
