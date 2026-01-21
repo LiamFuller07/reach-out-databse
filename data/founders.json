@@ -5067,7 +5067,20 @@
       "linkedin": "",
       "notes": "CEO & Co-Founder @ AutoCodeRover",
       "checked": false
+    },
+    {
+      "id": "founders-1768984668109-5382",
+      "name": "Verda",
+      "city": "SF",
+      "tags": [
+        "Tech",
+        "Advanced Technologist"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Sufficiently advanced technologist",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:37:45.717Z"
+  "last_updated": "2026-01-21T08:37:48.109Z"
 }
