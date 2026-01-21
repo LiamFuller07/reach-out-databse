@@ -262,12 +262,14 @@
       "name": "Idan Szpektor",
       "city": "SF",
       "tags": [
+        "AI",
         "Google Research",
-        "RL/AI Follower"
+        "NLP",
+        "Principal Scientist"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "@ Google Research",
+      "notes": "Principal Research Scientist at Google Research. Senior AI researcher. Follows Liam - warm lead.",
       "checked": false
     },
     {
@@ -916,5 +918,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:49:29.742Z"
+  "last_updated": "2026-01-21T07:49:30.856Z"
 }
