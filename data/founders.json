@@ -6633,7 +6633,24 @@
       "linkedin": "",
       "notes": "Founder & CTO @ Turso Database, prev ScyllaDB, Linux kernel contributor, author of 'Latency'",
       "checked": false
+    },
+    {
+      "id": "founders-1768994031158-3945",
+      "name": "Craig Kerstiens",
+      "city": "SF",
+      "tags": [
+        "Snowflake",
+        "Postgres",
+        "prev Crunchy Data",
+        "prev Citus",
+        "prev Heroku",
+        "Databases"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Leading Postgres for Snowflake, prev CPO @ Crunchy Data, prev Microsoft, Citus Data, Heroku",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:12:56.855Z"
+  "last_updated": "2026-01-21T11:13:51.158Z"
 }
