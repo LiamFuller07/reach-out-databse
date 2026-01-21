@@ -2743,16 +2743,19 @@
     {
       "id": "researchers-1768986333281-3384",
       "name": "Jacob Buckman",
-      "city": "SF",
+      "city": "Montreal",
       "tags": [
-        "RL",
-        "AI Research"
+        "Manifest AI",
+        "MILA",
+        "prev Google AI",
+        "prev CMU",
+        "Johns Hopkins"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "RL researcher (partial profile view)",
+      "notes": "Founder @ Manifest AI, PhD candidate @ MILA Montreal, prev Google AI, SCS @ CMU, Johns Hopkins CLSP, RL researcher",
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:05:41.755Z"
+  "last_updated": "2026-01-21T09:06:24.734Z"
 }
