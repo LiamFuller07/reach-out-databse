@@ -2210,7 +2210,23 @@
       "linkedin": "",
       "notes": "CoCoDev research team @ Aix-Marseille University and ILCB France. Uses ML to study children's multimodal communicative development in social interactions.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985374609-5842",
+      "name": "Joséphine Raugel",
+      "city": "Paris",
+      "tags": [
+        "Meta",
+        "ENS",
+        "PhD Student",
+        "LLMs",
+        "Brain-Language"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student @ Meta & ENS on LLMs and brains processing language.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:49:33.519Z"
+  "last_updated": "2026-01-21T08:49:34.609Z"
 }
