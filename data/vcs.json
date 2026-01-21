@@ -313,7 +313,20 @@
       "linkedin": "",
       "notes": "Investor @ Ribbit Capital",
       "checked": false
+    },
+    {
+      "id": "vcs-1769026346417-2381",
+      "name": "Justin Saslaw",
+      "city": "",
+      "tags": [
+        "Ribbit Capital",
+        "General Partner"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "General Partner @ Ribbit Capital",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:12:24.686Z"
+  "last_updated": "2026-01-21T20:12:26.417Z"
 }
