@@ -6861,7 +6861,21 @@
       "linkedin": "",
       "notes": "CEO & co-founder @ Tessera Labs, PhD UCSD",
       "checked": false
+    },
+    {
+      "id": "founders-1769023910727-3000",
+      "name": "Faisal Z Siddiqi",
+      "city": "SF",
+      "tags": [
+        "Netflix",
+        "ML Platform",
+        "Director"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Director, Machine Learning Platform @ Netflix",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:28:38.840Z"
+  "last_updated": "2026-01-21T19:31:50.727Z"
 }
