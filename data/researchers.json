@@ -4418,7 +4418,23 @@
       "linkedin": "",
       "notes": "Build, study, optimize LLMs @ Intel, creator of Intel Neural Compressor and AutoRound, OPEA & COIA TSC",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989608838-7760",
+      "name": "Kourosh Hakhamaneshi",
+      "city": "SF",
+      "tags": [
+        "Anyscale",
+        "Ray",
+        "LLMs",
+        "Berkeley PhD",
+        "EECS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "LLMs + Ray @ Anyscale, PhD EECS @ UC Berkeley",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:59:29.533Z"
+  "last_updated": "2026-01-21T10:00:08.838Z"
 }
