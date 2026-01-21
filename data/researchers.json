@@ -6351,7 +6351,23 @@
       "linkedin": "",
       "notes": "PhD @ Berkeley AI, researcher @ Physical Intelligence. Robotics/embodied AI.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024293450-5040",
+      "name": "Xindi Wu",
+      "city": "Princeton",
+      "tags": [
+        "Princeton PhD",
+        "NVIDIA AI",
+        "CMU Robotics",
+        "Reality Labs",
+        "Data-centric ML"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student @ Princeton CS, interning @ NVIDIA AI, prev CMU Robotics, Reality Labs, Snapchat. Data-centric multimodal ML.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:38:12.269Z"
+  "last_updated": "2026-01-21T19:38:13.450Z"
 }
