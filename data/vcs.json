@@ -125,7 +125,22 @@
       "linkedin": "",
       "notes": "Looking for AI startups with fundamental technology. Likely investor/scout.",
       "checked": false
+    },
+    {
+      "id": "vcs-1768986699093-5591",
+      "name": "Deedy (Debarghya Das)",
+      "city": "SF",
+      "tags": [
+        "Menlo Ventures",
+        "Glean founding team",
+        "ex-Google Search",
+        "Cornell CS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ Menlo Ventures, formerly founding team @ Glean, ex-Google Search, Cornell CS, influential tech voice on X",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:45:45.247Z"
+  "last_updated": "2026-01-21T09:11:39.094Z"
 }
