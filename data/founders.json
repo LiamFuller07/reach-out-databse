@@ -4290,14 +4290,14 @@
       "name": "Eno Reyes",
       "city": "SF",
       "tags": [
-        "AI founder",
+        "Factory AI",
         "CTO",
-        "FactoryAI",
-        "software automation"
+        "Droid",
+        "AI Coding"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "CTO at FactoryAI - Building software that builds software.",
+      "notes": "CTO at Factory AI. Building software that builds software. @droid AI coding agent.",
       "checked": false
     },
     {
@@ -4679,5 +4679,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:06:44.047Z"
+  "last_updated": "2026-01-21T08:21:30.257Z"
 }
