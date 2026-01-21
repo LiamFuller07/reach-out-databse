@@ -4965,7 +4965,21 @@
       "linkedin": "",
       "notes": "Teaching machines through games, Interactive training environments & data for frontier AI",
       "checked": false
+    },
+    {
+      "id": "founders-1768984484157-5976",
+      "name": "Eigenron",
+      "city": "SF",
+      "tags": [
+        "Antim Labs",
+        "Founding Engineer",
+        "AI Training"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founding engineer @ Antim Labs",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:34:43.014Z"
+  "last_updated": "2026-01-21T08:34:44.157Z"
 }
