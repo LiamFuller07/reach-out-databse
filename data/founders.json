@@ -7679,7 +7679,22 @@
       "linkedin": "",
       "notes": "Co-Founder a2z Radiology AI (a2zradiology.ai). Assistant Professor Harvard Lab. Creator of SQuAD benchmark - one of the most influential NLP benchmarks.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032697238-1052",
+      "name": "Arize AI",
+      "city": "",
+      "tags": [
+        "AI evals",
+        "observability",
+        "evaluation platform",
+        "AI engineering"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI engineering platform focused on evaluation and observability. Helps engineers develop, evaluate, and observe AI applications and agents.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:54.628Z"
+  "last_updated": "2026-01-21T21:58:17.238Z"
 }
