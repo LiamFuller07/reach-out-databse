@@ -993,7 +993,27 @@
       "linkedin": "",
       "notes": "Research Lead at Reflection AI. Past: OpenAI founding team, Character.ai founding team, Google Brain. Supercomputers & Friends, AI & Science.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982013310-7900",
+      "name": "Ethan He",
+      "city": "SF",
+      "tags": [
+        "AI researcher",
+        "xAI",
+        "Grok",
+        "Nvidia",
+        "Meta",
+        "LLM",
+        "video generation",
+        "world model",
+        "AGI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Engineer at xAI/Grok Imagine. Ex-Nvidia, Meta. 30+ papers, 9k citations. Talks about AI, LLM, video generation, world model, multimodal, machine learning, AGI.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:53:27.172Z"
+  "last_updated": "2026-01-21T07:53:33.310Z"
 }
