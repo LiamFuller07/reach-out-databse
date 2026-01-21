@@ -5622,7 +5622,24 @@
       "linkedin": "",
       "notes": "Research Scientist @ Scale AI, RL + Agents + Reasoning research, ex Allen AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991969922-1862",
+      "name": "Aksh Garg",
+      "city": "SF",
+      "tags": [
+        "Mercor",
+        "Stanford CS",
+        "Point72",
+        "Tesla",
+        "SpaceX",
+        "D.E. Shaw"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Mercor, CS @ Stanford, ex Point72 / Tesla / SpaceX / D.E. Shaw",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:38:06.411Z"
+  "last_updated": "2026-01-21T10:39:29.922Z"
 }
