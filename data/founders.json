@@ -5624,7 +5624,20 @@
       "linkedin": "",
       "notes": "Cofounder @ Radix Ark, Assistant Professor @ UW, prev NVIDIA, prev Berkeley EECS",
       "checked": false
+    },
+    {
+      "id": "founders-1768987288334-9675",
+      "name": "Johnny (johnnygoodai)",
+      "city": "SF",
+      "tags": [
+        "AI",
+        "Founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO/Co-Founder, follows you",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:21:25.951Z"
+  "last_updated": "2026-01-21T09:21:28.334Z"
 }
