@@ -6081,7 +6081,23 @@
       "linkedin": "",
       "notes": "Associate Professor of Databases @ Carnegie Mellon",
       "checked": false
+    },
+    {
+      "id": "researchers-1769023849987-6651",
+      "name": "Yao Fu",
+      "city": "SF",
+      "tags": [
+        "xAI",
+        "Scaling",
+        "prev DeepMind",
+        "Gemini 3",
+        "Project Astra"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Scaling @ xAI, prev Gemini 3 perception and Project Astra @ Google DeepMind",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:14:36.907Z"
+  "last_updated": "2026-01-21T19:30:49.987Z"
 }
