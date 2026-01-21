@@ -2426,15 +2426,18 @@
     {
       "id": "researchers-1768985651043-3498",
       "name": "Rémi Leblond",
-      "city": "Paris",
+      "city": "London",
       "tags": [
-        "AI Researcher"
+        "Google DeepMind",
+        "Gemini",
+        "AlphaCode",
+        "AlphaStar"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "AI Researcher (likely DeepMind/Google based on follows).",
+      "notes": "Research Scientist @ Google DeepMind. Worked on Gemini, AlphaCode, AlphaStar. \"Working on solving hard problems with ML.\"",
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:54:11.043Z"
+  "last_updated": "2026-01-21T08:54:43.744Z"
 }
