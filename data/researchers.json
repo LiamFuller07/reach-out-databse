@@ -3716,7 +3716,23 @@
       "linkedin": "",
       "notes": "CS @ ETH & Princeton, intern @ NVIDIA, Palantir, Optiver",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988683070-6658",
+      "name": "FeiLiu",
+      "city": "SF",
+      "tags": [
+        "ByteDance",
+        "AI Infrastructure",
+        "Alibaba",
+        "Embodied AI",
+        "Agentic AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Infrastructure researcher @ ByteDance, prev Alibaba, Broadcom, Samsung. Focused on embodied AI and agentic AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:44:42.000Z"
+  "last_updated": "2026-01-21T09:44:43.070Z"
 }
