@@ -2074,7 +2074,20 @@
       "linkedin": "",
       "notes": "Research Scientist @ Google DeepMind.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985219095-1545",
+      "name": "Zhipeng Huang",
+      "city": "SF",
+      "tags": [
+        "AAAI 2026",
+        "Open Source AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Attending AAAI 2026. \"Open Source Effectively Accelerates!\"",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:46:23.347Z"
+  "last_updated": "2026-01-21T08:46:59.095Z"
 }
