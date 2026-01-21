@@ -95,7 +95,24 @@
       "linkedin": "",
       "notes": "Investor in SF | Angel investor",
       "checked": false
+    },
+    {
+      "id": "angels-1768981818347-6451",
+      "name": "Robert Scoble",
+      "city": "SF",
+      "tags": [
+        "Tech Influencer",
+        "AI",
+        "Robots",
+        "BCIs",
+        "Ex-Microsoft",
+        "Author"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "San Francisco/Silicon Valley AI thought leader. Covers robots, holodecks, BCIs, analysis of new tech. Ex-Microsoft, Rackspace, Fast Company. Wrote 8 books about the future. Tech influencer with large following. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:48:57.618Z"
+  "last_updated": "2026-01-21T07:50:18.347Z"
 }
