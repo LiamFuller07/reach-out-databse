@@ -3452,7 +3452,21 @@
       "linkedin": "",
       "notes": "GPU compute specialist - GEMMs on Blackwell, Hopper, Ampere - ML hardware optimization",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987956805-2852",
+      "name": "Chen Wu",
+      "city": "Seattle",
+      "tags": [
+        "AWS",
+        "Applied Scientist",
+        "ML"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Applied Scientist @ AWS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:31:51.074Z"
+  "last_updated": "2026-01-21T09:32:36.805Z"
 }
