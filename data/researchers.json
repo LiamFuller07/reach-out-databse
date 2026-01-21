@@ -3372,7 +3372,23 @@
       "linkedin": "",
       "notes": "AI @ Amazon/AWS Cloud, Reinforcement Learning, Coding Agents, General Purpose Agents, World Models",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987780162-3184",
+      "name": "Junjie A. Xiong",
+      "city": "Berkeley",
+      "tags": [
+        "UC Berkeley",
+        "RLLM",
+        "Xiaomi",
+        "Math",
+        "CS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Maths + CS @ UC Berkeley, working on RLLM project, prev SWE @ Xiaomi",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:28:58.421Z"
+  "last_updated": "2026-01-21T09:29:40.162Z"
 }
