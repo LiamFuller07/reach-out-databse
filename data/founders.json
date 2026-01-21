@@ -3540,7 +3540,23 @@
       "linkedin": "",
       "notes": "CEO @ Mainframe | Building @async | Prev Figma, Diagram (acq by Figma), Square | AI + design tools",
       "checked": false
+    },
+    {
+      "id": "founders-1768981483931-7567",
+      "name": "Bob McGrew",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Palantir",
+        "PayPal",
+        "CRO",
+        "AI Leadership"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Former Chief Research Officer @ OpenAI | Early exec @ Palantir | Early employee @ PayPal",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:43:41.936Z"
+  "last_updated": "2026-01-21T07:44:43.931Z"
 }
