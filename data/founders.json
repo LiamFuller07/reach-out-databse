@@ -6772,7 +6772,21 @@
       "linkedin": "",
       "notes": "Growth @ Turbopuffer, prev @ Tinybird",
       "checked": false
+    },
+    {
+      "id": "founders-1768994201602-7859",
+      "name": "DG (dataghees)",
+      "city": "SF",
+      "tags": [
+        "Rime Labs",
+        "Voice LLMs",
+        "BioML"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Scaling voice LLMs @ Rime Labs, bioML, industrial policy",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:16:40.488Z"
+  "last_updated": "2026-01-21T11:16:41.602Z"
 }
