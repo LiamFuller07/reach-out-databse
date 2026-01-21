@@ -7709,7 +7709,23 @@
       "linkedin": "",
       "notes": "The fastest way to ship reliable AI apps - Evaluation, Experimentation, and Observability Platform.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032700053-848",
+      "name": "Toloka AI",
+      "city": "",
+      "tags": [
+        "AI evals",
+        "human data",
+        "AI training",
+        "data labeling",
+        "evaluation"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Expert Human Data for AI Training & Evaluation. Trusted by Top AI Labs, Startups, and Global Enterprises.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:58:18.643Z"
+  "last_updated": "2026-01-21T21:58:20.053Z"
 }
