@@ -6067,7 +6067,21 @@
       "linkedin": "",
       "notes": "Rails core, Ruby committer, Senior Principal Engineer @ Intercom",
       "checked": false
+    },
+    {
+      "id": "researchers-1768994030075-1052",
+      "name": "Andy Pavlo",
+      "city": "Pittsburgh",
+      "tags": [
+        "Carnegie Mellon",
+        "Databases",
+        "Professor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Associate Professor of Databases @ Carnegie Mellon",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:13:48.841Z"
+  "last_updated": "2026-01-21T11:13:50.075Z"
 }
