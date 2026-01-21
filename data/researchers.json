@@ -2257,7 +2257,20 @@
       "linkedin": "",
       "notes": "Researcher @ Meta AI - Neuroscience. Also on Bluesky: jeanremiking.bsky.social",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985424082-3833",
+      "name": "Pierre-Yves Oudeyer",
+      "city": "France",
+      "tags": [
+        "AI Researcher",
+        "Developmental AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI researcher (likely INRIA/Flowers team - developmental/intrinsic motivation AI).",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:50:21.587Z"
+  "last_updated": "2026-01-21T08:50:24.082Z"
 }
