@@ -2145,7 +2145,20 @@
       "linkedin": "",
       "notes": "Professor @ Columbia University. All things machine learning.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985290454-2759",
+      "name": "Delip Rao",
+      "city": "SF",
+      "tags": [
+        "NLP",
+        "AI Researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI/NLP researcher. (e/σ in handle suggests stats/ML focus)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:48:09.377Z"
+  "last_updated": "2026-01-21T08:48:10.454Z"
 }
