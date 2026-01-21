@@ -7238,7 +7238,22 @@
       "linkedin": "",
       "notes": "@ Vigil Labs, 20 years old",
       "checked": false
+    },
+    {
+      "id": "founders-1769026582936-7557",
+      "name": "Jo Kristian Bergum",
+      "city": "SF",
+      "tags": [
+        "HORNET.dev",
+        "Retrieval",
+        "Agents",
+        "CEO"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ HORNET.dev - retrieval engine built for agents",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:13:43.130Z"
+  "last_updated": "2026-01-21T20:16:22.936Z"
 }
