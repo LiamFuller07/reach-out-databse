@@ -112,7 +112,23 @@
       "linkedin": "",
       "notes": "San Francisco/Silicon Valley AI thought leader. Covers robots, holodecks, BCIs, analysis of new tech. Ex-Microsoft, Rackspace, Fast Company. Wrote 8 books about the future. Tech influencer with large following. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "angels-1768982322851-7987",
+      "name": "Chris",
+      "city": "SF",
+      "tags": [
+        "AGI 2029",
+        "RL",
+        "CL",
+        "Angel Investor",
+        "Early Startups"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Agi 2029 - Applied in RL, CL, and generalization | Program Manager | Investing in early startups. @chatgpt21",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:50:18.347Z"
+  "last_updated": "2026-01-21T07:58:42.851Z"
 }
