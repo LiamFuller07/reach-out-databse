@@ -4285,7 +4285,22 @@
       "linkedin": "",
       "notes": "AI Engineer at Sourcegraph. Writing Token Stream newsletter. Interested in Goodness, Truth and AI.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982015677-8336",
+      "name": "Eno Reyes",
+      "city": "SF",
+      "tags": [
+        "AI founder",
+        "CTO",
+        "FactoryAI",
+        "software automation"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO at FactoryAI - Building software that builds software.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:53:32.112Z"
+  "last_updated": "2026-01-21T07:53:35.677Z"
 }
