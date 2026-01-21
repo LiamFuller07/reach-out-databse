@@ -2643,7 +2643,23 @@
       "linkedin": "",
       "notes": "Principal Scientist @ DeepMind, Prof @ University of Alberta, co-author of Bandit Algorithms book, foundational RL theory researcher, ICML Fellow",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986243856-2736",
+      "name": "Pulkit Agrawal",
+      "city": "Boston",
+      "tags": [
+        "MIT",
+        "CSAIL",
+        "Robotics",
+        "RL",
+        "Improbable AI Lab"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Faculty @ MIT CSAIL, leads Improbable AI Lab, research on robot learning, reinforcement learning, and embodied AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:04:02.773Z"
+  "last_updated": "2026-01-21T09:04:03.856Z"
 }
