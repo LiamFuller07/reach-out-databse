@@ -4510,7 +4510,22 @@
       "linkedin": "",
       "notes": "Senior Principal Product Manager - Data + AI @ Red Hat",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989731655-2500",
+      "name": "Nadav Timor",
+      "city": "SF",
+      "tags": [
+        "Speculative Decoding",
+        "HuggingFace Transformers",
+        "AI Inference",
+        "Open Source"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI inference & speculative decoding researcher, built novel decoding algorithms now default in HuggingFace Transformers (150+ stars)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:02:10.484Z"
+  "last_updated": "2026-01-21T10:02:11.655Z"
 }
