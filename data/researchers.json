@@ -3466,7 +3466,21 @@
       "linkedin": "",
       "notes": "Applied Scientist @ AWS",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988033062-2514",
+      "name": "Shang Yang",
+      "city": "Boston",
+      "tags": [
+        "MIT",
+        "EECS",
+        "PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD Student @ MIT EECS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:32:36.805Z"
+  "last_updated": "2026-01-21T09:33:53.062Z"
 }
