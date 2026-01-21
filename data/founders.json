@@ -4188,7 +4188,23 @@
       "linkedin": "",
       "notes": "Founder & CTO at hud.ai (Human Union Data, Inc.) - YC W25. Bachelor of Engineering in Computer Engineering from Rutgers University (2017-2021). Previous experience at Chopra (Interim CEO), Standard Metrics, and 8VC. Self-describes as 'Spiritual Ronin | agent whisperer'. Based in San Francisco.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981948185-6954",
+      "name": "Minh Nhat Nguyen",
+      "city": "San Francisco",
+      "tags": [
+        "hud.ai",
+        "AI Agents",
+        "YC W25",
+        "AIHubCentral",
+        "ex-climate activist"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Agents team member at hud.ai - YC W25. Previously owned @AIHubCentral (1 million users, acquired). Ex climate protester. Works on AI agent development and evaluation.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:52:15.512Z"
+  "last_updated": "2026-01-21T07:52:28.185Z"
 }
