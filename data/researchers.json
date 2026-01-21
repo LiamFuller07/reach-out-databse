@@ -4680,7 +4680,20 @@
       "linkedin": "",
       "notes": "@ Harvey Mudd, AI4Science Research @ Lila Sciences, prev @ Iudex AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990132956-5033",
+      "name": "Fuli Luo",
+      "city": "China",
+      "tags": [
+        "Xiaomi MiMo",
+        "prev DeepSeek"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Now building @ Xiaomi MiMo, prev @ DeepSeek",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:08:10.139Z"
+  "last_updated": "2026-01-21T10:08:52.956Z"
 }
