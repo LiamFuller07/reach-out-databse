@@ -16,7 +16,22 @@
       "linkedin": "",
       "notes": "General Partner at a16z. Pioneer of Software-Defined Networking (SDN). Founded Nicira (acquired by VMware for $1.26B). PhD Stanford.",
       "checked": false
+    },
+    {
+      "id": "vcs-1768983885562-3953",
+      "name": "NDRC",
+      "city": "Ireland",
+      "tags": [
+        "Accelerator",
+        "Ireland",
+        "Dogpatch Labs",
+        "National Programme"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Ireland's national startup accelerator programme, powered by @dogpatchlabs in partnership with @portershed, @RDIhubIreland and @republicofwork. Follows Liam.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:21:26.206Z"
+  "last_updated": "2026-01-21T08:24:45.562Z"
 }
