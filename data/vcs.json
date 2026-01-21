@@ -78,7 +78,22 @@
       "linkedin": "",
       "notes": "@ Foundation Capital | Previously CaptivateIQ, WeWork, Twitch, Palantir",
       "checked": false
+    },
+    {
+      "id": "vcs-1768982014493-619",
+      "name": "Martin Casado",
+      "city": "SF",
+      "tags": [
+        "a16z",
+        "GP",
+        "venture capital",
+        "tech investor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "General Partner at a16z. Nostalgic for the future.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:50:24.788Z"
+  "last_updated": "2026-01-21T07:53:34.493Z"
 }
