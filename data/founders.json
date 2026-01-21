@@ -3786,7 +3786,25 @@
       "linkedin": "",
       "notes": "Founder & CEO @ Inference Analytics | Building AI for sensitive data industries | Alum: IBM Big Data, Informatica, MicroStrategy, McKinsey | Follows you",
       "checked": false
+    },
+    {
+      "id": "founders-1768981628670-6681",
+      "name": "Mark Vassilevskiy",
+      "city": "SF",
+      "tags": [
+        "CEO",
+        "Skale",
+        "angel investor",
+        "19yo",
+        "Bolt",
+        "ClickUp",
+        "Whop"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "19yo. CEO of Skale. Angel Investor. Clients include Bolt, ClickUp, Whop.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:06.353Z"
+  "last_updated": "2026-01-21T07:47:08.670Z"
 }
