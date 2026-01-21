@@ -6304,7 +6304,22 @@
       "linkedin": "",
       "notes": "Professor @ UC Berkeley EECS, legendary computer vision researcher, Arthur J. Chick Professor, IEEE/ACM Fellow, multiple lifetime achievement awards",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024256405-1630",
+      "name": "Elvis Nava",
+      "city": "Zurich",
+      "tags": [
+        "Mimi Robotics",
+        "ETH PhD",
+        "Robot AI Scaling Laws",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Mimi Robotics, PhD @ ETH Zurich. Research on discovering scaling laws for robot AI.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:36:57.747Z"
+  "last_updated": "2026-01-21T19:37:36.405Z"
 }
