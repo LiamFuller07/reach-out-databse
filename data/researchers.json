@@ -6161,7 +6161,24 @@
       "linkedin": "",
       "notes": "Assistant Professor @ Penn CIS, ML for systems and databases",
       "checked": false
+    },
+    {
+      "id": "researchers-1769023982942-6265",
+      "name": "Shreya Shankar",
+      "city": "SF",
+      "tags": [
+        "docetl",
+        "evals.info",
+        "Data Systems",
+        "HCI",
+        "Berkeley PhD",
+        "Stanford"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Data systems & HCI researcher, created docetl.org and evals.info, PhD @ Berkeley EECS, Stanford CS undergrad, on CS faculty job market",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:32:59.112Z"
+  "last_updated": "2026-01-21T19:33:02.942Z"
 }
