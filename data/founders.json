@@ -5670,7 +5670,23 @@
       "linkedin": "",
       "notes": "Building mixtrain.ai - post-training superpower for everyone, prev Nuro, Zoox, Microsoft Research",
       "checked": false
+    },
+    {
+      "id": "founders-1768989100332-6305",
+      "name": "Yuchen Jin",
+      "city": "SF",
+      "tags": [
+        "Hyperbolic Labs",
+        "OctoAI",
+        "NVIDIA acquired",
+        "Apache TVM",
+        "UW PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ Hyperbolic Labs, prev OctoAI (acquired by NVIDIA), built Apache TVM, PhD UW",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:30:56.340Z"
+  "last_updated": "2026-01-21T09:51:40.332Z"
 }
