@@ -7311,7 +7311,25 @@
       "linkedin": "",
       "notes": "Asst. Prof @ Princeton CS, Chief Scientist @ Together Compute, creator of FlashAttention, machine learning & systems",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026882919-9862",
+      "name": "Ofir Press",
+      "city": "SF",
+      "tags": [
+        "SWE-bench",
+        "SWE-agent",
+        "SciCode",
+        "AlgoTune",
+        "Princeton",
+        "Evals",
+        "Benchmarks"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Builds tough benchmarks for LMs - creator of SWE-bench, SWE-agent, SciCode, AlgoTune. Postdoc @ Princeton, PhD @ UW with Noah Smith",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:21:21.672Z"
+  "last_updated": "2026-01-21T20:21:22.919Z"
 }
