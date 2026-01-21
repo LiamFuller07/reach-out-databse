@@ -6650,7 +6650,22 @@
       "linkedin": "",
       "notes": "Leading Postgres for Snowflake, prev CPO @ Crunchy Data, prev Microsoft, Citus Data, Heroku",
       "checked": false
+    },
+    {
+      "id": "founders-1768994032356-9077",
+      "name": "Sam Lambert",
+      "city": "SF",
+      "tags": [
+        "PlanetScale",
+        "CEO",
+        "Databases",
+        "MySQL"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ PlanetScale",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:13:51.158Z"
+  "last_updated": "2026-01-21T11:13:52.356Z"
 }
