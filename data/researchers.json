@@ -7107,7 +7107,22 @@
       "linkedin": "",
       "notes": "Researcher @ Cursor, famous NLP researcher, prev Cornell/Harvard Prof, youtube.com/@srush_nlp",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026543076-3080",
+      "name": "Vicki Boykis",
+      "city": "SF",
+      "tags": [
+        "ML Engineer",
+        "RecSys",
+        "Search",
+        "Founding Engineer"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founding ML engineer in recsys/search, building something new",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:15:41.997Z"
+  "last_updated": "2026-01-21T20:15:43.076Z"
 }
