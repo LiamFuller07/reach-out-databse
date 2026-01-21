@@ -6038,7 +6038,22 @@
       "linkedin": "",
       "notes": "Developer, infrastructure",
       "checked": false
+    },
+    {
+      "id": "researchers-1768993926531-5896",
+      "name": "Julia Evans",
+      "city": "SF",
+      "tags": [
+        "Zines",
+        "Infrastructure",
+        "Education",
+        "Developer"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Famous for technical zines, infrastructure educator",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:12:05.455Z"
+  "last_updated": "2026-01-21T11:12:06.531Z"
 }
