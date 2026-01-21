@@ -3860,18 +3860,17 @@
     },
     {
       "id": "founders-1768981651606-6698",
-      "name": "Ry Walker",
+      "name": "ry walker",
       "city": "SF",
       "tags": [
-        "founder",
-        "CEO",
         "Tembo",
-        "Astronomer.io",
-        "coding agents"
+        "Astronomer.io founder",
+        "Coding agents",
+        "Exited founder"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Delegate work to any coding agent with Tembo. Prev founder/CEO of Astronomer.io.",
+      "notes": "Delegate work to any coding agent with @tembo · prev founder/CEO of @astronomerio (yeah that one). Follows Liam.",
       "checked": false
     },
     {
@@ -4549,5 +4548,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:57:54.574Z"
+  "last_updated": "2026-01-21T07:57:55.636Z"
 }
