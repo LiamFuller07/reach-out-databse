@@ -4665,7 +4665,22 @@
       "linkedin": "",
       "notes": "github.com/sdan",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990090139-5598",
+      "name": "Andy Xu",
+      "city": "SF",
+      "tags": [
+        "Harvey Mudd",
+        "AI4Science",
+        "Lila Sciences",
+        "Iudex AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Harvey Mudd, AI4Science Research @ Lila Sciences, prev @ Iudex AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:08:08.878Z"
+  "last_updated": "2026-01-21T10:08:10.139Z"
 }
