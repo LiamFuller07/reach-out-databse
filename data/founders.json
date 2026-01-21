@@ -6757,7 +6757,22 @@
       "linkedin": "",
       "notes": "Product @ Stripe, angel investor, led Wagon (acq by Box) and Hyperpublic (acq by Groupon)",
       "checked": false
+    },
+    {
+      "id": "founders-1768994200488-5380",
+      "name": "Cameron Archer",
+      "city": "SF",
+      "tags": [
+        "Turbopuffer",
+        "Growth",
+        "prev Tinybird",
+        "Data Infrastructure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Growth @ Turbopuffer, prev @ Tinybird",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:16:39.234Z"
+  "last_updated": "2026-01-21T11:16:40.488Z"
 }
