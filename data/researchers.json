@@ -4706,7 +4706,22 @@
       "linkedin": "",
       "notes": "CSD PhD @ CMU",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990175593-7645",
+      "name": "罗杰斯 (Rojas)",
+      "city": "Beijing",
+      "tags": [
+        "Zhipu AI",
+        "Z.ai",
+        "Tsinghua",
+        "Advanced Computing"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Engineer @ Zhipu AI (Z.ai), Advanced Computing @ Tsinghua University",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:08:54.219Z"
+  "last_updated": "2026-01-21T10:09:35.593Z"
 }
