@@ -6900,7 +6900,23 @@
       "linkedin": "",
       "notes": "Professor @ Wharton studying AI, innovation & startups. Famous AI educator, author of One Useful Thing newsletter. Democratizing education using tech.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769025381793-5865",
+      "name": "Qingfeng Sun",
+      "city": "Shenzhen",
+      "tags": [
+        "Tencent Hunyuan",
+        "WizardLM",
+        "Co-founder",
+        "PKU",
+        "Microsoft"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research @ Tencent Hunyuan X, Co-founder @ WizardLM AI. Prev PKU, Microsoft.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:55:03.504Z"
+  "last_updated": "2026-01-21T19:56:21.793Z"
 }
