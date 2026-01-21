@@ -6582,7 +6582,21 @@
       "linkedin": "",
       "notes": "GEAR @ NVIDIA AI (Jim Fan's lab), PhDing in robotics @ UofT.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024672517-5676",
+      "name": "Joseph Redmon",
+      "city": "Seattle",
+      "tags": [
+        "YOLO Creator",
+        "Computer Vision",
+        "Object Detection Legend"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Creator of YOLO (You Only Look Once), legendary computer vision researcher, object detection pioneer.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:44:30.429Z"
+  "last_updated": "2026-01-21T19:44:32.517Z"
 }
