@@ -4851,7 +4851,21 @@
       "linkedin": "",
       "notes": "The technical design studio - lowercase.club",
       "checked": false
+    },
+    {
+      "id": "founders-1768984254901-5352",
+      "name": "Ange",
+      "city": "SF",
+      "tags": [
+        "Lowercase Club",
+        "Design",
+        "Wilson Hou collab"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Designer @ lowercase.club with Wilson Hou",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:30:53.730Z"
+  "last_updated": "2026-01-21T08:30:54.901Z"
 }
