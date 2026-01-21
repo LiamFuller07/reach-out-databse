@@ -5730,7 +5730,23 @@
       "linkedin": "",
       "notes": "CEO @ Letta AI, creator of MemGPT, AI PhD @ Berkeley (RISE Lab, Sky Computing)",
       "checked": false
+    },
+    {
+      "id": "founders-1768989687319-4136",
+      "name": "Pete Skomoroch",
+      "city": "SF",
+      "tags": [
+        "SkipFlag founder",
+        "Accel EIR",
+        "LinkedIn",
+        "AI Investor",
+        "MIT"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI investor & startup founder, founder @ SkipFlag, EIR @ Accel, prev Data Science & ML @ LinkedIn, AOL, MIT",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:59:03.832Z"
+  "last_updated": "2026-01-21T10:01:27.319Z"
 }
