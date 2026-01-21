@@ -1951,7 +1951,21 @@
       "linkedin": "",
       "notes": "Makes technical deep learning tutorials focused on neuro/ai intersection.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985067903-5619",
+      "name": "Changho Shin",
+      "city": "Madison",
+      "tags": [
+        "Wisconsin CS",
+        "UW Madison",
+        "PhD Student"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student at Wisconsin CS, UW Madison.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:44:26.910Z"
+  "last_updated": "2026-01-21T08:44:27.903Z"
 }
