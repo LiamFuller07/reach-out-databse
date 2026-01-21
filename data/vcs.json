@@ -140,7 +140,21 @@
       "linkedin": "",
       "notes": "Partner @ Menlo Ventures, formerly founding team @ Glean, ex-Google Search, Cornell CS, influential tech voice on X",
       "checked": false
+    },
+    {
+      "id": "vcs-1768990044602-5176",
+      "name": "Kim-Mai Cutler",
+      "city": "SF",
+      "tags": [
+        "Initialized Capital",
+        "Partner",
+        "VC"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ Initialized Capital",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:11:39.094Z"
+  "last_updated": "2026-01-21T10:07:24.602Z"
 }
