@@ -3218,7 +3218,20 @@
       "linkedin": "",
       "notes": "@ Apple Foundation Models",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987543503-7668",
+      "name": "Wenhao Chai",
+      "city": "SF",
+      "tags": [
+        "ML Research",
+        "RL/AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Found via zhzHNN's following list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:25:42.416Z"
+  "last_updated": "2026-01-21T09:25:43.503Z"
 }
