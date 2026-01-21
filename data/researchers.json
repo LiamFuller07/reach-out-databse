@@ -3654,7 +3654,21 @@
       "linkedin": "",
       "notes": "PhD student @ UW CSE/NLP, model collaboration, compositional intelligence and collaborative development",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988173432-2524",
+      "name": "Koushik Sen",
+      "city": "Berkeley",
+      "tags": [
+        "UC Berkeley",
+        "Professor",
+        "CS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor of Computer Science @ UC Berkeley",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:35:32.195Z"
+  "last_updated": "2026-01-21T09:36:13.432Z"
 }
