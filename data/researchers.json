@@ -4693,7 +4693,20 @@
       "linkedin": "",
       "notes": "Now building @ Xiaomi MiMo, prev @ DeepSeek",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990134219-8908",
+      "name": "Yonghao Zhuang",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU",
+        "CSD PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CSD PhD @ CMU",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:08:52.956Z"
+  "last_updated": "2026-01-21T10:08:54.219Z"
 }
