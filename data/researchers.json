@@ -5186,7 +5186,21 @@
       "linkedin": "",
       "notes": "PhD student @ CMU LTI, interning @ AI2 S2 Research, prev Stanford NLP, HKUST, Tencent AI Lab, Google DeepMind",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990879966-6248",
+      "name": "Yueqi Song",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU PhD",
+        "Graham Neubig",
+        "NLP"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD, MS, BS @ Carnegie Mellon, advised by Graham Neubig",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:21:18.016Z"
+  "last_updated": "2026-01-21T10:21:19.966Z"
 }
