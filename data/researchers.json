@@ -3204,7 +3204,21 @@
       "linkedin": "",
       "notes": "Faculty @ UMass Amherst, Principal Researcher @ MIT-IBM Watson AI Lab, embodied-agi.cs.umass.edu",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987542416-3510",
+      "name": "Ruoming Pang",
+      "city": "SF",
+      "tags": [
+        "Apple",
+        "Foundation Models",
+        "ML Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Apple Foundation Models",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:25:41.326Z"
+  "last_updated": "2026-01-21T09:25:42.416Z"
 }
