@@ -3825,7 +3825,25 @@
       "linkedin": "",
       "notes": "PhD @ Tsinghua University, focusing on efficient machine learning systems, currently visiting @ Berkeley Sky Lab",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988785346-7297",
+      "name": "Yizhong Wang",
+      "city": "Austin",
+      "tags": [
+        "UT Austin",
+        "Incoming Asst Prof",
+        "ByteDance",
+        "UW PhD",
+        "Allen AI",
+        "Meta AI",
+        "MSFT Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Incoming Asst Prof @ UT Austin CS, RS @ ByteDance, PhD @ UW CSE, ex-Allen AI, Meta AI, MSFT Research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:45:36.091Z"
+  "last_updated": "2026-01-21T09:46:25.346Z"
 }
