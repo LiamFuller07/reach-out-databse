@@ -7434,7 +7434,22 @@
       "linkedin": "",
       "notes": "Engineering/distributed systems expert",
       "checked": false
+    },
+    {
+      "id": "researchers-1769027059204-2625",
+      "name": "Sam Whitmore",
+      "city": "SF",
+      "tags": [
+        "Cursor",
+        "Engineer",
+        "Kensho",
+        "Harvard"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Engineer @ Cursor AI, prev newcomputer, Kensho, Harvard",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:23:39.982Z"
+  "last_updated": "2026-01-21T20:24:19.204Z"
 }
