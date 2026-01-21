@@ -3700,7 +3700,23 @@
       "linkedin": "",
       "notes": "Associate Professor @ HKUST, working on knowledge graphs, NLP, knowledge discovery on texts and graphs",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988682000-436",
+      "name": "Simon Sure",
+      "city": "SF",
+      "tags": [
+        "ETH",
+        "Princeton",
+        "NVIDIA",
+        "Palantir",
+        "Optiver"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS @ ETH & Princeton, intern @ NVIDIA, Palantir, Optiver",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:36:15.807Z"
+  "last_updated": "2026-01-21T09:44:42.000Z"
 }
