@@ -2392,7 +2392,21 @@
       "linkedin": "",
       "notes": "ML Researcher, Postdoc @ Stanford AI Lab. Investigating differentiable algorithms.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985648853-749",
+      "name": "Timothy Nguyen",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "Mathematician",
+        "Cartesian Cafe Podcast"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML Researcher @ Google DeepMind & mathematician. Host of The Cartesian Cafe podcast.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:53:25.413Z"
+  "last_updated": "2026-01-21T08:54:08.853Z"
 }
