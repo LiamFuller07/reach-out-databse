@@ -2226,7 +2226,24 @@
       "linkedin": "",
       "notes": "PhD student @ Meta & ENS on LLMs and brains processing language.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985420529-401",
+      "name": "Lucas Beyer",
+      "city": "Zurich",
+      "tags": [
+        "Meta",
+        "ex-OpenAI",
+        "ex-DeepMind",
+        "ex-Google Brain",
+        "RWTH Aachen",
+        "ViT"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher @ Meta. Ex: OpenAI, DeepMind, Google Brain, RWTH Aachen. Belgian. Gamer, Hacker. Co-author Vision Transformer (ViT).",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:49:34.609Z"
+  "last_updated": "2026-01-21T08:50:20.529Z"
 }
