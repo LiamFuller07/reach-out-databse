@@ -4911,7 +4911,22 @@
       "linkedin": "",
       "notes": "PhD @ MIT DMSE with RGB Lab and Ju Li, BS physics + EE, MS CS from Stanford, ML for materials",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990444131-8288",
+      "name": "Ashwinee Panda",
+      "city": "SF",
+      "tags": [
+        "Tom Goldstein Postdoc",
+        "Princeton PhD",
+        "UC Berkeley",
+        "LLMs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Postdoc of Tom Goldstein, PhD Princeton, UC Berkeley alum, working on LLMs",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:13:32.240Z"
+  "last_updated": "2026-01-21T10:14:04.131Z"
 }
