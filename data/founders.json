@@ -4032,7 +4032,21 @@
       "linkedin": "",
       "notes": "23 year old AI Engineer & solopreneur. Building 12 SaaS products in 12 months. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981820795-8901",
+      "name": "Ben Kennedy",
+      "city": "SF",
+      "tags": [
+        "Gecko",
+        "Equipment Rentals",
+        "B2B"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building Gecko - making equipment rentals 10x easier. B2B founder. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:50:19.601Z"
+  "last_updated": "2026-01-21T07:50:20.795Z"
 }
