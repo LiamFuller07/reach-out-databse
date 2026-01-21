@@ -3419,7 +3419,22 @@
       "linkedin": "https://linkedin.com/in/robtoews",
       "notes": "Partner @ Radical Ventures ($550M early-stage + $800M growth fund), AI Columnist @ Forbes, MBA & JD Harvard, prev Highland Capital VC, prev Strategy Lead @ Zoox (acquired by Amazon $1.3B), prev White House autonomous vehicle policy under Obama, prev Bain & Co, led investments in DatologyAI/Hebbia/Reka/Twelve Labs",
       "checked": false
+    },
+    {
+      "id": "founders-1768981329219-7387",
+      "name": "Scott Wu",
+      "city": "SF",
+      "tags": [
+        "Cognition",
+        "Devin",
+        "AI Coding Agent",
+        "Stanford"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Cognition | Building Devin, the AI software engineer | One of the most hyped AI agent companies | Stanford background",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:28:16.381Z"
+  "last_updated": "2026-01-21T07:42:09.219Z"
 }
