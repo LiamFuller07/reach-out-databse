@@ -3096,7 +3096,24 @@
       "linkedin": "",
       "notes": "Robotic foundation models @ NVIDIA, prev Google DeepMind (RT-2, VLAs, Offline RL), prev Figure robot (Helix)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986903574-9302",
+      "name": "Anima Anandkumar",
+      "city": "LA",
+      "tags": [
+        "Caltech Bren Prof",
+        "TIME100",
+        "ex-NVIDIA Sr Director",
+        "ex-AWS",
+        "AI+Science",
+        "Tensor Methods"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Bren Professor @ Caltech, TIME100 most influential in AI, former Sr Director of AI Research @ NVIDIA, former Principal Scientist @ AWS, pioneer in tensor methods and AI for science",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:15:02.100Z"
+  "last_updated": "2026-01-21T09:15:03.574Z"
 }
