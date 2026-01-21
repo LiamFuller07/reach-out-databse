@@ -4939,7 +4939,23 @@
       "linkedin": "",
       "notes": "PhD student @ MIT EECS, systems for ML",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990479396-8332",
+      "name": "Elizabeth Qiu",
+      "city": "SF",
+      "tags": [
+        "ex-Anthropic",
+        "ex-Adobe",
+        "ex-JPMorgan",
+        "UMD CS",
+        "Policy"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Prev @ClaudeAI (Anthropic), UMD CS, Adobe, JPMorgan, policy + engineering",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:14:38.333Z"
+  "last_updated": "2026-01-21T10:14:39.396Z"
 }
