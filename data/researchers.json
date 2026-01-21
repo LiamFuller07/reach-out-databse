@@ -1485,7 +1485,22 @@
       "linkedin": "",
       "notes": "Post training (CUA and coding), prev AI researcher @ AGI Inc, @Stanford, @mission_ctrl",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984349905-2713",
+      "name": "Jack Lynch",
+      "city": "London",
+      "tags": [
+        "Isomorphic Labs",
+        "DeepMind",
+        "Physics",
+        "Cog Sci"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Jack of all trades @ Isomorphic Labs (Demis Hassabis's drug discovery company), fan of physics, eng, cog sci",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:32:28.880Z"
+  "last_updated": "2026-01-21T08:32:29.905Z"
 }
