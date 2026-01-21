@@ -5822,7 +5822,22 @@
       "linkedin": "",
       "notes": "Founder @ Midjourney, prev founded Leap Motion, NASA, Max Planck",
       "checked": false
+    },
+    {
+      "id": "founders-1768990592933-479",
+      "name": "Jasper Zhang",
+      "city": "SF",
+      "tags": [
+        "Hyperbolic Labs",
+        "CEO",
+        "ex-Avalanche",
+        "ex-Citi"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Hyperbolic Labs, ex-Avalanche, ex-Citi Securities",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:15:16.097Z"
+  "last_updated": "2026-01-21T10:16:32.933Z"
 }
