@@ -514,14 +514,15 @@
       "name": "Ronak Malde",
       "city": "SF",
       "tags": [
-        "Google DeepMind",
-        "RL/AI",
+        "AI",
+        "DeepMind",
+        "RL",
         "Stanford",
         "Windsurf"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Research @ Google DeepMind (joined July 2025), prev Windsurf (trained SWE-1 frontier coding model), Stanford alumni, prev Google/NVIDIA intern, agentic coding",
+      "notes": "RL researcher at Google DeepMind. Previously research at Windsurf (acquired by DeepMind). Stanford background. Follows Liam - warm lead.",
       "checked": false
     },
     {
@@ -915,5 +916,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:48:56.488Z"
+  "last_updated": "2026-01-21T07:49:29.742Z"
 }
