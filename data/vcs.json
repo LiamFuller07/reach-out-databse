@@ -366,7 +366,21 @@
       "linkedin": "",
       "notes": "Founder @ 1confirmation",
       "checked": false
+    },
+    {
+      "id": "vcs-1769026420691-4518",
+      "name": "Ian McCreadie",
+      "city": "",
+      "tags": [
+        "Thrive Capital",
+        "Young Talent",
+        "19yo"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Thrive Capital, 19 years old",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:12:30.051Z"
+  "last_updated": "2026-01-21T20:13:40.691Z"
 }
