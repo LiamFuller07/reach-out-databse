@@ -3723,7 +3723,23 @@
       "linkedin": "",
       "notes": "Building friendware.ai - Tab-to-complete for everything on MacOS.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981605925-6454",
+      "name": "Dylan Allen-Arnegard",
+      "city": "SF",
+      "tags": [
+        "YC S24",
+        "Cheers",
+        "ChatGPT",
+        "local business",
+        "AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Cheers (YC S24). Helps local businesses get recommended by ChatGPT. Utah -> SF.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:42.262Z"
+  "last_updated": "2026-01-21T07:46:45.925Z"
 }
