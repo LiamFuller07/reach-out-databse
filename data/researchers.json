@@ -7450,7 +7450,22 @@
       "linkedin": "",
       "notes": "Engineer @ Cursor AI, prev newcomputer, Kensho, Harvard",
       "checked": false
+    },
+    {
+      "id": "researchers-1769027110405-5857",
+      "name": "Fuheng Zhao",
+      "city": "SF",
+      "tags": [
+        "Utah",
+        "Snowflake",
+        "Data Systems",
+        "Professor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Incoming Asst Professor @ UUtah, PostDoc @ Snowflake, data systems research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:24:20.472Z"
+  "last_updated": "2026-01-21T20:25:10.405Z"
 }
