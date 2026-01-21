@@ -6662,7 +6662,20 @@
       "linkedin": "",
       "notes": "Director @ 1X Tech, working on world models and evals. Prev Waymo, Google, The Team at X, Berkeley AI. Key contact for RL + evaluations.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024800910-48",
+      "name": "Caleb Martin",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Intelligent Robots"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building intelligent robots. Pro human/humanity.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:46:39.751Z"
+  "last_updated": "2026-01-21T19:46:40.910Z"
 }
