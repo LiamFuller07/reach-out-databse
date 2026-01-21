@@ -5927,7 +5927,22 @@
       "linkedin": "",
       "notes": "Co-founder & CEO @ Fundamental (fka Altera AI), former Asst Prof MIT BrainAndCog & EECS, building ShortcutAI",
       "checked": false
+    },
+    {
+      "id": "founders-1768991187351-5175",
+      "name": "Yichao 'Peak' Ji",
+      "city": "SF",
+      "tags": [
+        "Manus AI",
+        "Co-founder",
+        "Chief Scientist",
+        "AI Training"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & Chief Scientist @ Manus AI, training AI since 2013",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:26:26.185Z"
+  "last_updated": "2026-01-21T10:26:27.351Z"
 }
