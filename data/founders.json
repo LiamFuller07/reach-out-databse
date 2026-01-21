@@ -3900,7 +3900,22 @@
       "linkedin": "",
       "notes": "Building the biggest media company in European Tech. 35k newsletter readers and 74k followers on LinkedIn.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981675975-5331",
+      "name": "Piyush",
+      "city": "SF",
+      "tags": [
+        "founder",
+        "fundora_invoice",
+        "ML research",
+        "21yo"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "21. Building @fundora_invoice. ML research published.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:53.175Z"
+  "last_updated": "2026-01-21T07:47:55.975Z"
 }
