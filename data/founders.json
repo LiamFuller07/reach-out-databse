@@ -4254,7 +4254,23 @@
       "linkedin": "",
       "notes": "Cofounder of vibecodeapp - the easiest way to use Claude Code to build professional mobile apps and web apps.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982010865-9008",
+      "name": "Luis Catacora",
+      "city": "SF",
+      "tags": [
+        "DevRel",
+        "Cloudflare",
+        "Replicate",
+        "generative AI",
+        "open source"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "DevRel at Cloudflare, prev Replicate. Open Source Work: Generative AI Models on Replicate.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:53:29.688Z"
+  "last_updated": "2026-01-21T07:53:30.865Z"
 }
