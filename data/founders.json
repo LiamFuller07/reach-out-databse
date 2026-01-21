@@ -5911,7 +5911,23 @@
       "linkedin": "",
       "notes": "Head of Design @ Cursor AI, early Notion, Stripe, built startups",
       "checked": false
+    },
+    {
+      "id": "founders-1768991186185-7125",
+      "name": "Robert Yang",
+      "city": "SF",
+      "tags": [
+        "Fundamental AI",
+        "Altera AI",
+        "CEO",
+        "MIT Professor",
+        "ShortcutAI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Fundamental (fka Altera AI), former Asst Prof MIT BrainAndCog & EECS, building ShortcutAI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:26:25.029Z"
+  "last_updated": "2026-01-21T10:26:26.185Z"
 }
