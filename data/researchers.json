@@ -4389,7 +4389,21 @@
       "linkedin": "",
       "notes": "@ DatologyAI, prev Data Research Lead @ Mosaic AI (DBRX), Visiting Researcher @ Facebook, PhD",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989542725-6329",
+      "name": "Matthew Douglas",
+      "city": "SF",
+      "tags": [
+        "Hugging Face",
+        "bitsandbytes",
+        "ML Engineer"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML Engineer @ Hugging Face, Engineering Lead @ bitsandbytes",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:58:25.914Z"
+  "last_updated": "2026-01-21T09:59:02.725Z"
 }
