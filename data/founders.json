@@ -4332,7 +4332,21 @@
       "linkedin": "",
       "notes": "Building picogpt - local AI inference.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982076318-6289",
+      "name": "Adam (Trufflepig)",
+      "city": "SF",
+      "tags": [
+        "AI founder",
+        "Trufflepig",
+        "AI spreadsheet"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building the AI spreadsheet at try_trufflepig.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:34.250Z"
+  "last_updated": "2026-01-21T07:54:36.318Z"
 }
