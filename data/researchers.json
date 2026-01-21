@@ -4610,7 +4610,23 @@
       "linkedin": "",
       "notes": "Undergrad @ UMich CSE & SJTU, Committer @ SGLang & Mooncake project, prev MiniMax AI, ML Systems",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989996152-4057",
+      "name": "Stefania Druga",
+      "city": "SF",
+      "tags": [
+        "Sakana AI Labs",
+        "ex-DeepMind",
+        "UW PhD",
+        "MIT",
+        "Multimodal LLM"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ Sakana AI Labs, prev Google DeepMind, AI & Multimodal LLM applications, PhD @ UW, alumni MIT & Microsoft",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:06:34.924Z"
+  "last_updated": "2026-01-21T10:06:36.152Z"
 }
