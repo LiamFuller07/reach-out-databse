@@ -1106,7 +1106,22 @@
       "linkedin": "",
       "notes": "Scaling RL at Anthropic. Ex-DeepMind. Working towards intelligence too cheap to meter.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982075313-1174",
+      "name": "Etash Guha",
+      "city": "SF",
+      "tags": [
+        "AI researcher",
+        "PhD",
+        "Stanford",
+        "UW CSE"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Ph.D. at Stanford and UW CSE.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:10.077Z"
+  "last_updated": "2026-01-21T07:54:35.313Z"
 }
