@@ -977,7 +977,23 @@
       "linkedin": "",
       "notes": "@ Cit Securities | Inference @ Together Compute | Prev Apple, research @ NVIDIA",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982007172-5721",
+      "name": "Irwan Bello",
+      "city": "SF",
+      "tags": [
+        "AI research",
+        "OpenAI founding team",
+        "Character.ai founding team",
+        "Google Brain",
+        "Reflection AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Lead at Reflection AI. Past: OpenAI founding team, Character.ai founding team, Google Brain. Supercomputers & Friends, AI & Science.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:49:49.937Z"
+  "last_updated": "2026-01-21T07:53:27.172Z"
 }
