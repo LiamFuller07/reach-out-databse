@@ -240,12 +240,13 @@
       "name": "Mohammed Alshehri",
       "city": "SF",
       "tags": [
-        "Applied ML/RL",
-        "RL/AI Follower"
+        "Applied ML",
+        "RL",
+        "Post Training"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "@ Applied ML/RL",
+      "notes": "23 | Applied ML/RL, Post Training → building and learning | Follows you",
       "checked": false
     },
     {
@@ -735,5 +736,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:45:22.320Z"
+  "last_updated": "2026-01-21T07:46:14.555Z"
 }
