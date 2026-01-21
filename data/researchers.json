@@ -3356,7 +3356,23 @@
       "linkedin": "",
       "notes": "LLM Systems/MLLM/Efficient AI researcher, PhD @ Rice University, Sr Manager @ LinkedIn, ex Google Research, AWS, Apple, PKU, WashU, TSC lead @ DeepSpeed AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987738421-7261",
+      "name": "GDP",
+      "city": "Seattle",
+      "tags": [
+        "Amazon",
+        "AWS",
+        "Reinforcement Learning",
+        "Coding Agents",
+        "World Models"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI @ Amazon/AWS Cloud, Reinforcement Learning, Coding Agents, General Purpose Agents, World Models",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:28:25.041Z"
+  "last_updated": "2026-01-21T09:28:58.421Z"
 }
