@@ -2876,7 +2876,19 @@
       "linkedin": "",
       "notes": "Senior Staff Research Scientist @ Google DeepMind, Honorary Lecturer @ UCL, ex Meta/Microsoft Research/NYU/Princeton, worked on Llama-3, Toolformer, Rainbow Teaming, MLGym",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986565526-1019",
+      "name": "Ian Wu",
+      "city": "SF",
+      "tags": [
+        "AI Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI researcher (partial profile view)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:09:24.450Z"
+  "last_updated": "2026-01-21T09:09:25.526Z"
 }
