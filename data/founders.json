@@ -5436,7 +5436,22 @@
       "linkedin": "",
       "notes": "Co-founder of PyTorch, building @thinkymachines, dabbles in robotics at NYU, prev Meta AI, champion of accessible open-source AI",
       "checked": false
+    },
+    {
+      "id": "founders-1768986387305-7465",
+      "name": "Jia Li",
+      "city": "Paris",
+      "tags": [
+        "Numina",
+        "prev Mistral AI",
+        "ex-Cardiologs CSO",
+        "AI Healthcare"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Numina, former AI scientist @ Mistral AI, Co-founder & ex-CSO @ Cardiologs (AI healthcare)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:04:48.069Z"
+  "last_updated": "2026-01-21T09:06:27.305Z"
 }
