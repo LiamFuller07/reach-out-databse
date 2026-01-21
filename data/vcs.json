@@ -259,7 +259,21 @@
       "linkedin": "",
       "notes": "@ Thrive Capital",
       "checked": false
+    },
+    {
+      "id": "vcs-1769023852614-7087",
+      "name": "Ajay Rayasam",
+      "city": "SF",
+      "tags": [
+        "OUP VC",
+        "MIT",
+        "Investor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Investor @ OUP VC, MIT alum (grad 2020)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:15:12.395Z"
+  "last_updated": "2026-01-21T19:30:52.614Z"
 }
