@@ -6596,7 +6596,23 @@
       "linkedin": "",
       "notes": "Creator of YOLO (You Only Look Once), legendary computer vision researcher, object detection pioneer.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024717842-9823",
+      "name": "Tanmay Agarwal",
+      "city": "SF",
+      "tags": [
+        "Parallax Worlds",
+        "Stanford SVL",
+        "NVIDIA Self Driving",
+        "Robotics",
+        "Drones"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building reliable robots @ Parallax Worlds, prev Stanford SVL, NVIDIA Self Driving, Sentera drones.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:44:32.517Z"
+  "last_updated": "2026-01-21T19:45:17.842Z"
 }
