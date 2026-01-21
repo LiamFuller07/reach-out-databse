@@ -4496,7 +4496,21 @@
       "linkedin": "",
       "notes": "CS Prof @ UChicago, vLLM project contributor, creator of LMCache (KV cache layer for LLMs)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989730484-1413",
+      "name": "Ramakrishna Yekulla (Ramky)",
+      "city": "SF",
+      "tags": [
+        "Red Hat",
+        "Data + AI",
+        "Product Manager"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Senior Principal Product Manager - Data + AI @ Red Hat",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:01:26.176Z"
+  "last_updated": "2026-01-21T10:02:10.484Z"
 }
