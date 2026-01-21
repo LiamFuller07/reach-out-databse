@@ -4373,7 +4373,23 @@
       "linkedin": "",
       "notes": "Kubernetes maintainer, infrastructure expert",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989505914-482",
+      "name": "Cody Blakeney",
+      "city": "SF",
+      "tags": [
+        "DatologyAI",
+        "Mosaic AI",
+        "DBRX",
+        "Facebook",
+        "PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ DatologyAI, prev Data Research Lead @ Mosaic AI (DBRX), Visiting Researcher @ Facebook, PhD",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:58:24.673Z"
+  "last_updated": "2026-01-21T09:58:25.914Z"
 }
