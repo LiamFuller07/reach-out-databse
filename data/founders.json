@@ -5451,7 +5451,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Numina, former AI scientist @ Mistral AI, Co-founder & ex-CSO @ Cardiologs (AI healthcare)",
       "checked": false
+    },
+    {
+      "id": "founders-1768986429826-9722",
+      "name": "Ion Stoica",
+      "city": "SF",
+      "tags": [
+        "UC Berkeley",
+        "Databricks co-founder",
+        "Anyscale co-founder",
+        "LMArena",
+        "Conviva",
+        "Systems Legend"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor @ UC Berkeley, co-founder of Databricks ($43B), Anyscale (Ray), LMArena (LLM evaluation), Conviva, legendary distributed systems researcher, ACM Fellow",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:06:27.305Z"
+  "last_updated": "2026-01-21T09:07:09.826Z"
 }
