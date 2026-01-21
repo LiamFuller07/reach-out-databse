@@ -6145,7 +6145,25 @@
       "linkedin": "",
       "notes": "CEO & Co-founder @ ElectricSQL (local-first data sync infrastructure) - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "founders-1768992744658-501",
+      "name": "Tanay Padhi",
+      "city": "SF",
+      "tags": [
+        "Knowledge Infra",
+        "a16z Scout",
+        "prev OrbyAI",
+        "Google",
+        "Harvard",
+        "Enterprise AI",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Enterprise knowledge infra for AI, a16z Scout, prev led product @ OrbyAI (acquired), also Google, Harvard, Brown University - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:52:22.946Z"
+  "last_updated": "2026-01-21T10:52:24.658Z"
 }
