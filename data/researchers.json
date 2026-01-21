@@ -1652,7 +1652,22 @@
       "linkedin": "",
       "notes": "Postdoc @ UC Berkeley, Redwood Center for Theoretical Neuroscience",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984628010-2861",
+      "name": "Dr. Jack Morris",
+      "city": "Ithaca",
+      "tags": [
+        "Cornell",
+        "Language Models",
+        "Information Theory",
+        "Science of AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research @ Cornell - language models, information theory, science of AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:36:30.938Z"
+  "last_updated": "2026-01-21T08:37:08.011Z"
 }
