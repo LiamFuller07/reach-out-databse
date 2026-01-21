@@ -2289,7 +2289,22 @@
       "linkedin": "",
       "notes": "Machine Learning Researcher @ Apple. PhD from CoML at ENS. Focus: speech, ML and cognition.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985469817-3880",
+      "name": "Damien Benveniste",
+      "city": "SF",
+      "tags": [
+        "ML Guy",
+        "MLOps",
+        "ML Educator",
+        "System Design"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "\"The ML Guy\" - ML educator covering ML applications, ML System Design, MLOps, and latest techniques.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:51:08.683Z"
+  "last_updated": "2026-01-21T08:51:09.817Z"
 }
