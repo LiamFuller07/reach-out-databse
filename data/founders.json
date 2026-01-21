@@ -5686,7 +5686,22 @@
       "linkedin": "",
       "notes": "Co-founder & CTO @ Hyperbolic Labs, prev OctoAI (acquired by NVIDIA), built Apache TVM, PhD UW",
       "checked": false
+    },
+    {
+      "id": "founders-1768989282643-9222",
+      "name": "William Fedus",
+      "city": "SF",
+      "tags": [
+        "Periodic Labs",
+        "prev OpenAI VP",
+        "Google Brain",
+        "Post-Training"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Periodic Labs, prev VP of Post-Training @ OpenAI, prev Google Brain",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:51:40.332Z"
+  "last_updated": "2026-01-21T09:54:42.643Z"
 }
