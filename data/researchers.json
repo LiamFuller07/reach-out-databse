@@ -4451,7 +4451,22 @@
       "linkedin": "",
       "notes": "Inference (Dynamo) @ NVIDIA, prev Brev (acquired), Agora.io (acquired), Columbia",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989641337-2244",
+      "name": "Chen Goldberg",
+      "city": "SF",
+      "tags": [
+        "CoreWeave",
+        "SVP Engineering",
+        "Kubernetes",
+        "ex-Google"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "SVP Engineering @ CoreWeave, Kubernetes expert, ex-Google",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:00:10.011Z"
+  "last_updated": "2026-01-21T10:00:41.337Z"
 }
