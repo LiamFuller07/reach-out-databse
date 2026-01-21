@@ -3644,7 +3644,24 @@
       "linkedin": "",
       "notes": "Eval coding agents on fresh github issues | RL environments | @ Nebius AI",
       "checked": false
+    },
+    {
+      "id": "founders-1768981573451-8567",
+      "name": "Brian Zhan",
+      "city": "SF",
+      "tags": [
+        "Striker VP",
+        "Seed Investor",
+        "Reflection AI",
+        "Skild AI",
+        "Lepton AI",
+        "Voyage AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ Striker VP | Seed: Reflection AI, Skild AI, Periodic Labs, DynaRobotics, Ricursive AI | Angel: Humans& | Acq: Lepton AI, Voyage AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:12.347Z"
+  "last_updated": "2026-01-21T07:46:13.451Z"
 }
