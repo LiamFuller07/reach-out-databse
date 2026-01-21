@@ -2755,7 +2755,23 @@
       "linkedin": "",
       "notes": "Founder @ Manifest AI, PhD candidate @ MILA Montreal, prev Google AI, SCS @ CMU, Johns Hopkins CLSP, RL researcher",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986385798-6765",
+      "name": "Kyunghyun Cho",
+      "city": "NYC",
+      "tags": [
+        "NYU",
+        "CILVR Lab",
+        "Prescient Design",
+        "GRU co-inventor",
+        "NLP Pioneer"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor @ NYU (CILVR Lab), Prescient Design, co-inventor of GRU (Gated Recurrent Unit), foundational NLP/seq2seq researcher, highly cited",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:06:24.734Z"
+  "last_updated": "2026-01-21T09:06:25.798Z"
 }
