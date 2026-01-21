@@ -983,15 +983,14 @@
       "name": "Irwan Bello",
       "city": "SF",
       "tags": [
-        "AI research",
+        "Reflection AI",
         "OpenAI founding team",
         "Character.ai founding team",
-        "Google Brain",
-        "Reflection AI"
+        "Google Brain"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Research Lead at Reflection AI. Past: OpenAI founding team, Character.ai founding team, Google Brain. Supercomputers & Friends, AI & Science.",
+      "notes": "Research Lead at Reflection AI. OpenAI founding team, Character.ai founding team, Google Brain. Supercomputers & Friends, AI & Science.",
       "checked": false
     },
     {
@@ -1226,5 +1225,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:06:26.929Z"
+  "last_updated": "2026-01-21T08:21:27.725Z"
 }
