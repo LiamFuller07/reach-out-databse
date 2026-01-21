@@ -6723,7 +6723,24 @@
       "linkedin": "",
       "notes": "Head of App Platform @ OpenAI",
       "checked": false
+    },
+    {
+      "id": "founders-1768994150490-2107",
+      "name": "Edwin Chen",
+      "city": "SF",
+      "tags": [
+        "Surge AI",
+        "Data Labeling",
+        "ex-Google",
+        "ex-Facebook",
+        "ex-Twitter",
+        "MIT"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Surge AI (raising AGI with richness of human intelligence), ex-Google, Facebook, Twitter, MSR, MIT",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:15:49.239Z"
+  "last_updated": "2026-01-21T11:15:50.490Z"
 }
