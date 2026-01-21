@@ -7651,7 +7651,21 @@
       "linkedin": "",
       "notes": "Building @agenta_ai - open-source LLMOps with integrated prompt management, evaluation, and observability. Follow for AI Engineering and LLMOps content.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032648641-3514",
+      "name": "Lech Mazur",
+      "city": "",
+      "tags": [
+        "AI evals",
+        "LLM benchmarks",
+        "benchmark creator"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO, Advameg, Inc. City-data.com founder. Author of Melodies.ai. Author of 10 LLM benchmarks.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:27.189Z"
+  "last_updated": "2026-01-21T21:57:28.641Z"
 }
