@@ -7798,7 +7798,22 @@
       "linkedin": "",
       "notes": "Professor of Computer Science at Nanjing University. Research interests: Big Data Search, Knowledge Graph, LLM. Leading academic researcher in knowledge graph space.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769032321753-6428",
+      "name": "Ashher (Outstep)",
+      "city": "",
+      "tags": [
+        "context-graphs",
+        "enterprise-ai",
+        "data-warehouse",
+        "predictions"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "From Outstep company. Made prediction: \"Context graph becomes as common a term as data warehouse\" for 2026. Posts about Foundation Capital's thesis on context graphs capturing decision traces. Early context graph thought leader.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:51:38.696Z"
+  "last_updated": "2026-01-21T21:52:01.753Z"
 }
