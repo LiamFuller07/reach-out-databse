@@ -5170,7 +5170,23 @@
       "linkedin": "",
       "notes": "Technical Staff @ OpenAI, AI student from USI/ETH",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990878016-9907",
+      "name": "Xinran Zhao",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU LTI PhD",
+        "AI2 S2 Research",
+        "ex-Stanford NLP",
+        "ex-DeepMind",
+        "ex-Tencent AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student @ CMU LTI, interning @ AI2 S2 Research, prev Stanford NLP, HKUST, Tencent AI Lab, Google DeepMind",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:20:03.781Z"
+  "last_updated": "2026-01-21T10:21:18.016Z"
 }
