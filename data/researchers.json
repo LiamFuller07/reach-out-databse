@@ -4641,7 +4641,19 @@
       "linkedin": "",
       "notes": "Researcher @ xAI, prev MTS @ OpenAI, prev MIT McGovern Institute for Brain Research",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990087656-1062",
+      "name": "nshepperd",
+      "city": "SF",
+      "tags": [
+        "ML Community"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML community member",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:06:37.379Z"
+  "last_updated": "2026-01-21T10:08:07.656Z"
 }
