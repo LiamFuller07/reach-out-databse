@@ -2627,7 +2627,23 @@
       "linkedin": "",
       "notes": "Research on Foundation Models for Generalizable Autonomy in Robotics, Reinforcement Learning for manipulation",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986242773-7668",
+      "name": "Csaba Szepesvari",
+      "city": "Edmonton",
+      "tags": [
+        "DeepMind",
+        "U Alberta",
+        "Bandits",
+        "RL Theory",
+        "ICML Fellow"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Principal Scientist @ DeepMind, Prof @ University of Alberta, co-author of Bandit Algorithms book, foundational RL theory researcher, ICML Fellow",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:03:18.082Z"
+  "last_updated": "2026-01-21T09:04:02.773Z"
 }
