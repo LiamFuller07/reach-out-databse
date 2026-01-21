@@ -6854,7 +6854,22 @@
       "linkedin": "",
       "notes": "Staff Engineer @ Latitude Games (AI Dungeon), ex GitHub Next, Replit, tldraw. Building shapeshift.ink.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769025242510-9659",
+      "name": "Thomas Winters",
+      "city": "Leuven",
+      "tags": [
+        "KU Leuven",
+        "Creative AI",
+        "Computational Humor",
+        "Post-doc"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Post-doc researcher @ KU Leuven in creative AI & computational humor.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:52:29.750Z"
+  "last_updated": "2026-01-21T19:54:02.510Z"
 }
