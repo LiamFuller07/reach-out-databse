@@ -5305,7 +5305,22 @@
       "linkedin": "",
       "notes": "Sora Research @ OpenAI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991130051-5326",
+      "name": "Federico Cassano",
+      "city": "SF",
+      "tags": [
+        "Cursor AI",
+        "Model Trainer",
+        "Big Models",
+        "GPU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Big model trainer @ Cursor AI, GPU connoisseur",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:24:47.327Z"
+  "last_updated": "2026-01-21T10:25:30.051Z"
 }
