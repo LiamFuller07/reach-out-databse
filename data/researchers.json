@@ -7766,7 +7766,23 @@
       "linkedin": "",
       "notes": "Associate Professor @ CMU LTI, Co-founder & Chief Scientist @ OpenHands (open-source AI software development), language modeling expert",
       "checked": false
+    },
+    {
+      "id": "researchers-1769032296243-4355",
+      "name": "Raphael Troncy",
+      "city": "",
+      "tags": [
+        "knowledge-graphs",
+        "llm",
+        "information-extraction",
+        "academia",
+        "eurecom"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor and Researcher at EURECOM. Research areas: AI, Knowledge Graph, Open Data, LLM, Information Extraction, Recommender Systems. Academic expert on Knowledge Graphs + LLM integration.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:32:13.087Z"
+  "last_updated": "2026-01-21T21:51:36.243Z"
 }
