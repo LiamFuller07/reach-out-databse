@@ -4810,7 +4810,23 @@
       "linkedin": "",
       "notes": "RL researcher @ OpenAI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990336824-3467",
+      "name": "Richard Chen",
+      "city": "SF",
+      "tags": [
+        "Stanford PhD",
+        "Cornell",
+        "AI for Energy",
+        "SGLang",
+        "LMSYS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ Stanford, prev Cornell, AI for Energy, contributor @ LMSYS SGLang.ai",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:11:46.335Z"
+  "last_updated": "2026-01-21T10:12:16.824Z"
 }
