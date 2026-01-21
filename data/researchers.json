@@ -3129,7 +3129,22 @@
       "linkedin": "",
       "notes": "Assistant Professor @ Stanford CS, Stanford NLP, Stanford AI Lab, Part-time MTS @ Humans&, research on LLMs for Humans",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987287154-3161",
+      "name": "Will Brown",
+      "city": "SF",
+      "tags": [
+        "Prime Intellect",
+        "Reward Hacking",
+        "RL",
+        "AI Safety"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Reward hacking research @ Prime Intellect, RL researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:21:24.653Z"
+  "last_updated": "2026-01-21T09:21:27.154Z"
 }
