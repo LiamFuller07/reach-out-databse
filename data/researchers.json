@@ -7198,7 +7198,23 @@
       "linkedin": "",
       "notes": "Asst Prof @ MIT CSAIL, research on AI and biodiversity",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026767777-8638",
+      "name": "Joel Grus",
+      "city": "SF",
+      "tags": [
+        "Data Science from Scratch",
+        "AI",
+        "ML",
+        "NLP",
+        "Author"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Author of \"Data Science from Scratch\", AI/ML/NLP, fizzbuzzbook.com, famously doesn't like notebooks",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:18:57.108Z"
+  "last_updated": "2026-01-21T20:19:27.777Z"
 }
