@@ -6468,7 +6468,20 @@
       "linkedin": "",
       "notes": "Host of TITV, The Information's Daily Tech News Show",
       "checked": false
+    },
+    {
+      "id": "founders-1768993700341-6080",
+      "name": "Kahlil Lalji",
+      "city": "SF",
+      "tags": [
+        "NaturalPay",
+        "Fintech"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO & Co-founder @ NaturalPay",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:07:09.742Z"
+  "last_updated": "2026-01-21T11:08:20.341Z"
 }
