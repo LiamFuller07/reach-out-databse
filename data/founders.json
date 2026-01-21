@@ -4204,7 +4204,23 @@
       "linkedin": "",
       "notes": "AI Agents team member at hud.ai - YC W25. Previously owned @AIHubCentral (1 million users, acquired). Ex climate protester. Works on AI agent development and evaluation.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981950315-9141",
+      "name": "Dylan Bowman",
+      "city": "San Francisco",
+      "tags": [
+        "hud.ai",
+        "RL",
+        "Data",
+        "YC W25",
+        "longtermism"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "RL & Data team member at hud.ai - YC W25. Interests include longtermism and wordplay. Works on reinforcement learning and data infrastructure for AI agent evaluation.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:52:28.185Z"
+  "last_updated": "2026-01-21T07:52:30.315Z"
 }
