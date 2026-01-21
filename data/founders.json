@@ -7600,7 +7600,22 @@
       "linkedin": "",
       "notes": "Posts about context graphs as the \"brain\" of agent orchestrators. Compares agent orchestration to Steve Jobs \"playing the orchestra\" - context graph knows every corner of the vision, routes queries to specialist agents. France-based.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032324660-4840",
+      "name": "Rohit Krishnan",
+      "city": "",
+      "tags": [
+        "knowledge-graphs",
+        "analytics",
+        "prompt-injection",
+        "security"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Built PyDough - fights prompt injections for analytics using knowledge graphs. DSL reads from KG separately so LLM doesn't link with DBs directly or write arbitrary SQL. Security + KG intersection.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:52:03.210Z"
+  "last_updated": "2026-01-21T21:52:04.660Z"
 }
