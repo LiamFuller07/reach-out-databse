@@ -1684,7 +1684,24 @@
       "linkedin": "",
       "notes": "ML Researcher @ Google AI, Gemini/Gemma pre-training & efficiency. Previously PhD @manningcics, intern @ Meta, researcher @ MIT",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984669859-1691",
+      "name": "Awsaf",
+      "city": "Santa Barbara",
+      "tags": [
+        "UC Santa Barbara",
+        "PhD",
+        "Amazon",
+        "Google",
+        "Weights & Biases",
+        "Kaggle Grandmaster"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD Student @ UC Santa Barbara, prev Amazon, Google, Weights & Biases, Kaggle Grandmaster",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:37:46.918Z"
+  "last_updated": "2026-01-21T08:37:49.859Z"
 }
