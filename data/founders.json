@@ -6801,7 +6801,23 @@
       "linkedin": "",
       "notes": "Builds Superwhisper app & Homerow app, prev co-founded PartnerStack",
       "checked": false
+    },
+    {
+      "id": "founders-1768994254391-97",
+      "name": "Quinn Slack",
+      "city": "SF",
+      "tags": [
+        "Amp",
+        "Sourcegraph",
+        "Founder",
+        "CEO",
+        "Code Intelligence"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO & MTS @ Amp (ampcode), founded Sourcegraph",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:17:33.132Z"
+  "last_updated": "2026-01-21T11:17:34.391Z"
 }
