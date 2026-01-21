@@ -4220,7 +4220,25 @@
       "linkedin": "",
       "notes": "RL & Data team member at hud.ai - YC W25. Interests include longtermism and wordplay. Works on reinforcement learning and data infrastructure for AI agent evaluation.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982008376-5418",
+      "name": "Xander Dunn",
+      "city": "SF",
+      "tags": [
+        "AI founder",
+        "Periodic Labs",
+        "LLMs",
+        "code gen",
+        "deep RL",
+        "Apple",
+        "UChicago"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building AI scientists at Periodic Labs. Previously: Building LLMs for code gen, Deep RL for industrial robotics at Apple. UChicago background.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:52:30.315Z"
+  "last_updated": "2026-01-21T07:53:28.376Z"
 }
