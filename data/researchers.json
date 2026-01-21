@@ -3417,7 +3417,22 @@
       "linkedin": "",
       "notes": "PhD student @ UW CSE, BEng from Tsinghua IIIS",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987784519-5884",
+      "name": "Paige Bailey",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "DevX",
+        "GitHub",
+        "AI for Good"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "DevX Eng Lead @ Google DeepMind, ex-GitHub, AI for empowering humans",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:29:43.567Z"
+  "last_updated": "2026-01-21T09:29:44.519Z"
 }
