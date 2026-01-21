@@ -4346,7 +4346,22 @@
       "linkedin": "",
       "notes": "Building the AI spreadsheet at try_trufflepig.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982077326-5016",
+      "name": "Braelyn",
+      "city": "SF",
+      "tags": [
+        "AI founder",
+        "AgentOpsAI",
+        "vertical agents",
+        "2x exited founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Twice exited founder. Building vertical agents for big companies and other cool projects at AgentOpsAI.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:36.318Z"
+  "last_updated": "2026-01-21T07:54:37.326Z"
 }
