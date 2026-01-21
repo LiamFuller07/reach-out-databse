@@ -6496,7 +6496,21 @@
       "linkedin": "",
       "notes": "CEO @ Serotonix, prev Managing Director @ Audax Group, Principal @ Bain Capital, Chair of AI committee @ BioNJ",
       "checked": false
+    },
+    {
+      "id": "founders-1768993769446-6435",
+      "name": "Marty Kausas",
+      "city": "SF",
+      "tags": [
+        "Pylon",
+        "B2B",
+        "AI-native Support"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Pylon (B2B AI-native customer support platform)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:08:55.046Z"
+  "last_updated": "2026-01-21T11:09:29.446Z"
 }
