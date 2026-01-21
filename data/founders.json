@@ -7555,7 +7555,23 @@
       "linkedin": "",
       "notes": "Major AI influencer. Posts extensively about Knowledge Graphs for AI agents. Added Knowledge Graph to Cursor using MCP (154K views). Says \"Knowledge graphs are infinitely better than vector search for building memory of agents\" (396K views). High-impact educator.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032301559-8016",
+      "name": "Daniel San (CodeGPT)",
+      "city": "",
+      "tags": [
+        "knowledge-graphs",
+        "cursor",
+        "codegpt",
+        "codebase-kg",
+        "dev-tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Built Codebase Knowledge Graphs for Cursor integration via CodeGPT platform. Video showing KG in Cursor editor got 229K views, 2.1K likes. Developer tools + Knowledge Graph focus.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:51:40.134Z"
+  "last_updated": "2026-01-21T21:51:41.559Z"
 }
