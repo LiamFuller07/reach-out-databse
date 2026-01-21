@@ -7556,7 +7556,23 @@
       "linkedin": "",
       "notes": "AI research engineer @ Databricks, prev Uber AI, Stanford CRFM, LandingAI, computer vision specialist",
       "checked": false
+    },
+    {
+      "id": "researchers-1769030355736-2868",
+      "name": "Jasmine Collins",
+      "city": "SF",
+      "tags": [
+        "Databricks",
+        "Berkeley AI PhD",
+        "ex-Google AI",
+        "ex-Meta AI",
+        "Neuroscience"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research scientist @ Databricks, prev Berkeley AI PhD, Google AI, Meta AI, interested in human brains and computer brains",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:19:14.364Z"
+  "last_updated": "2026-01-21T21:19:15.736Z"
 }
