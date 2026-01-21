@@ -6002,7 +6002,21 @@
       "linkedin": "",
       "notes": "Founder @ AlphaSignalAI (250k users), ML Eng since 2017, Ex-Mila - In Unsloth's following network",
       "checked": false
+    },
+    {
+      "id": "founders-1768992464522-5597",
+      "name": "Melvin Vivas",
+      "city": "SF",
+      "tags": [
+        "aibackends",
+        "AI Builder",
+        "Unsloth Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building @ aibackends, AI advice and coding tools - In Unsloth's following network",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:47:43.531Z"
+  "last_updated": "2026-01-21T10:47:44.522Z"
 }
