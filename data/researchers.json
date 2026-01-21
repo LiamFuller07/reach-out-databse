@@ -6210,7 +6210,23 @@
       "linkedin": "",
       "notes": "Assistant Professor CS @ ETH Zurich, computer systems, prev Research Scientist @ Google, EE PhD from Stanford",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024046492-8855",
+      "name": "Zhihao Jia",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU",
+        "Professor",
+        "Systems",
+        "ML",
+        "Stanford PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Assistant Professor CS @ Carnegie Mellon, Systems and ML, PhD CS Stanford",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:34:04.710Z"
+  "last_updated": "2026-01-21T19:34:06.492Z"
 }
