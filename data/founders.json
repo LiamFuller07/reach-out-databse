@@ -4950,7 +4950,22 @@
       "linkedin": "",
       "notes": "Follows Liam - warm lead",
       "checked": false
+    },
+    {
+      "id": "founders-1768984483014-9076",
+      "name": "Antim Labs",
+      "city": "SF",
+      "tags": [
+        "AI Training",
+        "Games",
+        "Interactive Environments",
+        "Frontier AI Data"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Teaching machines through games, Interactive training environments & data for frontier AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:34:41.856Z"
+  "last_updated": "2026-01-21T08:34:43.014Z"
 }
