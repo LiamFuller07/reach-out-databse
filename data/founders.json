@@ -3964,15 +3964,14 @@
       "name": "Vivek Jayaram",
       "city": "SF",
       "tags": [
-        "YC W25",
-        "AI/ML",
-        "PhD",
         "VocalityHealth",
+        "YC W25",
+        "PhD AI/ML",
         "fulltrackai"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founder @VocalityHealth (YC W25). PhD in AI/ML. Previous founder @fulltrackai (4m users). Shares insights on building AI products. Follows Liam - warm lead.",
+      "notes": "Founder @VocalityHealth (YC W25) | PhD in AI/ML | Prev founder @fulltrackai (4m users) | Sharing insights on building AI products. Follows Liam.",
       "checked": false
     },
     {
@@ -4411,5 +4410,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:40.529Z"
+  "last_updated": "2026-01-21T07:55:00.788Z"
 }
