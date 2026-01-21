@@ -7496,7 +7496,21 @@
       "linkedin": "",
       "notes": "CS PhD @ Berkeley EECS, Student Lead @ NovaSkyAI, prev UW Madison, utnslab, mpi_sws",
       "checked": false
+    },
+    {
+      "id": "researchers-1769029000679-7938",
+      "name": "Karthik Ravindran",
+      "city": "Seattle",
+      "tags": [
+        "Microsoft",
+        "Enterprise Data & AI",
+        "General Manager"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "General Manager, Enterprise Data & AI @ Microsoft, panelist at Atlan's 'Great Data Debate 2026' on context graphs",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:26:05.822Z"
+  "last_updated": "2026-01-21T20:56:40.679Z"
 }
