@@ -678,16 +678,17 @@
     {
       "id": "researchers-1768981482961-6089",
       "name": "Steven Adler",
-      "city": "SF",
+      "city": "",
       "tags": [
+        "AI evals",
+        "AI safety",
         "OpenAI",
-        "AI Safety",
-        "Danger Evals",
-        "AGI Readiness"
+        "danger evals",
+        "AGI readiness"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Ex-OpenAI safety researcher (danger evals & AGI readiness) | Substack on AI benefits and risks",
+      "notes": "Ex-OpenAI safety researcher (danger evals & AGI readiness). Likes maximizing benefits and minimizing risks of AI. Has Substack at stevenadler.substack.com.",
       "checked": false
     },
     {
@@ -7830,5 +7831,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:03.256Z"
+  "last_updated": "2026-01-21T21:57:04.487Z"
 }
