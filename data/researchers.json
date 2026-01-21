@@ -6426,7 +6426,22 @@
       "linkedin": "",
       "notes": "CS Ph.D. Student @ Stanford AI Lab. Building 4D world models with physics learned from data.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024387420-4802",
+      "name": "Trevor McInroe",
+      "city": "Edinburgh",
+      "tags": [
+        "Edinburgh PhD",
+        "RL",
+        "World Models",
+        "Reinforcement Learning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ University of Edinburgh. Research on RL, world models, real-world applications.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:39:43.769Z"
+  "last_updated": "2026-01-21T19:39:47.420Z"
 }
