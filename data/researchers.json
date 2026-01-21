@@ -6146,7 +6146,22 @@
       "linkedin": "",
       "notes": "Simulation and Embodied AI, PhD @ UCSD/Allen AI, prev NVIDIA/Hillbot AI, co-founded Lux AI Challenge, NSF GRFP fellow",
       "checked": false
+    },
+    {
+      "id": "researchers-1769023979112-3567",
+      "name": "Ryan Marcus",
+      "city": "Philadelphia",
+      "tags": [
+        "Penn",
+        "ML for Systems",
+        "Databases",
+        "Professor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Assistant Professor @ Penn CIS, ML for systems and databases",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:32:56.414Z"
+  "last_updated": "2026-01-21T19:32:59.112Z"
 }
