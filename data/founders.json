@@ -3508,7 +3508,22 @@
       "linkedin": "",
       "notes": "Building @decodetool | Learning RL by making SWE-grep OSS | Prev Harvard",
       "checked": false
+    },
+    {
+      "id": "founders-1768981399702-7616",
+      "name": "Rafael Garcia",
+      "city": "SF",
+      "tags": [
+        "Usekernel",
+        "YC S25",
+        "Clever",
+        "Founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Usekernel (YC S25) | Previously co-founder @ Clever",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:43:17.565Z"
+  "last_updated": "2026-01-21T07:43:19.702Z"
 }
