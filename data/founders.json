@@ -6905,7 +6905,23 @@
       "linkedin": "",
       "notes": "Entrepreneur, database geek. Eng lead @ Google Cloud databases for Cloud SQL, Bigtable, Firestore, and AI-driven assistive tech for DBs",
       "checked": false
+    },
+    {
+      "id": "founders-1769023984710-8562",
+      "name": "Ponder",
+      "city": "SF",
+      "tags": [
+        "Data Warehouse",
+        "Pandas",
+        "Snowflake",
+        "BigQuery",
+        "DuckDB"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Run pandas at scale directly in data warehouse (Snowflake, BigQuery, DuckDB) from IDE or notebook",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:32:01.353Z"
+  "last_updated": "2026-01-21T19:33:04.710Z"
 }
