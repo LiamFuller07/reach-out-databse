@@ -199,13 +199,15 @@
       "name": "Erfan Miahi",
       "city": "SF",
       "tags": [
-        "DeepMind",
-        "RLAI Lab",
-        "RL/AI Follower"
+        "Google DeepMind",
+        "RL",
+        "covenant.ai",
+        "post-training",
+        "ex-founder"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "@ DeepMind/RLAI Lab",
+      "notes": "Collab with people from Google DeepMind & rlai_lab (Rich Sutton's). Ex-founder. Post-training at covenant.ai. Philosophy enthusiast.",
       "checked": false
     },
     {
@@ -833,5 +835,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:52.474Z"
+  "last_updated": "2026-01-21T07:47:30.456Z"
 }
