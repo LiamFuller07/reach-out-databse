@@ -7736,7 +7736,22 @@
       "linkedin": "",
       "notes": "Research Scientist @ Google DeepMind, model co-lead/captain of Gemini DeepThink, IMO gold medalist",
       "checked": false
+    },
+    {
+      "id": "researchers-1769031131679-6560",
+      "name": "Sam Bowman",
+      "city": "SF",
+      "tags": [
+        "Anthropic",
+        "NYU",
+        "AI Alignment",
+        "LLMs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI alignment + LLMs researcher @ Anthropic, on leave from NYU, NLP researcher focused on language understanding",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:31:20.234Z"
+  "last_updated": "2026-01-21T21:32:11.679Z"
 }
