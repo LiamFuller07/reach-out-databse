@@ -5138,7 +5138,24 @@
       "linkedin": "",
       "notes": "EleutherAI cofounder, AGI alignment, prev: GPT-Neo, The Pile, LM evals, RL overoptimization, scaling SAEs to GPT-4",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990770935-8621",
+      "name": "Wenlong Huang",
+      "city": "SF",
+      "tags": [
+        "Stanford SVL PhD",
+        "ex-MIT CSAIL",
+        "ex-Berkeley AI",
+        "ex-DeepMind",
+        "ex-NVIDIA Robotics",
+        "Foundation Models"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD Student @ Stanford SVL, prev MIT CSAIL, Berkeley AI, Google DeepMind, NVIDIA Robotics. Robotics, Foundation Models, Spatial Intelligence",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:19:19.449Z"
+  "last_updated": "2026-01-21T10:19:30.935Z"
 }
