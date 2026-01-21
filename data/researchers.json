@@ -6367,7 +6367,21 @@
       "linkedin": "",
       "notes": "PhD student @ Princeton CS, interning @ NVIDIA AI, prev CMU Robotics, Reality Labs, Snapchat. Data-centric multimodal ML.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024294655-8488",
+      "name": "Yifan Hou",
+      "city": "SF",
+      "tags": [
+        "Stanford PostDoc",
+        "Robotic Manipulation",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PostDoc @ Stanford, research on robotic manipulation.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:38:13.450Z"
+  "last_updated": "2026-01-21T19:38:14.655Z"
 }
