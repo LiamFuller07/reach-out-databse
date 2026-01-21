@@ -7675,7 +7675,23 @@
       "linkedin": "",
       "notes": "Early work on GPT-J, LAION, scaling, MoE. Ex ML PhD (Georgia Tech) & Google. Pioneer in open-source large language models",
       "checked": false
+    },
+    {
+      "id": "researchers-1769031037431-5258",
+      "name": "Percy Liang",
+      "city": "SF",
+      "tags": [
+        "Stanford",
+        "Together Compute",
+        "StanfordHAI",
+        "CRFM",
+        "HELM"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Associate Professor @ Stanford CS, co-founder @ Together Compute, leads Stanford HAI/CRFM/NLP groups, created HELM benchmark, advised Jacob Steinhardt",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:30:36.285Z"
+  "last_updated": "2026-01-21T21:30:37.431Z"
 }
