@@ -4609,7 +4609,22 @@
       "linkedin": "",
       "notes": "Conversations with the greatest living founders - Host of Founders podcast. Major tech media figure.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982350549-7131",
+      "name": "thruflo (ElectricSQL)",
+      "city": "SF",
+      "tags": [
+        "ElectricSQL",
+        "CEO",
+        "Co-founder",
+        "Database"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO & Co-founder @ElectricSQL - Building sync layer for local-first software.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:59:09.062Z"
+  "last_updated": "2026-01-21T07:59:10.549Z"
 }
