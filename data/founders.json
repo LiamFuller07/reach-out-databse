@@ -6937,7 +6937,21 @@
       "linkedin": "",
       "notes": "CEO & Founder @ MathosAI (1M+ users), YC W24, CMU LTI, Forbes Under 30, admitted to college at 14.",
       "checked": false
+    },
+    {
+      "id": "founders-1769024628862-3867",
+      "name": "Sunday Robotics",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Sunday",
+        "Hardware"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Sunday Robotics - robotics company. \"Leave it to Sunday\"",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:38:56.538Z"
+  "last_updated": "2026-01-21T19:43:48.862Z"
 }
