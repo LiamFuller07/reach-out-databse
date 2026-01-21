@@ -5039,7 +5039,20 @@
       "linkedin": "",
       "notes": "AI architect",
       "checked": false
+    },
+    {
+      "id": "founders-1768984629116-59",
+      "name": "Justin Lokos",
+      "city": "SF",
+      "tags": [
+        "Tech",
+        "justinlokos.com"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "justinlokos.com",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:36:32.304Z"
+  "last_updated": "2026-01-21T08:37:09.116Z"
 }
