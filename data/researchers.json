@@ -1298,7 +1298,22 @@
       "linkedin": "",
       "notes": "Research @ OpenAI. Prev: PhD @StanfordAILab, @GoogleAI Brain/DeepMind, @Meta GenAI. Top-tier researcher pedigree.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768983938765-661",
+      "name": "Mike A. Merrill",
+      "city": "SF",
+      "tags": [
+        "Anthropic",
+        "Evals",
+        "tbench.ai",
+        "AI Benchmarks"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Evals at Anthropic. Building tbench.ai with @alexgshaw and many others. Working on AI evaluation and benchmarking.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:25:37.543Z"
+  "last_updated": "2026-01-21T08:25:38.765Z"
 }
