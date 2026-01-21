@@ -3596,7 +3596,20 @@
       "linkedin": "",
       "notes": "Asst Prof @ UChicago 2024, CS PhD @ Columbia, ex-Google DeepMind, MSFT Research, Purdue, Security/SE/ML, AISec+ML4Code",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988086741-2284",
+      "name": "Xiaotian (Max) Han",
+      "city": "SF",
+      "tags": [
+        "LLM Training",
+        "ML Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Training LLM researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:34:45.581Z"
+  "last_updated": "2026-01-21T09:34:46.741Z"
 }
