@@ -5654,7 +5654,22 @@
       "linkedin": "",
       "notes": "Senior Software Engineer @ Mercor, founder @acodedaily, ex-Microsoft, IIT Roorkee CS, Codeforces CM",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992162344-880",
+      "name": "Ishan Deshpande",
+      "city": "SF",
+      "tags": [
+        "xAI",
+        "Talent Engineering",
+        "UIUC",
+        "Build Illinois"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Talent engineering @ xAI, CS @ UIUC, buildillinois.org",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:39:31.038Z"
+  "last_updated": "2026-01-21T10:42:42.344Z"
 }
