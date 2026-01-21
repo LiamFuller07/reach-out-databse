@@ -7645,7 +7645,21 @@
       "linkedin": "",
       "notes": "CEO & Co-founder @ Contextual AI (enterprise RAG), Stanford Adjunct Prof, prev Meta AI FAIR, pioneer in multimodal NLP and retrieval-augmented generation",
       "checked": false
+    },
+    {
+      "id": "researchers-1769030955582-4213",
+      "name": "George Halal",
+      "city": "SF",
+      "tags": [
+        "Contextual AI",
+        "Rerankers",
+        "RAG"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Contextual AI, working on cost/performance efficient rerankers for RAG pipelines",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:29:14.135Z"
+  "last_updated": "2026-01-21T21:29:15.582Z"
 }
