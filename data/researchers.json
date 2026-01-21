@@ -2565,7 +2565,22 @@
       "linkedin": "",
       "notes": "AI researcher interested in RL compute allocation and policy gradients, engaged with RL scaling laws research",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986193702-1017",
+      "name": "Natasha Jaques",
+      "city": "Seattle",
+      "tags": [
+        "UW CSE",
+        "Google AI",
+        "Multi-Agent RL",
+        "Social RL"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Assistant Professor @ UW CSE, Staff Research Scientist @ Google AI, PhD MIT Media Lab, research on multi-agent RL, social reinforcement learning, AI alignment",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:02:04.934Z"
+  "last_updated": "2026-01-21T09:03:13.702Z"
 }
