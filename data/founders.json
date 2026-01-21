@@ -5107,7 +5107,23 @@
       "linkedin": "",
       "notes": "Follows Liam - warm lead",
       "checked": false
+    },
+    {
+      "id": "founders-1768984790655-7001",
+      "name": "Tanya Batsenko",
+      "city": "SF",
+      "tags": [
+        "LufLuf.me",
+        "AI PM",
+        "Red Bull GenAI",
+        "Google",
+        "Startup Advisory"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "LufLuf.me founder | AI PM & early-stage startup advisory | prev Red Bull GenAI PM | prev Google Software Engineer",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:39:09.674Z"
+  "last_updated": "2026-01-21T08:39:50.655Z"
 }
