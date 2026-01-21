@@ -6534,7 +6534,24 @@
       "linkedin": "",
       "notes": "Research Scientist @ UC Berkeley, Postdoc @ MIT CSAIL, PhD @ CMU SCS. Robotics researcher.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024555534-2044",
+      "name": "Michael Equi",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence",
+        "ex-Tesla Optimus",
+        "ex-1X Tech",
+        "UC Berkeley",
+        "ZFellows",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building robot brains @ Physical Intelligence, ex Optimus @ Tesla AI, ex 1X Tech, EECS @ UC Berkeley, ZFellows, past VP Berkeley ML. Key robotics contact.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:42:34.422Z"
+  "last_updated": "2026-01-21T19:42:35.534Z"
 }
