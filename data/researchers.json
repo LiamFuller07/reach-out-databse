@@ -7465,7 +7465,23 @@
       "linkedin": "",
       "notes": "Incoming Asst Professor @ UUtah, PostDoc @ Snowflake, data systems research",
       "checked": false
+    },
+    {
+      "id": "researchers-1769027164618-1958",
+      "name": "Alvin Cheung",
+      "city": "SF",
+      "tags": [
+        "Berkeley EECS",
+        "Professor",
+        "Data Management",
+        "RISELab",
+        "SLICE Lab"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Associate Professor @ Berkeley EECS, data management and programming systems, member of RISELab, SLICE Lab, UCBIDS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:25:10.405Z"
+  "last_updated": "2026-01-21T20:26:04.618Z"
 }
