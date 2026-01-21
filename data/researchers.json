@@ -5369,7 +5369,23 @@
       "linkedin": "",
       "notes": "Research Scientist @ Salesforce AI, PhD UCLA, BS Tsinghua, Foundation Model + Theory + Reinforcement Learning",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991631930-8249",
+      "name": "Adil D. Ztn",
+      "city": "SF",
+      "tags": [
+        "UMA Robots",
+        "HuggingFace",
+        "LeRobot",
+        "RL",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founding Research Scientist @ UMA Robots, prev HuggingFace @ LeRobotHF, RL for robotics",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:33:50.815Z"
+  "last_updated": "2026-01-21T10:33:51.930Z"
 }
