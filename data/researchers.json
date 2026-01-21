@@ -559,16 +559,17 @@
     {
       "id": "researchers-1768981330300-4118",
       "name": "Zhoujun (Jorge) Cheng",
-      "city": "SF",
+      "city": "San Diego",
       "tags": [
-        "UC San Diego",
+        "UC San Diego PhD",
         "XLangNLP",
         "Microsoft Research",
-        "SJTU"
+        "RL Scaling Laws",
+        "LLM RL"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "PhD @ UC San Diego | Prev XLangNLP, Microsoft Research, SJTU | NLP researcher",
+      "notes": "PhD @ UC San Diego. Prev XLangNLP, Microsoft Research, @situ1896. Research on RL scaling laws for LLMs - optimal compute allocation.",
       "checked": false
     },
     {
@@ -2455,5 +2456,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:56:39.396Z"
+  "last_updated": "2026-01-21T08:57:25.310Z"
 }
