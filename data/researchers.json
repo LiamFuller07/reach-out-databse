@@ -6769,7 +6769,24 @@
       "linkedin": "",
       "notes": "PhD student @ NYU. Researching human/AI co-creative generative models for procedural content generation (PCG).",
       "checked": false
+    },
+    {
+      "id": "researchers-1769025005359-8527",
+      "name": "Borja G. León",
+      "city": "London",
+      "tags": [
+        "Iconic Games",
+        "IC_ARL",
+        "Sony AI",
+        "Meta",
+        "Imperial College",
+        "RL in Games"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Chief Scientist @ Iconic Games, Lead @ IC_ARL, prev Sony AI Global, Meta, Imperial College. RL in games expert.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:49:19.031Z"
+  "last_updated": "2026-01-21T19:50:05.360Z"
 }
