@@ -3889,7 +3889,24 @@
       "linkedin": "",
       "notes": "Research Scientist @ Meta FAIR, PhD @ UW NLP, prev Allen AI, Google AI, UChicago, building omni models",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988838204-4051",
+      "name": "Run-Ze Fan",
+      "city": "Amherst",
+      "tags": [
+        "UMass Amherst",
+        "PhD",
+        "LLM Data Engineering",
+        "Reasoning",
+        "GAIR Lab",
+        "SJTU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS PhD student @ UMass Amherst, working on LLM data engineering and reasoning, prev RA @ GAIR Lab SJTU, MS @ UCAS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:46:29.322Z"
+  "last_updated": "2026-01-21T09:47:18.204Z"
 }
