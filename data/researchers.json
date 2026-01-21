@@ -7691,7 +7691,22 @@
       "linkedin": "",
       "notes": "Associate Professor @ Stanford CS, co-founder @ Together Compute, leads Stanford HAI/CRFM/NLP groups, created HELM benchmark, advised Jacob Steinhardt",
       "checked": false
+    },
+    {
+      "id": "researchers-1769031038551-1263",
+      "name": "Jason Wei",
+      "city": "SF",
+      "tags": [
+        "Meta Superintelligence Labs",
+        "Chain-of-Thought",
+        "prev OpenAI",
+        "prev Google"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Researcher @ Meta Superintelligence Labs, prev OpenAI, prev Google Brain, pioneer of Chain-of-Thought prompting research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:30:37.431Z"
+  "last_updated": "2026-01-21T21:30:38.551Z"
 }
