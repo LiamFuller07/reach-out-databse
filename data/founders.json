@@ -7085,7 +7085,20 @@
       "linkedin": "",
       "notes": "Founder @ Professional Cap Management",
       "checked": false
+    },
+    {
+      "id": "founders-1769026369985-7131",
+      "name": "David Brillembourg",
+      "city": "",
+      "tags": [
+        "Dune Ventures",
+        "Founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Dune Ventures",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:12:48.984Z"
+  "last_updated": "2026-01-21T20:12:49.985Z"
 }
