@@ -48,7 +48,21 @@
       "linkedin": "",
       "notes": "Partner @ a16z | Investments: Cursor, Thinky Machines, BFL, WaveForms AI | Roboticist | Cofounder Fellow AI",
       "checked": false
+    },
+    {
+      "id": "vcs-1768981735444-676",
+      "name": "Theory Forge VC",
+      "city": "SF",
+      "tags": [
+        "AI VC",
+        "Ben Parr",
+        "Matt Prd"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Investing in ambitious founders changing the world with AI | General Partners: @benparr @mattprd",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:48:05.455Z"
+  "last_updated": "2026-01-21T07:48:55.444Z"
 }
