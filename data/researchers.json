@@ -3338,7 +3338,25 @@
       "linkedin": "",
       "notes": "CS PhD Student @ UC Berkeley, BerkeleySky, netsyslab, Yale 23', SkyPilot, UCCL, prev Computer Systems Lab @ Yale, TheSys Group @ CMU",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987705041-1518",
+      "name": "Zhipeng Wang",
+      "city": "SF",
+      "tags": [
+        "LinkedIn",
+        "LLM Systems",
+        "DeepSpeed",
+        "Rice PhD",
+        "Google Research",
+        "AWS",
+        "Apple"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "LLM Systems/MLLM/Efficient AI researcher, PhD @ Rice University, Sr Manager @ LinkedIn, ex Google Research, AWS, Apple, PKU, WashU, TSC lead @ DeepSpeed AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:28:24.070Z"
+  "last_updated": "2026-01-21T09:28:25.041Z"
 }
