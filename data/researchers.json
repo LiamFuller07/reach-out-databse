@@ -3231,7 +3231,23 @@
       "linkedin": "",
       "notes": "Found via zhzHNN's following list",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987592260-2387",
+      "name": "Hao Zhang",
+      "city": "San Diego",
+      "tags": [
+        "UCSD",
+        "LMSYS",
+        "Chatbot Arena",
+        "Snowflake",
+        "Hao AI Lab"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Asst. Prof @ UCSD (HDSI & CSE), Co-founder & runs LMSYS (Chatbot Arena), runs Hao AI Lab, 20% @ Snowflake",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:25:43.503Z"
+  "last_updated": "2026-01-21T09:26:32.260Z"
 }
