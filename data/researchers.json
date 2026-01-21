@@ -1193,7 +1193,21 @@
       "linkedin": "",
       "notes": "Applied AI. prev @openai @dukeu. Explorer.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982276645-4169",
+      "name": "Boris Cherny",
+      "city": "SF",
+      "tags": [
+        "Anthropic",
+        "Claude Code",
+        "AI Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Claude Code @anthropicai - Building AI coding tools at Anthropic.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:57:53.470Z"
+  "last_updated": "2026-01-21T07:57:56.645Z"
 }
