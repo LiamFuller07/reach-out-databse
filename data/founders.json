@@ -5258,7 +5258,21 @@
       "linkedin": "",
       "notes": "Co-Founder @ Inception AI. Professor @ Cornell & Cornell Tech. PhD Stanford. Ukrainian.",
       "checked": false
+    },
+    {
+      "id": "founders-1768985324284-7686",
+      "name": "Dan Jones",
+      "city": "Manchester",
+      "tags": [
+        "Versori",
+        "CTO",
+        "Founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder-CTO @ versori.com. Manchester United fan. Loves deleting code.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:47:35.449Z"
+  "last_updated": "2026-01-21T08:48:44.284Z"
 }
