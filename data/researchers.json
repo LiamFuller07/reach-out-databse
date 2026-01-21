@@ -7329,7 +7329,21 @@
       "linkedin": "",
       "notes": "Builds tough benchmarks for LMs - creator of SWE-bench, SWE-agent, SciCode, AlgoTune. Postdoc @ Princeton, PhD @ UW with Noah Smith",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026917451-9584",
+      "name": "Benjamin F Spector",
+      "city": "SF",
+      "tags": [
+        "Stanford",
+        "ML Systems",
+        "PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Stanford CS PhD student, makes ML go brr (ML systems optimization)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:21:22.919Z"
+  "last_updated": "2026-01-21T20:21:57.451Z"
 }
