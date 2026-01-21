@@ -2437,7 +2437,23 @@
       "linkedin": "",
       "notes": "Research Scientist @ Google DeepMind. Worked on Gemini, AlphaCode, AlphaStar. \"Working on solving hard problems with ML.\"",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985799396-8607",
+      "name": "Mathilde Papillon",
+      "city": "LA",
+      "tags": [
+        "Geometric Intelligence",
+        "UCSB Physics",
+        "Deep Learning",
+        "Topology",
+        "McGill Physics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Deep Learning + Topology + Movement PhD @ Geometric Intelligence & UCSB Physics. AI Research Scientist. Prev McGill Physics. Dodgers fan.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:54:43.744Z"
+  "last_updated": "2026-01-21T08:56:39.396Z"
 }
