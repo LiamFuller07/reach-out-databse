@@ -5516,7 +5516,23 @@
       "linkedin": "",
       "notes": "Co-founder @ Matic Robots (home robots with vision-only Spatial AI), prev co-founded Flutter (acquired by Google), ex-PM Lead Nest Cams @ Google",
       "checked": false
+    },
+    {
+      "id": "founders-1768986650078-9971",
+      "name": "Jure Leskovec",
+      "city": "SF",
+      "tags": [
+        "Stanford Prof",
+        "Kumo.AI co-founder",
+        "Graph ML",
+        "GNNs",
+        "Highly Cited"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor of Computer Science @ Stanford, Co-founder @ Kumo.AI, pioneer in graph neural networks and machine learning on graphs, one of the most cited researchers in ML",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:09:23.382Z"
+  "last_updated": "2026-01-21T09:10:50.078Z"
 }
