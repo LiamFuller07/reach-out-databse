@@ -1350,16 +1350,19 @@
     {
       "id": "f-97",
       "name": "Axel Backlund",
-      "city": "SF",
+      "city": "San Francisco",
       "tags": [
         "Andon Labs",
-        "YC W24",
-        "McKinsey",
-        "CMU"
+        "Vending-Bench",
+        "AI Safety",
+        "Y Combinator",
+        "AI Benchmarks",
+        "Autonomous Agents",
+        "Carnegie Mellon"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder & CTO @ Andon Labs, YC W24, KTH/Carnegie Mellon, prev McKinsey QuantumBlack, created Vending-Bench for AI agent evaluation",
+      "notes": "Co-founder and CTO of Andon Labs. Created Vending-Bench AI benchmark. Y Combinator backed. Background from KTH Royal Institute of Technology and Carnegie Mellon. AI and robotics expertise. Bio says \"Vending machine operator\" humorously.",
       "checked": false
     },
     {
@@ -7619,5 +7622,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:19.350Z"
+  "last_updated": "2026-01-21T21:57:20.753Z"
 }
