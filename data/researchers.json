@@ -446,13 +446,16 @@
       "name": "Noah Goodman",
       "city": "SF",
       "tags": [
-        "Humans&",
+        "Humans& co-founder",
         "Stanford Prof",
-        "Neolabs"
+        "Stanford NLP",
+        "Stanford AI Lab",
+        "prev DeepMind",
+        "prev UberAI"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ Humans&, Stanford Prof",
+      "notes": "Co-founder @ Humans&, Professor of natural and artificial intelligence @ Stanford (NLP + AI Lab), ex Google DeepMind, ex UberAI, pioneer in probabilistic programming",
       "checked": false
     },
     {
@@ -3001,5 +3004,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:12:22.160Z"
+  "last_updated": "2026-01-21T09:13:07.349Z"
 }
