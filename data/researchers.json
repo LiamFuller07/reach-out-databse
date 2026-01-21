@@ -1590,7 +1590,23 @@
       "linkedin": "",
       "notes": "@ Google DeepMind (on leave), Canada CIFAR AI Chair, Former Research Director @ Vector Institute, Professor @ UofT (Statistics/CS)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984449977-4939",
+      "name": "Christian Steinmetz",
+      "city": "SF",
+      "tags": [
+        "Suno",
+        "Generative Music",
+        "Audio AI",
+        "Signal Processing",
+        "ML"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ Suno, working on generative music, audio fidelity, signal processing, ML",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:33:41.078Z"
+  "last_updated": "2026-01-21T08:34:09.977Z"
 }
