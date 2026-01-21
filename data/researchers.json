@@ -1410,7 +1410,23 @@
       "linkedin": "",
       "notes": "Moore Foundation Postdoc @ UC San Diego, NeurIPS contributor",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984125655-7959",
+      "name": "Huihan Liu",
+      "city": "Austin",
+      "tags": [
+        "UT Austin",
+        "Meta AI",
+        "Microsoft Research",
+        "Berkeley",
+        "PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ UT Austin, prev Meta AI, Microsoft Research, Berkeley",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:28:44.709Z"
+  "last_updated": "2026-01-21T08:28:45.655Z"
 }
