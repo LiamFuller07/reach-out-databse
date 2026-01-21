@@ -3685,7 +3685,22 @@
       "linkedin": "",
       "notes": "4th-year PhD @ UIUC, improving software systems reliability by fuzzing, reasoning and verification with LLMs",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988175807-1578",
+      "name": "Yangqiu Song",
+      "city": "Hong Kong",
+      "tags": [
+        "HKUST",
+        "Associate Prof",
+        "Knowledge Graphs",
+        "NLP"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Associate Professor @ HKUST, working on knowledge graphs, NLP, knowledge discovery on texts and graphs",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:36:14.590Z"
+  "last_updated": "2026-01-21T09:36:15.807Z"
 }
