@@ -6353,7 +6353,22 @@
       "linkedin": "",
       "notes": "Kardashev accelerator @ Prime Intellect, Founder Aurea Berlin, Europe AI ecosystem",
       "checked": false
+    },
+    {
+      "id": "founders-1768993513010-7399",
+      "name": "Alex Calder",
+      "city": "SF",
+      "tags": [
+        "Coworker",
+        "prev Uber",
+        "Automation",
+        "AI Agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Coworker (AI automation platform), prev Uber",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:01:28.758Z"
+  "last_updated": "2026-01-21T11:05:13.010Z"
 }
