@@ -768,7 +768,25 @@
       "linkedin": "",
       "notes": "Principal AI Scientist at in-parallel.com. PhD in AI and Robotics. Ex CIO/CAIO at resoniks.com.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981603400-7404",
+      "name": "Junfan Zhu",
+      "city": "SF",
+      "tags": [
+        "AI Research",
+        "RL",
+        "agents",
+        "UChicago",
+        "GeorgiaTech",
+        "Stanford GSB",
+        "ex-quant"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Research, RL+Agent. UChicago Math, GeorgiaTech CS, Stanford GSB. Ex-Quant. GitHub 1.3k stars.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:21.531Z"
+  "last_updated": "2026-01-21T07:46:43.400Z"
 }
