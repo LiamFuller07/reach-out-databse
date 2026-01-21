@@ -7694,7 +7694,22 @@
       "linkedin": "",
       "notes": "AI engineering platform focused on evaluation and observability. Helps engineers develop, evaluate, and observe AI applications and agents.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032698643-5103",
+      "name": "Galileo AI",
+      "city": "",
+      "tags": [
+        "AI evals",
+        "evaluation platform",
+        "observability",
+        "experimentation"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "The fastest way to ship reliable AI apps - Evaluation, Experimentation, and Observability Platform.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:58:17.238Z"
+  "last_updated": "2026-01-21T21:58:18.643Z"
 }
