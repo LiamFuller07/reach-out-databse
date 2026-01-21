@@ -6921,7 +6921,23 @@
       "linkedin": "",
       "notes": "Run pandas at scale directly in data warehouse (Snowflake, BigQuery, DuckDB) from IDE or notebook",
       "checked": false
+    },
+    {
+      "id": "founders-1769024336538-763",
+      "name": "Tianwei Yue",
+      "city": "SF",
+      "tags": [
+        "MathosAI",
+        "YC W24",
+        "CMU LTI",
+        "Forbes Under 30",
+        "1M+ users"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO & Founder @ MathosAI (1M+ users), YC W24, CMU LTI, Forbes Under 30, admitted to college at 14.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:33:04.710Z"
+  "last_updated": "2026-01-21T19:38:56.538Z"
 }
