@@ -7295,7 +7295,23 @@
       "linkedin": "",
       "notes": "Associate Prof @ Berkeley Haas, NBER RA, interested in using tech, AI and data to drive progress",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026881672-7617",
+      "name": "Tri Dao",
+      "city": "SF",
+      "tags": [
+        "Princeton",
+        "Together AI",
+        "FlashAttention",
+        "ML Systems",
+        "Chief Scientist"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Asst. Prof @ Princeton CS, Chief Scientist @ Together Compute, creator of FlashAttention, machine learning & systems",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:20:48.561Z"
+  "last_updated": "2026-01-21T20:21:21.672Z"
 }
