@@ -5762,7 +5762,22 @@
       "linkedin": "",
       "notes": "Building Astral.sh - creator of Ruff (fast Python linter) and uv (fast Python package manager), prev Staff Engineer @ Spring Discovery & Khan Academy",
       "checked": false
+    },
+    {
+      "id": "founders-1768990045738-2233",
+      "name": "Aleks Bykhun",
+      "city": "SF",
+      "tags": [
+        "Founder",
+        "Ukrainian",
+        "Software Engineer",
+        "Physics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder in SF, 15y software engineer, physics grad from top post-Soviet university",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:02:12.874Z"
+  "last_updated": "2026-01-21T10:07:25.738Z"
 }
