@@ -2890,7 +2890,23 @@
       "linkedin": "",
       "notes": "ML PhD student @ CMU MLD (Machine Learning Department)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986607105-7953",
+      "name": "Po-Shen Loh",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU Math",
+        "Math Olympiad",
+        "IMO Foundation VP",
+        "EXPII",
+        "Social Entrepreneur"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Math Professor @ Carnegie Mellon, VP of International Math Olympiad Foundation, social entrepreneur, founder of Expii, working on 'Humanity after AI', US Math Olympiad coach",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:10:05.952Z"
+  "last_updated": "2026-01-21T09:10:07.105Z"
 }
