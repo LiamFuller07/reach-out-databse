@@ -4359,7 +4359,21 @@
       "linkedin": "",
       "notes": "@ MIT, efficiency research, model compression pioneer",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989504673-796",
+      "name": "Clayton Coleman",
+      "city": "SF",
+      "tags": [
+        "Kubernetes",
+        "Infrastructure",
+        "Open Source"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Kubernetes maintainer, infrastructure expert",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:57:52.670Z"
+  "last_updated": "2026-01-21T09:58:24.673Z"
 }
