@@ -4839,7 +4839,21 @@
       "linkedin": "",
       "notes": "Researcher @ Alibaba",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990371365-880",
+      "name": "Melani Maheswar",
+      "city": "SF",
+      "tags": [
+        "DigitalOcean",
+        "Technical Writer",
+        "ML"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Technical writer @ DigitalOcean, knowledge optimization",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:12:17.882Z"
+  "last_updated": "2026-01-21T10:12:51.365Z"
 }
