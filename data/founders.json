@@ -5548,7 +5548,22 @@
       "linkedin": "",
       "notes": "Co-founder @ Arc Institute, Professor @ Berkeley BioE, investor @ Thrive Capital, biology and ML research, prev Harvard & Broad Institute, Fast Grants",
       "checked": false
+    },
+    {
+      "id": "founders-1768986842472-2648",
+      "name": "Lerrel Pinto",
+      "city": "NYC",
+      "tags": [
+        "ARI co-founder",
+        "NYU",
+        "Robotics",
+        "Dexterous Manipulation"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder of Assured Robot Intelligence (ARI), making robots more dexterous, robust and general, NYU robotics professor",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:12:23.412Z"
+  "last_updated": "2026-01-21T09:14:02.472Z"
 }
