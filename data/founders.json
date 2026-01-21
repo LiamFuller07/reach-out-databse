@@ -4361,7 +4361,23 @@
       "linkedin": "",
       "notes": "Twice exited founder. Building vertical agents for big companies and other cool projects at AgentOpsAI.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982078430-312",
+      "name": "Rich (xAI)",
+      "city": "SF",
+      "tags": [
+        "AI engineer",
+        "xAI",
+        "Northeastern",
+        "Delphi",
+        "Parable VC"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "20 years old at xAI. Drop out from Northeastern. Prev top 30 League of Legends. withDelphi, Parable VC.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:37.326Z"
+  "last_updated": "2026-01-21T07:54:38.430Z"
 }
