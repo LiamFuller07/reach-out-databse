@@ -6645,7 +6645,24 @@
       "linkedin": "",
       "notes": "Sr. Research Scientist @ NVIDIA AI, MIT TR35, PhD @ CMU Robotics, Berkeley AI, AI at Meta. Robotics researcher.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024799751-4778",
+      "name": "Daniel Ho",
+      "city": "SF",
+      "tags": [
+        "1X Tech",
+        "World Models",
+        "Evals",
+        "prev Waymo",
+        "prev Google",
+        "Berkeley AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Director @ 1X Tech, working on world models and evals. Prev Waymo, Google, The Team at X, Berkeley AI. Key contact for RL + evaluations.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:45:59.705Z"
+  "last_updated": "2026-01-21T19:46:39.751Z"
 }
