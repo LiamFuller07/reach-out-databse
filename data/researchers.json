@@ -606,7 +606,24 @@
       "linkedin": "",
       "notes": "Researcher | Prev xAI, Princeton, UCLA, PKU | AI/ML research",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981398568-1966",
+      "name": "Alexis Ross",
+      "city": "SF",
+      "tags": [
+        "Humans&",
+        "MIT CSAIL",
+        "Allen AI",
+        "Harvard",
+        "PhD",
+        "AI Tutors"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Currently @ Humans& | PhD-ing @ MIT CSAIL | Working on personalized AI tutors | Prev Allen AI | Harvard '20",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:42:44.970Z"
+  "last_updated": "2026-01-21T07:43:18.568Z"
 }
