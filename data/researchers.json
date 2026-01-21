@@ -672,7 +672,20 @@
       "linkedin": "",
       "notes": "Ex-OpenAI safety researcher (danger evals & AGI readiness) | Substack on AI benefits and risks",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981484904-6107",
+      "name": "Ted Sanders",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research @ OpenAI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:44:42.961Z"
+  "last_updated": "2026-01-21T07:44:44.904Z"
 }
