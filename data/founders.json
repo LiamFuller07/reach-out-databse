@@ -5701,7 +5701,21 @@
       "linkedin": "",
       "notes": "Co-Founder @ Periodic Labs, prev VP of Post-Training @ OpenAI, prev Google Brain",
       "checked": false
+    },
+    {
+      "id": "founders-1768989471503-8392",
+      "name": "Maziyar Panahi",
+      "city": "EU",
+      "tags": [
+        "OpenMed AI",
+        "AI Healthcare",
+        "Open Source AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building OpenMed_AI, AI x Healthcare, Open-Source AI Advocate, eu/acc",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:54:42.643Z"
+  "last_updated": "2026-01-21T09:57:51.503Z"
 }
