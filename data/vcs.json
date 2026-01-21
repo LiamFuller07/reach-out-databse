@@ -47,7 +47,23 @@
       "linkedin": "",
       "notes": "Partner @ BTV VC, leading pre/seed rounds of fintech companies",
       "checked": false
+    },
+    {
+      "id": "vcs-1768984252639-9995",
+      "name": "Matt Bornstein",
+      "city": "SF",
+      "tags": [
+        "a16z",
+        "Cursor investor",
+        "Character AI",
+        "Replicate",
+        "AI Investor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ a16z, AI enthusiast. Investor in Cursor, unconvAI, Character AI, Replicate, Tabulario, and many AI/data companies",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:30:13.356Z"
+  "last_updated": "2026-01-21T08:30:52.639Z"
 }
