@@ -4624,7 +4624,23 @@
       "linkedin": "",
       "notes": "CEO & Co-founder @ElectricSQL - Building sync layer for local-first software.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982351653-2927",
+      "name": "vibe-kanban",
+      "city": "SF",
+      "tags": [
+        "Dev Tools",
+        "Claude Code",
+        "Codex",
+        "Gemini",
+        "Multi-agent"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "`npx vibe-kanban` - run many Claude Code / Codex / Amp / Geminis. Multi-agent orchestration tool.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:59:10.549Z"
+  "last_updated": "2026-01-21T07:59:11.653Z"
 }
