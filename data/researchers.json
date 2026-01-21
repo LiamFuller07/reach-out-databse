@@ -4869,7 +4869,21 @@
       "linkedin": "",
       "notes": "Lead, post-training @ Cohere, prev Waymo, Facebook, Yale",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990409947-4202",
+      "name": "Ayush Agrawal",
+      "city": "SF",
+      "tags": [
+        "Stanford AI Lab",
+        "Arc Institute",
+        "Oloren AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Stanford AI Lab, prev Arc Institute, Oloren AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:12:52.478Z"
+  "last_updated": "2026-01-21T10:13:29.947Z"
 }
