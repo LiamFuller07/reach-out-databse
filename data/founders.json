@@ -5532,7 +5532,23 @@
       "linkedin": "",
       "notes": "Professor of Computer Science @ Stanford, Co-founder @ Kumo.AI, pioneer in graph neural networks and machine learning on graphs, one of the most cited researchers in ML",
       "checked": false
+    },
+    {
+      "id": "founders-1768986743412-9386",
+      "name": "Patrick Hsu",
+      "city": "SF",
+      "tags": [
+        "Arc Institute co-founder",
+        "Berkeley BioE Prof",
+        "Thrive Capital",
+        "Bio-AI",
+        "prev Broad Institute"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Arc Institute, Professor @ Berkeley BioE, investor @ Thrive Capital, biology and ML research, prev Harvard & Broad Institute, Fast Grants",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:10:50.078Z"
+  "last_updated": "2026-01-21T09:12:23.412Z"
 }
