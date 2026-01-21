@@ -6457,7 +6457,24 @@
       "linkedin": "",
       "notes": "TeslaBot Optimus AI Lead @ Tesla. Leading robotics AI for humanoid robots.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024436754-6817",
+      "name": "Kolby Nottingham",
+      "city": "SF",
+      "tags": [
+        "Latitude Games",
+        "AI Dungeon",
+        "LLM Agents",
+        "MINDcraft",
+        "UCI PhD",
+        "Evals"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Head of AI @ Latitude Games (AI Dungeon), PhD @ UC Irvine on LLM Agents, Co-creator of MINDcraft. Key contact for agent evals.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:40:35.417Z"
+  "last_updated": "2026-01-21T19:40:36.754Z"
 }
