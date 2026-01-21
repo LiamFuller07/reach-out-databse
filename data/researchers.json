@@ -3063,7 +3063,23 @@
       "linkedin": "",
       "notes": "Famous AI research paper curator on X, ML @ Gradio (acquired by HuggingFace), massive influence in AI community for surfacing important papers",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986899431-8890",
+      "name": "Jun-Yan Zhu",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU",
+        "CycleGAN creator",
+        "pix2pix",
+        "Generative Intelligence Lab",
+        "Computer Vision"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Assistant Professor @ CMU Generative Intelligence Lab, creator of CycleGAN and pix2pix (seminal image-to-image translation papers), understanding and creating pixels",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:14:03.894Z"
+  "last_updated": "2026-01-21T09:14:59.431Z"
 }
