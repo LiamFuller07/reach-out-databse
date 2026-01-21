@@ -6309,7 +6309,22 @@
       "linkedin": "",
       "notes": "Forward deployed @ Palantir Tech, ex-Stripe, UC Berkeley alum, former Cal Hacks - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "founders-1768993019282-5190",
+      "name": "Yurii Rashkovskii",
+      "city": "SF",
+      "tags": [
+        "Inferal",
+        "Data Layer Context",
+        "Context Graphs",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building inferal.com - 'Your data layer has all the context and does nothing about it' - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:56:57.673Z"
+  "last_updated": "2026-01-21T10:56:59.282Z"
 }
