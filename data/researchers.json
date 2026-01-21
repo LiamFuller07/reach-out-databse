@@ -5478,7 +5478,22 @@
       "linkedin": "",
       "notes": "Research Scientist @ DeepMind, prev Postdoc @ Facebook AI, CS PhD Georgia Tech, Multi-Agent Learning / Interactive Learning / Reinforcement Learning",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991741781-6948",
+      "name": "Robert Dadashi",
+      "city": "London",
+      "tags": [
+        "Google DeepMind",
+        "Gemma",
+        "Team Lead",
+        "RL"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Gemma Team Lead @ Google DeepMind",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:35:11.003Z"
+  "last_updated": "2026-01-21T10:35:41.781Z"
 }
