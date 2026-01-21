@@ -590,7 +590,23 @@
       "linkedin": "",
       "notes": "Building AGI @ xAI | Ex-Google DeepMind, TTIC Connect, JHU CLSP | Top ML researcher",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981364970-6996",
+      "name": "Yue Wu",
+      "city": "SF",
+      "tags": [
+        "xAI",
+        "Princeton",
+        "UCLA",
+        "PKU",
+        "Researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher | Prev xAI, Princeton, UCLA, PKU | AI/ML research",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:42:43.896Z"
+  "last_updated": "2026-01-21T07:42:44.970Z"
 }
