@@ -5059,7 +5059,22 @@
       "linkedin": "",
       "notes": "Researcher @ DeepSeek AI, MS Tsinghua, work on DeepSeek-R1/V3 series, ToRA, CRITIC",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990685437-6432",
+      "name": "Samir",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "ChatGPT Memory",
+        "Personalization",
+        "ex-Snap"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ChatGPT Personalization and Memory @ OpenAI, prev Eng @ Snap",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:16:30.518Z"
+  "last_updated": "2026-01-21T10:18:05.437Z"
 }
