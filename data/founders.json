@@ -3979,15 +3979,14 @@
       "name": "Yuto",
       "city": "SF",
       "tags": [
-        "AI Agents",
-        "Exit",
-        "PhD",
         "Samurai Agent",
-        "Developer Tools"
+        "7-figure exit",
+        "PhD AI",
+        "AI coding agents"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "7-figure exit founder. PhD in AI (ongoing). Building Samurai Agent - context layer for AI coding agents that improves debugging and prevents regression bugs. Follows Liam - warm lead.",
+      "notes": "7-figure exit → PhD in AI (ongoing) → Building Samurai Agent, a context layer for AI coding agents that improves debugging and prevents regression bugs. Follows Liam.",
       "checked": false
     },
     {
@@ -4410,5 +4409,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:55:00.788Z"
+  "last_updated": "2026-01-21T07:55:01.839Z"
 }
