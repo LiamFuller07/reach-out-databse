@@ -5104,7 +5104,24 @@
       "linkedin": "",
       "notes": "Researcher @ OpenAI, trying to make AGI go well",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990731319-5391",
+      "name": "Ruiqi Gao",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "Veo3",
+        "Veo2",
+        "CAT3D",
+        "Imagen Video",
+        "Diffusion"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research scientist @ Google DeepMind, generative models - Veo3, Veo2, CAT3D, Imagen Video, diffusion",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:18:49.865Z"
+  "last_updated": "2026-01-21T10:18:51.319Z"
 }
