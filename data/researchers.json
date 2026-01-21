@@ -852,7 +852,23 @@
       "linkedin": "",
       "notes": "Engineer. Prediction Markets. 17 years old.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981657434-2213",
+      "name": "Edoardo Contente",
+      "city": "SF",
+      "tags": [
+        "Sentient AGI",
+        "Labs Sentient",
+        "Princeton",
+        "Physics",
+        "ECE"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Typing @ Sentient AGI & Labs Sentient | Physics '23, ECE '24 @ Princeton | Curious about ML",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:35.104Z"
+  "last_updated": "2026-01-21T07:47:37.434Z"
 }
