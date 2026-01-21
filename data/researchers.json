@@ -623,7 +623,23 @@
       "linkedin": "",
       "notes": "Currently @ Humans& | PhD-ing @ MIT CSAIL | Working on personalized AI tutors | Prev Allen AI | Harvard '20",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981480945-3615",
+      "name": "Mo Bavarian",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "RL",
+        "Long Context",
+        "MIT PhD",
+        "Math"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Scaling up RL @ OpenAI | Optimization and long context research | Math PhD MIT",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:43:18.568Z"
+  "last_updated": "2026-01-21T07:44:40.945Z"
 }
