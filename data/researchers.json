@@ -4403,7 +4403,22 @@
       "linkedin": "",
       "notes": "ML Engineer @ Hugging Face, Engineering Lead @ bitsandbytes",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989569533-2592",
+      "name": "Haihao Shen",
+      "city": "SF",
+      "tags": [
+        "Intel",
+        "LLM Optimization",
+        "Neural Compressor",
+        "AutoRound"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Build, study, optimize LLMs @ Intel, creator of Intel Neural Compressor and AutoRound, OPEA & COIA TSC",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:59:02.725Z"
+  "last_updated": "2026-01-21T09:59:29.533Z"
 }
