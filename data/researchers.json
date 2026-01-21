@@ -5576,7 +5576,22 @@
       "linkedin": "",
       "notes": "Research Scientist, Deep Learning / Time Series Forecasting / Reinforcement Learning / HPC",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991846655-3263",
+      "name": "Phil Winder",
+      "city": "London",
+      "tags": [
+        "Winder Research",
+        "RL Book Author",
+        "MLOps",
+        "Consulting"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Winder Research, Author of 'Reinforcement Learning' book, MLOps/ML/RL Consulting",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:37:25.589Z"
+  "last_updated": "2026-01-21T10:37:26.655Z"
 }
