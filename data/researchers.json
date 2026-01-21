@@ -6721,7 +6721,23 @@
       "linkedin": "",
       "notes": "Tech Lead @ Martian, RL, LLMs, Routing, ML for Science. Ex-Google Brain, ex-DeepMind.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024954689-8377",
+      "name": "Lara J. Martin",
+      "city": "Baltimore",
+      "tags": [
+        "UMBC",
+        "NLG",
+        "Storytelling",
+        "D&D",
+        "Assistant Prof"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Assistant Professor @ UMBC. Teaching computers to tell stories, play D&D, and help people talk. NLG researcher.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:49:13.212Z"
+  "last_updated": "2026-01-21T19:49:14.689Z"
 }
