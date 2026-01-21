@@ -5824,7 +5824,25 @@
       "linkedin": "",
       "notes": "CS PhD Candidate @ Stanford, building large world models, Previously PYI @ Allen AI - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992801190-3888",
+      "name": "Kartik Aggarwal",
+      "city": "SF",
+      "tags": [
+        "Google Labs",
+        "NotebookLM",
+        "UC Berkeley EECS",
+        "prev Quilt Labs",
+        "Convex",
+        "Knowledge Infra",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Product @ Google Labs (NotebookLM), UC Berkeley EECS, prev Quilt Labs, Convex - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:51:13.476Z"
+  "last_updated": "2026-01-21T10:53:21.190Z"
 }
