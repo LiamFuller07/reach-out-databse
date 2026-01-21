@@ -4553,7 +4553,21 @@
       "linkedin": "",
       "notes": "RL @ Zyphra (AI startup)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989814134-2831",
+      "name": "Bryan Catanzaro",
+      "city": "SF",
+      "tags": [
+        "NVIDIA",
+        "VP",
+        "Applied Deep Learning Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "VP, Applied Deep Learning Research @ NVIDIA",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:03:32.860Z"
+  "last_updated": "2026-01-21T10:03:34.134Z"
 }
