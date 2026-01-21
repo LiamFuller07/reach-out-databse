@@ -3322,7 +3322,23 @@
       "linkedin": "",
       "notes": "GM, Labs @ OpenAI (prev: model behavior)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987704070-3628",
+      "name": "Ziming Mao",
+      "city": "Berkeley",
+      "tags": [
+        "UC Berkeley",
+        "SkyPilot",
+        "ML Systems",
+        "Yale",
+        "CMU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS PhD Student @ UC Berkeley, BerkeleySky, netsyslab, Yale 23', SkyPilot, UCCL, prev Computer Systems Lab @ Yale, TheSys Group @ CMU",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:28:22.563Z"
+  "last_updated": "2026-01-21T09:28:24.070Z"
 }
