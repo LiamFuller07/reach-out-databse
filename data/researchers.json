@@ -565,15 +565,16 @@
       "name": "Charlie Ruan",
       "city": "SF",
       "tags": [
+        "PhD",
         "UC Berkeley",
-        "BerkeleySky",
+        "Berkeley Sky",
+        "CS",
         "CMU",
-        "Cornell CIS",
-        "PhD"
+        "Cornell"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "CS PhD Student @ UC Berkeley & BerkeleySky | Prev CMU, Cornell CIS | Follows you",
+      "notes": "CS PhD Student at UC Berkeley, Berkeley Sky. Previously at CSD at CMU and Cornell CIS.",
       "checked": false
     },
     {
@@ -736,5 +737,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:14.555Z"
+  "last_updated": "2026-01-21T07:46:17.978Z"
 }
