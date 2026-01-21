@@ -1347,7 +1347,24 @@
       "linkedin": "",
       "notes": "Chief Scientist, Google DeepMind & Google Research. Gemini Lead. Creator of TensorFlow, MapReduce, Bigtable. One of the most influential people in AI/ML history.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984007634-9309",
+      "name": "Susan Zhang",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "Meta AI",
+        "OpenAI",
+        "Unity",
+        "Los Alamos",
+        "Princeton"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Google Deepmind. Past: @MetaAI, @OpenAI, @unitygames, @losalamosnatlab, @Princeton etc. Always hungry for intelligence. Incredible AI pedigree.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:26:46.318Z"
+  "last_updated": "2026-01-21T08:26:47.634Z"
 }
