@@ -4796,7 +4796,21 @@
       "linkedin": "",
       "notes": "Language agents researcher",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990306335-9473",
+      "name": "Raz Gaon",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "RL",
+        "Reinforcement Learning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "RL researcher @ OpenAI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:11:45.349Z"
+  "last_updated": "2026-01-21T10:11:46.335Z"
 }
