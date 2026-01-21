@@ -3989,7 +3989,21 @@
       "linkedin": "",
       "notes": "7-figure exit founder. PhD in AI (ongoing). Building Samurai Agent - context layer for AI coding agents that improves debugging and prevents regression bugs. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981795416-7346",
+      "name": "Kyle Bhiro",
+      "city": "SF",
+      "tags": [
+        "AI Agents",
+        "Pensar",
+        "insecureagents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building @runpensar and @insecureagents. AI agents focus. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:49:54.207Z"
+  "last_updated": "2026-01-21T07:49:55.417Z"
 }
