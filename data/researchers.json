@@ -1441,7 +1441,21 @@
       "linkedin": "",
       "notes": "CS PhD @ Johns Hopkins, 3D Analysis-by-Synthesis research",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984128765-3835",
+      "name": "Rohan Paul",
+      "city": "SF",
+      "tags": [
+        "AI Newsletter",
+        "AI Analysis",
+        "Content"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI analysis newsletter (rohan-paul.com)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:28:46.776Z"
+  "last_updated": "2026-01-21T08:28:48.765Z"
 }
