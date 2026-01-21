@@ -5730,7 +5730,23 @@
       "linkedin": "",
       "notes": "23 | ml and math | - In Unsloth's following network",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992405214-2043",
+      "name": "Matt White",
+      "city": "SF",
+      "tags": [
+        "Generative AI",
+        "Autonomous AI",
+        "Robotics",
+        "Open Source",
+        "Unsloth Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher | Educator | Strategist | Author | Consultant | Founder | Generative AI | Autonomous AI | Simulations | Robotics | Open Source | Open Standards - In Unsloth's following network",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:46:32.991Z"
+  "last_updated": "2026-01-21T10:46:45.214Z"
 }
