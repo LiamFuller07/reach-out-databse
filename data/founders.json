@@ -4488,7 +4488,22 @@
       "linkedin": "",
       "notes": "Data for physical AI (YC X25) / prev @ Penn, Google. Building data infrastructure for robotics/physical AI.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982206057-8486",
+      "name": "Factory AI",
+      "city": "SF",
+      "tags": [
+        "Droid",
+        "AI Coding Agent",
+        "Software Development",
+        "IDE/Terminal"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Assembling @droid, the frontier software development agent. Available to anyone, with any model, in any IDE/terminal.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:56:45.068Z"
+  "last_updated": "2026-01-21T07:56:46.057Z"
 }
