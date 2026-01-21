@@ -5669,7 +5669,22 @@
       "linkedin": "",
       "notes": "Talent engineering @ xAI, CS @ UIUC, buildillinois.org",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992209562-4010",
+      "name": "Sam Schoenholz",
+      "city": "SF",
+      "tags": [
+        "Thinky Machines",
+        "OpenAI",
+        "Google Brain",
+        "ML Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Thinky Machines, prev OpenAI, prev Google Brain",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:42:42.344Z"
+  "last_updated": "2026-01-21T10:43:29.562Z"
 }
