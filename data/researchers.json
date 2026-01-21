@@ -3543,7 +3543,24 @@
       "linkedin": "",
       "notes": "Asst Prof AI @ Texas A&M, AE @ IEEE-TIP/TMLR, AC @ CVPR/NeurIPS/ICLR, ex-Google AI (3x intern), PhD @ UT Austin, BS @ Fudan",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988039076-5317",
+      "name": "Junda Chen",
+      "city": "San Diego",
+      "tags": [
+        "UCSD",
+        "Hao AI Lab",
+        "LLM Systems",
+        "NeurIPS",
+        "Dynasor",
+        "DistServe"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS PhD @ UCSD Hao AI Lab, NeurIPS, LLM Systems - Dynasor (LLM reasoning), DistServe (disaggregated inference), DistCA (disaggregated training)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:33:57.887Z"
+  "last_updated": "2026-01-21T09:33:59.076Z"
 }
