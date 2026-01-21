@@ -6240,7 +6240,25 @@
       "linkedin": "",
       "notes": "VP R&D @ Okta (Auth0 Lab), OG Auth0, creator of OpenFGA (fine-grained authorization), startup advisor/investor - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "founders-1768992875004-7561",
+      "name": "Aatish Nayak",
+      "city": "SF",
+      "tags": [
+        "Harvey AI",
+        "VP Product",
+        "prev Scale AI",
+        "Shield AI",
+        "Carnegie Mellon",
+        "Angel",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "VP Product @ Harvey AI, angel investor, prev Scale AI, Shield AI Tech, Carnegie Mellon - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:53:57.704Z"
+  "last_updated": "2026-01-21T10:54:35.004Z"
 }
