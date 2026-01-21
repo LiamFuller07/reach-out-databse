@@ -2847,7 +2847,19 @@
       "linkedin": "",
       "notes": "Professor and Department Chair @ Berkeley EECS, Research Scientist (part-time) @ Google Research, Founder @ AddisCoder (Ethiopian CS education), expert in streaming algorithms and dimensionality reduction",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986516216-3051",
+      "name": "Andy Konwinski",
+      "city": "SF",
+      "tags": [
+        "AI Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI researcher (partial profile view)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:08:33.845Z"
+  "last_updated": "2026-01-21T09:08:36.216Z"
 }
