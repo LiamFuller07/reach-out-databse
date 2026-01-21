@@ -4118,7 +4118,21 @@
       "linkedin": "",
       "notes": "16 year old founder at Tera. Young technical founder. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981836249-1321",
+      "name": "Alby Churven",
+      "city": "SF",
+      "tags": [
+        "Young Founder",
+        "Stealth Startup",
+        "Finkle"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "14 year old co-founder at stealth startup. Previously built @finkle_app. Young technical founder. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:50:34.261Z"
+  "last_updated": "2026-01-21T07:50:36.249Z"
 }
