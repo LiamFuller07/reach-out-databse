@@ -1808,7 +1808,21 @@
       "linkedin": "",
       "notes": "CS PhD @ UC Berkeley Sky Lab, Systems & AI & Sustainability. Prev: Google, IBM, Carnegie Mellon, UofT",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984793011-4738",
+      "name": "Hamza Mostafa",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Agents",
+        "UWaterloo"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Making agents good | prev OpenAI, UWaterloo",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:39:51.771Z"
+  "last_updated": "2026-01-21T08:39:53.011Z"
 }
