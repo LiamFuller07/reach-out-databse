@@ -216,11 +216,14 @@
       "city": "SF",
       "tags": [
         "Snorkel AI",
-        "RL/AI Follower"
+        "Scale AI",
+        "RL",
+        "reward modeling",
+        "social intelligence"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "@ Snorkel AI",
+      "notes": "Research at Snorkel AI. Previously Scale AI. Multiturn RL, reward modeling, interactive environments, artificial social intelligence.",
       "checked": false
     },
     {
@@ -835,5 +838,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:30.456Z"
+  "last_updated": "2026-01-21T07:47:32.733Z"
 }
