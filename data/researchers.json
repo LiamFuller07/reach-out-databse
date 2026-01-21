@@ -1637,7 +1637,22 @@
       "linkedin": "",
       "notes": "ML Engineer @ ML6 team @HuggingFace, KU Leuven grad, making AI more accessible for everyone",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984590938-5963",
+      "name": "Hadi Vafaii",
+      "city": "Berkeley",
+      "tags": [
+        "UC Berkeley",
+        "Redwood Neuro",
+        "Postdoc",
+        "Neuroscience"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Postdoc @ UC Berkeley, Redwood Center for Theoretical Neuroscience",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:35:55.754Z"
+  "last_updated": "2026-01-21T08:36:30.938Z"
 }
