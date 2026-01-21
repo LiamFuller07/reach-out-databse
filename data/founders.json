@@ -7390,7 +7390,21 @@
       "linkedin": "",
       "notes": "Former CEO @ Snowflake, panelist at Atlan's 'Great Data Debate 2026' on context graphs",
       "checked": false
+    },
+    {
+      "id": "founders-1769029022631-6959",
+      "name": "Molly Cantillon",
+      "city": "SF",
+      "tags": [
+        "Heynox",
+        "Stanford",
+        "AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Heynox, prev Stanford, in Jaya Gupta's network suggestions",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:57:01.478Z"
+  "last_updated": "2026-01-21T20:57:02.631Z"
 }
