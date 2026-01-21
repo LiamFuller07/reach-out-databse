@@ -3943,7 +3943,21 @@
       "linkedin": "",
       "notes": "Crafting @ 21st.dev (YC W26) | Developer tools founder",
       "checked": false
+    },
+    {
+      "id": "founders-1768981791051-566",
+      "name": "Bhanu Reddy",
+      "city": "SF",
+      "tags": [
+        "Mem.ai",
+        "F.inc",
+        "Agent Memory"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building memory for agents @ Mem.ai | @ F.inc | Agent infrastructure",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:49:47.356Z"
+  "last_updated": "2026-01-21T07:49:51.051Z"
 }
