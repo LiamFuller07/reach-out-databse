@@ -5842,7 +5842,25 @@
       "linkedin": "",
       "notes": "Product @ Google Labs (NotebookLM), UC Berkeley EECS, prev Quilt Labs, Convex - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992873787-2840",
+      "name": "Vahid Kazemi",
+      "city": "SF",
+      "tags": [
+        "xAI",
+        "ex-OpenAI",
+        "ex-Apple",
+        "ex-Google",
+        "PhD ML",
+        "KTH",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "MTS @ xAI, ex-OpenAI, Apple, Google. PhD in machine learning (KTH 2014) - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:53:21.190Z"
+  "last_updated": "2026-01-21T10:54:33.787Z"
 }
