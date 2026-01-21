@@ -1043,7 +1043,21 @@
       "linkedin": "",
       "notes": "Computer Scientist at Harvard and OpenAI. Writes at windowsontheory.org.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982045373-3834",
+      "name": "Eric J. Michaud",
+      "city": "SF",
+      "tags": [
+        "AI researcher",
+        "deep neural networks",
+        "interpretability"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Trying to make deep neural networks among the best understood objects in the universe. Neural network interpretability research.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:04.243Z"
+  "last_updated": "2026-01-21T07:54:05.373Z"
 }
