@@ -4546,7 +4546,24 @@
       "linkedin": "",
       "notes": "Founder/CEO of Graphlit (@graphlit): Operational Context Layer for AI Agents. Also @zine_ai app. ex-MSFT, PA born, Seattle bred.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982319757-8880",
+      "name": "Kurush Dubash",
+      "city": "SF",
+      "tags": [
+        "domeapi.io",
+        "YC F25",
+        "Prediction Markets",
+        "Alchemy",
+        "Adobe",
+        "Berkeley"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building domeapi.io (YC F25) founder & engineer - building on prediction markets w/ @princeofbothell prev @alchemy, @adobe, Berkeley, #bitcoin",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:57:55.636Z"
+  "last_updated": "2026-01-21T07:58:39.757Z"
 }
