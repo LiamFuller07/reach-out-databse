@@ -6875,7 +6875,20 @@
       "linkedin": "",
       "notes": "Director, Machine Learning Platform @ Netflix",
       "checked": false
+    },
+    {
+      "id": "founders-1769023912545-4664",
+      "name": "Prasanna Padmanabhan",
+      "city": "SF",
+      "tags": [
+        "Netflix",
+        "ML Infrastructure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML Infrastructure @ Netflix",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:31:50.727Z"
+  "last_updated": "2026-01-21T19:31:52.545Z"
 }
