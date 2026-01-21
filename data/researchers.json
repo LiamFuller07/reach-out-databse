@@ -6519,7 +6519,22 @@
       "linkedin": "",
       "notes": "CS & Stats @ UofT, incoming @ Mecka AI & AMD.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024554422-3174",
+      "name": "Siddharth Ancha",
+      "city": "SF",
+      "tags": [
+        "UC Berkeley",
+        "MIT CSAIL Postdoc",
+        "CMU PhD",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ UC Berkeley, Postdoc @ MIT CSAIL, PhD @ CMU SCS. Robotics researcher.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:42:33.278Z"
+  "last_updated": "2026-01-21T19:42:34.422Z"
 }
