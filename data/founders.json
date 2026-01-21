@@ -4046,7 +4046,23 @@
       "linkedin": "",
       "notes": "Building Gecko - making equipment rentals 10x easier. B2B founder. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981822445-6501",
+      "name": "Gabe Greenberg",
+      "city": "SF",
+      "tags": [
+        "G2i",
+        "Human Data",
+        "RL Environments",
+        "AI Engineer Miami",
+        "React Miami"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ G2i.co | Focused on human data, RL environments | Co-organizer AI Engineer Miami & React Miami",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:50:20.795Z"
+  "last_updated": "2026-01-21T07:50:22.445Z"
 }
