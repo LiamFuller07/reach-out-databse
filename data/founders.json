@@ -7347,7 +7347,22 @@
       "linkedin": "",
       "notes": "CTO @ Cleanlab AI (data quality), prev PhD @ MIT CSAIL, research at anish.io, active open-source contributor",
       "checked": false
+    },
+    {
+      "id": "founders-1769028978940-5109",
+      "name": "Prukalpa Sankar",
+      "city": "SF",
+      "tags": [
+        "Atlan",
+        "Co-CEO",
+        "Data Infrastructure",
+        "Context Graphs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & Co-CEO @ Atlan (data catalog platform), hosting 'The Great Data Debate 2026' on context graphs Feb 5, collaborating with Foundation Capital network",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:56:17.907Z"
+  "last_updated": "2026-01-21T20:56:18.940Z"
 }
