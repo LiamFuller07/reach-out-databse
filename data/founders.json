@@ -6454,7 +6454,21 @@
       "linkedin": "",
       "notes": "Prev Founder/CEO @ Instacart",
       "checked": false
+    },
+    {
+      "id": "founders-1768993629742-7845",
+      "name": "Akash Pasricha",
+      "city": "SF",
+      "tags": [
+        "The Information",
+        "TITV",
+        "Tech Media"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Host of TITV, The Information's Daily Tech News Show",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:07:08.422Z"
+  "last_updated": "2026-01-21T11:07:09.742Z"
 }
