@@ -7247,7 +7247,23 @@
       "linkedin": "",
       "notes": "CS PhD student @ Stanford, prev pre-training @ Cohere, built things @ Apple, Anyscale, NVIDIA, BS Berkeley EECS",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026804711-3047",
+      "name": "Tom Cunningham",
+      "city": "SF",
+      "tags": [
+        "METR Evals",
+        "OpenAI",
+        "Evals",
+        "Economics",
+        "AI Safety"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Economics & AI @ METR Evals (ex-OpenAI), tecunningham.github.io",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:20:03.565Z"
+  "last_updated": "2026-01-21T20:20:04.711Z"
 }
