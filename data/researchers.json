@@ -3189,7 +3189,22 @@
       "linkedin": "",
       "notes": "Assistant Professor @ Westlake University, PhD @ Max Planck Institute for Intelligent Systems, prev USC ICT, focusing on democratizing human digitization, intern @ Reality Labs & Ubisoft",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987541325-4070",
+      "name": "Chuang Gan",
+      "city": "Boston",
+      "tags": [
+        "UMass Amherst",
+        "MIT-IBM Watson AI Lab",
+        "Embodied AI",
+        "Computer Vision"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Faculty @ UMass Amherst, Principal Researcher @ MIT-IBM Watson AI Lab, embodied-agi.cs.umass.edu",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:23:20.674Z"
+  "last_updated": "2026-01-21T09:25:41.326Z"
 }
