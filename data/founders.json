@@ -6981,7 +6981,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Anyscale, Co-creator of Ray (distributed computing for RL/ML), PhD ML @ Berkeley. Key contact for distributed RL infrastructure.",
       "checked": false
+    },
+    {
+      "id": "founders-1769025099356-9191",
+      "name": "Parag K. Mital",
+      "city": "LA",
+      "tags": [
+        "emergentic.ai",
+        "UCLA",
+        "AI Storytelling",
+        "Simulation",
+        "Games",
+        "LACMA Artist"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ emergentic.ai, Adj Prof @ UCLA. AI storytelling & simulation, LACMA-commissioned artist, Games/Media/AI.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:47:23.304Z"
+  "last_updated": "2026-01-21T19:51:39.356Z"
 }
