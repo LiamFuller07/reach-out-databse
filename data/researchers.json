@@ -802,7 +802,22 @@
       "linkedin": "",
       "notes": "ByteDance Seed AGI Infra. FastAGI workshop organizer. Previously Founding Engineer & MLSys PhD.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981609057-2687",
+      "name": "Dylan Patel",
+      "city": "SF",
+      "tags": [
+        "SemiAnalysis",
+        "AI Infrastructure",
+        "Research",
+        "Consulting"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "SemiAnalysis - Boutique AI Infrastructure Research and Consulting | Top AI chip/infra analyst | DMs open",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:44.523Z"
+  "last_updated": "2026-01-21T07:46:49.057Z"
 }
