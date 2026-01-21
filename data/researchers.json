@@ -1500,7 +1500,21 @@
       "linkedin": "",
       "notes": "Jack of all trades @ Isomorphic Labs (Demis Hassabis's drug discovery company), fan of physics, eng, cog sci",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984350906-7780",
+      "name": "Mallikarjuna",
+      "city": "SF",
+      "tags": [
+        "NeurIPS",
+        "ML Researcher",
+        "Neural Networks"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Machine Learning Researcher, NeurIPS contributor",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:32:29.905Z"
+  "last_updated": "2026-01-21T08:32:30.906Z"
 }
