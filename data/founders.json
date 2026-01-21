@@ -4688,7 +4688,21 @@
       "linkedin": "",
       "notes": "Founder and CEO, Mithril (@mithrilcompute). Orchestrating Compute. Fmr Research Scientist @GoogleDeepMind, Deep Learning Team. CS PhD @Stanford ML, Systems.",
       "checked": false
+    },
+    {
+      "id": "founders-1768983793174-6843",
+      "name": "Ayush Soni",
+      "city": "SF",
+      "tags": [
+        "hex.inc",
+        "Creative Director",
+        "Experimental Studio"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Creative director + founder @ hex.inc experimental creative studio.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:23:09.396Z"
+  "last_updated": "2026-01-21T08:23:13.174Z"
 }
