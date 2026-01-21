@@ -5211,7 +5211,22 @@
       "linkedin": "",
       "notes": "AI Chronicler - covers robots, AI tech innovation. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "founders-1768985184479-1370",
+      "name": "Donsie",
+      "city": "SF",
+      "tags": [
+        "DeFi",
+        "BTCfi",
+        "ZK",
+        "Crypto"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Crypto/DeFi person - ZKBeliever, Mammoth, BTCfi, IKA.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:45:09.592Z"
+  "last_updated": "2026-01-21T08:46:24.479Z"
 }
