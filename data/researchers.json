@@ -5715,7 +5715,22 @@
       "linkedin": "",
       "notes": "Machine Learning Engineer @ HuggingFace, AI PhD",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992392991-1406",
+      "name": "Jino Rohit",
+      "city": "SF",
+      "tags": [
+        "ML",
+        "Math",
+        "Young Researcher",
+        "Unsloth Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "23 | ml and math | - In Unsloth's following network",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:44:33.426Z"
+  "last_updated": "2026-01-21T10:46:32.991Z"
 }
