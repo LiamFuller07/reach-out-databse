@@ -3855,7 +3855,23 @@
       "linkedin": "",
       "notes": "Founder & CEO at rome.ai (YC W22). Software engineer. Early Scale AI. Prev: Google, Meta, Snap, Lyft, NASA.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981651606-6698",
+      "name": "Ry Walker",
+      "city": "SF",
+      "tags": [
+        "founder",
+        "CEO",
+        "Tembo",
+        "Astronomer.io",
+        "coding agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Delegate work to any coding agent with Tembo. Prev founder/CEO of Astronomer.io.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:13.174Z"
+  "last_updated": "2026-01-21T07:47:31.606Z"
 }
