@@ -7421,7 +7421,20 @@
       "linkedin": "",
       "notes": "Stanford Prof, genomics/ML research, advocate for federally funded academic research",
       "checked": false
+    },
+    {
+      "id": "researchers-1769027019982-7774",
+      "name": "Cindy Sridharan",
+      "city": "SF",
+      "tags": [
+        "Distributed Systems",
+        "Engineering"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Engineering/distributed systems expert",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:23:38.803Z"
+  "last_updated": "2026-01-21T20:23:39.982Z"
 }
