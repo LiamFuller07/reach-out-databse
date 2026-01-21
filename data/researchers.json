@@ -1102,16 +1102,15 @@
     {
       "id": "researchers-1768982075313-1174",
       "name": "Etash Guha",
-      "city": "SF",
+      "city": "Seattle",
       "tags": [
-        "AI researcher",
-        "PhD",
         "Stanford",
-        "UW CSE"
+        "UW CSE",
+        "PhD"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Ph.D. at Stanford and UW CSE.",
+      "notes": "PhD researcher at Stanford/UW CSE.",
       "checked": false
     },
     {
@@ -1220,5 +1219,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:21:54.705Z"
+  "last_updated": "2026-01-21T08:21:56.134Z"
 }
