@@ -885,7 +885,21 @@
       "linkedin": "",
       "notes": "Biotechnology student obsessed with Cognition, AI, Blockchain, Quantum Mechanics and Neuroscience.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981677214-1283",
+      "name": "Vimanyu Taneja",
+      "city": "SF",
+      "tags": [
+        "Cambridge",
+        "CS",
+        "20yo"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "20. CS at Cambridge University.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:54.773Z"
+  "last_updated": "2026-01-21T07:47:57.214Z"
 }
