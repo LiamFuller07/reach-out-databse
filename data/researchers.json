@@ -3158,7 +3158,21 @@
       "linkedin": "",
       "notes": "PhD student @ Tsinghua University, dreams of building the Apple in robotics industry",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987358883-9919",
+      "name": "Zhen Zhang",
+      "city": "Santa Barbara",
+      "tags": [
+        "UCSB PhD",
+        "Tsinghua NLP",
+        "NLP"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ UCSB, undergraduate @ Tsinghua NLP",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:22:08.402Z"
+  "last_updated": "2026-01-21T09:22:38.883Z"
 }
