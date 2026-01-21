@@ -4318,7 +4318,21 @@
       "linkedin": "",
       "notes": "CUAing at openwork.ai. Prev: Co-Founder, CTO at Skyline AI (acquired by JLL), StreamRail (acquired). Lecturer at Tel Aviv Uni.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982074250-6676",
+      "name": "Ronald Mannak",
+      "city": "SF",
+      "tags": [
+        "AI founder",
+        "picogpt",
+        "local AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building picogpt - local AI inference.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:06.875Z"
+  "last_updated": "2026-01-21T07:54:34.250Z"
 }
