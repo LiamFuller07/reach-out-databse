@@ -4120,7 +4120,22 @@
       "linkedin": "",
       "notes": "@ Red Hat, Neural Magic, vLLM project - ML infrastructure",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989165507-6781",
+      "name": "Yiheng Shu",
+      "city": "SF",
+      "tags": [
+        "OSU NLP",
+        "PhD",
+        "Microsoft Research",
+        "Intuit"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student @ OSU NLP, prev Nanjing University, former intern @ Microsoft Research & Intuit",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:52:44.441Z"
+  "last_updated": "2026-01-21T09:52:45.507Z"
 }
