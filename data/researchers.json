@@ -2273,7 +2273,23 @@
       "linkedin": "",
       "notes": "Research Director @ INRIA, Head of Flowers Lab (intrinsic motivation, developmental AI). Prev Microsoft Research, Sony CSL Paris.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985468683-3816",
+      "name": "Maureen de Seyssel",
+      "city": "SF",
+      "tags": [
+        "Apple",
+        "ML Researcher",
+        "ENS PhD",
+        "Speech",
+        "Cognition"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Machine Learning Researcher @ Apple. PhD from CoML at ENS. Focus: speech, ML and cognition.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:50:55.081Z"
+  "last_updated": "2026-01-21T08:51:08.683Z"
 }
