@@ -4241,15 +4241,14 @@
       "name": "Riley Brown",
       "city": "SF",
       "tags": [
-        "AI founder",
         "vibecodeapp",
         "Claude Code",
-        "mobile apps",
-        "web apps"
+        "Mobile",
+        "Web Apps"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Cofounder of vibecodeapp - the easiest way to use Claude Code to build professional mobile apps and web apps.",
+      "notes": "Building vibecodeapp - Claude Code for mobile/web apps.",
       "checked": false
     },
     {
@@ -4677,5 +4676,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:21:31.474Z"
+  "last_updated": "2026-01-21T08:21:32.621Z"
 }
