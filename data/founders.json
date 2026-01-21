@@ -5420,7 +5420,23 @@
       "linkedin": "",
       "notes": "AI at 1X Tech (humanoid robotics), prev Google Brain researcher, known for Gumbel-Softmax trick paper",
       "checked": false
+    },
+    {
+      "id": "founders-1768986288069-1232",
+      "name": "Soumith Chintala",
+      "city": "NYC",
+      "tags": [
+        "PyTorch co-founder",
+        "Thinky Machines",
+        "Meta AI",
+        "NYU",
+        "Open Source AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder of PyTorch, building @thinkymachines, dabbles in robotics at NYU, prev Meta AI, champion of accessible open-source AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:04:01.668Z"
+  "last_updated": "2026-01-21T09:04:48.069Z"
 }
