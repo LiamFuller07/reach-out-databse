@@ -4733,7 +4733,24 @@
       "linkedin": "",
       "notes": "Founder (building something big). Ex-SWE @Capgemini. @USC CSBA. Tweets about tech, startups, geopolitics.",
       "checked": false
+    },
+    {
+      "id": "founders-1768984008887-3933",
+      "name": "Sherjil Ozair",
+      "city": "SF",
+      "tags": [
+        "Project Prometheus",
+        "General Agents",
+        "Tesla Autopilot",
+        "Google DeepMind",
+        "MILA PhD",
+        "IIT Delhi"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ project prometheus | founder @GeneralAgentsCo | previously autopilot @tesla, deep learning @googledeepmind, phd mila.quebec, cs @iitdelhi. Top AI founder.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:25:41.349Z"
+  "last_updated": "2026-01-21T08:26:48.887Z"
 }
