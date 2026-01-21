@@ -1455,7 +1455,21 @@
       "linkedin": "",
       "notes": "AI analysis newsletter (rohan-paul.com)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984303793-5691",
+      "name": "Peter Gostev",
+      "city": "London",
+      "tags": [
+        "LMArena",
+        "AI Capability",
+        "Benchmarks"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Capability @ LMArena, London based",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:28:48.765Z"
+  "last_updated": "2026-01-21T08:31:43.793Z"
 }
