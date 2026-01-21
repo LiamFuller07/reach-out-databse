@@ -4672,7 +4672,23 @@
       "linkedin": "",
       "notes": "Building @cursor_ai - leading AI code editor. Previously: @adoptclarity, @tryexplo, @czi (Chan Zuckerberg Initiative), @palantirtech. Recent work on Cursor Bugbot (AI code reviewer) and Plan mode.",
       "checked": false
+    },
+    {
+      "id": "founders-1768983789396-7894",
+      "name": "Jared Quincy Davis",
+      "city": "SF",
+      "tags": [
+        "Mithril",
+        "Compute Orchestration",
+        "ex-DeepMind",
+        "Stanford PhD",
+        "ML Systems"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder and CEO, Mithril (@mithrilcompute). Orchestrating Compute. Fmr Research Scientist @GoogleDeepMind, Deep Learning Team. CS PhD @Stanford ML, Systems.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:21:58.857Z"
+  "last_updated": "2026-01-21T08:23:09.396Z"
 }
