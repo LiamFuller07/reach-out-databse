@@ -5563,7 +5563,23 @@
       "linkedin": "",
       "notes": "Co-founder of Assured Robot Intelligence (ARI), making robots more dexterous, robust and general, NYU robotics professor",
       "checked": false
+    },
+    {
+      "id": "founders-1768986845388-8840",
+      "name": "Sam Altman",
+      "city": "SF",
+      "tags": [
+        "OpenAI CEO",
+        "Y Combinator",
+        "GPT",
+        "ChatGPT",
+        "AGI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ OpenAI, former President @ Y Combinator, leading the development of GPT/ChatGPT and pursuit of AGI, one of the most influential figures in AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:14:02.472Z"
+  "last_updated": "2026-01-21T09:14:05.388Z"
 }
