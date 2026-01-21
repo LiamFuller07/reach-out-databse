@@ -3032,7 +3032,23 @@
       "linkedin": "",
       "notes": "Research on Multimodality for Embodied Intelligence",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986841138-303",
+      "name": "Lei Li",
+      "city": "SF",
+      "tags": [
+        "Generative AI",
+        "LLM",
+        "GenAI Safety",
+        "Drug Discovery",
+        "NeurIPS 2025"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Generative AI for language and science, research on MT, LLM, GenAI Safety, Drug Discovery, NeurIPS 2025",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:13:10.100Z"
+  "last_updated": "2026-01-21T09:14:01.138Z"
 }
