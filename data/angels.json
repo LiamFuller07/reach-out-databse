@@ -82,7 +82,20 @@
       "linkedin": "",
       "notes": "Entrepreneur and early stage angel investor | Z Fellows founder | Follows you",
       "checked": false
+    },
+    {
+      "id": "angels-1768981737618-4379",
+      "name": "Emily Zhang",
+      "city": "SF",
+      "tags": [
+        "Investor",
+        "SF"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Investor in SF | Angel investor",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:48:06.486Z"
+  "last_updated": "2026-01-21T07:48:57.618Z"
 }
