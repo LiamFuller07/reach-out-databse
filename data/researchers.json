@@ -5493,7 +5493,25 @@
       "linkedin": "",
       "notes": "Gemma Team Lead @ Google DeepMind",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991775224-7603",
+      "name": "Arash Tavakoli",
+      "city": "LA",
+      "tags": [
+        "Riot Games",
+        "RL",
+        "MPI",
+        "Imperial College",
+        "UCL",
+        "Microsoft Research",
+        "UAlberta RLAI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Staff Research Scientist @ Riot Games (RL), prev MPI-IS, Imperial College, UCL, USC, Georgia Tech, Microsoft Research, UAlberta RLAI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:35:41.781Z"
+  "last_updated": "2026-01-21T10:36:15.224Z"
 }
