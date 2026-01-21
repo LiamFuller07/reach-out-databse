@@ -5353,7 +5353,23 @@
       "linkedin": "",
       "notes": "AI research at Broad Institute and Boston University, Reinforcement Learning / Bandits / Experiment Design",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991630815-2444",
+      "name": "Zixiang Chen",
+      "city": "SF",
+      "tags": [
+        "Salesforce AI",
+        "UCLA PhD",
+        "Tsinghua",
+        "Foundation Models",
+        "RL"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ Salesforce AI, PhD UCLA, BS Tsinghua, Foundation Model + Theory + Reinforcement Learning",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:33:49.650Z"
+  "last_updated": "2026-01-21T10:33:50.815Z"
 }
