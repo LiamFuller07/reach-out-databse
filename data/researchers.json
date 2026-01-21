@@ -6274,7 +6274,22 @@
       "linkedin": "",
       "notes": "PhD @ Stanford AI Lab, prev Toyota Research, Berkeley AI. Robot learning researcher - 'I can teach your robot new tricks'",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024216146-8995",
+      "name": "Kehlani Fay",
+      "city": "SF",
+      "tags": [
+        "UCSD PhD",
+        "Embodied AI",
+        "Physical Intelligence",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student @ UCSD, Embodied & Physical Intelligence, robotics researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:36:55.064Z"
+  "last_updated": "2026-01-21T19:36:56.146Z"
 }
