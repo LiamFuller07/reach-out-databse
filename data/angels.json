@@ -185,7 +185,21 @@
       "linkedin": "",
       "notes": "Founder @ Night Capital",
       "checked": false
+    },
+    {
+      "id": "angels-1769026353367-7983",
+      "name": "Max Glik",
+      "city": "SF",
+      "tags": [
+        "Angel Investor",
+        "Young Talent",
+        "18yo"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Angel Investor, 18 years old",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:12:32.305Z"
+  "last_updated": "2026-01-21T20:12:33.367Z"
 }
