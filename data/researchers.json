@@ -4046,7 +4046,23 @@
       "linkedin": "",
       "notes": "PhD student @ UW NLP, prev Allen AI, Meta AI, UCLA CS",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988984665-822",
+      "name": "Winnie Yang",
+      "city": "NYC",
+      "tags": [
+        "NYU",
+        "PhD",
+        "Meta MSL",
+        "Self-Improving AI",
+        "Open-Ended Learning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ NYU, Research Scientist Intern @ Meta MSL, building self-improving AI in open-ended world, prev memory & learning in the brain",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:49:43.489Z"
+  "last_updated": "2026-01-21T09:49:44.665Z"
 }
