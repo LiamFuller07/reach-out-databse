@@ -3480,7 +3480,22 @@
       "linkedin": "",
       "notes": "PhD Student @ MIT EECS",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988034331-4583",
+      "name": "Mert Cemri",
+      "city": "Berkeley",
+      "tags": [
+        "UC Berkeley",
+        "EECS",
+        "PhD",
+        "NeurIPS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD Student @ UC Berkeley EECS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:33:53.062Z"
+  "last_updated": "2026-01-21T09:33:54.331Z"
 }
