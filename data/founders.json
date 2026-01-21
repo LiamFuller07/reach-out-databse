@@ -6113,7 +6113,23 @@
       "linkedin": "",
       "notes": "Co-founder & CEO @ Turbopuffer, former infra @ Shopify (scaled 1k→1m RPS) - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "founders-1768992709680-3986",
+      "name": "Emil Eifrem",
+      "city": "SF",
+      "tags": [
+        "Neo4j",
+        "CEO",
+        "Graph Database",
+        "Context Graphs",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO of Neo4j - the leading graph database company, 'Graphs Are Everywhere' - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:51:48.562Z"
+  "last_updated": "2026-01-21T10:51:49.680Z"
 }
