@@ -3144,7 +3144,21 @@
       "linkedin": "",
       "notes": "Reward hacking research @ Prime Intellect, RL researcher",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987328402-8979",
+      "name": "Shanning Zhuang",
+      "city": "Beijing",
+      "tags": [
+        "Tsinghua PhD",
+        "Robotics",
+        "Hardware"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD student @ Tsinghua University, dreams of building the Apple in robotics industry",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:21:27.154Z"
+  "last_updated": "2026-01-21T09:22:08.402Z"
 }
