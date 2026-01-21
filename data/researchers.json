@@ -1606,7 +1606,22 @@
       "linkedin": "",
       "notes": "Research Scientist @ Suno, working on generative music, audio fidelity, signal processing, ML",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984485225-3783",
+      "name": "Chip Huyen",
+      "city": "SF",
+      "tags": [
+        "AI Engineering Author",
+        "MLSys",
+        "AI Systems Books",
+        "Influential"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Author of AI Engineering and Designing MLSys books (@aisysbooks), @chipslib, highly influential ML educator",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:34:09.977Z"
+  "last_updated": "2026-01-21T08:34:45.225Z"
 }
