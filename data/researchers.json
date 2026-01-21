@@ -5276,7 +5276,21 @@
       "linkedin": "",
       "notes": "Research @ OpenAI, Thiel Fellow, prev Meta AI, Nuro, Stanford, co-created Gradient Pub",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991085785-2383",
+      "name": "Nick Fiacco",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Shopping",
+        "E-commerce AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Shopping @ OpenAI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:24:10.600Z"
+  "last_updated": "2026-01-21T10:24:45.785Z"
 }
