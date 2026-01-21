@@ -5272,7 +5272,23 @@
       "linkedin": "",
       "notes": "Founder-CTO @ versori.com. Manchester United fan. Loves deleting code.",
       "checked": false
+    },
+    {
+      "id": "founders-1768985515973-9371",
+      "name": "Alexis Conneau",
+      "city": "SF",
+      "tags": [
+        "Waveforms AI CEO",
+        "ex-OpenAI",
+        "GPT-4o Audio Lead",
+        "ex-Meta AI",
+        "Polytechnique"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Waveforms.ai. Ex OpenAI - GPT-4o/AVM Audio Research Lead. Ex Meta AI. Polytechnique (X11). Her/TARS inspiration.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:48:44.284Z"
+  "last_updated": "2026-01-21T08:51:55.973Z"
 }
