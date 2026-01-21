@@ -751,7 +751,24 @@
       "linkedin": "",
       "notes": "17, research at Princeton, Pareto fellow, STS Scholar '26, prev YC W25.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981581531-8",
+      "name": "Isaac Kargar",
+      "city": "SF",
+      "tags": [
+        "AI Scientist",
+        "PhD",
+        "AI",
+        "robotics",
+        "in-parallel.com",
+        "resoniks"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Principal AI Scientist at in-parallel.com. PhD in AI and Robotics. Ex CIO/CAIO at resoniks.com.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:46:19.185Z"
+  "last_updated": "2026-01-21T07:46:21.531Z"
 }
