@@ -4525,7 +4525,22 @@
       "linkedin": "",
       "notes": "AI inference & speculative decoding researcher, built novel decoding algorithms now default in HuggingFace Transformers (150+ stars)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989770329-3711",
+      "name": "Steve Shirkey",
+      "city": "Asia",
+      "tags": [
+        "Red Hat AI",
+        "ex-Microsoft",
+        "ex-AWS",
+        "Asia Tech"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Red Hat AI, ex-Microsoft, ex-AWS, three decades in tech, two decades in Asia",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:02:11.655Z"
+  "last_updated": "2026-01-21T10:02:50.329Z"
 }
