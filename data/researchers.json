@@ -3795,7 +3795,22 @@
       "linkedin": "",
       "notes": "Agents research @ OpenAI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988734891-3425",
+      "name": "Yuqiang Xie",
+      "city": "Beijing",
+      "tags": [
+        "IIE CAS",
+        "NLP PhD",
+        "Storytelling",
+        "Cognitive Modeling"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Researcher focusing on storytelling and cognitive modeling, PhD in NLP @ IIE, CAS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:45:33.583Z"
+  "last_updated": "2026-01-21T09:45:34.891Z"
 }
