@@ -6888,7 +6888,24 @@
       "linkedin": "",
       "notes": "ML Infrastructure @ Netflix",
       "checked": false
+    },
+    {
+      "id": "founders-1769023913752-5616",
+      "name": "Sailesh Krishnamurthy",
+      "city": "SF",
+      "tags": [
+        "Google Cloud",
+        "Databases",
+        "Cloud SQL",
+        "Bigtable",
+        "Firestore",
+        "AI for DBs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Entrepreneur, database geek. Eng lead @ Google Cloud databases for Cloud SQL, Bigtable, Firestore, and AI-driven assistive tech for DBs",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:31:52.545Z"
+  "last_updated": "2026-01-21T19:31:53.752Z"
 }
