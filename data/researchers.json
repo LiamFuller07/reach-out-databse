@@ -1559,7 +1559,22 @@
       "linkedin": "",
       "notes": "For independent minds exploring foundational questions in AI and beyond",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984418933-8478",
+      "name": "Aman",
+      "city": "SF",
+      "tags": [
+        "RL",
+        "Prompt Evolution",
+        "Lossfunk",
+        "Scaling"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Scaling RL + prompt evolution @lossfunk",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:33:02.880Z"
+  "last_updated": "2026-01-21T08:33:38.933Z"
 }
