@@ -273,7 +273,21 @@
       "linkedin": "",
       "notes": "Investor @ OUP VC, MIT alum (grad 2020)",
       "checked": false
+    },
+    {
+      "id": "vcs-1769024630059-4003",
+      "name": "Leo Lu",
+      "city": "SF",
+      "tags": [
+        "Foundation Capital",
+        "YC W23",
+        "VC"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ Foundation Capital, YC W23.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:30:52.614Z"
+  "last_updated": "2026-01-21T19:43:50.059Z"
 }
