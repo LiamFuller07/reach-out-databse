@@ -4259,13 +4259,16 @@
       "name": "Ayush Satyam",
       "city": "SF",
       "tags": [
-        "ML Research"
+        "PyTorch",
+        "vLLM",
+        "Red Hat AI",
+        "DiceDB"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "ML researcher",
+      "notes": "@ PyTorch, vLLM project, Core ML @ Red Hat AI, Core committer to DiceDB",
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:55:57.826Z"
+  "last_updated": "2026-01-21T09:56:23.600Z"
 }
