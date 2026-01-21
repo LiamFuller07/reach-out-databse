@@ -3936,7 +3936,21 @@
       "linkedin": "",
       "notes": "Research Scientist @ Salesforce Research, teaching machines to be versatile and curious, prev USC NLP",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988894290-4887",
+      "name": "Xiachong Feng",
+      "city": "Hong Kong",
+      "tags": [
+        "HKU",
+        "NLP",
+        "Postdoc"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Postdoc Fellow @ HKU-NLP",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:47:20.676Z"
+  "last_updated": "2026-01-21T09:48:14.290Z"
 }
