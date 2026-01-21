@@ -249,11 +249,12 @@
       "tags": [
         "Applied ML",
         "RL",
-        "Post Training"
+        "post-training",
+        "builder"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "23 | Applied ML/RL, Post Training → building and learning | Follows you",
+      "notes": "23. Applied ML/RL, Post Training -> building and learning.",
       "checked": false
     },
     {
@@ -870,5 +871,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:47:37.434Z"
+  "last_updated": "2026-01-21T07:47:51.884Z"
 }
