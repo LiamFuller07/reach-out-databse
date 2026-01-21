@@ -107,7 +107,23 @@
       "linkedin": "",
       "notes": "Founder @1confirmation. Low extraversion, high conviction investor. Early crypto/web3 VC.",
       "checked": false
+    },
+    {
+      "id": "vcs-1768982121065-3195",
+      "name": "litquidity",
+      "city": "SF",
+      "tags": [
+        "litquidityvc",
+        "exec_sum",
+        "cryptosum",
+        "Finance memes",
+        "Newsletter"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @litquidityvc // newsletters @exec_sum & @cryptosum_. Finance/VC meme account turned investor.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:59.770Z"
+  "last_updated": "2026-01-21T07:55:21.065Z"
 }
