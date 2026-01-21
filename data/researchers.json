@@ -1164,7 +1164,21 @@
       "linkedin": "",
       "notes": "Leading research at @PrimeIntellect - open superintelligence stack.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768982240689-5932",
+      "name": "Daniel Auras",
+      "city": "SF",
+      "tags": [
+        "Prime Intellect",
+        "Hill Climbing",
+        "Optimization"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Hill climbing @PrimeIntellect - working on optimization/training for open superintelligence.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:57:19.698Z"
+  "last_updated": "2026-01-21T07:57:20.689Z"
 }
