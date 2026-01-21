@@ -3571,7 +3571,21 @@
       "linkedin": "",
       "notes": "Co-founder & CEO @ Dedalus Labs (YC S25) | Princeton CS | AI alignment background",
       "checked": false
+    },
+    {
+      "id": "founders-1768981523421-9304",
+      "name": "Kamryn Ohly",
+      "city": "SF",
+      "tags": [
+        "Design Arena",
+        "Prediction Bench",
+        "Harvard CS"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Design Arena & Prediction Bench | Harvard CS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:45:21.162Z"
+  "last_updated": "2026-01-21T07:45:23.421Z"
 }
