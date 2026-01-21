@@ -1217,7 +1217,24 @@
       "linkedin": "",
       "notes": "Doer of Technical Stuff. (Co)developed Highway Networks, Upside-Down RL, Bayesian Flow Networks, EvoTorch. Recently joined Institute of Foundation Models (Dec 2025) - training large-scale fully open-source LLMs. 'Learning is compression.' Website: rupeshks.cc",
       "checked": false
+    },
+    {
+      "id": "researchers-1768983790767-8786",
+      "name": "Sijun Tan",
+      "city": "SF",
+      "tags": [
+        "Berkeley Sky",
+        "rllm_project",
+        "Agentica",
+        "Meta AI",
+        "Antgroup",
+        "PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS PhD @BerkeleySky | Project Lead @rllm_project @Agentica_ | Prev: @AIatMeta @Antgroup. Working on RL for LLMs and AI agents.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:21:56.134Z"
+  "last_updated": "2026-01-21T08:23:10.767Z"
 }
