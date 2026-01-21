@@ -1313,7 +1313,23 @@
       "linkedin": "",
       "notes": "Evals at Anthropic. Building tbench.ai with @alexgshaw and many others. Working on AI evaluation and benchmarking.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768983939994-2305",
+      "name": "Dominique Paul",
+      "city": "Zurich",
+      "tags": [
+        "ETH Zurich",
+        "NeurIPS",
+        "Robotics",
+        "ML",
+        "Statistics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Statistics at @ETH. Published at @NeurIPSconf. Now building ML models for robotics arms. DMs open for anything robotics.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:25:38.765Z"
+  "last_updated": "2026-01-21T08:25:39.994Z"
 }
