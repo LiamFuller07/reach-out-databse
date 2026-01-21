@@ -6709,7 +6709,21 @@
       "linkedin": "",
       "notes": "Making @ Ada CX (AI customer service)",
       "checked": false
+    },
+    {
+      "id": "founders-1768994149239-9088",
+      "name": "Glen Coates",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Head of App Platform",
+        "Platform"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Head of App Platform @ OpenAI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:15:48.076Z"
+  "last_updated": "2026-01-21T11:15:49.239Z"
 }
