@@ -639,7 +639,25 @@
       "linkedin": "",
       "notes": "Scaling up RL @ OpenAI | Optimization and long context research | Math PhD MIT",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981481975-143",
+      "name": "Jack Rae",
+      "city": "SF",
+      "tags": [
+        "Meta",
+        "Google",
+        "OpenAI",
+        "Gopher",
+        "Chinchilla",
+        "Gemini",
+        "LLMs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Distinguished Scientist @ Meta | LLMs (Gopher, Chinchilla, Gemini) | Compression & RL | Past: Google, OpenAI, Quora",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:44:40.945Z"
+  "last_updated": "2026-01-21T07:44:41.975Z"
 }
