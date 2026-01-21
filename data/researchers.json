@@ -6411,7 +6411,22 @@
       "linkedin": "",
       "notes": "MSML student @ CMU",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024383769-1573",
+      "name": "Chen Geng",
+      "city": "SF",
+      "tags": [
+        "Stanford PhD",
+        "Stanford AI Lab",
+        "4D World Models",
+        "Physics from Data"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS Ph.D. Student @ Stanford AI Lab. Building 4D world models with physics learned from data.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:38:57.768Z"
+  "last_updated": "2026-01-21T19:39:43.769Z"
 }
