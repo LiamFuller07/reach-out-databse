@@ -1096,12 +1096,13 @@
       "city": "SF",
       "tags": [
         "Dwarkesh Podcast",
-        "Time 100 AI",
-        "1M+ subscribers"
+        "AI Interviewer",
+        "Tech Media",
+        "Influential"
       ],
-      "x": "dwarkesh_sp",
-      "linkedin": "https://linkedin.com/in/dwarkesh-sp",
-      "notes": "Founder @ Dwarkesh Podcast, UT Austin CS '21, Time 100 Most Influential in AI 2024, 1M+ YouTube subscribers, interviewed Zuckerberg/Amodei/Hassabis",
+      "x": "",
+      "linkedin": "",
+      "notes": "Host of @dwarkeshpodcast - one of the most influential AI/tech podcasters. Interviews top AI researchers and founders.",
       "checked": false
     },
     {
@@ -4489,5 +4490,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:56:43.996Z"
+  "last_updated": "2026-01-21T07:56:45.068Z"
 }
