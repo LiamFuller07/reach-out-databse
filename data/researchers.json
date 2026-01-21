@@ -2674,7 +2674,23 @@
       "linkedin": "",
       "notes": "Co-founder @ ML Collective (non-profit research lab), prev Google Brain, NeurIPS area chair, research on neural network understanding",
       "checked": false
+    },
+    {
+      "id": "researchers-1768986286933-7752",
+      "name": "Yi Ma",
+      "city": "Hong Kong",
+      "tags": [
+        "HKU",
+        "UC Berkeley",
+        "Computer Vision",
+        "ML Theory",
+        "Sparse Representations"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Chair Professor in AI @ HKU, Visiting Prof of EECS @ UC Berkeley, pioneer in sparse representations and compressed sensing, \"Unified Theory of Intelligence\" research, highly cited ML theorist",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:04:05.298Z"
+  "last_updated": "2026-01-21T09:04:46.933Z"
 }
