@@ -6618,7 +6618,22 @@
       "linkedin": "",
       "notes": "Now @ seapeopleapp.com, prev CTO/VPE @ Shopify and Atlassian",
       "checked": false
+    },
+    {
+      "id": "founders-1768993976855-5702",
+      "name": "Pekka Enberg",
+      "city": "Europe",
+      "tags": [
+        "Turso",
+        "ScyllaDB",
+        "Linux Kernel",
+        "Databases"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CTO @ Turso Database, prev ScyllaDB, Linux kernel contributor, author of 'Latency'",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:12:55.660Z"
+  "last_updated": "2026-01-21T11:12:56.855Z"
 }
