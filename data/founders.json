@@ -4531,7 +4531,23 @@
       "linkedin": "",
       "notes": "Frontier research for leading enterprises. Follows Liam.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982274574-6005",
+      "name": "Kirk Marple",
+      "city": "Seattle",
+      "tags": [
+        "Graphlit",
+        "CEO",
+        "AI Agents Context",
+        "zine.ai",
+        "ex-Microsoft"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder/CEO of Graphlit (@graphlit): Operational Context Layer for AI Agents. Also @zine_ai app. ex-MSFT, PA born, Seattle bred.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:57:21.694Z"
+  "last_updated": "2026-01-21T07:57:54.574Z"
 }
