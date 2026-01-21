@@ -4407,7 +4407,23 @@
       "linkedin": "",
       "notes": "AI research, systems engineering, infra & hardware. On a mission to build a frontier, infra-focused AI Lab in the West. Mods GPUs on r/LocalLLaMA. DMs open.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982161631-3198",
+      "name": "Thomas Wolf",
+      "city": "SF",
+      "tags": [
+        "HuggingFace",
+        "Co-founder",
+        "Angel investor",
+        "Chrysopoeia",
+        "Open Source AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder at @HuggingFace - moonshots - angel investor - working on Chrysopoeia. Key figure in open source AI/ML.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:55:18.351Z"
+  "last_updated": "2026-01-21T07:56:01.631Z"
 }
