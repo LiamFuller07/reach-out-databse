@@ -916,7 +916,23 @@
       "linkedin": "",
       "notes": "ML & robotics | Computer operator | Aiming for wirehead-free utopias",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981772079-9107",
+      "name": "Dirk Van den Poel",
+      "city": "SF",
+      "tags": [
+        "Data Analytics",
+        "Big Data",
+        "ML",
+        "Professor",
+        "Ghent University"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor of Data Analytics / Big Data / predictive analytics at Ghent University. Data scientist using Spark/ensemble classification. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:49:30.856Z"
+  "last_updated": "2026-01-21T07:49:32.079Z"
 }
