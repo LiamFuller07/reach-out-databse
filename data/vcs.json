@@ -79,7 +79,24 @@
       "linkedin": "",
       "notes": "Founder + Investing @ Lightspeed VP, Tech+Infra. Investments: Anthropic AI, Exa AI Labs, Cyera, Chainguard, NextHop AI, Eve Legal AI, Descope, Nominal, Zscaler",
       "checked": false
+    },
+    {
+      "id": "vcs-1768984450966-7598",
+      "name": "Sarah Catanzaro",
+      "city": "SF",
+      "tags": [
+        "Amplify Partners",
+        "GP",
+        "Canvas VC",
+        "Mattermark",
+        "Palantir",
+        "Data"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "GP @ Amplify Partners, prev Canvas VC, Head of Data @ Mattermark, Palantir, C4ADS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:33:39.991Z"
+  "last_updated": "2026-01-21T08:34:10.966Z"
 }
