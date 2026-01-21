@@ -4210,7 +4210,23 @@
       "linkedin": "",
       "notes": "Building Standard_Kernel, CS PhD @ Stanford, prev cuDNN @ NVIDIA, M.Eng & BS CS @ MIT, KernelBench creator, efficient scalable self-improving AI systems",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989319014-3129",
+      "name": "Dzmitry Bahdanau",
+      "city": "Montreal",
+      "tags": [
+        "Periodic Labs",
+        "McGill",
+        "Mila",
+        "Attention Mechanism",
+        "NLP Pioneer"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Team member @ Periodic Labs, Adjunct Prof @ McGill, Member of Mila, creator of Bahdanau attention mechanism (foundational to transformers)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:55:17.841Z"
+  "last_updated": "2026-01-21T09:55:19.014Z"
 }
