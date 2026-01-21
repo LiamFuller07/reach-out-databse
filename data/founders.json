@@ -4640,7 +4640,26 @@
       "linkedin": "",
       "notes": "`npx vibe-kanban` - run many Claude Code / Codex / Amp / Geminis. Multi-agent orchestration tool.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982769311-58",
+      "name": "Yuchen He",
+      "city": "SF",
+      "tags": [
+        "Humans And",
+        "xAI",
+        "OpenAI",
+        "Meta",
+        "Apple",
+        "UIUC",
+        "UT Austin",
+        "Founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Cofounder at Humans And (@humansand) with Eric Zelikman, Gharik, Noah D. Goodman, TheAndiPenguin. Previous: xAI, OpenAI, Meta, Apple. Education: UIUC, UT Austin.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:59:11.653Z"
+  "last_updated": "2026-01-21T08:06:09.311Z"
 }
