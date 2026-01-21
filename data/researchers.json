@@ -6112,7 +6112,22 @@
       "linkedin": "",
       "notes": "Researcher @ Gray Systems Lab, Wisconsin DB alumnus",
       "checked": false
+    },
+    {
+      "id": "researchers-1769023909335-4160",
+      "name": "Hamel Husain",
+      "city": "SF",
+      "tags": [
+        "Evals",
+        "ML",
+        "evals.info",
+        "hamel.dev"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML evals expert, runs evals.info, hamel.dev",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:30:51.279Z"
+  "last_updated": "2026-01-21T19:31:49.335Z"
 }
