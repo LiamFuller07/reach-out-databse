@@ -6572,7 +6572,22 @@
       "linkedin": "",
       "notes": "Building Ghostty terminal, prev founded HashiCorp (created Vagrant, Terraform, Vault)",
       "checked": false
+    },
+    {
+      "id": "founders-1768993973099-5569",
+      "name": "Salvatore Sanfilippo (antirez)",
+      "city": "Europe",
+      "tags": [
+        "Redis",
+        "Creator",
+        "Databases",
+        "Open Source"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Creator of Redis",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:12:04.265Z"
+  "last_updated": "2026-01-21T11:12:53.099Z"
 }
