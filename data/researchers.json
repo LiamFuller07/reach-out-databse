@@ -998,19 +998,16 @@
       "name": "Ethan He",
       "city": "SF",
       "tags": [
-        "AI researcher",
         "xAI",
         "Grok",
         "Nvidia",
         "Meta",
-        "LLM",
-        "video generation",
-        "world model",
-        "AGI"
+        "30+ papers",
+        "9k citations"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Engineer at xAI/Grok Imagine. Ex-Nvidia, Meta. 30+ papers, 9k citations. Talks about AI, LLM, video generation, world model, multimodal, machine learning, AGI.",
+      "notes": "Engineer at xAI/Grok Imagine. Ex-Nvidia, Meta. 30+ papers, 9k citations. AI, LLM, video generation, world model, multimodal, AGI.",
       "checked": false
     },
     {
@@ -1225,5 +1222,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:21:28.999Z"
+  "last_updated": "2026-01-21T08:21:52.125Z"
 }
