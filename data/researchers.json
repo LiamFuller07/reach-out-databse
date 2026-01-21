@@ -7540,7 +7540,23 @@
       "linkedin": "",
       "notes": "@ Databricks, ex-Google DeepMind, ex-Google Research, research at intersection of Information Retrieval & AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1769030354364-3608",
+      "name": "Ivan Zhou",
+      "city": "SF",
+      "tags": [
+        "Databricks",
+        "ex-Uber AI",
+        "Stanford CRFM",
+        "LandingAI",
+        "Computer Vision"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI research engineer @ Databricks, prev Uber AI, Stanford CRFM, LandingAI, computer vision specialist",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:19:11.976Z"
+  "last_updated": "2026-01-21T21:19:14.364Z"
 }
