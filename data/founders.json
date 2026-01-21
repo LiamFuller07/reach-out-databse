@@ -5500,7 +5500,23 @@
       "linkedin": "",
       "notes": "Co-founder of Databricks ($43B), Perplexity AI, Laude Institute, and Laude Ventures. Serial entrepreneur with multiple successful exits in AI/data infrastructure",
       "checked": false
+    },
+    {
+      "id": "founders-1768986563382-3160",
+      "name": "Mehul",
+      "city": "SF",
+      "tags": [
+        "Matic Robots",
+        "prev Flutter (Google)",
+        "ex-Google PM",
+        "Home Robots",
+        "Spatial AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Matic Robots (home robots with vision-only Spatial AI), prev co-founded Flutter (acquired by Google), ex-PM Lead Nest Cams @ Google",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:09:22.237Z"
+  "last_updated": "2026-01-21T09:09:23.382Z"
 }
