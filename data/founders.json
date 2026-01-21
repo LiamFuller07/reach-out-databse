@@ -5942,7 +5942,22 @@
       "linkedin": "",
       "notes": "Co-founder & Chief Scientist @ Manus AI, training AI since 2013",
       "checked": false
+    },
+    {
+      "id": "founders-1768992018990-8478",
+      "name": "Ayush Jaiswal",
+      "city": "SF",
+      "tags": [
+        "xAI",
+        "Scale AI",
+        "Head of Growth",
+        "Pesto Tech"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ xAI, prev Head of Growth @ Scale AI, Co-founded Pesto Tech",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:26:27.351Z"
+  "last_updated": "2026-01-21T10:40:18.990Z"
 }
