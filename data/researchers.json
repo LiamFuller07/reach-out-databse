@@ -685,7 +685,22 @@
       "linkedin": "",
       "notes": "Research @ OpenAI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981485920-9685",
+      "name": "Barret Zoph",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "Thinking Machines Lab",
+        "CTO",
+        "Co-Founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ OpenAI | Past: CTO & Co-Founder Thinking Machines Lab",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:44:44.904Z"
+  "last_updated": "2026-01-21T07:44:45.920Z"
 }
