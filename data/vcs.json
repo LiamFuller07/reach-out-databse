@@ -395,7 +395,22 @@
       "linkedin": "",
       "notes": "Partner @ Lux Capital investing in the future, board @ ecorner (STVP), prev Canvas VC, Stanford",
       "checked": false
+    },
+    {
+      "id": "vcs-1769028976775-1145",
+      "name": "Ashu Garg",
+      "city": "SF",
+      "tags": [
+        "Foundation Capital",
+        "Partner",
+        "Context Graphs",
+        "Enterprise AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ Foundation Capital, co-author of 'AI's trillion-dollar opportunity: Context graphs' article with Jaya Gupta, appeared on The Information TITV",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:20:05.891Z"
+  "last_updated": "2026-01-21T20:56:16.775Z"
 }
