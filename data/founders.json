@@ -6665,7 +6665,23 @@
       "linkedin": "",
       "notes": "CEO @ PlanetScale",
       "checked": false
+    },
+    {
+      "id": "founders-1768994033542-8786",
+      "name": "Brandur Leach",
+      "city": "SF",
+      "tags": [
+        "Stainless",
+        "ex-Snowflake",
+        "ex-Stripe",
+        "ex-Heroku",
+        "Infrastructure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Engineering @ Stainless, ex-Heroku, Stripe, Snowflake",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:13:52.356Z"
+  "last_updated": "2026-01-21T11:13:53.542Z"
 }
