@@ -5331,7 +5331,23 @@
       "linkedin": "",
       "notes": "Co-founder @ Answer.AI & fast.ai. Kaggle founding president. Founder @ Fastmail, Enlitic. Prev Professor @ UQ, Stanford Fellow. Democratized deep learning education.",
       "checked": false
+    },
+    {
+      "id": "founders-1768985737347-7037",
+      "name": "Andrej Karpathy",
+      "city": "SF",
+      "tags": [
+        "Eureka Labs AI",
+        "ex-Tesla AI Director",
+        "OpenAI Founding Team",
+        "Stanford PhD",
+        "CS231n"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building @ Eureka Labs AI. Previously Director of AI @ Tesla, OpenAI founding team. CS231n creator, PhD Stanford. \"I like to train large deep neural nets.\"",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:55:35.924Z"
+  "last_updated": "2026-01-21T08:55:37.347Z"
 }
