@@ -380,7 +380,22 @@
       "linkedin": "",
       "notes": "@ Thrive Capital, 19 years old",
       "checked": false
+    },
+    {
+      "id": "vcs-1769026805891-8642",
+      "name": "Grace Isford",
+      "city": "SF",
+      "tags": [
+        "Lux Capital",
+        "Partner",
+        "Stanford",
+        "Deep Tech"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ Lux Capital investing in the future, board @ ecorner (STVP), prev Canvas VC, Stanford",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:13:40.691Z"
+  "last_updated": "2026-01-21T20:20:05.891Z"
 }
