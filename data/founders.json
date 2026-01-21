@@ -4837,7 +4837,21 @@
       "linkedin": "",
       "notes": "AI & Software Engineering",
       "checked": false
+    },
+    {
+      "id": "founders-1768984253730-8477",
+      "name": "Lowercase Club",
+      "city": "SF",
+      "tags": [
+        "Design Studio",
+        "Technical Design",
+        "Creative"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "The technical design studio - lowercase.club",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:30:14.590Z"
+  "last_updated": "2026-01-21T08:30:53.730Z"
 }
