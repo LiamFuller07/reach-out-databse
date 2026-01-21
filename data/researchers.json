@@ -1856,7 +1856,22 @@
       "linkedin": "",
       "notes": "2nd-year PhD @ UCSD CSE with @rajammanabrolu | Prev: LTI @ CMU, UMich CSE, SJTU | Reinforcement Learning, LLM/VLM Reasoning, Embodiment, Agents",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984879257-6261",
+      "name": "Lily Zhang",
+      "city": "SF",
+      "tags": [
+        "CVPR 2024",
+        "Tech Lead",
+        "Research Scientist",
+        "Data"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CVPR 2024, Tech Lead, Research Scientist | Solving the Data Bottleneck",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:40:34.416Z"
+  "last_updated": "2026-01-21T08:41:19.257Z"
 }
