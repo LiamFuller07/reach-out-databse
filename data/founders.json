@@ -4393,7 +4393,23 @@
       "linkedin": "",
       "notes": "Founder at turf_network - Data Context for Specialised AI. 2x Founder. Fellow at Harvard HBS.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982080529-3816",
+      "name": "Ahmad Osman",
+      "city": "SF",
+      "tags": [
+        "AI researcher",
+        "AI infra",
+        "hardware",
+        "LocalLLaMA",
+        "GPU modding"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI research, systems engineering, infra & hardware. On a mission to build a frontier, infra-focused AI Lab in the West. Mods GPUs on r/LocalLLaMA. DMs open.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:54:39.434Z"
+  "last_updated": "2026-01-21T07:54:40.529Z"
 }
