@@ -1469,7 +1469,23 @@
       "linkedin": "",
       "notes": "AI Capability @ LMArena, London based",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984348880-9778",
+      "name": "Prannay Hebbar",
+      "city": "SF",
+      "tags": [
+        "Post-training",
+        "CUA",
+        "AGI Inc",
+        "Stanford",
+        "Mission Ctrl"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Post training (CUA and coding), prev AI researcher @ AGI Inc, @Stanford, @mission_ctrl",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:31:43.793Z"
+  "last_updated": "2026-01-21T08:32:28.880Z"
 }
