@@ -7525,7 +7525,22 @@
       "linkedin": "",
       "notes": "Research scientist @ Google DeepMind, Past: @ Databricks (first hire @ MosaicML), MIT PhD, posts about AI technical progress + business side",
       "checked": false
+    },
+    {
+      "id": "researchers-1769030351976-1064",
+      "name": "Michael Bendersky",
+      "city": "SF",
+      "tags": [
+        "Databricks",
+        "ex-Google DeepMind",
+        "ex-Google Research",
+        "IR & AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Databricks, ex-Google DeepMind, ex-Google Research, research at intersection of Information Retrieval & AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:19:08.996Z"
+  "last_updated": "2026-01-21T21:19:11.976Z"
 }
