@@ -4132,7 +4132,26 @@
       "linkedin": "",
       "notes": "14 year old co-founder at stealth startup. Previously built @finkle_app. Young technical founder. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "founders-1768981933069-4748",
+      "name": "Jay Ram",
+      "city": "San Francisco",
+      "tags": [
+        "hud.ai",
+        "CEO",
+        "Founder",
+        "YC W25",
+        "Columbia",
+        "ex-quant",
+        "AI agents",
+        "RL environments"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO at hud.ai (Human Union Data, Inc.) - YC W25. Building RL environments and evals for AI agents. Previously on Research Team at Hume AI, also held positions at AQR, Chai AI, and Quantedge. BA from Columbia University (CS + Physics). Before Hud, left a lucrative quant career and shipped an AI prank-calling app that briefly hit #1 on App Store (~500k calls). Based in San Francisco.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:50:36.249Z"
+  "last_updated": "2026-01-21T07:52:13.069Z"
 }
