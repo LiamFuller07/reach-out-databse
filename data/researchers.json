@@ -3260,7 +3260,22 @@
       "linkedin": "",
       "notes": "Audio AI Researcher",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987627387-6265",
+      "name": "Yonglong Tian",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "DeepMind",
+        "MIT PhD",
+        "Research Scientist"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ OpenAI, prev Research Scientist @ Google DeepMind, PhD @ MIT",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:27:06.233Z"
+  "last_updated": "2026-01-21T09:27:07.387Z"
 }
