@@ -3964,7 +3964,21 @@
       "linkedin": "",
       "notes": "PhD student @ HKU, following @taoyds, NLP group 2022",
       "checked": false
+    },
+    {
+      "id": "researchers-1768988896834-1751",
+      "name": "Piotr Nawrot",
+      "city": "Edinburgh",
+      "tags": [
+        "Edinburgh",
+        "PhD",
+        "LLM Efficiency"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "LLM Efficiency PhD @ University of Edinburgh",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:48:15.570Z"
+  "last_updated": "2026-01-21T09:48:16.834Z"
 }
