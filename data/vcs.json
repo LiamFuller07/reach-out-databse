@@ -123,7 +123,22 @@
       "linkedin": "",
       "notes": "Founder @litquidityvc // newsletters @exec_sum & @cryptosum_. Finance/VC meme account turned investor.",
       "checked": false
+    },
+    {
+      "id": "vcs-1768982238613-656",
+      "name": "Foundation Capital",
+      "city": "SF",
+      "tags": [
+        "Top VC",
+        "30 years",
+        "Early Stage",
+        "Day Zero"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "For 30 years, we've backed extraordinary founders from day zero. Top-tier early stage VC firm.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:55:21.065Z"
+  "last_updated": "2026-01-21T07:57:18.613Z"
 }
