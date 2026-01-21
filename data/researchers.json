@@ -4999,7 +4999,22 @@
       "linkedin": "",
       "notes": "Foundation Models, Multimodal Agents @ Apple, prev Phi @ Microsoft Research",
       "checked": false
+    },
+    {
+      "id": "researchers-1768990554077-8381",
+      "name": "Yiding Jiang",
+      "city": "SF",
+      "tags": [
+        "Google DeepMind",
+        "CMU PhD",
+        "ex-Google AI",
+        "Berkeley"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research @ Google DeepMind, PhD CMU ML, prev AI resident @ Google AI, BS Berkeley EECS",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:15:18.198Z"
+  "last_updated": "2026-01-21T10:15:54.077Z"
 }
