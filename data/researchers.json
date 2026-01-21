@@ -2422,7 +2422,19 @@
       "linkedin": "",
       "notes": "VP Research @ Google DeepMind. Ex-head of Google Brain. Professor @ University of Cambridge. Ex-Chief Scientist & VP of AI @ Uber. Bayesian ML pioneer.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985651043-3498",
+      "name": "Rémi Leblond",
+      "city": "Paris",
+      "tags": [
+        "AI Researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Researcher (likely DeepMind/Google based on follows).",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:54:09.978Z"
+  "last_updated": "2026-01-21T08:54:11.043Z"
 }
