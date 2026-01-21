@@ -4480,7 +4480,23 @@
       "linkedin": "",
       "notes": "ML researcher @ Prime Intellect (distributed training startup)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989686176-7279",
+      "name": "Junchen Jiang",
+      "city": "Chicago",
+      "tags": [
+        "UChicago",
+        "CS Prof",
+        "vLLM",
+        "LMCache",
+        "Distributed LLM"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS Prof @ UChicago, vLLM project contributor, creator of LMCache (KV cache layer for LLMs)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:01:24.558Z"
+  "last_updated": "2026-01-21T10:01:26.176Z"
 }
