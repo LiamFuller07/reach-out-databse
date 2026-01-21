@@ -7861,7 +7861,23 @@
       "linkedin": "",
       "notes": "Postdoc @Mila_Quebec. Bridging AI and scientific research. Excited about LLM evaluation (beyond benchmarks). #AI4Science.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769032669641-7685",
+      "name": "METR (Model Evaluation & Threat Research)",
+      "city": "Berkeley, CA",
+      "tags": [
+        "AI evals",
+        "AI safety",
+        "catastrophic risk",
+        "nonprofit",
+        "model evaluation"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Nonprofit organization that works to scientifically measure whether and when AI systems might threaten catastrophic harm to society. Based in Berkeley, CA. 15.2K followers.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:25.961Z"
+  "last_updated": "2026-01-21T21:57:49.641Z"
 }
