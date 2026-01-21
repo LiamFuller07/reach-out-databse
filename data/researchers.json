@@ -2454,7 +2454,21 @@
       "linkedin": "",
       "notes": "Deep Learning + Topology + Movement PhD @ Geometric Intelligence & UCSB Physics. AI Research Scientist. Prev McGill Physics. Dodgers fan.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985980481-6455",
+      "name": "Yutao Xie",
+      "city": "SF",
+      "tags": [
+        "RL Scaling Laws",
+        "LLM RL",
+        "Collaborator"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-led RL scaling laws research with Zhoujun Cheng. LLM RL researcher.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:57:25.310Z"
+  "last_updated": "2026-01-21T08:59:40.482Z"
 }
