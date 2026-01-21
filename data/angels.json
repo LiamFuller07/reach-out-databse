@@ -172,7 +172,20 @@
       "linkedin": "",
       "notes": "Founder @ Backwards Capital",
       "checked": false
+    },
+    {
+      "id": "angels-1769026352305-5480",
+      "name": "Kevin Carter",
+      "city": "",
+      "tags": [
+        "Night Capital",
+        "Founder"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Night Capital",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:12:31.308Z"
+  "last_updated": "2026-01-21T20:12:32.305Z"
 }
