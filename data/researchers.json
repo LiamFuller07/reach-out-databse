@@ -6397,7 +6397,21 @@
       "linkedin": "",
       "notes": "RL for web agents @ Amazon AGI, prev Carnegie Mellon, Neo scholar. Key contact for RL + agent evaluations.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024337767-2227",
+      "name": "Matthew Yang",
+      "city": "Pittsburgh",
+      "tags": [
+        "CMU",
+        "MSML",
+        "Machine Learning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "MSML student @ CMU",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:38:55.478Z"
+  "last_updated": "2026-01-21T19:38:57.768Z"
 }
