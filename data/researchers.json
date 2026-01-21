@@ -2468,7 +2468,21 @@
       "linkedin": "",
       "notes": "Co-led RL scaling laws research with Zhoujun Cheng. LLM RL researcher.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768985981706-648",
+      "name": "Qu Yuxiao",
+      "city": "SF",
+      "tags": [
+        "RL Scaling Laws",
+        "LLM RL",
+        "Collaborator"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Collaborator on RL scaling laws research with Zhoujun Cheng.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:59:40.482Z"
+  "last_updated": "2026-01-21T08:59:41.706Z"
 }
