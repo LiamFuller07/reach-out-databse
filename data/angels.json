@@ -142,7 +142,24 @@
       "linkedin": "",
       "notes": "Logan and Wayne invests in early stage tech startups. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "angels-1768983884356-1728",
+      "name": "Varun Arora",
+      "city": "SF",
+      "tags": [
+        "Investor",
+        "KP Fellows",
+        "Contrary",
+        "Capital",
+        "Limebike",
+        "Vanderbilt"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Engineer, explorer, occasional investor. Building something new | prev @capitalxyz @limebike @kp_fellows @contrary @vanderbiltu",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:23:11.907Z"
+  "last_updated": "2026-01-21T08:24:44.356Z"
 }
