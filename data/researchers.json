@@ -5971,7 +5971,20 @@
       "linkedin": "",
       "notes": "Inference @ Prime Intellect, prev Together Compute, Amazon Science, University of Waterloo",
       "checked": false
+    },
+    {
+      "id": "researchers-1768993253003-7051",
+      "name": "Cooper (kcoopm)",
+      "city": "SF",
+      "tags": [
+        "Prime Intellect",
+        "Distributed Training"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Prime Intellect",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:00:51.630Z"
+  "last_updated": "2026-01-21T11:00:53.003Z"
 }
