@@ -6675,7 +6675,20 @@
       "linkedin": "",
       "notes": "Building intelligent robots. Pro human/humanity.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024802060-5798",
+      "name": "Yisha",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Hardware"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building robots - one at a time.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:46:40.910Z"
+  "last_updated": "2026-01-21T19:46:42.060Z"
 }
