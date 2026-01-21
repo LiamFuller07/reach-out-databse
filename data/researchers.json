@@ -7137,7 +7137,22 @@
       "linkedin": "",
       "notes": "@ Anthropic, prev Principal Applied Scientist @ Amazon, led ML @ Alibaba, Lazada",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026621082-7312",
+      "name": "Behnam Neyshabur",
+      "city": "SF",
+      "tags": [
+        "Anthropic",
+        "AI Scientist",
+        "DeepMind",
+        "Gemini"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-leading AI Scientist effort @ Anthropic (Discovery team), prev Google DeepMind (Co-led Blueshift team for Gemini)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:16:24.192Z"
+  "last_updated": "2026-01-21T20:17:01.082Z"
 }
