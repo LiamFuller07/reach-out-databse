@@ -6381,7 +6381,21 @@
       "linkedin": "",
       "notes": "Co-founder & CEO @ Socap Inc",
       "checked": false
+    },
+    {
+      "id": "founders-1768993545823-1747",
+      "name": "Hahnbee Lee",
+      "city": "SF",
+      "tags": [
+        "Mintlify",
+        "Developer Tools",
+        "Docs Infrastructure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Mintlify (developer documentation platform)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T11:05:14.047Z"
+  "last_updated": "2026-01-21T11:05:45.823Z"
 }
