@@ -5867,7 +5867,21 @@
       "linkedin": "",
       "notes": "CEO @ Polymarket, Ethereum since '14",
       "checked": false
+    },
+    {
+      "id": "founders-1768990838119-6508",
+      "name": "Simon Smith",
+      "city": "Toronto",
+      "tags": [
+        "Klick Health",
+        "EVP Generative AI",
+        "Healthcare AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "EVP Generative AI @ Klick Health",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:20:05.092Z"
+  "last_updated": "2026-01-21T10:20:38.119Z"
 }
