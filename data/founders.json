@@ -7665,7 +7665,24 @@
       "linkedin": "",
       "notes": "CEO, Advameg, Inc. City-data.com founder. Author of Melodies.ai. Author of 10 LLM benchmarks.",
       "checked": false
+    },
+    {
+      "id": "founders-1769032672104-9490",
+      "name": "Pranav Rajpurkar",
+      "city": "",
+      "tags": [
+        "AI evals",
+        "benchmarks",
+        "SQuAD",
+        "Harvard",
+        "NLP",
+        "radiology AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder a2z Radiology AI (a2zradiology.ai). Assistant Professor Harvard Lab. Creator of SQuAD benchmark - one of the most influential NLP benchmarks.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:57:28.641Z"
+  "last_updated": "2026-01-21T21:57:52.104Z"
 }
