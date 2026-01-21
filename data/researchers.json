@@ -1667,7 +1667,24 @@
       "linkedin": "",
       "notes": "Research @ Cornell - language models, information theory, science of AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984666918-6617",
+      "name": "Li Ding",
+      "city": "SF",
+      "tags": [
+        "Google AI",
+        "Gemini",
+        "Gemma",
+        "Pre-training",
+        "MIT",
+        "Meta"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML Researcher @ Google AI, Gemini/Gemma pre-training & efficiency. Previously PhD @manningcics, intern @ Meta, researcher @ MIT",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:37:08.011Z"
+  "last_updated": "2026-01-21T08:37:46.918Z"
 }
