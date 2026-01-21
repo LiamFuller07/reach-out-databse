@@ -1545,7 +1545,21 @@
       "linkedin": "",
       "notes": "Modeling language @ Allen AI (AI2)",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984382880-2572",
+      "name": "Lossfunk",
+      "city": "SF",
+      "tags": [
+        "AI Research",
+        "Foundational AI",
+        "Independent Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "For independent minds exploring foundational questions in AI and beyond",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:33:01.807Z"
+  "last_updated": "2026-01-21T08:33:02.880Z"
 }
