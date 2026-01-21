@@ -7183,7 +7183,22 @@
       "linkedin": "",
       "notes": "AI engineer @ LanceDB, prev KuzuDB, blogs @ thedataquarry.com",
       "checked": false
+    },
+    {
+      "id": "researchers-1769026737108-906",
+      "name": "Sara Beery",
+      "city": "SF",
+      "tags": [
+        "MIT CSAIL",
+        "AI Biodiversity",
+        "CV",
+        "Asst Prof"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Asst Prof @ MIT CSAIL, research on AI and biodiversity",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:18:30.217Z"
+  "last_updated": "2026-01-21T20:18:57.108Z"
 }
