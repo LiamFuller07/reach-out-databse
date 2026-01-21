@@ -932,7 +932,23 @@
       "linkedin": "",
       "notes": "Professor of Data Analytics / Big Data / predictive analytics at Ghent University. Data scientist using Spark/ensemble classification. Follows Liam - warm lead.",
       "checked": false
+    },
+    {
+      "id": "researchers-1768981773183-948",
+      "name": "Guohao Li",
+      "city": "SF",
+      "tags": [
+        "AI Agents",
+        "Eigent AI",
+        "CamelAI",
+        "Oxford",
+        "Intel"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@Eigent_AI / @CamelAIOrg. Researching Scaling Laws of Agents. Previously UniofOxford, KaustVision, Intel, Kumo. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:49:32.079Z"
+  "last_updated": "2026-01-21T07:49:33.183Z"
 }
