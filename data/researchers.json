@@ -5230,7 +5230,22 @@
       "linkedin": "",
       "notes": "MTS @ Periodic Labs, prev Meta AI, MIT CSAIL",
       "checked": false
+    },
+    {
+      "id": "researchers-1768991011546-9934",
+      "name": "Stephan Casas",
+      "city": "SF",
+      "tags": [
+        "OpenAI",
+        "macOS",
+        "iOS",
+        "Apple Platforms"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "macOS + iOS @ OpenAI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:22:34.539Z"
+  "last_updated": "2026-01-21T10:23:31.546Z"
 }
