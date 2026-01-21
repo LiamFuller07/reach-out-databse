@@ -3247,7 +3247,20 @@
       "linkedin": "",
       "notes": "Asst. Prof @ UCSD (HDSI & CSE), Co-founder & runs LMSYS (Chatbot Arena), runs Hao AI Lab, 20% @ Snowflake",
       "checked": false
+    },
+    {
+      "id": "researchers-1768987626233-6120",
+      "name": "Nana HOU",
+      "city": "SF",
+      "tags": [
+        "Audio AI",
+        "ML Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Audio AI Researcher",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:26:32.260Z"
+  "last_updated": "2026-01-21T09:27:06.233Z"
 }
