@@ -5778,7 +5778,22 @@
       "linkedin": "",
       "notes": "Researcher @ NVIDIA focusing on efficient post-training of LLMs, creator of LMFlow for finetuning LLMs - In Unsloth's following network",
       "checked": false
+    },
+    {
+      "id": "researchers-1768992433686-3845",
+      "name": "Bill Yuchen Lin",
+      "city": "SF",
+      "tags": [
+        "xAI",
+        "RL for Coding",
+        "UW Prof",
+        "Unsloth Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "RL for coding @ xAI, Affiliate Assistant Prof @ UW, ex Research Scientist - In Unsloth's following network",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:47:12.668Z"
+  "last_updated": "2026-01-21T10:47:13.686Z"
 }
