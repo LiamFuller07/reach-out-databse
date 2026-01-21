@@ -1530,7 +1530,22 @@
       "linkedin": "",
       "notes": "Research Engineer @ Snorkel AI, Frontier model eval, Expert datasets & reasoning benchmarks, ML systems, Data-centric AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768984381807-4399",
+      "name": "Finbarr Timbers",
+      "city": "SF",
+      "tags": [
+        "Allen AI",
+        "AI2",
+        "Modeling Language",
+        "NLP"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Modeling language @ Allen AI (AI2)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T08:33:00.595Z"
+  "last_updated": "2026-01-21T08:33:01.807Z"
 }
