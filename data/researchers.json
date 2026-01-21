@@ -6336,7 +6336,22 @@
       "linkedin": "",
       "notes": "AI researcher @ UW CSE, RAIVNLab, Allen AI, AI2PRIOR. Computer Vision, Foundation Models, Data-centric AI.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769024292269-4043",
+      "name": "Kevin Black",
+      "city": "SF",
+      "tags": [
+        "Berkeley AI",
+        "Physical Intelligence",
+        "Robotics",
+        "PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ Berkeley AI, researcher @ Physical Intelligence. Robotics/embodied AI.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:37:37.865Z"
+  "last_updated": "2026-01-21T19:38:12.269Z"
 }
