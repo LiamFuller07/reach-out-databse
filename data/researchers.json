@@ -7572,7 +7572,22 @@
       "linkedin": "",
       "notes": "Research scientist @ Databricks, prev Berkeley AI PhD, Google AI, Meta AI, interested in human brains and computer brains",
       "checked": false
+    },
+    {
+      "id": "researchers-1769030404926-6037",
+      "name": "Darek Kleczek",
+      "city": "Poland",
+      "tags": [
+        "Snowflake",
+        "LLM/AI Research",
+        "4x Kaggle Grandmaster",
+        "ML"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "LLM/AI Research @ Snowflake, 4x Kaggle Grandmaster, Machine Learning specialist",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:19:15.736Z"
+  "last_updated": "2026-01-21T21:20:04.926Z"
 }
