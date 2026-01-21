@@ -4440,7 +4440,23 @@
       "linkedin": "",
       "notes": "Agents + Dev Tools + Observability ◆ Exited YC Founder @garrytan ◆ Infra Scout @a16z ◆ Early SWE @brexHQ ◆ Also: @crunchbase @11x_official",
       "checked": false
+    },
+    {
+      "id": "founders-1768982163764-1647",
+      "name": "PJ",
+      "city": "SF",
+      "tags": [
+        "TradeFoxAI",
+        "alliance",
+        "Z Fellows",
+        "Duke",
+        "Prediction Markets"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @TradeFoxAI, @alliance, @zfellows, @DukeU | Prediction Markets",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:56:02.669Z"
+  "last_updated": "2026-01-21T07:56:03.764Z"
 }
