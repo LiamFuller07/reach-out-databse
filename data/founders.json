@@ -4471,7 +4471,23 @@
       "linkedin": "",
       "notes": "18 yo react native developer at @WidlarzGroup | open source contributor. Young talent. Follows Liam.",
       "checked": false
+    },
+    {
+      "id": "founders-1768982203996-7618",
+      "name": "Ananth Kashyap",
+      "city": "SF",
+      "tags": [
+        "Physical AI",
+        "YC X25",
+        "Penn",
+        "Google",
+        "Robotics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Data for physical AI (YC X25) / prev @ Penn, Google. Building data infrastructure for robotics/physical AI.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:56:05.742Z"
+  "last_updated": "2026-01-21T07:56:43.996Z"
 }
