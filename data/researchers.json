@@ -6097,7 +6097,22 @@
       "linkedin": "",
       "notes": "Scaling @ xAI, prev Gemini 3 perception and Project Astra @ Google DeepMind",
       "checked": false
+    },
+    {
+      "id": "researchers-1769023851279-2312",
+      "name": "Shaleen Deep",
+      "city": "Madison",
+      "tags": [
+        "Gray Systems Lab",
+        "Wisconsin DB",
+        "Databases",
+        "Systems"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher @ Gray Systems Lab, Wisconsin DB alumnus",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T19:30:49.987Z"
+  "last_updated": "2026-01-21T19:30:51.279Z"
 }
