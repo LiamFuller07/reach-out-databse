@@ -5895,7 +5895,22 @@
       "linkedin": "",
       "notes": "Leading deep agents @ LangChain, prev AWS Cloud, PhD CS @ Temple - Found via Jaya Gupta's following",
       "checked": false
+    },
+    {
+      "id": "researchers-1768993022292-4243",
+      "name": "Jacob Austin",
+      "city": "NYC",
+      "tags": [
+        "ex-Google DeepMind",
+        "ex-Google Brain",
+        "AI Research",
+        "Jaya Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI researcher, previously @ Google DeepMind, Google Brain - Found via Jaya Gupta's following",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T10:55:48.367Z"
+  "last_updated": "2026-01-21T10:57:02.292Z"
 }
