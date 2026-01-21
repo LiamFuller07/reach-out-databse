@@ -3957,7 +3957,23 @@
       "linkedin": "",
       "notes": "Building memory for agents @ Mem.ai | @ F.inc | Agent infrastructure",
       "checked": false
+    },
+    {
+      "id": "founders-1768981793045-9354",
+      "name": "Vivek Jayaram",
+      "city": "SF",
+      "tags": [
+        "YC W25",
+        "AI/ML",
+        "PhD",
+        "VocalityHealth",
+        "fulltrackai"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @VocalityHealth (YC W25). PhD in AI/ML. Previous founder @fulltrackai (4m users). Shares insights on building AI products. Follows Liam - warm lead.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T07:49:51.051Z"
+  "last_updated": "2026-01-21T07:49:53.045Z"
 }
