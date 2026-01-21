@@ -4105,7 +4105,22 @@
       "linkedin": "",
       "notes": "Prev computer use agents lead @ MSL TBD Lab, multimodal research @ Google AI",
       "checked": false
+    },
+    {
+      "id": "researchers-1768989164441-2214",
+      "name": "Robert Shaw",
+      "city": "SF",
+      "tags": [
+        "Red Hat",
+        "Neural Magic",
+        "vLLM",
+        "ML Infrastructure"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Red Hat, Neural Magic, vLLM project - ML infrastructure",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T09:52:43.312Z"
+  "last_updated": "2026-01-21T09:52:44.441Z"
 }
