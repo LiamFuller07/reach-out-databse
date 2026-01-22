@@ -8141,7 +8141,21 @@
       "linkedin": "",
       "notes": "CS PhD Candidate at Stanford building large world models. Previously at Allen AI. Followed by Jaya Gupta - relevant for AI research.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049217730-2918",
+      "name": "Hans C Nelson",
+      "city": "",
+      "tags": [
+        "enterprise-data",
+        "palantir",
+        "context-graphs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Engaged with context graphs article asking about how Palantir Foundry/AIP fits into the thesis. Understands enterprise data platforms.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:36.114Z"
+  "last_updated": "2026-01-22T02:33:37.730Z"
 }
