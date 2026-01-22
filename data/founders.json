@@ -8429,7 +8429,20 @@
       "linkedin": "",
       "notes": "Robotics neolab building foundation models for robots. Key people: @hausman_k (Karol Hausman), @svlevine (Sergey Levine), @chelseabfinn (Chelsea Finn), @brian_ichter, @lachygroom (Lachy Groom), @adnan_esm, @QuanVng. Mentioned by Chris Barber as robotics company he's curious about.",
       "checked": false
+    },
+    {
+      "id": "founders-1769062439544-3331",
+      "name": "Pantograph",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Neolab"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics neolab. Key people: @_kelsey_pool (Kelsey Pool), @apagajewski, @camfassett (Cam Fassett). On Chris Barber's list of robotics companies he's curious about.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:13:58.429Z"
+  "last_updated": "2026-01-22T06:13:59.544Z"
 }
