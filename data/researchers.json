@@ -8441,7 +8441,24 @@
       "linkedin": "",
       "notes": "Grad student @stanford @stai_research. Maintaining KGGen, interested in agents for science and knowledge graphs for agentic memory. Followed by Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048926444-3702",
+      "name": "Adam Gleave",
+      "city": "",
+      "tags": [
+        "FAR AI",
+        "AI safety",
+        "AI alignment",
+        "robustness",
+        "Berkeley",
+        "METR network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO & co-founder of FAR AI Research nonprofit. PhD from Berkeley AI. Works on alignment & robustness. In METR network.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:45.274Z"
+  "last_updated": "2026-01-22T02:28:46.444Z"
 }
