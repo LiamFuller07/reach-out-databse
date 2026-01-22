@@ -6036,15 +6036,16 @@
     {
       "id": "founders-1768992637680-502",
       "name": "Antti Karjalainen",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Customer Context Graph",
-        "Enterprise AI",
-        "Viral Thread"
+        "enterprise-ai",
+        "robocorp",
+        "sema4-ai",
+        "automation"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Viral post about Customer Context Graph (399 likes, 112K views) - 'Someone needs to build a company around Customer Context Graph', reposted by Jaya Gupta",
+      "notes": "Building something new. Previously Co-Founder, CEO at Robocorp / Co-Founder at Sema4.ai. Enterprise AI automation background. Followed by Jaya Gupta.",
       "checked": false
     },
     {
@@ -7939,5 +7940,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:40.826Z"
+  "last_updated": "2026-01-22T02:32:42.376Z"
 }
