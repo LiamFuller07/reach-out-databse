@@ -6171,15 +6171,16 @@
       "city": "Berkeley, CA",
       "tags": [
         "ai-evals",
-        "llm-evals",
+        "llm-benchmarks",
+        "evals.info",
+        "berkeley",
+        "stanford",
         "data-systems",
-        "hci",
-        "docetl",
-        "benchmark"
+        "hci"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Data systems and HCI researcher. Created docetl.org (LLM-powered data processing) and evals.info. PhD at Berkeley EECS, Stanford CS undergrad. On CS faculty job market. 50K+ followers.",
+      "notes": "Co-creator of evals.info with Hamel Husain. Data systems & HCI researcher. PhD @Berkeley_EECS, @Stanford CS undergrad. Created docetl.org. On CS faculty job market. 50K+ followers. Key figure in AI evals space.",
       "checked": false
     },
     {
@@ -8099,5 +8100,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:29.876Z"
+  "last_updated": "2026-01-22T02:27:33.857Z"
 }
