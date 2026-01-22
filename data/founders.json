@@ -8007,7 +8007,21 @@
       "linkedin": "",
       "notes": "@Langfuse - open source LLM observability and evaluation platform. Focus on AI evals. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049194535-9661",
+      "name": "Rudolf Laine",
+      "city": "",
+      "tags": [
+        "AI",
+        "founder",
+        "Workshop Labs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building workshoplabs.ai. Writing at nosetgauge.com. Focus on AI research. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:08.855Z"
+  "last_updated": "2026-01-22T02:33:14.535Z"
 }
