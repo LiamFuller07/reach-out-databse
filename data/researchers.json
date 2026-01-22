@@ -8726,7 +8726,21 @@
       "linkedin": "",
       "notes": "Enterprise HR tech thought leader. Engaged with context graphs article discussing ERPs and agentic flows across data sets. Expert in enterprise workflow automation.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049221090-370",
+      "name": "Konstantin Pilz",
+      "city": "",
+      "tags": [
+        "AI policy",
+        "compute",
+        "researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher on AI compute, data centers and U.S.-China competition. Focus on AI policy and compute. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:39.566Z"
+  "last_updated": "2026-01-22T02:33:41.090Z"
 }
