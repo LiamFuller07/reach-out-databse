@@ -8493,7 +8493,20 @@
       "linkedin": "",
       "notes": "Robotics neolab. Key person: @charliewu (Charlie Wu). On Chris Barber's list of robotics companies he's curious about.",
       "checked": false
+    },
+    {
+      "id": "founders-1769062462422-6802",
+      "name": "Prometheus Robotics",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Neolab"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics neolab. Key people: @rtnarch, @JeffBezos (investor?), @sherjilozair, @wgussml, @vik_bajaj, Rick Klausner. On Chris Barber's list of robotics companies.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:14:21.290Z"
+  "last_updated": "2026-01-22T06:14:22.422Z"
 }
