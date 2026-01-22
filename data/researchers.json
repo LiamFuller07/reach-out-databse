@@ -8301,7 +8301,24 @@
       "linkedin": "",
       "notes": "Working on evals at METR. METR team member.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048901964-3954",
+      "name": "Michael Chen",
+      "city": "",
+      "tags": [
+        "METR",
+        "AI safety",
+        "AI evaluations",
+        "AI policy",
+        "Oxford",
+        "ex-Stripe"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI policy at METR and AI Governance Institute Oxford. Previously Stripe. METR team member.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:20.523Z"
+  "last_updated": "2026-01-22T02:28:21.964Z"
 }
