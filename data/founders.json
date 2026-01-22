@@ -7726,15 +7726,17 @@
     {
       "id": "founders-1769048331330-5932",
       "name": "Andon Labs",
-      "city": "",
+      "city": "San Francisco",
       "tags": [
-        "autonomous agents",
-        "AI safety",
-        "autonomous organizations"
+        "ai-safety",
+        "neolabs",
+        "autonomous-agents",
+        "anthropic-partner",
+        "ai-evals"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Company: Safe Autonomous Organizations without humans in the loop. 4,087 followers. Science & Technology.",
+      "notes": "AI research lab building safe autonomous organizations without humans in the loop. Partnered with Anthropic on Project Vend. Co-founder: Lukas Petersson. 4K+ followers. Based in SF.",
       "checked": false
     },
     {
@@ -7752,5 +7754,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:24:08.720Z"
+  "last_updated": "2026-01-22T02:25:00.120Z"
 }
