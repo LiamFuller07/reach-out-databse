@@ -8034,13 +8034,14 @@
       "name": "Joel Becker",
       "city": "",
       "tags": [
-        "ai-evals",
-        "metr",
-        "ai-capabilities"
+        "METR",
+        "AI safety",
+        "AI evaluations",
+        "AI capabilities"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Researcher at METR. Working on understanding AI capabilities development.",
+      "notes": "Trying to figure out what on earth is going on with AI capabilities. At METR. METR team member.",
       "checked": false
     },
     {
@@ -8150,5 +8151,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:49.232Z"
+  "last_updated": "2026-01-22T02:27:51.762Z"
 }
