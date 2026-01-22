@@ -8116,7 +8116,22 @@
       "linkedin": "",
       "notes": "Co-founder @Calibre_Labs - Applied AI research & consulting on AI PM and Evals. Prev EVP @amplitude_HQ. VC @khoslaventures @sequoia. @stanford @iitbombay. Followed by Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048859121-8084",
+      "name": "Deeptendu Santra",
+      "city": "",
+      "tags": [
+        "ai-evals",
+        "agent-evals",
+        "gsoc",
+        "julia"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Works on evaluating Agents. Prev GSOC @JuliaLanguage @mitacscanada. GRI fellow. Verified follower of Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:37.826Z"
+  "last_updated": "2026-01-22T02:27:39.121Z"
 }
