@@ -8164,7 +8164,23 @@
       "linkedin": "",
       "notes": "Excels at reasoning & tool use. Tensor-enjoyer. At METR. METR team member.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048874991-2055",
+      "name": "Rajiv Dattani",
+      "city": "",
+      "tags": [
+        "METR",
+        "AI safety",
+        "AI evaluations",
+        "McKinsey",
+        "AI insurance"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Certifying and insuring AI agents at @AIUnderwriting. Previously Partner at McKinsey Insurance, COO at METR. METR team member.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:53.440Z"
+  "last_updated": "2026-01-22T02:27:54.991Z"
 }
