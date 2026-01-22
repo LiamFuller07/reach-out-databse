@@ -8226,7 +8226,22 @@
       "linkedin": "",
       "notes": "Co-Founder & CTO @GoodeyeLabs. Building tools that put domain experts in control of AI quality. AI & ML researcher. Data viz aficionado. 15+ years building AI. Followed by Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048888741-9679",
+      "name": "ezi ozoani",
+      "city": "",
+      "tags": [
+        "huggingface",
+        "ai-research",
+        "quantum-computing",
+        "ai-for-good"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research engineer @huggingface. Quantum Computing, DL, AI for Good. Followed by Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:06.231Z"
+  "last_updated": "2026-01-22T02:28:08.741Z"
 }
