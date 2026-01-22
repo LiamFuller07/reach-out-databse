@@ -8070,7 +8070,21 @@
       "linkedin": "",
       "notes": "AI safety researcher. Connected to METR network.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048702640-6175",
+      "name": "Jasmine Dhaliwal",
+      "city": "",
+      "tags": [
+        "ai-evals",
+        "metr",
+        "former-diplomat"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Former diplomat, currently at METR. Brings policy/governance perspective to AI evals.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:25:01.293Z"
+  "last_updated": "2026-01-22T02:25:02.640Z"
 }
