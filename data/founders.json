@@ -6099,17 +6099,16 @@
     {
       "id": "founders-1768992708562-5170",
       "name": "Simon Eskildsen",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Turbopuffer",
-        "CEO",
-        "ex-Shopify Infra",
-        "Data Infrastructure",
-        "Jaya Network"
+        "vector-database",
+        "turbopuffer",
+        "infrastructure",
+        "enterprise-data"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder & CEO @ Turbopuffer, former infra @ Shopify (scaled 1k→1m RPS) - Found via Jaya Gupta's following",
+      "notes": "Co-founder & CEO of Turbopuffer (vector database). Former infra at Shopify (scaled 1k to 1m RPS). Followed by Jaya Gupta. Relevant for context/knowledge graph storage infrastructure.",
       "checked": false
     },
     {
@@ -7910,5 +7909,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:35.082Z"
+  "last_updated": "2026-01-22T02:32:36.576Z"
 }
