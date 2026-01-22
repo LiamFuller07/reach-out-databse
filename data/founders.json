@@ -8325,7 +8325,21 @@
       "linkedin": "",
       "notes": "Created Paris model - decentralized image generation using mixture of experts approach, each expert specializes in one image type (portraits, landscapes, architecture), router combines at inference",
       "checked": false
+    },
+    {
+      "id": "founders-1769061738729-111",
+      "name": "AI Search",
+      "city": "SF",
+      "tags": [
+        "AI News",
+        "AI Search",
+        "Tech Reporter"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI news/search account, reports on new AI releases and models",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T05:10:53.894Z"
+  "last_updated": "2026-01-22T06:02:18.729Z"
 }
