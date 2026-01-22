@@ -8638,7 +8638,23 @@
       "linkedin": "",
       "notes": "Research at Anthropic - trying to figure out what makes minds and machines go 'Beep Bop!' Focus on interpretability and AI research. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049113192-5218",
+      "name": "Fei Xia",
+      "city": "",
+      "tags": [
+        "autonomous agents",
+        "robotics",
+        "Google DeepMind",
+        "Stanford AI",
+        "embodied AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist, TLM at Google DeepMind. Gemini & Robotics. PhD from Stanford AI Lab @StanfordSVL, previously @Tsinghua_Uni. Focus on AGI through Embodiment. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:31:31.646Z"
+  "last_updated": "2026-01-22T02:31:53.192Z"
 }
