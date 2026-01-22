@@ -7468,15 +7468,15 @@
     {
       "id": "founders-1769031405753-4055",
       "name": "Omid Mogasemi",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Conductor",
-        "Founding Engineer",
-        "Developer Tools"
+        "AI agents",
+        "coding agents",
+        "founding engineer"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founding Engineer @ Conductor (conductor.build) - multi-agent coding orchestration",
+      "notes": "Founding engineer @ conductor.build",
       "checked": false
     },
     {
@@ -7726,5 +7726,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:18:24.989Z"
+  "last_updated": "2026-01-22T02:18:26.246Z"
 }
