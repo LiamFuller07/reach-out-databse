@@ -8213,7 +8213,24 @@
       "linkedin": "",
       "notes": "CEO @ Abacus.AI. Jan 2026: Announced raising $10B at $100B post-money valuation, minimum $100M wire. Multiple AI breakthroughs.",
       "checked": false
+    },
+    {
+      "id": "founders-1769057771190-5634",
+      "name": "Baseten",
+      "city": "SF",
+      "tags": [
+        "AI Inference",
+        "$5B valuation",
+        "Nvidia backed",
+        "IVP",
+        "CapitalG",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI inference startup. Jan 2026: Nvidia invested $150M, now valued at $5B. Round led by IVP and Alphabet's CapitalG. Dynamo Day sponsor. Phillip Kiely is Head of DevRel.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T04:56:10.110Z"
+  "last_updated": "2026-01-22T04:56:11.190Z"
 }
