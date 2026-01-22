@@ -8577,7 +8577,23 @@
       "linkedin": "",
       "notes": "AI safety researcher. Focus on AI alignment and safety research. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049087357-8859",
+      "name": "Carroll Wainwright",
+      "city": "",
+      "tags": [
+        "AI safety",
+        "alignment",
+        "OpenAI",
+        "Metaculus",
+        "forecasting"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Alignment researcher, ex-OpenAI, co-founder @Metaculus (forecasting platform). Focus on AI alignment research. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:31:26.166Z"
+  "last_updated": "2026-01-22T02:31:27.357Z"
 }
