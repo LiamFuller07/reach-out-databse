@@ -7938,7 +7938,23 @@
       "linkedin": "",
       "notes": "Product at Google Labs working on NotebookLM. EECS at UC Berkeley. Previously at Quiltlabs and Convex. NotebookLM is relevant for context/knowledge management.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049168225-5746",
+      "name": "Pawel Budzianowski",
+      "city": "",
+      "tags": [
+        "autonomous agents",
+        "embodied AI",
+        "founder",
+        "Lute",
+        "K-Scale Labs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building embodied AI at @Lutecompany. Previously co-founded @kscalelabs. Head of ML @polyaivoice. Cambridge PhD. Focus on embodied AI and robotics. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:42.376Z"
+  "last_updated": "2026-01-22T02:32:48.225Z"
 }
