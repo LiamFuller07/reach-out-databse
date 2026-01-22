@@ -7836,16 +7836,15 @@
       "name": "Luca Righetti",
       "city": "",
       "tags": [
-        "ai-safety",
-        "ai-evals",
-        "metr",
-        "govai",
-        "ai-governance",
-        "podcast"
+        "METR",
+        "GovAI",
+        "AI safety",
+        "AI governance",
+        "AI evaluations"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Senior Researcher at GovAI and METR. Focuses on AI risks, transparency, and rigor. Hosts \"Hear This Idea\" podcast.",
+      "notes": "AI risks are hard to study - we need more transparency and rigor. Senior Researcher at GovAI and METR. Podcast @HearThisIdea. METR team member.",
       "checked": false
     },
     {
@@ -8099,5 +8098,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:26.267Z"
+  "last_updated": "2026-01-22T02:27:27.494Z"
 }
