@@ -8832,7 +8832,22 @@
       "linkedin": "",
       "notes": "RL environments expert - co-wrote RL environment FAQ with @datagenproc from Epoch AI Research, interviewed 18 people from RL environment startups, neolabs, and frontier labs. Focus on AGI prep, startups, emotions & intuition",
       "checked": false
+    },
+    {
+      "id": "researchers-1769062406264-476",
+      "name": "jsd / JS Denain",
+      "city": "Berkeley",
+      "tags": [
+        "Epoch AI",
+        "RL Environments",
+        "Data Generation",
+        "AI Research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher @ Epoch AI Research, co-authored RL Environment FAQ with Chris Barber (interviewed 18 people from RL startups, neolabs, frontier labs), also @js_denain, Berkeley-based, deep connections to robotics/RL community",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:09:46.332Z"
+  "last_updated": "2026-01-22T06:13:26.264Z"
 }
