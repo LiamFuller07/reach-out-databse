@@ -8740,7 +8740,22 @@
       "linkedin": "",
       "notes": "Researcher on AI compute, data centers and U.S.-China competition. Focus on AI policy and compute. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049222322-5616",
+      "name": "Janet Egan",
+      "city": "",
+      "tags": [
+        "AI policy",
+        "national security",
+        "CNAS",
+        "compute"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI, Compute and National Security at CNAS. Focus on AI policy and national security. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:41.090Z"
+  "last_updated": "2026-01-22T02:33:42.322Z"
 }
