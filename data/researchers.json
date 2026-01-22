@@ -7984,7 +7984,22 @@
       "linkedin": "",
       "notes": "Risk assessment at METR. Working on loss-of-control risk assessment. Previously at Open Philanthropy. Writes at \"Planned Obsolescence\". Highly influential in AI safety/forecasting community.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048669180-6455",
+      "name": "David Rein",
+      "city": "",
+      "tags": [
+        "ai-evals",
+        "metr",
+        "time-horizon",
+        "benchmark"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher at METR. Working on time horizon methodology for AI capabilities. Key contributor to METR's evaluation framework.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:24:28.042Z"
+  "last_updated": "2026-01-22T02:24:29.180Z"
 }
