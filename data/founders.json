@@ -7455,15 +7455,15 @@
     {
       "id": "founders-1769031404375-9479",
       "name": "Jackson de Campos",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Conductor",
-        "AI Orchestration",
-        "Developer Tools"
+        "AI agents",
+        "coding agents",
+        "YC"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founder @ Conductor (conductor.build) - multi-agent coding orchestration for Mac",
+      "notes": "Founder @ conductor.build - 'Run a team of coding agents on your Mac'. 1,200 followers. Connected to YC network.",
       "checked": false
     },
     {
@@ -7727,5 +7727,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:58:20.053Z"
+  "last_updated": "2026-01-22T02:18:08.727Z"
 }
