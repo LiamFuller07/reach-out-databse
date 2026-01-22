@@ -8623,7 +8623,22 @@
       "linkedin": "",
       "notes": "Request for startups: seldonlab.com/rfs. @seldonai, @apartresearch, Juniper, ENAIS, AISA. Focus on AI safety research and incubation. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049091646-8417",
+      "name": "Trenton Bricken",
+      "city": "",
+      "tags": [
+        "AI safety",
+        "Anthropic",
+        "interpretability",
+        "researcher"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research at Anthropic - trying to figure out what makes minds and machines go 'Beep Bop!' Focus on interpretability and AI research. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:31:30.641Z"
+  "last_updated": "2026-01-22T02:31:31.646Z"
 }
