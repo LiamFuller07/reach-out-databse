@@ -8180,7 +8180,22 @@
       "linkedin": "",
       "notes": "Certifying and insuring AI agents at @AIUnderwriting. Previously Partner at McKinsey Insurance, COO at METR. METR team member.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048876585-5419",
+      "name": "Megan Kinniment",
+      "city": "",
+      "tags": [
+        "METR",
+        "AI safety",
+        "AI evaluations",
+        "AI agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "I like agents, human or otherwise. At METR. METR team member.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:54.991Z"
+  "last_updated": "2026-01-22T02:27:56.585Z"
 }
