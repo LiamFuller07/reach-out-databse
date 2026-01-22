@@ -8081,7 +8081,23 @@
       "linkedin": "",
       "notes": "Co-Founder of @QualiaRobotics. Unlocking action models. Philosophy of physics. Focus on robotics and embodied AI. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049211452-8212",
+      "name": "PlayerZero (Company)",
+      "city": "",
+      "tags": [
+        "context-graphs",
+        "production-engineering",
+        "sre",
+        "observability",
+        "enterprise-ai"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Mentioned in Jaya Gupta's context graphs article. Production engineering platform at intersection of SRE, support, QA, and dev. Builds a context graph - living model of how code, config, infrastructure, and customer behavior interact. Automates L2/L3 support.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:21.184Z"
+  "last_updated": "2026-01-22T02:33:31.452Z"
 }
