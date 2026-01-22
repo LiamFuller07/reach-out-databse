@@ -8532,7 +8532,23 @@
       "linkedin": "",
       "notes": "Co-founder @MechanizeWork - building RL environments to power the full automation of the economy. Focus on RL and autonomous systems. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049061943-5426",
+      "name": "Augustine Mavor-Parker",
+      "city": "",
+      "tags": [
+        "RL",
+        "autonomous agents",
+        "founder",
+        "VmaxAI",
+        "South Park Commons"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "RL for agents as co-founder of VmaxAI at South Park Commons. PhD at AI UCL. Focus on reinforcement learning for agents. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:31:00.837Z"
+  "last_updated": "2026-01-22T02:31:01.943Z"
 }
