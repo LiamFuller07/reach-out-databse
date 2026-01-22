@@ -8480,7 +8480,20 @@
       "linkedin": "",
       "notes": "Robotics neolab. Key people: @kvogt, @lukeholoubek, @pariljain (Paril Jain). On Chris Barber's list of robotics companies he's curious about.",
       "checked": false
+    },
+    {
+      "id": "founders-1769062461290-4657",
+      "name": "Orchard Robotics",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Neolab"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics neolab. Key person: @charliewu (Charlie Wu). On Chris Barber's list of robotics companies he's curious about.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:14:20.164Z"
+  "last_updated": "2026-01-22T06:14:21.290Z"
 }
