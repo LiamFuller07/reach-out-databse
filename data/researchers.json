@@ -7990,14 +7990,13 @@
       "name": "David Rein",
       "city": "",
       "tags": [
-        "ai-evals",
-        "metr",
-        "time-horizon",
-        "benchmark"
+        "METR",
+        "AI safety",
+        "AI evaluations"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Researcher at METR. Working on time horizon methodology for AI capabilities. Key contributor to METR's evaluation framework.",
+      "notes": "Science at METR. METR team member.",
       "checked": false
     },
     {
@@ -8098,5 +8097,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:27.494Z"
+  "last_updated": "2026-01-22T02:27:28.682Z"
 }
