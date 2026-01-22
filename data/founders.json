@@ -6081,18 +6081,16 @@
     {
       "id": "founders-1768992675673-9185",
       "name": "Nikhil Benesch",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Turbopuffer",
-        "CTO",
-        "Data Infrastructure",
-        "Vector DB",
-        "Systems Engineer",
-        "Jaya Network"
+        "vector-database",
+        "turbopuffer",
+        "cto",
+        "infrastructure"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "CTO @ Turbopuffer (data/vector database), systems engineer - Found via Jaya Gupta's following",
+      "notes": "CTO at Turbopuffer (vector database). Systems engineer. Followed by Jaya Gupta. Relevant for context/knowledge graph storage infrastructure.",
       "checked": false
     },
     {
@@ -8185,5 +8183,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:56.367Z"
+  "last_updated": "2026-01-22T02:33:57.967Z"
 }
