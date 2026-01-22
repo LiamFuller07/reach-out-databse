@@ -8816,7 +8816,23 @@
       "linkedin": "",
       "notes": "Character Lead @ Anthropic, key architect of Claude's constitution and values, PhD Philosophy, works on AI alignment and character training",
       "checked": false
+    },
+    {
+      "id": "researchers-1769062186332-7464",
+      "name": "Chris Barber",
+      "city": "San Diego",
+      "tags": [
+        "RL Environments",
+        "Epoch AI",
+        "Neolabs Expert",
+        "AGI Prep",
+        "Startup Advisor"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "RL environments expert - co-wrote RL environment FAQ with @datagenproc from Epoch AI Research, interviewed 18 people from RL environment startups, neolabs, and frontier labs. Focus on AGI prep, startups, emotions & intuition",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:09:09.309Z"
+  "last_updated": "2026-01-22T06:09:46.332Z"
 }
