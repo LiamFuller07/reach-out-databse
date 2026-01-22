@@ -8030,7 +8030,21 @@
       "linkedin": "",
       "notes": "Researcher at METR working on AI safety evaluations.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048685004-4885",
+      "name": "Joel Becker",
+      "city": "",
+      "tags": [
+        "ai-evals",
+        "metr",
+        "ai-capabilities"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Researcher at METR. Working on understanding AI capabilities development.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:24:43.410Z"
+  "last_updated": "2026-01-22T02:24:45.004Z"
 }
