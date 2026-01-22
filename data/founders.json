@@ -7879,7 +7879,22 @@
       "linkedin": "",
       "notes": "Building interactive world models. Previously @lovable_dev. High school dropout turned AI founder. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049146161-5425",
+      "name": "Julian Ibarz",
+      "city": "",
+      "tags": [
+        "autonomous agents",
+        "robotics",
+        "Tesla",
+        "Optimus"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "TeslaBot Optimus AI Lead. Focus on robotics and autonomous systems. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:24.608Z"
+  "last_updated": "2026-01-22T02:32:26.161Z"
 }
