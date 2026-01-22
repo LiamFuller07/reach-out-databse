@@ -7969,7 +7969,20 @@
       "linkedin": "",
       "notes": "Codex at OpenAI. Previously @alexcodes_ai. Focus on AI coding agents. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049171100-8903",
+      "name": "Rikard Radovac",
+      "city": "",
+      "tags": [
+        "researcher",
+        "Magic AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research at @magicailabs. Focus on AI research. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:49.398Z"
+  "last_updated": "2026-01-22T02:32:51.100Z"
 }
