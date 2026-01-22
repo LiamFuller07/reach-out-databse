@@ -7256,14 +7256,15 @@
       "name": "Tom Cunningham",
       "city": "",
       "tags": [
-        "ai-evals",
-        "metr",
+        "METR",
+        "AI safety",
+        "AI evaluations",
         "economics",
-        "openai-alumni"
+        "ex-OpenAI"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Economics & AI researcher at METR. Ex-OpenAI. Working on AI capabilities evaluation.",
+      "notes": "Economics & AI @ METR (ex-OpenAI). METR team member.",
       "checked": false
     },
     {
@@ -8099,5 +8100,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:23.937Z"
+  "last_updated": "2026-01-22T02:27:25.206Z"
 }
