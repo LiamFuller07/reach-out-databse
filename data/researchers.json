@@ -8241,7 +8241,22 @@
       "linkedin": "",
       "notes": "Research engineer @huggingface. Quantum Computing, DL, AI for Good. Followed by Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048895603-4218",
+      "name": "Ayush Thakur",
+      "city": "",
+      "tags": [
+        "mlops",
+        "wandb",
+        "ml-engineer",
+        "experiment-tracking"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Machine Learning Engineer @wandb (Weights & Biases). Major MLOps platform for tracking ML experiments and evals. Followed by Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:08.741Z"
+  "last_updated": "2026-01-22T02:28:15.603Z"
 }
