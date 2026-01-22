@@ -6121,14 +6121,14 @@
       "name": "Hamel Husain",
       "city": "",
       "tags": [
+        "evaluations",
         "AI evals",
-        "benchmarks",
-        "evals.info",
-        "evaluation infrastructure"
+        "LLM",
+        "data"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Evals expert - \"Evals evals evals\". Co-creator of evals.info. 42.4K followers. Made video to explain evals.",
+      "notes": "AI evaluations expert. Co-created evals.info with Shreya Shankar. 42.4K followers. Very active in the evals community. Pinned post: 'Made this video to explain evals'",
       "checked": false
     },
     {
@@ -7880,5 +7880,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-21T21:58:21.359Z"
+  "last_updated": "2026-01-22T02:18:06.294Z"
 }
