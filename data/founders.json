@@ -3579,12 +3579,15 @@
       "city": "SF",
       "tags": [
         "Design Arena",
-        "Prediction Bench",
-        "Harvard CS"
+        "Arcada Labs",
+        "YC S25",
+        "Harvard CS",
+        "prev Apple",
+        "CS50 TF"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ Design Arena & Prediction Bench | Harvard CS",
+      "notes": "CTO & Co-founder @ Arcada Labs (Design Arena), Harvard CS & Education, prev Apple, YC S25, Harvard CS50 Teaching Fellow",
       "checked": false
     },
     {
@@ -8279,5 +8282,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T05:03:58.314Z"
+  "last_updated": "2026-01-22T05:03:59.364Z"
 }
