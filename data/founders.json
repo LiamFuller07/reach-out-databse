@@ -8097,7 +8097,22 @@
       "linkedin": "",
       "notes": "Mentioned in Jaya Gupta's context graphs article. Production engineering platform at intersection of SRE, support, QA, and dev. Builds a context graph - living model of how code, config, infrastructure, and customer behavior interact. Automates L2/L3 support.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049213177-1357",
+      "name": "Arize AI (Company)",
+      "city": "",
+      "tags": [
+        "context-graphs",
+        "ml-observability",
+        "enterprise-ai",
+        "ai-observability"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Mentioned in Jaya Gupta's context graphs article. ML observability platform. Building context for AI models and their decisions.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:31.452Z"
+  "last_updated": "2026-01-22T02:33:33.177Z"
 }
