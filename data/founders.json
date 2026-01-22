@@ -8280,7 +8280,22 @@
       "linkedin": "",
       "notes": "Chief AI/ML & Co-founder @ Arcada Labs (Design Arena), Harvard CS & Statistics, prev Nvidia, YC S25",
       "checked": false
+    },
+    {
+      "id": "founders-1769058521942-9510",
+      "name": "Guillaume Verdon (Beff Jezos)",
+      "city": "SF",
+      "tags": [
+        "e/acc",
+        "Extropic",
+        "Quantum Computing",
+        "Physics PhD"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder of e/acc movement, CEO @ Extropic (thermodynamic computing), PhD Physics, prev Google X quantum computing, pseudonym 'Beff Jezos' for e/acc",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T05:03:59.364Z"
+  "last_updated": "2026-01-22T05:08:41.942Z"
 }
