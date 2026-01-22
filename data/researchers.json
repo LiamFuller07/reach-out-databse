@@ -7937,7 +7937,22 @@
       "linkedin": "",
       "notes": "Antislop engineering - education @ Anthropic. Works on AI quality/reliability.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048352480-8440",
+      "name": "Emmett Shear",
+      "city": "",
+      "tags": [
+        "AI",
+        "cybernetics",
+        "Twitch",
+        "Softmax"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO of Softmax: Applied developmental cybernetics research. Ex-Twitch CEO. Deep AI/ML focus.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:18:50.215Z"
+  "last_updated": "2026-01-22T02:19:12.480Z"
 }
