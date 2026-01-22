@@ -8334,7 +8334,24 @@
       "linkedin": "",
       "notes": "AI safety go brr! ML research at METR. Previously Stripe. METR team member.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048905105-7897",
+      "name": "Lawrence Chan",
+      "city": "",
+      "tags": [
+        "METR",
+        "AI safety",
+        "AI alignment",
+        "AI evaluations",
+        "UC Berkeley",
+        "CHAI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Alignment Research. Currently at METR on leave from PhD at UC Berkeley's CHAI. METR team member.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:23.749Z"
+  "last_updated": "2026-01-22T02:28:25.105Z"
 }
