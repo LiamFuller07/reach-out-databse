@@ -8256,7 +8256,22 @@
       "linkedin": "",
       "notes": "Machine Learning Engineer @wandb (Weights & Biases). Major MLOps platform for tracking ML experiments and evals. Followed by Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048896708-4869",
+      "name": "Hjalmar Wijk",
+      "city": "",
+      "tags": [
+        "METR",
+        "AI safety",
+        "AI evaluations",
+        "technical staff"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Member of Technical Staff @ METR. Trying to understand the transformative impacts of AI early enough. METR team member.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:15.603Z"
+  "last_updated": "2026-01-22T02:28:16.708Z"
 }
