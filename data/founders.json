@@ -4773,14 +4773,13 @@
       "name": "Wes Roth",
       "city": "SF",
       "tags": [
-        "AI Content",
+        "AI Commentary",
         "YouTube",
-        "Automation",
-        "AI Commentary"
+        "AI News"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "AI/Automation content creator, YouTube presence, AI commentary",
+      "notes": "Popular AI commentator on YouTube/X, covers AI news and developments",
       "checked": false
     },
     {
@@ -8341,5 +8340,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:02:18.729Z"
+  "last_updated": "2026-01-22T06:02:20.018Z"
 }
