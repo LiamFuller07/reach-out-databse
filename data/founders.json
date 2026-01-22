@@ -6115,17 +6115,16 @@
     {
       "id": "founders-1768992709680-3986",
       "name": "Emil Eifrem",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Neo4j",
-        "CEO",
-        "Graph Database",
-        "Context Graphs",
-        "Jaya Network"
+        "knowledge-graphs",
+        "graph-database",
+        "neo4j",
+        "enterprise-data"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founder & CEO of Neo4j - the leading graph database company, 'Graphs Are Everywhere' - Found via Jaya Gupta's following",
+      "notes": "Founder & CEO of Neo4j - the leading graph database company. \"Graphs Are Everywhere\" - key figure in knowledge graphs space. Followed by Jaya Gupta.",
       "checked": false
     },
     {
@@ -7856,5 +7855,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:06.595Z"
+  "last_updated": "2026-01-22T02:32:07.775Z"
 }
