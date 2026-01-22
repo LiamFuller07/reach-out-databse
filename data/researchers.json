@@ -8210,7 +8210,23 @@
       "linkedin": "",
       "notes": "Research organization investigating the trajectory of AI for the benefit of society. Major source of AI capability benchmarks and forecasting. Followed by Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048886231-8407",
+      "name": "Randy Olson",
+      "city": "",
+      "tags": [
+        "ai-evals",
+        "ai-quality",
+        "goodeyeLabs",
+        "ml-researcher",
+        "data-viz"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CTO @GoodeyeLabs. Building tools that put domain experts in control of AI quality. AI & ML researcher. Data viz aficionado. 15+ years building AI. Followed by Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:02.323Z"
+  "last_updated": "2026-01-22T02:28:06.231Z"
 }
