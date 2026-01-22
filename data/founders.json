@@ -8442,7 +8442,20 @@
       "linkedin": "",
       "notes": "Robotics neolab. Key people: @_kelsey_pool (Kelsey Pool), @apagajewski, @camfassett (Cam Fassett). On Chris Barber's list of robotics companies he's curious about.",
       "checked": false
+    },
+    {
+      "id": "founders-1769062441069-8847",
+      "name": "General Trajectory",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Neolab"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics neolab. Key person: @joshuabelofsky (Joshua Belofsky). On Chris Barber's list of robotics companies he's curious about.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:13:59.544Z"
+  "last_updated": "2026-01-22T06:14:01.069Z"
 }
