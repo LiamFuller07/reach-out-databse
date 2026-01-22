@@ -8131,7 +8131,22 @@
       "linkedin": "",
       "notes": "Works on evaluating Agents. Prev GSOC @JuliaLanguage @mitacscanada. GRI fellow. Verified follower of Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048860750-1915",
+      "name": "sankalp",
+      "city": "",
+      "tags": [
+        "ai-evals",
+        "llms",
+        "ai-engineering",
+        "post-training"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "LLMs and crafting AI product and evals. Open to talk on AI engineering/post-training. Followed by Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:39.121Z"
+  "last_updated": "2026-01-22T02:27:40.750Z"
 }
