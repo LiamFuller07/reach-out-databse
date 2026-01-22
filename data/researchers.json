@@ -3308,11 +3308,12 @@
         "LMSYS",
         "Large-scale RL",
         "Tsinghua",
-        "CMU"
+        "CMU",
+        "Speech-to-Speech"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founding Member @ Radix Ark, SGLang & Large-scale RL @ LMSYS, prev Tsinghua, CMU, UCLA, Amazon, ByteDance",
+      "notes": "Founding Member @ Radix Ark, SGLang & Large-scale RL @ LMSYS, prev Tsinghua, CMU, UCLA, Amazon, ByteDance. Posts about open research, speech-to-speech pipelines, sglang integration.",
       "checked": false
     },
     {
@@ -8770,5 +8771,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:43.639Z"
+  "last_updated": "2026-01-22T04:54:14.041Z"
 }
