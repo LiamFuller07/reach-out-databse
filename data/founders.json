@@ -6849,17 +6849,15 @@
     {
       "id": "founders-1769017331258-4487",
       "name": "Kabir Nagrecha",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Tessera Labs",
-        "CEO",
-        "PhD UCSD",
-        "Context Graphs",
-        "Enterprise AI"
+        "tessera-labs",
+        "ai-startup",
+        "ucsd-phd"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "CEO & co-founder @ Tessera Labs, PhD UCSD, working with Foundation Capital/Jaya Gupta on context graphs for enterprise, viral thread on enterprise AI value locked behind tribal knowledge",
+      "notes": "CEO & co-founder of Tessera Labs. PhD from UCSD. Verified follower of Hamel Husain.",
       "checked": false
     },
     {
@@ -7769,5 +7767,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:29:05.877Z"
+  "last_updated": "2026-01-22T02:29:07.190Z"
 }
