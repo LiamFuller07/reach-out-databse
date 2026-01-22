@@ -8414,7 +8414,22 @@
       "linkedin": "",
       "notes": "Creator of Pencil - INFINITE DESIGN CANVAS for Claude Code - superfast WebGL canvas, fully editable, running parallel design agents",
       "checked": false
+    },
+    {
+      "id": "founders-1769062438429-6446",
+      "name": "Physical Intelligence (Pi)",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Neolab",
+        "Foundation Models",
+        "RL"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics neolab building foundation models for robots. Key people: @hausman_k (Karol Hausman), @svlevine (Sergey Levine), @chelseabfinn (Chelsea Finn), @brian_ichter, @lachygroom (Lachy Groom), @adnan_esm, @QuanVng. Mentioned by Chris Barber as robotics company he's curious about.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:09:08.206Z"
+  "last_updated": "2026-01-22T06:13:58.429Z"
 }
