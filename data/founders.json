@@ -7864,7 +7864,22 @@
       "linkedin": "",
       "notes": "Founder of SID_AI. CS at ETH Zurich, Econ at HSG St. Gallen. Focus on AI. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049144608-814",
+      "name": "Elliot Norrevik",
+      "city": "",
+      "tags": [
+        "autonomous agents",
+        "world models",
+        "founder",
+        "Lovable"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building interactive world models. Previously @lovable_dev. High school dropout turned AI founder. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:21.932Z"
+  "last_updated": "2026-01-22T02:32:24.608Z"
 }
