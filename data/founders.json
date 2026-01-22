@@ -8338,7 +8338,23 @@
       "linkedin": "",
       "notes": "AI news/search account, reports on new AI releases and models",
       "checked": false
+    },
+    {
+      "id": "founders-1769062027823-9622",
+      "name": "Logical Intelligence",
+      "city": "SF",
+      "tags": [
+        "Neolab",
+        "AGI",
+        "Reasoning",
+        "Energy-Based Models",
+        "Agentic AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI reasoning/orchestration startup - \"building fundamentally new tools for reasoning and orchestration that we believe will be essential parts of the AGI ecosystem\" - working on Energy-Based Models for Reasoning, LLMs for the Interface, Scaling Reasoning with Agentic AI",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:02:20.018Z"
+  "last_updated": "2026-01-22T06:07:07.823Z"
 }
