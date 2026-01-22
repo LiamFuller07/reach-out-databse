@@ -8785,7 +8785,22 @@
       "linkedin": "",
       "notes": "Core Developer @ SGLang. Speaker at Dynamo Day 2026 (AI inference at scale conference).",
       "checked": false
+    },
+    {
+      "id": "researchers-1769057657714-6315",
+      "name": "Enrico Ros",
+      "city": "SF",
+      "tags": [
+        "big-AGI",
+        "Open Source",
+        "OpenAI API",
+        "Model Discovery"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Creator of big-AGI. First to spot OpenAI 'osb-120b' model in API (Jan 2026). Open source AI developer.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T04:54:16.652Z"
+  "last_updated": "2026-01-22T04:54:17.714Z"
 }
