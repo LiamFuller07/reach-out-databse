@@ -6175,16 +6175,14 @@
     {
       "id": "founders-1768992799493-2272",
       "name": "Louis Blankemeier",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Cognita",
-        "CEO",
-        "AI",
-        "Jaya Network"
+        "ai",
+        "cognita"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-Founder & CEO @ Cognita - Found via Jaya Gupta's following",
+      "notes": "Co-Founder & CEO of Cognita. AI company. Followed by Jaya Gupta.",
       "checked": false
     },
     {
@@ -8012,5 +8010,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:05.508Z"
+  "last_updated": "2026-01-22T02:33:07.254Z"
 }
