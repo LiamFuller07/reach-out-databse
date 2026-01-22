@@ -7907,7 +7907,22 @@
       "linkedin": "",
       "notes": "Wrote follow-up thread on context graphs with Jaya Gupta clarifying that context graphs aren't just graph databases or structured memory. Key voice in the context graphs discussion.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049158092-7567",
+      "name": "Jeff Huber",
+      "city": "",
+      "tags": [
+        "context-layer",
+        "context-graphs",
+        "enterprise-ai",
+        "ai-agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building 'The Context Layer' - discussing how AI impacts organizations. Engaged with Jaya's context graphs article asking to call it 'the context layer'. Directly working on context for AI.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:36.576Z"
+  "last_updated": "2026-01-22T02:32:38.092Z"
 }
