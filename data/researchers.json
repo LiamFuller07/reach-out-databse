@@ -7976,15 +7976,14 @@
       "name": "Ajeya Cotra",
       "city": "",
       "tags": [
-        "ai-safety",
-        "ai-evals",
-        "metr",
-        "loss-of-control",
-        "risk-assessment"
+        "METR",
+        "AI safety",
+        "AI risk assessment",
+        "AI evaluations"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Risk assessment at METR. Working on loss-of-control risk assessment. Previously at Open Philanthropy. Writes at \"Planned Obsolescence\". Highly influential in AI safety/forecasting community.",
+      "notes": "Helping the world prepare for extremely powerful AI. Risk assessment at METR. Writing at Planned Obsolescence. METR team member.",
       "checked": false
     },
     {
@@ -8100,5 +8099,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:25.206Z"
+  "last_updated": "2026-01-22T02:27:26.267Z"
 }
