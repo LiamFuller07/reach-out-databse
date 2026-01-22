@@ -8195,7 +8195,22 @@
       "linkedin": "",
       "notes": "I like agents, human or otherwise. At METR. METR team member.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048882323-6410",
+      "name": "Epoch AI",
+      "city": "",
+      "tags": [
+        "ai-evals",
+        "ai-forecasting",
+        "ai-benchmarks",
+        "research-org"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research organization investigating the trajectory of AI for the benefit of society. Major source of AI capability benchmarks and forecasting. Followed by Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:56.585Z"
+  "last_updated": "2026-01-22T02:28:02.323Z"
 }
