@@ -8149,7 +8149,22 @@
       "linkedin": "",
       "notes": "LLMs and crafting AI product and evals. Open to talk on AI engineering/post-training. Followed by Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048873440-1623",
+      "name": "Charles Foster",
+      "city": "",
+      "tags": [
+        "METR",
+        "AI safety",
+        "AI evaluations",
+        "ML research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Excels at reasoning & tool use. Tensor-enjoyer. At METR. METR team member.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:51.762Z"
+  "last_updated": "2026-01-22T02:27:53.440Z"
 }
