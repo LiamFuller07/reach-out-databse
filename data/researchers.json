@@ -8593,7 +8593,22 @@
       "linkedin": "",
       "notes": "Alignment researcher, ex-OpenAI, co-founder @Metaculus (forecasting platform). Focus on AI alignment research. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049088592-8129",
+      "name": "Ethan Elasky",
+      "city": "",
+      "tags": [
+        "AI safety",
+        "alignment",
+        "AI control",
+        "Open Philanthropy"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research supported by Coefficient Giving (Open Philanthropy) on AI debate, control, and alignment. Previous: NLP Lab @ Academia Sinica, @Cal. Focus on AI safety. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:31:27.357Z"
+  "last_updated": "2026-01-22T02:31:28.592Z"
 }
