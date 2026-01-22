@@ -8287,7 +8287,21 @@
       "linkedin": "",
       "notes": "Head of policy at METR. Evals accelerationist, working hard on AGI preparedness. METR team member.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048900523-5077",
+      "name": "Amy Deng",
+      "city": "",
+      "tags": [
+        "METR",
+        "AI safety",
+        "AI evaluations"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Working on evals at METR. METR team member.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:18.869Z"
+  "last_updated": "2026-01-22T02:28:20.523Z"
 }
