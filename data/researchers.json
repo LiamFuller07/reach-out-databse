@@ -8084,7 +8084,21 @@
       "linkedin": "",
       "notes": "Former diplomat, currently at METR. Brings policy/governance perspective to AI evals.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048703804-9253",
+      "name": "Jide Alaga",
+      "city": "",
+      "tags": [
+        "ai-governance",
+        "deepmind",
+        "ai-policy"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Governance at Google DeepMind. Connected to METR network.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:25:02.640Z"
+  "last_updated": "2026-01-22T02:25:03.804Z"
 }
