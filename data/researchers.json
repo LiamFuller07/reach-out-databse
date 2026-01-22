@@ -8847,7 +8847,22 @@
       "linkedin": "",
       "notes": "Researcher @ Epoch AI Research, co-authored RL Environment FAQ with Chris Barber (interviewed 18 people from RL startups, neolabs, frontier labs), also @js_denain, Berkeley-based, deep connections to robotics/RL community",
       "checked": false
+    },
+    {
+      "id": "researchers-1769062407617-2904",
+      "name": "Epoch AI Research",
+      "city": "Berkeley",
+      "tags": [
+        "AI Research",
+        "RL Environments",
+        "AI Forecasting",
+        "Compute Trends"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI research organization - \"Investigating the trajectory of AI for the benefit of society\" - publishes Gradient Updates on RL environments, compute trends, AI forecasting. Key researchers: jsd (@datagenproc), collaborates with Chris Barber",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:13:26.264Z"
+  "last_updated": "2026-01-22T06:13:27.617Z"
 }
