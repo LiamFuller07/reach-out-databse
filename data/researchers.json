@@ -7892,7 +7892,22 @@
       "linkedin": "",
       "notes": "CEO @succinctlabs - making zk accessible to any developer. Previously @MIT, Google Brain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048308994-24",
+      "name": "Gwern",
+      "city": "",
+      "tags": [
+        "AI research",
+        "ML",
+        "data analysis",
+        "blogger"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Famous AI researcher and blogger. Deep dives into ML, AI, data analysis. Highly influential in AI community.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:18:27.752Z"
+  "last_updated": "2026-01-22T02:18:28.994Z"
 }
