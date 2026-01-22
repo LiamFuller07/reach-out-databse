@@ -8354,7 +8354,22 @@
       "linkedin": "",
       "notes": "AI reasoning/orchestration startup - \"building fundamentally new tools for reasoning and orchestration that we believe will be essential parts of the AGI ecosystem\" - working on Energy-Based Models for Reasoning, LLMs for the Interface, Scaling Reasoning with Agentic AI",
       "checked": false
+    },
+    {
+      "id": "founders-1769062028823-3396",
+      "name": "21st.dev / serafim",
+      "city": "SF",
+      "tags": [
+        "Neolab",
+        "Developer Tools",
+        "1Code",
+        "Claude Code Alternative"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building 1Code - \"Claude Code, but on your terms\" - AI coding assistant with full shortcut customization, competing with Claude Code and Cursor",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:07:07.823Z"
+  "last_updated": "2026-01-22T06:07:08.823Z"
 }
