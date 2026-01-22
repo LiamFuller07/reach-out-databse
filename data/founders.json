@@ -8454,7 +8454,20 @@
       "linkedin": "",
       "notes": "Robotics neolab. Key person: @joshuabelofsky (Joshua Belofsky). On Chris Barber's list of robotics companies he's curious about.",
       "checked": false
+    },
+    {
+      "id": "founders-1769062459044-5908",
+      "name": "Armstrong Robotics",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Neolab"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics neolab. Key person: @luk3hans3n. On Chris Barber's list of robotics companies he's curious about.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:14:02.401Z"
+  "last_updated": "2026-01-22T06:14:19.044Z"
 }
