@@ -8769,7 +8769,23 @@
       "linkedin": "",
       "notes": "Make things radically good at Anthropic. Focus on AI research. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769057656652-9528",
+      "name": "Baizhou Zhang",
+      "city": "SF",
+      "tags": [
+        "SGLang",
+        "Core Developer",
+        "Dynamo Day",
+        "Inference",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Core Developer @ SGLang. Speaker at Dynamo Day 2026 (AI inference at scale conference).",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T04:54:14.041Z"
+  "last_updated": "2026-01-22T04:54:16.652Z"
 }
