@@ -8425,7 +8425,22 @@
       "linkedin": "",
       "notes": "At METR. METR team member working on AI evaluations.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048924623-9909",
+      "name": "Belinda Mo",
+      "city": "Stanford, CA",
+      "tags": [
+        "stanford",
+        "agents",
+        "knowledge-graphs",
+        "kggen"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Grad student @stanford @stai_research. Maintaining KGGen, interested in agents for science and knowledge graphs for agentic memory. Followed by Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:44.188Z"
+  "last_updated": "2026-01-22T02:28:44.623Z"
 }
