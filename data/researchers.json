@@ -8057,7 +8057,20 @@
       "linkedin": "",
       "notes": "Member of technical staff at METR.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048701293-8155",
+      "name": "Nikola Jurkovic",
+      "city": "",
+      "tags": [
+        "ai-safety",
+        "ai-evals"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI safety researcher. Connected to METR network.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:24:46.388Z"
+  "last_updated": "2026-01-22T02:25:01.293Z"
 }
