@@ -8562,7 +8562,21 @@
       "linkedin": "",
       "notes": "Sandbox/access control tool for Claude Code. On Chris Barber's list of tools that pair well with Claude Code.",
       "checked": false
+    },
+    {
+      "id": "founders-1769062484979-7561",
+      "name": "Specstory",
+      "city": "SF",
+      "tags": [
+        "Claude Code Tool",
+        "Context Management",
+        "Developer Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Save threads as context for Claude Code. On Chris Barber's list of tools that pair well with Claude Code.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:14:43.921Z"
+  "last_updated": "2026-01-22T06:14:44.979Z"
 }
