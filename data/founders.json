@@ -7954,7 +7954,22 @@
       "linkedin": "",
       "notes": "Building embodied AI at @Lutecompany. Previously co-founded @kscalelabs. Head of ML @polyaivoice. Cambridge PhD. Focus on embodied AI and robotics. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049169398-5977",
+      "name": "Daniel Edrisian",
+      "city": "",
+      "tags": [
+        "autonomous agents",
+        "AI coding",
+        "OpenAI",
+        "Codex"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Codex at OpenAI. Previously @alexcodes_ai. Focus on AI coding agents. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:48.225Z"
+  "last_updated": "2026-01-22T02:32:49.398Z"
 }
