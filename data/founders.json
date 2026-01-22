@@ -6191,16 +6191,15 @@
     {
       "id": "founders-1768992835091-3204",
       "name": "Shensi Ding",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Merge API",
-        "Co-founder",
-        "Data Integration",
-        "Jaya Network"
+        "enterprise-data",
+        "api-integration",
+        "merge-api"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ Merge API (unified API for integrations) - Found via Jaya Gupta's following",
+      "notes": "Co-founder of Merge API - unified API for integrations. Relevant for enterprise data integration which connects to context graphs thesis. Followed by Jaya Gupta.",
       "checked": false
     },
     {
@@ -8014,5 +8013,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:02.194Z"
+  "last_updated": "2026-01-22T02:33:03.786Z"
 }
