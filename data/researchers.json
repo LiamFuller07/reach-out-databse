@@ -8459,7 +8459,20 @@
       "linkedin": "",
       "notes": "CEO & co-founder of FAR AI Research nonprofit. PhD from Berkeley AI. Works on alignment & robustness. In METR network.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048930001-1310",
+      "name": "Thomas Broadley",
+      "city": "",
+      "tags": [
+        "METR network",
+        "AI safety"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "In METR network. Followed by METR.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:48.782Z"
+  "last_updated": "2026-01-22T02:28:50.001Z"
 }
