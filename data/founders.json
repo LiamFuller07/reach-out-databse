@@ -6160,16 +6160,15 @@
     {
       "id": "founders-1768992784393-7910",
       "name": "Zhihong Chen",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Cognita",
-        "CTO",
-        "AI",
-        "Jaya Network"
+        "ai",
+        "cognita",
+        "cto"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-Founder & CTO @ Cognita - Found via Jaya Gupta's following",
+      "notes": "Co-Founder & CTO of Cognita. AI company. Followed by Jaya Gupta.",
       "checked": false
     },
     {
@@ -8010,5 +8009,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:07.254Z"
+  "last_updated": "2026-01-22T02:33:08.855Z"
 }
