@@ -8367,7 +8367,21 @@
       "linkedin": "",
       "notes": "CS prof at Penn. Amazon Scholar at AWS. Author of The Ethical Algorithm (w/ Michael Kearns). Studies machine learning, privacy, game theory, and uncertainty. Followed by Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048920721-5242",
+      "name": "elie bakouch",
+      "city": "",
+      "tags": [
+        "huggingface",
+        "llm-training",
+        "ml-research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Training LLMs at @huggingface. Anon feedback: admonymous.co/eliebakouch. Followed by Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:38.564Z"
+  "last_updated": "2026-01-22T02:28:40.721Z"
 }
