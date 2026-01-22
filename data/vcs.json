@@ -400,16 +400,17 @@
     {
       "id": "vcs-1769028976775-1145",
       "name": "Ashu Garg",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Foundation Capital",
-        "Partner",
-        "Context Graphs",
-        "Enterprise AI"
+        "context-graphs",
+        "enterprise-ai",
+        "foundation-capital",
+        "vc",
+        "knowledge-graphs"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Partner @ Foundation Capital, co-author of 'AI's trillion-dollar opportunity: Context graphs' article with Jaya Gupta, appeared on The Information TITV",
+      "notes": "General Partner at Foundation Capital. Co-authored the viral \"Context Graphs\" article with Jaya Gupta. Enterprise AI/data infrastructure investor.",
       "checked": false
     },
     {
@@ -511,5 +512,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:04.231Z"
+  "last_updated": "2026-01-22T02:32:05.315Z"
 }
