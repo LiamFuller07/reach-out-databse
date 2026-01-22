@@ -8398,7 +8398,23 @@
       "linkedin": "",
       "notes": "AI media agent startup - built \"vangogh\" media agent that picks tools automatically based on requests, integrates with Remotion for video creation",
       "checked": false
+    },
+    {
+      "id": "founders-1769062148206-6931",
+      "name": "Tom Krcha / Pencil",
+      "city": "SF",
+      "tags": [
+        "Neolab",
+        "Design Tools",
+        "Claude Code",
+        "WebGL",
+        "AI Design"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Creator of Pencil - INFINITE DESIGN CANVAS for Claude Code - superfast WebGL canvas, fully editable, running parallel design agents",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:09:07.032Z"
+  "last_updated": "2026-01-22T06:09:08.206Z"
 }
