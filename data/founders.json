@@ -8295,7 +8295,21 @@
       "linkedin": "",
       "notes": "Founder of e/acc movement, CEO @ Extropic (thermodynamic computing), PhD Physics, prev Google X quantum computing, pseudonym 'Beff Jezos' for e/acc",
       "checked": false
+    },
+    {
+      "id": "founders-1769058640641-601",
+      "name": "Deep-ML",
+      "city": "SF",
+      "tags": [
+        "ML Education",
+        "Interactive ML",
+        "Deep Learning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML education platform with interactive playgrounds for ML papers and concepts",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T05:08:41.942Z"
+  "last_updated": "2026-01-22T05:10:40.641Z"
 }
