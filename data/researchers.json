@@ -7923,7 +7923,21 @@
       "linkedin": "",
       "notes": "Co-Founder & CEO at Inspector (YC F25). Previously @character_ai @Berkeley_EECS @cmuhcii. AI agent evaluation focus.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048330215-4710",
+      "name": "pedram.md",
+      "city": "",
+      "tags": [
+        "Anthropic",
+        "education",
+        "AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Antislop engineering - education @ Anthropic. Works on AI quality/reliability.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:18:49.022Z"
+  "last_updated": "2026-01-22T02:18:50.215Z"
 }
