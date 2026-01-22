@@ -8519,7 +8519,21 @@
       "linkedin": "",
       "notes": "Robotics neolab. Key people: @ekindogus, @LiamFedus (Liam Fedus). On Chris Barber's list of robotics companies.",
       "checked": false
+    },
+    {
+      "id": "founders-1769062481298-9103",
+      "name": "packnplay (Jesse Vincent)",
+      "city": "SF",
+      "tags": [
+        "Claude Code Tool",
+        "Developer Tools",
+        "Orbstack"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Claude Code ecosystem tool by Jesse Vincent, pairs with Orbstack. On Chris Barber's list of tools that pair well with Claude Code.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:14:23.567Z"
+  "last_updated": "2026-01-22T06:14:41.298Z"
 }
