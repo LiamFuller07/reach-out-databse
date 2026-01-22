@@ -8369,7 +8369,21 @@
       "linkedin": "",
       "notes": "Building 1Code - \"Claude Code, but on your terms\" - AI coding assistant with full shortcut customization, competing with Claude Code and Cursor",
       "checked": false
+    },
+    {
+      "id": "founders-1769062029813-3455",
+      "name": "ManusAI",
+      "city": "SF",
+      "tags": [
+        "Neolab",
+        "AI Agents",
+        "Agentic AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI agent company - building general-purpose AI agents, actively shipping products, demoed at community events and webinars",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:07:08.823Z"
+  "last_updated": "2026-01-22T06:07:09.813Z"
 }
