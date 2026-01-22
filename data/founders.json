@@ -8245,7 +8245,23 @@
       "linkedin": "",
       "notes": "AI API aggregator/router. Provides unified API access to multiple LLM providers. Tracks model usage stats across providers.",
       "checked": false
+    },
+    {
+      "id": "founders-1769058237225-2150",
+      "name": "Grace Li",
+      "city": "SF",
+      "tags": [
+        "Design Arena",
+        "Arcada Labs",
+        "YC S25",
+        "Harvard CS",
+        "prev Apple"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO & Co-founder @ Arcada Labs (Design Arena), Harvard CS & Neuroscience, prev Apple, YC S25, 1M+ users on Design Arena benchmark platform",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T04:56:12.263Z"
+  "last_updated": "2026-01-22T05:03:57.225Z"
 }
