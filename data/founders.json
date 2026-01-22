@@ -7765,7 +7765,21 @@
       "linkedin": "",
       "notes": "Co-Founder & CEO at @GoodeyeLabs (AI quality tools with Randy Olson). Ex-Meta, Ex-AI Director @ AE Studio. Followed by Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "founders-1769048948522-7203",
+      "name": "Jeffrey Emanuel",
+      "city": "",
+      "tags": [
+        "agent-tooling",
+        "open-source",
+        "quant"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Former Quant Investor. Open Source Projects on GitHub. Built agent-flywheel.com - collection of agent coding tooling. Followed by Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:29:07.190Z"
+  "last_updated": "2026-01-22T02:29:08.522Z"
 }
