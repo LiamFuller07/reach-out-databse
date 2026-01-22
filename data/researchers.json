@@ -8755,7 +8755,20 @@
       "linkedin": "",
       "notes": "AI, Compute and National Security at CNAS. Focus on AI policy and national security. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049223639-504",
+      "name": "Logan Graham",
+      "city": "",
+      "tags": [
+        "researcher",
+        "Anthropic"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Make things radically good at Anthropic. Focus on AI research. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:42.322Z"
+  "last_updated": "2026-01-22T02:33:43.639Z"
 }
