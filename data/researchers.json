@@ -8667,7 +8667,20 @@
       "linkedin": "",
       "notes": "Research scientist at OpenAI. Focus on AI research. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049117601-40",
+      "name": "Tejal Patwardhan",
+      "city": "",
+      "tags": [
+        "researcher",
+        "OpenAI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research at OpenAI. 'Pain is the moat.' Focus on AI research. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:31:55.892Z"
+  "last_updated": "2026-01-22T02:31:57.601Z"
 }
