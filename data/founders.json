@@ -7850,7 +7850,21 @@
       "linkedin": "",
       "notes": "Creator of BabyAGI. Building graph-based AI agents connecting Knowledge, Logs, and Code. Engaged with context graphs article - working on similar concepts with knowledge graph + log graph architecture.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049141932-835",
+      "name": "Lotte Seifert",
+      "city": "",
+      "tags": [
+        "founder",
+        "SID AI",
+        "ETH Zurich"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder of SID_AI. CS at ETH Zurich, Econ at HSG St. Gallen. Focus on AI. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:09.275Z"
+  "last_updated": "2026-01-22T02:32:21.932Z"
 }
