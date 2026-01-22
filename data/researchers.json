@@ -8608,7 +8608,22 @@
       "linkedin": "",
       "notes": "Research supported by Coefficient Giving (Open Philanthropy) on AI debate, control, and alignment. Previous: NLP Lab @ Academia Sinica, @Cal. Focus on AI safety. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049090641-1802",
+      "name": "Esben Kran",
+      "city": "",
+      "tags": [
+        "AI safety",
+        "apart research",
+        "seldon",
+        "incubator"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Request for startups: seldonlab.com/rfs. @seldonai, @apartresearch, Juniper, ENAIS, AISA. Focus on AI safety research and incubation. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:31:28.592Z"
+  "last_updated": "2026-01-22T02:31:30.641Z"
 }
