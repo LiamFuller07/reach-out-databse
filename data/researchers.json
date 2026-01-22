@@ -7907,7 +7907,23 @@
       "linkedin": "",
       "notes": "Famous AI researcher and blogger. Deep dives into ML, AI, data analysis. Highly influential in AI community.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048329022-2758",
+      "name": "Quentin Romero Lauro",
+      "city": "",
+      "tags": [
+        "AI agents",
+        "evaluations",
+        "Character AI",
+        "Berkeley",
+        "CMU"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CEO at Inspector (YC F25). Previously @character_ai @Berkeley_EECS @cmuhcii. AI agent evaluation focus.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:18:28.994Z"
+  "last_updated": "2026-01-22T02:18:49.022Z"
 }
