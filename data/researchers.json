@@ -8654,7 +8654,20 @@
       "linkedin": "",
       "notes": "Research Scientist, TLM at Google DeepMind. Gemini & Robotics. PhD from Stanford AI Lab @StanfordSVL, previously @Tsinghua_Uni. Focus on AGI through Embodiment. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049115892-3240",
+      "name": "Aidan McLaughlin",
+      "city": "",
+      "tags": [
+        "researcher",
+        "OpenAI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research scientist at OpenAI. Focus on AI research. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:31:53.192Z"
+  "last_updated": "2026-01-22T02:31:55.892Z"
 }
