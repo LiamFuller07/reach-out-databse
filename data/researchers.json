@@ -8064,12 +8064,13 @@
       "name": "Nikola Jurkovic",
       "city": "",
       "tags": [
-        "ai-safety",
-        "ai-evals"
+        "AI safety",
+        "AI evaluations",
+        "METR network"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "AI safety researcher. Connected to METR network.",
+      "notes": "AI safety researcher. In METR network.",
       "checked": false
     },
     {
@@ -8442,5 +8443,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:44.623Z"
+  "last_updated": "2026-01-22T02:28:45.274Z"
 }
