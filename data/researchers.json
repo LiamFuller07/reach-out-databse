@@ -8517,7 +8517,22 @@
       "linkedin": "",
       "notes": "OpenAI co-founder, recently started @thinkymachines. Interested in reinforcement learning, alignment. Key figure in RL research (PPO, RLHF). Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049060837-4225",
+      "name": "Tamay Besiroglu",
+      "city": "",
+      "tags": [
+        "RL",
+        "autonomous agents",
+        "founder",
+        "Mechanize"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @MechanizeWork - building RL environments to power the full automation of the economy. Focus on RL and autonomous systems. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:30:59.610Z"
+  "last_updated": "2026-01-22T02:31:00.837Z"
 }
