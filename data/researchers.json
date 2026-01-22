@@ -8411,7 +8411,21 @@
       "linkedin": "",
       "notes": "ML perf & inference scaling @ cool AI lab. Fast vs Slow Thinking research. Verified follower of Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048924188-9963",
+      "name": "Elizabeth Barnes",
+      "city": "",
+      "tags": [
+        "METR",
+        "AI safety",
+        "AI evaluations"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "At METR. METR team member working on AI evaluations.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:43.053Z"
+  "last_updated": "2026-01-22T02:28:44.188Z"
 }
