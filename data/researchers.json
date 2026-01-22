@@ -7999,7 +7999,23 @@
       "linkedin": "",
       "notes": "Researcher at METR. Working on time horizon methodology for AI capabilities. Key contributor to METR's evaluation framework.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048670285-5747",
+      "name": "Daniel Filan",
+      "city": "",
+      "tags": [
+        "ai-safety",
+        "ai-evals",
+        "metr",
+        "loss-of-control",
+        "axrp-podcast"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Works at METR on loss-of-control risk assessment. Hosts AXRP (AI X-Risk Research Podcast). AI alignment researcher.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:24:29.180Z"
+  "last_updated": "2026-01-22T02:24:30.285Z"
 }
