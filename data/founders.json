@@ -8383,7 +8383,22 @@
       "linkedin": "",
       "notes": "AI agent company - building general-purpose AI agents, actively shipping products, demoed at community events and webinars",
       "checked": false
+    },
+    {
+      "id": "founders-1769062147032-4346",
+      "name": "mitte.ai",
+      "city": "SF",
+      "tags": [
+        "Neolab",
+        "AI Media",
+        "Video Generation",
+        "Agentic AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI media agent startup - built \"vangogh\" media agent that picks tools automatically based on requests, integrates with Remotion for video creation",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:07:09.813Z"
+  "last_updated": "2026-01-22T06:09:07.032Z"
 }
