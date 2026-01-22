@@ -8126,7 +8126,22 @@
       "linkedin": "",
       "notes": "Mentioned in Jaya Gupta's context graphs article. Becomes source of truth where reconciliation logic lives. Enterprise data/context graph company.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049216114-7052",
+      "name": "Klemen Kotar",
+      "city": "",
+      "tags": [
+        "ai-research",
+        "stanford",
+        "world-models",
+        "allen-ai"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CS PhD Candidate at Stanford building large world models. Previously at Allen AI. Followed by Jaya Gupta - relevant for AI research.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:34.505Z"
+  "last_updated": "2026-01-22T02:33:36.114Z"
 }
