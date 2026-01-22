@@ -8261,7 +8261,23 @@
       "linkedin": "",
       "notes": "CEO & Co-founder @ Arcada Labs (Design Arena), Harvard CS & Neuroscience, prev Apple, YC S25, 1M+ users on Design Arena benchmark platform",
       "checked": false
+    },
+    {
+      "id": "founders-1769058238314-1413",
+      "name": "Jayden Personnat",
+      "city": "SF",
+      "tags": [
+        "Design Arena",
+        "Arcada Labs",
+        "YC S25",
+        "Harvard CS",
+        "prev Nvidia"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Chief AI/ML & Co-founder @ Arcada Labs (Design Arena), Harvard CS & Statistics, prev Nvidia, YC S25",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T05:03:57.225Z"
+  "last_updated": "2026-01-22T05:03:58.314Z"
 }
