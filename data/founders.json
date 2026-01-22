@@ -6051,17 +6051,16 @@
     {
       "id": "founders-1768992638828-7456",
       "name": "Vivek Mohta",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Manifold.ai",
-        "MIT Physics",
-        "Harvard Math",
-        "AI",
-        "Jaya Network"
+        "enterprise-ai",
+        "manifold-ai",
+        "mit",
+        "harvard"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-Founder @ Manifold.ai, Previously MIT Physics, Harvard Math - Found via Jaya Gupta's following",
+      "notes": "Co-Founder at Manifold AI. Previously MIT Physics and Harvard Math. Followed by Jaya Gupta - in enterprise AI space.",
       "checked": false
     },
     {
@@ -8013,5 +8012,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:03.786Z"
+  "last_updated": "2026-01-22T02:33:05.508Z"
 }
