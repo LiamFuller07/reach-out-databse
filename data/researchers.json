@@ -2949,18 +2949,18 @@
     {
       "id": "researchers-1768986696674-4701",
       "name": "Yoshua Bengio",
-      "city": "Montreal",
+      "city": "",
       "tags": [
-        "TURING AWARD",
-        "MILA",
-        "UMontreal",
-        "Deep Learning Pioneer",
-        "AI Safety",
-        "Most-Cited AI"
+        "AI safety",
+        "Turing Award",
+        "Mila",
+        "University of Montreal",
+        "deep learning",
+        "METR network"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "A.M. Turing Award Recipient (2018, with Hinton & LeCun), most-cited AI researcher, Scientific Director @ MILA Quebec, Prof @ UMontreal, co-founder @ LawZero, Godfather of Deep Learning, AI safety advocate",
+      "notes": "Working towards the safe development of AI for the benefit of all. University of Montreal, LawZero, Mila Quebec. A.M. Turing Award Recipient and most-cited AI researcher. In METR network.",
       "checked": false
     },
     {
@@ -8460,5 +8460,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:46.444Z"
+  "last_updated": "2026-01-22T02:28:47.611Z"
 }
