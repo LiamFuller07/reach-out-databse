@@ -8318,7 +8318,23 @@
       "linkedin": "",
       "notes": "AI policy at METR and AI Governance Institute Oxford. Previously Stripe. METR team member.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048903749-4233",
+      "name": "Neev Parikh",
+      "city": "",
+      "tags": [
+        "METR",
+        "AI safety",
+        "AI evaluations",
+        "ML research",
+        "ex-Stripe"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI safety go brr! ML research at METR. Previously Stripe. METR team member.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:21.964Z"
+  "last_updated": "2026-01-22T02:28:23.749Z"
 }
