@@ -8604,7 +8604,21 @@
       "linkedin": "",
       "notes": "Context management tool for Claude Code. On Chris Barber's list of tools that pair well with Claude Code.",
       "checked": false
+    },
+    {
+      "id": "founders-1769062500993-940",
+      "name": "Zeroshot (covibes)",
+      "city": "SF",
+      "tags": [
+        "Claude Code Tool",
+        "Orchestration",
+        "Developer Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Orchestration tool for Claude Code by covibes. On Chris Barber's list of tools that pair well with Claude Code.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:14:59.402Z"
+  "last_updated": "2026-01-22T06:15:00.993Z"
 }
