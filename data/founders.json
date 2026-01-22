@@ -8230,7 +8230,22 @@
       "linkedin": "",
       "notes": "AI inference startup. Jan 2026: Nvidia invested $150M, now valued at $5B. Round led by IVP and Alphabet's CapitalG. Dynamo Day sponsor. Phillip Kiely is Head of DevRel.",
       "checked": false
+    },
+    {
+      "id": "founders-1769057772263-5824",
+      "name": "OpenRouter",
+      "city": "SF",
+      "tags": [
+        "AI API Aggregator",
+        "Model Routing",
+        "LLM Infrastructure",
+        "Neolabs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI API aggregator/router. Provides unified API access to multiple LLM providers. Tracks model usage stats across providers.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T04:56:11.190Z"
+  "last_updated": "2026-01-22T04:56:12.263Z"
 }
