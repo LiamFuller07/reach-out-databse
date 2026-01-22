@@ -8695,7 +8695,23 @@
       "linkedin": "",
       "notes": "AI Grantmaking at Coefficient Giving. Previously advising at 80,000 Hours. Teaching, forecasting. Focus on AI safety funding. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769049147834-6306",
+      "name": "Nadeesha Amarasinghe",
+      "city": "",
+      "tags": [
+        "autonomous agents",
+        "robotics",
+        "Tesla AI",
+        "Apple",
+        "Nvidia"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Scaling robot learning @sundayrobotics. Prev: AI Infrastructure @Tesla_AI, @Apple, @Nvidia. Learned stuff at UofT. Focus on robotics and AI. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:23.484Z"
+  "last_updated": "2026-01-22T02:32:27.834Z"
 }
