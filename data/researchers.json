@@ -7953,7 +7953,23 @@
       "linkedin": "",
       "notes": "CEO of Softmax: Applied developmental cybernetics research. Ex-Twitch CEO. Deep AI/ML focus.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048652404-3034",
+      "name": "Miles Turpin",
+      "city": "",
+      "tags": [
+        "ai-safety",
+        "ai-evals",
+        "alignment",
+        "scale-ai",
+        "meta"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Safety and alignment evals at Meta Superintelligence Labs. Previously alignment research at Scale AI, NYU, early employee at Cohere.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:24:11.134Z"
+  "last_updated": "2026-01-22T02:24:12.404Z"
 }
