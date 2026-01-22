@@ -7838,7 +7838,23 @@
       "linkedin": "",
       "notes": "AI Scout, building text-2-video @Waymark. Host of The Cognitive Revolution podcast - deep AI interviews. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049126595-2281",
+      "name": "Yohei Nakajima",
+      "city": "",
+      "tags": [
+        "knowledge-graphs",
+        "ai-agents",
+        "babyagi",
+        "context-graphs",
+        "autonomous-agents"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Creator of BabyAGI. Building graph-based AI agents connecting Knowledge, Logs, and Code. Engaged with context graphs article - working on similar concepts with knowledge graph + log graph architecture.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:00.049Z"
+  "last_updated": "2026-01-22T02:32:06.595Z"
 }
