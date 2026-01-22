@@ -7176,16 +7176,16 @@
     {
       "id": "researchers-1769026710217-1393",
       "name": "Prashanth Rao",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "LanceDB",
-        "Data Infrastructure",
-        "Vector DB",
-        "KuzuDB"
+        "lancedb",
+        "ai-infrastructure",
+        "kuzudb",
+        "data-engineering"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "AI engineer @ LanceDB, prev KuzuDB, blogs @ thedataquarry.com",
+      "notes": "AI engineer @lancedb (vector database). Prev @kuzudb. Blogging @ thedataquarry.com. AI infrastructure focus. Followed by Hamel Husain.",
       "checked": false
     },
     {
@@ -8488,5 +8488,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:29:11.549Z"
+  "last_updated": "2026-01-22T02:29:29.169Z"
 }
