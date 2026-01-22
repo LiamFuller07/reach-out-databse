@@ -8036,7 +8036,22 @@
       "linkedin": "",
       "notes": "Co-founder Strawberry (browser agent company). Focus on autonomous browser agents. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049198115-6268",
+      "name": "Arian (coffeecup25)",
+      "city": "",
+      "tags": [
+        "autonomous agents",
+        "browser agents",
+        "founder",
+        "Strawberry"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder of Strawberry Browser @strawberry. Focus on autonomous browser agents. Found via Andon Labs founders' following.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:16.292Z"
+  "last_updated": "2026-01-22T02:33:18.115Z"
 }
