@@ -8098,7 +8098,25 @@
       "linkedin": "",
       "notes": "AI Governance at Google DeepMind. Connected to METR network.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048857826-426",
+      "name": "Sandhya",
+      "city": "",
+      "tags": [
+        "ai-evals",
+        "calibre-labs",
+        "applied-ai",
+        "ai-pm",
+        "sequoia",
+        "khosla",
+        "stanford"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @Calibre_Labs - Applied AI research & consulting on AI PM and Evals. Prev EVP @amplitude_HQ. VC @khoslaventures @sequoia. @stanford @iitbombay. Followed by Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:35.618Z"
+  "last_updated": "2026-01-22T02:27:37.826Z"
 }
