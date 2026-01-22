@@ -7620,16 +7620,16 @@
     {
       "id": "founders-1769032641986-6406",
       "name": "Callum Sharrock",
-      "city": "San Francisco",
+      "city": "",
       "tags": [
-        "Andon Labs",
+        "AI agents",
         "Tesla",
         "UofT",
-        "AI Benchmarks"
+        "Andon Labs"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Team member at Andon Labs. Previously at Tesla and University of Toronto (UofT). Works on AI benchmarking and autonomous systems.",
+      "notes": "@andonlabs - prev @tesla, @uoft. Working on autonomous AI systems.",
       "checked": false
     },
     {
@@ -7740,5 +7740,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:18:51.330Z"
+  "last_updated": "2026-01-22T02:18:52.572Z"
 }
