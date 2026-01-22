@@ -6168,18 +6168,17 @@
     {
       "id": "researchers-1769023982942-6265",
       "name": "Shreya Shankar",
-      "city": "",
+      "city": "Berkeley, CA",
       "tags": [
+        "evaluations",
+        "data systems",
+        "HCI",
         "AI evals",
-        "benchmarks",
-        "evals.info",
-        "Berkeley",
-        "Stanford",
-        "researcher"
+        "PhD"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Data systems & HCI researcher. Creator of docetl.org and evals.info. PhD @Berkeley_EECS, @Stanford CS undergrad. On the CS faculty job market. 50.3K followers.",
+      "notes": "Data systems & HCI researcher. On CS faculty job market. Co-created docetl.org and evals.info. PhD @Berkeley_EECS; @Stanford CS undergrad. 50.3K followers.",
       "checked": false
     },
     {
@@ -7880,5 +7879,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:18:06.294Z"
+  "last_updated": "2026-01-22T02:18:07.516Z"
 }
