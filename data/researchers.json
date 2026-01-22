@@ -8381,7 +8381,23 @@
       "linkedin": "",
       "notes": "Training LLMs at @huggingface. Anon feedback: admonymous.co/eliebakouch. Followed by Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048921886-2082",
+      "name": "Orchid Majumder",
+      "city": "",
+      "tags": [
+        "amazon",
+        "llm-training",
+        "amazon-nova",
+        "aws",
+        "columbia"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Principal Research Engineer @AmazonScience, working on Amazon Nova models (pre-training). Previously @AWS, @ColumbiaCompSci. Verified follower of Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:40.721Z"
+  "last_updated": "2026-01-22T02:28:41.886Z"
 }
