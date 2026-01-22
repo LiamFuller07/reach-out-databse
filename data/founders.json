@@ -4269,15 +4269,15 @@
     {
       "id": "founders-1768982012112-591",
       "name": "Dan McAteer",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Sourcegraph",
-        "AI Engineer",
-        "Token Stream newsletter"
+        "ai-agents",
+        "context-graphs",
+        "anthropic"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "AI Engineer at Sourcegraph. Writes Token Stream newsletter.",
+      "notes": "Engaged with context graphs article. Referenced Sholto Douglas from Anthropic predicting Claude Code experience for all forms of knowledge work. Understands AI agents.",
       "checked": false
     },
     {
@@ -8183,5 +8183,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:33:57.967Z"
+  "last_updated": "2026-01-22T02:33:59.184Z"
 }
