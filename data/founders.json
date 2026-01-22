@@ -7440,16 +7440,15 @@
     {
       "id": "founders-1769031294265-4240",
       "name": "Charlie Holtz",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Conductor",
-        "AI Orchestration",
-        "Claude Code",
-        "Developer Tools"
+        "AI agents",
+        "coding agents",
+        "conductor"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founder @ Conductor (conductor.build) - Mac app for running Claude Code instances in parallel, AI orchestration interfaces, 27K+ followers",
+      "notes": "@conductor_build team member. AI coding agents company.",
       "checked": false
     },
     {
@@ -7727,5 +7726,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:18:08.727Z"
+  "last_updated": "2026-01-22T02:18:24.989Z"
 }
