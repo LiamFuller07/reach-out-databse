@@ -8006,15 +8006,14 @@
       "name": "Daniel Filan",
       "city": "",
       "tags": [
-        "ai-safety",
-        "ai-evals",
-        "metr",
-        "loss-of-control",
-        "axrp-podcast"
+        "METR",
+        "AI safety",
+        "AI evaluations",
+        "superintelligence"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Works at METR on loss-of-control risk assessment. Hosts AXRP (AI X-Risk Research Podcast). AI alignment researcher.",
+      "notes": "Work at METR. Want to usher in an era of human-friendly superintelligence. METR team member.",
       "checked": false
     },
     {
@@ -8100,5 +8099,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:25:03.804Z"
+  "last_updated": "2026-01-22T02:27:23.937Z"
 }
