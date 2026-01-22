@@ -8801,7 +8801,22 @@
       "linkedin": "",
       "notes": "Creator of big-AGI. First to spot OpenAI 'osb-120b' model in API (Jan 2026). Open source AI developer.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769062149309-4538",
+      "name": "Amanda Askell",
+      "city": "SF",
+      "tags": [
+        "Anthropic",
+        "AI Safety",
+        "Claude Constitution",
+        "AI Ethics"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Character Lead @ Anthropic, key architect of Claude's constitution and values, PhD Philosophy, works on AI alignment and character training",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T05:06:57.729Z"
+  "last_updated": "2026-01-22T06:09:09.309Z"
 }
