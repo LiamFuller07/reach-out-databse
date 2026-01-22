@@ -7877,7 +7877,22 @@
       "linkedin": "",
       "notes": "Nonprofit organization that works to scientifically measure whether and when AI systems might threaten catastrophic harm to society. Based in Berkeley, CA. 15.2K followers.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048307752-301",
+      "name": "Uma Roy",
+      "city": "",
+      "tags": [
+        "zk",
+        "cryptography",
+        "MIT",
+        "Google Brain"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @succinctlabs - making zk accessible to any developer. Previously @MIT, Google Brain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:18:07.516Z"
+  "last_updated": "2026-01-22T02:18:27.752Z"
 }
