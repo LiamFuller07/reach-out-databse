@@ -6122,13 +6122,13 @@
       "city": "",
       "tags": [
         "ai-evals",
-        "llm-evals",
-        "nbdev",
-        "ml-infrastructure"
+        "llm-benchmarks",
+        "evals.info",
+        "mlops"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "AI evals expert - bio says \"Evals evals evals\". Created evals.info. Prolific blogger at hamel.dev. 42K+ followers. Strong focus on practical evaluation methodology.",
+      "notes": "Co-creator of evals.info. Bio: 'Evals evals evals'. Major voice in AI evaluation space. 42K+ followers. Website: hamel.dev. Looking at the data.",
       "checked": false
     },
     {
@@ -8100,5 +8100,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:27:33.857Z"
+  "last_updated": "2026-01-22T02:27:35.618Z"
 }
