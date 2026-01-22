@@ -8533,7 +8533,21 @@
       "linkedin": "",
       "notes": "Claude Code ecosystem tool by Jesse Vincent, pairs with Orbstack. On Chris Barber's list of tools that pair well with Claude Code.",
       "checked": false
+    },
+    {
+      "id": "founders-1769062482849-450",
+      "name": "Wispr Flow",
+      "city": "SF",
+      "tags": [
+        "Claude Code Tool",
+        "Voice Input",
+        "Developer Tools"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Voice input tool for Claude Code. On Chris Barber's list of tools that pair well with Claude Code.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:14:41.298Z"
+  "last_updated": "2026-01-22T06:14:42.849Z"
 }
