@@ -8271,7 +8271,23 @@
       "linkedin": "",
       "notes": "Member of Technical Staff @ METR. Trying to understand the transformative impacts of AI early enough. METR team member.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048898869-3602",
+      "name": "Chris Painter",
+      "city": "",
+      "tags": [
+        "METR",
+        "AI safety",
+        "AI evaluations",
+        "policy",
+        "AGI preparedness"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Head of policy at METR. Evals accelerationist, working hard on AGI preparedness. METR team member.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:16.708Z"
+  "last_updated": "2026-01-22T02:28:18.869Z"
 }
