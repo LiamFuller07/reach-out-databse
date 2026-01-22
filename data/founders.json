@@ -7922,7 +7922,22 @@
       "linkedin": "",
       "notes": "Building 'The Context Layer' - discussing how AI impacts organizations. Engaged with Jaya's context graphs article asking to call it 'the context layer'. Directly working on context for AI.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049160826-2671",
+      "name": "Kartik Aggarwal",
+      "city": "",
+      "tags": [
+        "google",
+        "notebooklm",
+        "knowledge-management",
+        "context"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Product at Google Labs working on NotebookLM. EECS at UC Berkeley. Previously at Quiltlabs and Convex. NotebookLM is relevant for context/knowledge management.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:38.092Z"
+  "last_updated": "2026-01-22T02:32:40.826Z"
 }
