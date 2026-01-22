@@ -7894,7 +7894,21 @@
       "linkedin": "",
       "notes": "TeslaBot Optimus AI Lead. Focus on robotics and autonomous systems. Found via Andon Labs founders' following.",
       "checked": false
+    },
+    {
+      "id": "founders-1769049155082-8969",
+      "name": "Animesh Koratana",
+      "city": "",
+      "tags": [
+        "context-graphs",
+        "enterprise-ai",
+        "knowledge-graphs"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Wrote follow-up thread on context graphs with Jaya Gupta clarifying that context graphs aren't just graph databases or structured memory. Key voice in the context graphs discussion.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:26.161Z"
+  "last_updated": "2026-01-22T02:32:35.082Z"
 }
