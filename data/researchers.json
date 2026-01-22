@@ -8397,7 +8397,21 @@
       "linkedin": "",
       "notes": "Principal Research Engineer @AmazonScience, working on Amazon Nova models (pre-training). Previously @AWS, @ColumbiaCompSci. Verified follower of Hamel Husain.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048923053-1742",
+      "name": "ryan mathieu",
+      "city": "",
+      "tags": [
+        "ml-performance",
+        "inference-scaling",
+        "ai-lab"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "ML perf & inference scaling @ cool AI lab. Fast vs Slow Thinking research. Verified follower of Hamel Husain.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:28:41.886Z"
+  "last_updated": "2026-01-22T02:28:43.053Z"
 }
