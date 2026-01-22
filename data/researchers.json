@@ -7969,7 +7969,23 @@
       "linkedin": "",
       "notes": "Safety and alignment evals at Meta Superintelligence Labs. Previously alignment research at Scale AI, NYU, early employee at Cohere.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769048666796-1896",
+      "name": "Ajeya Cotra",
+      "city": "",
+      "tags": [
+        "ai-safety",
+        "ai-evals",
+        "metr",
+        "loss-of-control",
+        "risk-assessment"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Risk assessment at METR. Working on loss-of-control risk assessment. Previously at Open Philanthropy. Writes at \"Planned Obsolescence\". Highly influential in AI safety/forecasting community.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:24:12.404Z"
+  "last_updated": "2026-01-22T02:24:26.796Z"
 }
