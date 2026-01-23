@@ -8635,7 +8635,22 @@
       "linkedin": "",
       "notes": "Building Replit for Robotics @ oorb.io. Previously @ CERN. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129106184-7455",
+      "name": "Brian Machado",
+      "city": "SF",
+      "tags": [
+        "bracket.bot",
+        "Robotics",
+        "High Inference",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building bracket.bot - you can buy a robot. High-inference robotics. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:44:47.466Z"
+  "last_updated": "2026-01-23T00:45:06.184Z"
 }
