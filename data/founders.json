@@ -10187,7 +10187,21 @@
       "linkedin": "",
       "notes": "Arcee AI - LLM company on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130283607-3683",
+      "name": "Kalomaze",
+      "city": "SF",
+      "tags": [
+        "AI",
+        "NeoLabs Contributor",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Contributor to Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:04:42.222Z"
+  "last_updated": "2026-01-23T01:04:43.607Z"
 }
