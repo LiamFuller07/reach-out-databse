@@ -10703,7 +10703,21 @@
       "linkedin": "",
       "notes": "Vmax AI - on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130489985-83",
+      "name": "Goodfire AI",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "Interpretability",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Goodfire AI - interpretability focused, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:08:07.888Z"
+  "last_updated": "2026-01-23T01:08:09.985Z"
 }
