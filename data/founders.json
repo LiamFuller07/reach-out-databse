@@ -9106,7 +9106,22 @@
       "linkedin": "",
       "notes": "@ Giant Spoon - world building / experiential agency. Found via Chris Barber's world-building vendors list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129639753-7019",
+      "name": "Exa (Company)",
+      "city": "SF",
+      "tags": [
+        "AI Search",
+        "Search Startup",
+        "PRIORITY: HIGH",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI search startup. Part of Chris Barber's AI search space list. Known for neural search API.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:53:58.521Z"
+  "last_updated": "2026-01-23T00:53:59.753Z"
 }
