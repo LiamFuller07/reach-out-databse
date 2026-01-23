@@ -9273,7 +9273,21 @@
       "linkedin": "",
       "notes": "Co-founder @ oro, AI data startup, discovered via Chris Barber's AI data startups list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129773953-3071",
+      "name": "VanOSS",
+      "city": "SF",
+      "tags": [
+        "parsewave",
+        "AI Data",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ parsewave, AI data startup, discovered via Chris Barber's AI data startups list (referred by @ibragim_bad)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:56:12.749Z"
+  "last_updated": "2026-01-23T00:56:13.953Z"
 }
