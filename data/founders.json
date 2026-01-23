@@ -9864,7 +9864,20 @@
       "linkedin": "",
       "notes": "Robotics expert, contributor to Chris Barber's robotics list, likely LeRobot/Hugging Face",
       "checked": false
+    },
+    {
+      "id": "founders-1769130022912-5646",
+      "name": "Ethan Clark",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics expert, contributor to Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:00:21.752Z"
+  "last_updated": "2026-01-23T01:00:22.912Z"
 }
