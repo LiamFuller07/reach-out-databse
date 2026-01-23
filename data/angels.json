@@ -424,7 +424,22 @@
       "linkedin": "",
       "notes": "Chair of UK AI Safety Institute, Songkick co-founder, prolific AI angel. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128048166-7657",
+      "name": "Ali Rowghani",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "YC",
+        "Twitter COO",
+        "Pixar CFO"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "YC Managing Partner, former Twitter COO, former Pixar CFO. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:27:26.226Z"
+  "last_updated": "2026-01-23T00:27:28.166Z"
 }
