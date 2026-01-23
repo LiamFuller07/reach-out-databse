@@ -245,14 +245,16 @@
       "city": "SF",
       "tags": [
         "Thrive Capital",
+        "PRIORITY: HIGH",
         "ex-SpaceX",
         "ex-Tesla",
         "ex-Neuralink",
-        "ex-Boring Company"
+        "Deep Tech",
+        "Elon Network"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Partner @ Thrive Capital, fmr SpaceX, Tesla, Boring Company, Neuralink, Valor Equity, LaunchPad LA",
+      "notes": "Partner @ Thrive Capital. WHY TARGET: Deep Elon Musk ecosystem experience (SpaceX, Tesla, Boring Company, Neuralink). Understands frontier tech/hard problems. Prev Valor Equity, LaunchPad LA. Thrive is major AI investor (OpenAI stake).",
       "checked": false
     },
     {
@@ -518,5 +520,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:33:13.987Z"
+  "last_updated": "2026-01-23T00:33:15.287Z"
 }
