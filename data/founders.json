@@ -9672,7 +9672,21 @@
       "linkedin": "",
       "notes": "Watney - robots for datacenters, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129945495-6859",
+      "name": "Rhoda",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Industrial Humanoids",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Rhoda - industrial humanoids, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:59:01.360Z"
+  "last_updated": "2026-01-23T00:59:05.495Z"
 }
