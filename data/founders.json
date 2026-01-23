@@ -10088,7 +10088,21 @@
       "linkedin": "",
       "notes": "Founder @ Happenstance - natural language search for your network, recommended by Chris Barber as interesting startup",
       "checked": false
+    },
+    {
+      "id": "founders-1769130224939-8283",
+      "name": "Waive",
+      "city": "SF",
+      "tags": [
+        "Autonomous Vehicles",
+        "Consumer AV",
+        "Chris Barber AV List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Waive - consumer autonomous vehicle company, from Chris Barber's AV adoption list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:03:23.575Z"
+  "last_updated": "2026-01-23T01:03:44.939Z"
 }
