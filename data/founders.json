@@ -9136,7 +9136,22 @@
       "linkedin": "",
       "notes": "AI research assistant for literature review. Part of Chris Barber's AI search space list. From Ought.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129642372-8736",
+      "name": "Firecrawl (Company)",
+      "city": "SF",
+      "tags": [
+        "AI Search",
+        "Web Scraping",
+        "LLM Data",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Web scraping for LLMs. Part of Chris Barber's AI search space list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:54:01.022Z"
+  "last_updated": "2026-01-23T00:54:02.372Z"
 }
