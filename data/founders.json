@@ -9001,7 +9001,21 @@
       "linkedin": "",
       "notes": "Agents infrastructure startup. Found via Chris Barber's agents space list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129503919-6110",
+      "name": "Truffles (Company)",
+      "city": "SF",
+      "tags": [
+        "Agents Infrastructure",
+        "AI Agents",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Agents infrastructure startup. Found via Chris Barber's agents space list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:51:41.916Z"
+  "last_updated": "2026-01-23T00:51:43.919Z"
 }
