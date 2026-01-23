@@ -92,15 +92,15 @@
       "city": "SF",
       "tags": [
         "Amplify Partners",
+        "PRIORITY: HIGH",
         "GP",
-        "Canvas VC",
-        "Mattermark",
-        "Palantir",
-        "Data"
+        "Data Infrastructure",
+        "Palantir alum",
+        "Technical"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "GP @ Amplify Partners, prev Canvas VC, Head of Data @ Mattermark, Palantir, C4ADS",
+      "notes": "GP @ Amplify Partners. WHY TARGET: Deep data infrastructure background (Palantir, Mattermark Head of Data). Prev Canvas VC. Technical investor who understands data pipelines and ML infrastructure. Focus on data tooling companies.",
       "checked": false
     },
     {
@@ -527,5 +527,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:33:40.106Z"
+  "last_updated": "2026-01-23T00:33:41.222Z"
 }
