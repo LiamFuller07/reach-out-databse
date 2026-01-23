@@ -97,17 +97,14 @@
     {
       "id": "f-8",
       "name": "Spencer Mateega",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Code & Finance",
-        "RL Environment",
-        "Pavlov's List",
-        "Chris Barber Network"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "@ Code & Finance - RL environment startup. Part of Chris Barber's Pavlov's List of RL environment startups.",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-9",
@@ -10794,5 +10791,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:27:56.825Z"
+  "last_updated": "2026-01-23T08:27:58.149Z"
 }
