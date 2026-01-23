@@ -9686,7 +9686,22 @@
       "linkedin": "",
       "notes": "Rhoda - industrial humanoids, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129946864-5371",
+      "name": "Field AI",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Foundation Models",
+        "Industrial",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Field AI - industrial foundation models for robotics, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:59:05.495Z"
+  "last_updated": "2026-01-23T00:59:06.864Z"
 }
