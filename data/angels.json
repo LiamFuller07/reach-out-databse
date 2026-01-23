@@ -274,7 +274,22 @@
       "linkedin": "",
       "notes": "Scale AI founder & CEO, youngest self-made billionaire. Recommended by founders as helpful angel (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128009497-2783",
+      "name": "Ann Miura-Ko",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "Floodgate",
+        "Stanford",
+        "Top Angel"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Floodgate co-founding partner, Stanford lecturer, early Lyft/Refinery29 investor. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:26:30.091Z"
+  "last_updated": "2026-01-23T00:26:49.497Z"
 }
