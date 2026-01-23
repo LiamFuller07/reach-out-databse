@@ -10776,7 +10776,22 @@
       "linkedin": "",
       "notes": "Verses AI - Karl Friston is Chief Scientist, Active Inference, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130768968-5621",
+      "name": "Cohere",
+      "city": "Toronto",
+      "tags": [
+        "NeoLabs",
+        "Enterprise LLMs",
+        "Canada",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Cohere - enterprise LLM company, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:12:47.650Z"
+  "last_updated": "2026-01-23T01:12:48.968Z"
 }
