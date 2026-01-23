@@ -394,7 +394,22 @@
       "linkedin": "",
       "notes": "Bolt founder, Love.com founder. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128044350-3121",
+      "name": "Dan Romero",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "Farcaster",
+        "Coinbase",
+        "Crypto"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Farcaster co-founder, former Coinbase VP. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:27:22.808Z"
+  "last_updated": "2026-01-23T00:27:24.350Z"
 }
