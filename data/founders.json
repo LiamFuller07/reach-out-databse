@@ -10369,7 +10369,21 @@
       "linkedin": "",
       "notes": "Harmonic Math - AI math, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130384555-7247",
+      "name": "Axiom Mathai",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Axiom Mathai - on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:06:19.669Z"
+  "last_updated": "2026-01-23T01:06:24.555Z"
 }
