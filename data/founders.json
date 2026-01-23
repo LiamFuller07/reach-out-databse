@@ -2168,12 +2168,16 @@
       "city": "SF",
       "tags": [
         "Cartesia AI",
-        "$100M raised",
-        "Voice AI"
+        "Founder CEO",
+        "Stanford AI Lab PhD",
+        "CMU ML",
+        "IIT Delhi",
+        "PRIORITY: HIGHEST",
+        "Chris Barber Network"
       ],
-      "x": "krandiash",
-      "linkedin": "https://linkedin.com/in/krandiash",
-      "notes": "Founder @ Cartesia AI ($100M raised) | Building next-gen voice AI | Real-time, low-latency speech synthesis",
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder & CEO @ Cartesia AI. PhD @ Stanford AI Lab. CMU ML alum. IIT Delhi alum. Found via Chris Barber's following list.",
       "checked": false
     },
     {
@@ -8764,5 +8768,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:47:33.262Z"
+  "last_updated": "2026-01-23T00:48:22.001Z"
 }
