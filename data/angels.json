@@ -289,7 +289,22 @@
       "linkedin": "",
       "notes": "Floodgate co-founding partner, Stanford lecturer, early Lyft/Refinery29 investor. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128011013-3392",
+      "name": "Lachy Groom",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "Physical Intelligence",
+        "Stripe",
+        "Top Angel"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder Physical Intelligence (Pi robotics), former Stripe, prolific angel investor. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:26:49.497Z"
+  "last_updated": "2026-01-23T00:26:51.013Z"
 }
