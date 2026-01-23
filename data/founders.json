@@ -9287,7 +9287,22 @@
       "linkedin": "",
       "notes": "Founder @ parsewave, AI data startup, discovered via Chris Barber's AI data startups list (referred by @ibragim_bad)",
       "checked": false
+    },
+    {
+      "id": "founders-1769129775071-7700",
+      "name": "Rebecca Qian",
+      "city": "SF",
+      "tags": [
+        "Patronus AI",
+        "AI Data",
+        "LLM Evaluation",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Patronus AI, AI data/evaluation startup, discovered via Chris Barber's AI data startups list (referred by @Timshi_ai)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:56:13.953Z"
+  "last_updated": "2026-01-23T00:56:15.071Z"
 }
