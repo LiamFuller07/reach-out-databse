@@ -2780,12 +2780,15 @@
       "city": "SF",
       "tags": [
         "Softmax",
-        "Twitch",
-        "Neolabs"
+        "NeoLabs",
+        "Twitch Co-founder",
+        "Ex-OpenAI CEO",
+        "Chris Barber NeoLabs List",
+        "PRIORITY: HIGH"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ Softmax, Twitch founder, Organic Alignment",
+      "notes": "Founder @ Softmax, Twitch co-founder, briefly interim OpenAI CEO, on Chris Barber's neolabs list",
       "checked": false
     },
     {
@@ -10540,5 +10543,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:07:14.650Z"
+  "last_updated": "2026-01-23T01:07:15.862Z"
 }
