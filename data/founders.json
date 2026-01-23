@@ -8839,7 +8839,21 @@
       "linkedin": "",
       "notes": "@ Sunday Robotics. Found via Chris Barber's robotics list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129426000-4828",
+      "name": "Kevin Vogt",
+      "city": "SF",
+      "tags": [
+        "Bot Company",
+        "Robotics",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Bot Company. Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:24.610Z"
+  "last_updated": "2026-01-23T00:50:26.000Z"
 }
