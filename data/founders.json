@@ -1394,17 +1394,14 @@
     {
       "id": "f-100",
       "name": "Jet Wu",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Janus",
-        "YC X25",
-        "CMU",
-        "Cerebras AI Fellow"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/jet-wu-cmu",
-      "notes": "Co-founder @ Janus (YC X25) | AI agent simulation testing - runs 1000s of simulations against chat/voice agents | CMU Senior | Left incoming IBM role to build Janus | prev Merck AI Engineer (conversational AI prototypes), RWTH Aachen (transfer learning), Johns Hopkins ML",
-      "checked": false
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-101",
@@ -10805,5 +10802,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:27:26.913Z"
+  "last_updated": "2026-01-23T08:27:53.161Z"
 }
