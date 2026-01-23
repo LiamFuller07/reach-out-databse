@@ -640,18 +640,14 @@
     {
       "id": "researchers-1768981480945-3615",
       "name": "Mo Bavarian",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "OpenAI",
-        "RL",
-        "Long Context",
-        "MIT PhD",
-        "Math"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Scaling up RL @ OpenAI | Optimization and long context research | Math PhD MIT",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1768981481975-143",
@@ -9119,5 +9115,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:28:28.263Z"
+  "last_updated": "2026-01-23T08:28:32.426Z"
 }
