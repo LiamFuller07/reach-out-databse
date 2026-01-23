@@ -9191,7 +9191,20 @@
       "linkedin": "",
       "notes": "AI search startup. Part of Chris Barber's AI search space list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129660589-2022",
+      "name": "Parallel (Company)",
+      "city": "SF",
+      "tags": [
+        "AI Search",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI search startup. Part of Chris Barber's AI search space list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:54:18.918Z"
+  "last_updated": "2026-01-23T00:54:20.589Z"
 }
