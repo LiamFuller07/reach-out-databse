@@ -5594,17 +5594,14 @@
     {
       "id": "researchers-1768991885320-2188",
       "name": "Tim Franzmeyer",
-      "city": "London",
+      "city": "",
       "tags": [
-        "Google DeepMind",
-        "Gemini",
-        "RL",
-        "Agents"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Research Scientist @ Google DeepMind on Gemini team, Reinforcement Learning + Agents",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1768991886411-8252",
@@ -9130,5 +9127,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:27:16.269Z"
+  "last_updated": "2026-01-23T08:27:17.748Z"
 }
