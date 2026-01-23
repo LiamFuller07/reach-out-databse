@@ -10046,7 +10046,20 @@
       "linkedin": "",
       "notes": "Robotics expert, contributor to Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130072185-3342",
+      "name": "Mike Oda",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics expert, contributor to Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:01:10.899Z"
+  "last_updated": "2026-01-23T01:01:12.185Z"
 }
