@@ -3348,12 +3348,12 @@
       "city": "SF",
       "tags": [
         "Isara",
-        "OpenAI",
-        "Neolabs"
+        "NeoLabs",
+        "Chris Barber NeoLabs List"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/ezipe",
-      "notes": "Co-founder @ Isara | Building software for 1000s of AI agents to work in tandem on complex tasks (financial data analysis) | prev OpenAI safety researcher (Model Spec, 19-country survey) | Harvard CS PhD (on leave) | UCSB BS top of class at 19 | Co-founded Humanity Unleashed nonprofit",
+      "linkedin": "",
+      "notes": "Founder @ Isara, on Chris Barber's neolabs list",
       "checked": false
     },
     {
@@ -10543,5 +10543,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:07:15.862Z"
+  "last_updated": "2026-01-23T01:07:17.058Z"
 }
