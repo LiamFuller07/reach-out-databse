@@ -593,7 +593,22 @@
       "linkedin": "",
       "notes": "Partner @ Haystack VC. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "vcs-1769129158161-2281",
+      "name": "Michael Eisenberg",
+      "city": "Israel",
+      "tags": [
+        "Aleph VC",
+        "Israel",
+        "Author",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "VC @ Aleph. Author 'The Tree of Life and Prosperity'. Israel-based investor. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:45:56.905Z"
+  "last_updated": "2026-01-23T00:45:58.161Z"
 }
