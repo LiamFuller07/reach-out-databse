@@ -824,16 +824,17 @@
     {
       "id": "f-59",
       "name": "Rayan Garg",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Theta",
         "YC X25",
-        "Cornell"
+        "Cornell",
+        "rl-outreach-jan-2026"
       ],
-      "x": "RayanGarg",
-      "linkedin": "https://linkedin.com/in/rayan-garg",
-      "notes": "Co-Founder & CEO @ Theta (YC X25), Cornell University, prev Head of Product @ DeepSilicon, self-learning AI agents, improved OpenAI Operator by 43%",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-60",
@@ -10839,5 +10840,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:23:59.507Z"
+  "last_updated": "2026-01-23T08:24:10.601Z"
 }
