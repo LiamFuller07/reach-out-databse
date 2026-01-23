@@ -9316,7 +9316,22 @@
       "linkedin": "",
       "notes": "AI data startup connector, referred antim labs, lucent, good start labs to Chris Barber's network",
       "checked": false
+    },
+    {
+      "id": "founders-1769129865509-1292",
+      "name": "Standard Bots",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Industrial Arms",
+        "Manufacturing",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Standard Bots - arms for factories, from Chris Barber's comprehensive robotics startups list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:56:16.356Z"
+  "last_updated": "2026-01-23T00:57:45.509Z"
 }
