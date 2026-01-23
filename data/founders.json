@@ -8957,7 +8957,20 @@
       "linkedin": "",
       "notes": "From homelab and edge AI to local LLMs, Turing Pi handles it all. Datacenter-level compute in a desktop design. Found via Chris Barber's who to follow.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129498330-2902",
+      "name": "DK",
+      "city": "SF",
+      "tags": [
+        "AI Builder",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Making stuff with AI. Found via Chris Barber's who to follow.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:51:36.795Z"
+  "last_updated": "2026-01-23T00:51:38.331Z"
 }
