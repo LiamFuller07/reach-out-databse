@@ -9658,7 +9658,21 @@
       "linkedin": "",
       "notes": "@ Keen AGI - robotics work mentioned by Chris Barber",
       "checked": false
+    },
+    {
+      "id": "founders-1769129941360-1547",
+      "name": "Watney",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Datacenter Robots",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Watney - robots for datacenters, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:58:59.075Z"
+  "last_updated": "2026-01-23T00:59:01.360Z"
 }
