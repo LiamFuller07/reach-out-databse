@@ -9137,7 +9137,22 @@
       "linkedin": "",
       "notes": "Bell Labs robotics research, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "researchers-1769130287122-111",
+      "name": "Teknium",
+      "city": "SF",
+      "tags": [
+        "AI",
+        "Open Source LLMs",
+        "NeoLabs Contributor",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Teknium - known for open source LLM work, contributor to Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:59:54.777Z"
+  "last_updated": "2026-01-23T01:04:47.122Z"
 }
