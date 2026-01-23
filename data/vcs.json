@@ -396,13 +396,15 @@
       "city": "SF",
       "tags": [
         "Lux Capital",
-        "Partner",
+        "PRIORITY: HIGH",
+        "Deep Tech",
         "Stanford",
-        "Deep Tech"
+        "Frontier Science",
+        "Canvas VC alum"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Partner @ Lux Capital investing in the future, board @ ecorner (STVP), prev Canvas VC, Stanford",
+      "notes": "Partner @ Lux Capital. WHY TARGET: Lux specializes in frontier/deep tech including AI. Board @ ecorner (STVP), prev Canvas VC, Stanford. Focus on science-driven companies with breakthrough potential.",
       "checked": false
     },
     {
@@ -520,5 +522,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:33:15.287Z"
+  "last_updated": "2026-01-23T00:33:16.417Z"
 }
