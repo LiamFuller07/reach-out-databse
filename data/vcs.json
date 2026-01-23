@@ -156,12 +156,14 @@
       "city": "SF",
       "tags": [
         "Initialized Capital",
+        "PRIORITY: HIGH",
         "Partner",
-        "VC"
+        "ex-TechCrunch",
+        "Deep Networks"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Partner @ Initialized Capital",
+      "notes": "Partner @ Initialized Capital. WHY TARGET: Former TechCrunch journalist - deep network across tech ecosystem. Initialized co-founded by Alexis Ohanian & Garry Tan (now YC President). Strong early-stage AI thesis.",
       "checked": false
     },
     {
@@ -532,5 +534,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:34:04.103Z"
+  "last_updated": "2026-01-23T00:34:05.282Z"
 }
