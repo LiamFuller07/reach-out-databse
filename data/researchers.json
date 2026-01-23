@@ -9122,7 +9122,22 @@
       "linkedin": "",
       "notes": "Mitsubishi Electric Research Labs - corporate robotics lab, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129994777-7483",
+      "name": "Bell Labs Robotics",
+      "city": "NJ",
+      "tags": [
+        "Robotics Lab",
+        "Nokia Bell Labs",
+        "Corporate Research",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Bell Labs robotics research, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:59:53.708Z"
+  "last_updated": "2026-01-23T00:59:54.777Z"
 }
