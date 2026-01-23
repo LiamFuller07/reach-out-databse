@@ -259,7 +259,22 @@
       "linkedin": "",
       "notes": "Former a16z GP, former Coinbase CTO, author of The Network State. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769127990091-9633",
+      "name": "Alexandr Wang",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "Scale AI",
+        "Forbes 30 Under 30",
+        "Top Angel"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Scale AI founder & CEO, youngest self-made billionaire. Recommended by founders as helpful angel (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:26:28.674Z"
+  "last_updated": "2026-01-23T00:26:30.091Z"
 }
