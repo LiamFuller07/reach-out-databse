@@ -9746,7 +9746,21 @@
       "linkedin": "",
       "notes": "Anduril - defense robotics and autonomous systems, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129966632-9143",
+      "name": "Bedrock Robotics",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Construction",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Bedrock - robotics for construction, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:59:25.345Z"
+  "last_updated": "2026-01-23T00:59:26.632Z"
 }
