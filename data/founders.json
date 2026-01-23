@@ -8680,7 +8680,25 @@
       "linkedin": "",
       "notes": "Builds AI trading, consulting and finance agents to understand economics and markets. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129153643-5045",
+      "name": "Andrawes Bahou",
+      "city": "SF",
+      "tags": [
+        "The Compute Desk",
+        "AI Compute Infra",
+        "Meta ML",
+        "UBS",
+        "ETHZurich",
+        "ARM",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO | Transacting Compute @ The Compute Desk. AI Compute Infra @ Meta. ML for options pricing @ UBS. Inference chips @ ETHZurich. CPU Engineer @ ARM. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:45:51.833Z"
+  "last_updated": "2026-01-23T00:45:53.643Z"
 }
