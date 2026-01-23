@@ -1431,15 +1431,14 @@
     {
       "id": "f-104",
       "name": "Youssef Kallel",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "AgentHub",
-        "YC AI Agents"
+        "rl-outreach-jan-2026"
       ],
-      "x": "ymkallel",
-      "linkedin": "https://linkedin.com/in/youssefkallel",
-      "notes": "Co-founder @ AgentHub (YC S25) | AI agent eval in realistic simulations - helps teams catch failures before production | prev Apple Foundation Model Eval team (Tech Lead) | Carnegie Mellon CS",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-105",
@@ -10786,5 +10785,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:29:32.540Z"
+  "last_updated": "2026-01-23T08:30:13.439Z"
 }
