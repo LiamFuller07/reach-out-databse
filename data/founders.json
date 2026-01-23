@@ -8811,7 +8811,21 @@
       "linkedin": "",
       "notes": "@ General Trajectory robotics company. Found via Chris Barber's robotics list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129422915-9845",
+      "name": "Luke Hansen",
+      "city": "SF",
+      "tags": [
+        "Armstrong Robotics",
+        "Robotics",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Armstrong Robotics. Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:49:59.852Z"
+  "last_updated": "2026-01-23T00:50:22.915Z"
 }
