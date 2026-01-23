@@ -9716,7 +9716,22 @@
       "linkedin": "",
       "notes": "OpenAI Robotics - OpenAI's robotics division (CK), from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129949356-4906",
+      "name": "Saronic",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Autonomous Naval Vessels",
+        "Defense",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Saronic - autonomous naval vessels, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:59:08.095Z"
+  "last_updated": "2026-01-23T00:59:09.356Z"
 }
