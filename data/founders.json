@@ -8783,7 +8783,21 @@
       "linkedin": "",
       "notes": "Cofounder Feanix. Previously MIT, USDA inspector, Google(X). Supporting artificial wombs. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129398644-6395",
+      "name": "Kelsey Pool",
+      "city": "SF",
+      "tags": [
+        "Pantograph",
+        "Robotics",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Pantograph robotics company. Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:48:27.091Z"
+  "last_updated": "2026-01-23T00:49:58.644Z"
 }
