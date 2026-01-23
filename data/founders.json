@@ -9421,7 +9421,21 @@
       "linkedin": "",
       "notes": "Lucky Robots - simulations for data generation, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129888326-3945",
+      "name": "Persona AI",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Industrial Humanoids",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Persona AI - industrial humanoids, from Chris Barber's robotics list replies",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:57:52.678Z"
+  "last_updated": "2026-01-23T00:58:08.326Z"
 }
