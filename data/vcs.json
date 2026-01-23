@@ -291,12 +291,14 @@
       "city": "SF",
       "tags": [
         "Foundation Capital",
+        "PRIORITY: HIGH",
         "YC W23",
-        "VC"
+        "Founder-Investor",
+        "Early Stage"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Partner @ Foundation Capital, YC W23.",
+      "notes": "Partner @ Foundation Capital, YC W23. WHY TARGET: Recent founder experience (YC W23) brings operator perspective. Foundation Capital team has strong enterprise AI thesis (Context Graphs). Newer partner likely more accessible.",
       "checked": false
     },
     {
@@ -530,5 +532,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:34:03.068Z"
+  "last_updated": "2026-01-23T00:34:04.103Z"
 }
