@@ -10807,7 +10807,22 @@
       "linkedin": "",
       "notes": "Isomorphic Labs - Demis Hassabis's drug discovery AI company, AlphaFold spinoff, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130771380-4117",
+      "name": "Swyx",
+      "city": "SF",
+      "tags": [
+        "AI Community",
+        "Latent Space",
+        "smol.ai",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Swyx - Latent Space podcast, smol.ai, AI community builder, mentioned in Chris Barber's neolabs categorization discussion",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:12:50.252Z"
+  "last_updated": "2026-01-23T01:12:51.380Z"
 }
