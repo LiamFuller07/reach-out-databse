@@ -10059,7 +10059,21 @@
       "linkedin": "",
       "notes": "Robotics expert, contributor to Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130073342-4925",
+      "name": "Cole AI",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "AI",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics/AI expert, contributor to Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:01:12.185Z"
+  "last_updated": "2026-01-23T01:01:13.343Z"
 }
