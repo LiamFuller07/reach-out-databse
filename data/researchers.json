@@ -8979,7 +8979,21 @@
       "linkedin": "",
       "notes": "Stumbling down the gradient. Previously @ Schmidt Futures, Broad Institute, Microsoft. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129305873-9130",
+      "name": "Bhishmaraj S",
+      "city": "SF",
+      "tags": [
+        "AGI Trajectory",
+        "AI Research",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Figuring out the near term trajectory of AGI. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:48:24.650Z"
+  "last_updated": "2026-01-23T00:48:25.873Z"
 }
