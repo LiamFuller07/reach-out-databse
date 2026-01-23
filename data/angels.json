@@ -511,7 +511,20 @@
       "linkedin": "",
       "notes": "Scalar Capital co-founder, former Coinbase PM. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128158661-7040",
+      "name": "Adam Smith",
+      "city": "SF",
+      "tags": [
+        "Angel Investor",
+        "Chris Barber Survey 2025"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Recommended by founders in Chris Barber's 2025 angel investor survey (67 most helpful angels)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:27:53.991Z"
+  "last_updated": "2026-01-23T00:29:18.661Z"
 }
