@@ -1127,16 +1127,17 @@
     {
       "id": "f-81",
       "name": "Andrew Gritsevskiy",
-      "city": "SF",
+      "city": "",
       "tags": [
         "RunRL",
         "YC X25",
-        "PhD dropout"
+        "PhD dropout",
+        "rl-outreach-jan-2026"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/agritsevskiy",
-      "notes": "Co-founder @ RunRL, YC X25, PhD dropout (RL research), prev Cavendish Labs, $500K seed, reinforcement learning for LLMs",
-      "checked": false
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-82",
@@ -10829,5 +10830,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:22:40.682Z"
+  "last_updated": "2026-01-23T08:22:42.166Z"
 }
