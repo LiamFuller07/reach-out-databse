@@ -8946,7 +8946,24 @@
       "linkedin": "",
       "notes": "Deep learning / AI research scientist. Famous for creating the Inception network architecture at Google. Pioneer in computer vision and neural network design. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129303448-8596",
+      "name": "Brian Wilt",
+      "city": "SF",
+      "tags": [
+        "Waymo",
+        "Eng/ML/Data",
+        "Stanford",
+        "MIT Physics",
+        "Autonomous Vehicles",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Eng/ML/data/geoguessr/cheerleader @ Waymo. Stanford and MIT physics background. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:47:34.552Z"
+  "last_updated": "2026-01-23T00:48:23.448Z"
 }
