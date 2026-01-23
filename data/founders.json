@@ -9630,7 +9630,21 @@
       "linkedin": "",
       "notes": "Cobot - industrial collaborative robots, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129937811-2489",
+      "name": "Reflex Robotics",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Wheeled Humanoid",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Reflex Robotics - wheeled humanoid robots, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:58:37.970Z"
+  "last_updated": "2026-01-23T00:58:57.811Z"
 }
