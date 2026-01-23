@@ -638,16 +638,17 @@
     {
       "id": "f-46",
       "name": "Ege Erdil",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Mechanize",
         "Epoch AI",
-        "Forecasting"
+        "Forecasting",
+        "rl-outreach-jan-2026"
       ],
-      "x": "EgeErdil2",
-      "linkedin": "https://linkedin.com/in/ege-erdil-0a4b0314b",
-      "notes": "Co-founder @ Mechanize, prev Epoch AI researcher, math/stats/economics/forecasting expert, 20-30 year AGI timeline, virtual work RL environments",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-47",
@@ -10828,5 +10829,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:22:39.479Z"
+  "last_updated": "2026-01-23T08:22:40.682Z"
 }
