@@ -10412,7 +10412,21 @@
       "linkedin": "",
       "notes": "Essential AI - on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130405856-5122",
+      "name": "Noumenal Labs",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Noumenal Labs - on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:06:44.559Z"
+  "last_updated": "2026-01-23T01:06:45.856Z"
 }
