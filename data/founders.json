@@ -9060,7 +9060,23 @@
       "linkedin": "",
       "notes": "RL environment startup. Part of Chris Barber's Pavlov's List of RL environment startups.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129604896-6547",
+      "name": "Jonathan Haber",
+      "city": "SF",
+      "tags": [
+        "Giant Spoon",
+        "World Building",
+        "Experiential",
+        "Westworld SXSW",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Giant Spoon - world building / experiential agency. Produced Westworld at SXSW, Stranger Things empire state takeover. Found via Chris Barber's world-building vendors list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:52:49.858Z"
+  "last_updated": "2026-01-23T00:53:24.896Z"
 }
