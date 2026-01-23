@@ -9760,7 +9760,21 @@
       "linkedin": "",
       "notes": "Bedrock - robotics for construction, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129967889-9173",
+      "name": "Radical AI",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Materials R&D",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Radical AI - materials R&D with robotics, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:59:26.632Z"
+  "last_updated": "2026-01-23T00:59:27.889Z"
 }
