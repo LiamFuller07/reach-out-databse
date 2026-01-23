@@ -8895,7 +8895,22 @@
       "linkedin": "",
       "notes": "@ Periodic Robotics. Found via Chris Barber's robotics list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129452058-3410",
+      "name": "Quan Vuong",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence",
+        "Pi",
+        "Robotics",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Physical Intelligence (Pi). Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:49.411Z"
+  "last_updated": "2026-01-23T00:50:52.058Z"
 }
