@@ -8836,18 +8836,15 @@
     },
     {
       "id": "researchers-1769062406264-476",
-      "name": "jsd / JS Denain",
-      "city": "Berkeley",
+      "name": "JS Denain",
+      "city": "",
       "tags": [
-        "Epoch AI",
-        "RL Environments",
-        "Data Generation",
-        "AI Research"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Researcher @ Epoch AI Research, co-authored RL Environment FAQ with Chris Barber (interviewed 18 people from RL startups, neolabs, frontier labs), also @js_denain, Berkeley-based, deep connections to robotics/RL community",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1769062407617-2904",
@@ -9168,5 +9165,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:05:05.812Z"
+  "last_updated": "2026-01-23T08:26:08.744Z"
 }
