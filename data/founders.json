@@ -10144,7 +10144,21 @@
       "linkedin": "",
       "notes": "Helm.ai - autonomous vehicle AI, from Chris Barber's AV adoption list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130229528-5313",
+      "name": "Pony.ai",
+      "city": "SF",
+      "tags": [
+        "Autonomous Vehicles",
+        "Robotaxi",
+        "Chris Barber AV List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Pony.ai - autonomous vehicle/robotaxi company, from Chris Barber's AV adoption list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:03:48.431Z"
+  "last_updated": "2026-01-23T01:03:49.528Z"
 }
