@@ -10172,7 +10172,22 @@
       "linkedin": "",
       "notes": "WeRide - autonomous vehicle company, from Chris Barber's AV adoption list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130279580-7211",
+      "name": "Arcee AI",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "LLMs",
+        "AI Models",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Arcee AI - LLM company on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:03:50.832Z"
+  "last_updated": "2026-01-23T01:04:39.580Z"
 }
