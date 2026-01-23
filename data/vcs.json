@@ -7,14 +7,16 @@
       "city": "SF",
       "tags": [
         "a16z",
-        "General Partner",
+        "PRIORITY: HIGHEST",
+        "GP",
         "SDN Pioneer",
         "VMware",
-        "Nicira"
+        "Nicira",
+        "Infrastructure Legend"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "General Partner at a16z. Pioneer of Software-Defined Networking (SDN). Founded Nicira (acquired by VMware for $1.26B). PhD Stanford.",
+      "notes": "General Partner @ a16z. WHY TARGET: Pioneer of Software-Defined Networking (SDN). Founded Nicira (acquired by VMware for $1.26B). PhD Stanford. Deep infrastructure expertise - understands paradigm shifts in compute. Key voice on AI infrastructure buildout.",
       "checked": false
     },
     {
@@ -525,5 +527,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:33:18.934Z"
+  "last_updated": "2026-01-23T00:33:40.106Z"
 }
