@@ -9391,7 +9391,22 @@
       "linkedin": "",
       "notes": "Vassar - open source robot kit, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129871134-2701",
+      "name": "Flywheel Robotics",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Autonomous Excavators",
+        "Construction",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Flywheel - autonomous excavators, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:57:50.033Z"
+  "last_updated": "2026-01-23T00:57:51.134Z"
 }
