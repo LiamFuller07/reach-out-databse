@@ -130,16 +130,17 @@
     {
       "id": "f-10",
       "name": "Mahesh Sathiamoorthy",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Bespoke Labs",
         "Google DeepMind",
-        "KDD Best Paper"
+        "KDD Best Paper",
+        "rl-outreach-jan-2026"
       ],
-      "x": "madiator",
-      "linkedin": "https://linkedin.com/in/smaheswaran",
-      "notes": "Co-founder & CEO @ Bespoke Labs | $7.25M seed | Curating data & RL environments to improve AI models - built OpenThoughts (best open reasoning dataset) & trained Bespoke-MiniCheck/MiniChart | prev Google DeepMind Staff SWE (LLM-based recommender models for YouTube) | USC/IIT Kharagpur",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-11",
@@ -10824,5 +10825,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:12:51.380Z"
+  "last_updated": "2026-01-23T08:22:11.943Z"
 }
