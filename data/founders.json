@@ -9406,7 +9406,22 @@
       "linkedin": "",
       "notes": "Flywheel - autonomous excavators, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129872678-3441",
+      "name": "Lucky Robots",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Simulation",
+        "Synthetic Data",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Lucky Robots - simulations for data generation, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:57:51.134Z"
+  "last_updated": "2026-01-23T00:57:52.678Z"
 }
