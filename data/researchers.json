@@ -8993,7 +8993,24 @@
       "linkedin": "",
       "notes": "Figuring out the near term trajectory of AGI. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129401029-5984",
+      "name": "Karol Hausman",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence",
+        "Pi",
+        "Robotics",
+        "Google Brain",
+        "PRIORITY: HIGHEST",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Physical Intelligence (Pi). Prev Google Brain robotics researcher. Leading robotics foundation model company. Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:48:25.873Z"
+  "last_updated": "2026-01-23T00:50:01.029Z"
 }
