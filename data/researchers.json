@@ -9044,7 +9044,23 @@
       "linkedin": "",
       "notes": "Co-founder @ Physical Intelligence (Pi). Stanford Professor. Pioneer in meta-learning and robot learning. MAML creator. Found via Chris Barber's robotics list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129404773-2057",
+      "name": "Brian Ichter",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence",
+        "Pi",
+        "Google Brain",
+        "Robotics",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Physical Intelligence (Pi). Prev Google Brain robotics. Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:03.504Z"
+  "last_updated": "2026-01-23T00:50:04.773Z"
 }
