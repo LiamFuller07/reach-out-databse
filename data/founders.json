@@ -10327,7 +10327,21 @@
       "linkedin": "",
       "notes": "Liquid AI - liquid neural networks, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130375023-5616",
+      "name": "Physical Intelligence",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "Robotics AI",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Physical Intelligence - robotics AI, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:06:13.631Z"
+  "last_updated": "2026-01-23T01:06:15.023Z"
 }
