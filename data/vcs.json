@@ -54,14 +54,16 @@
       "city": "SF",
       "tags": [
         "a16z",
+        "PRIORITY: HIGHEST",
+        "AI-Native",
         "Cursor investor",
         "Character AI",
         "Replicate",
-        "AI Investor"
+        "Foundation Models"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Partner @ a16z, AI enthusiast. Investor in Cursor, unconvAI, Character AI, Replicate, Tabulario, and many AI/data companies",
+      "notes": "Partner @ a16z. WHY TARGET: Direct AI/coding tools investor (Cursor, Character AI, Replicate). Deep foundation model expertise. Key portfolio: Cursor (coding AI), Character AI (conversational), Replicate (model hosting), Tabulario. Writes extensively on AI infrastructure.",
       "checked": false
     },
     {
@@ -512,5 +514,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-22T02:32:05.315Z"
+  "last_updated": "2026-01-23T00:32:46.875Z"
 }
