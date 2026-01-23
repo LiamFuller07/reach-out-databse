@@ -396,16 +396,17 @@
     {
       "id": "f-29",
       "name": "Jerry Wu",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Halluminate",
         "YC",
-        "Capital One"
+        "Capital One",
+        "rl-outreach-jan-2026"
       ],
-      "x": "Jerr_Wu",
-      "linkedin": "https://linkedin.com/in/jerry-wu-7814b0100",
-      "notes": "Co-founder & CEO @ Halluminate (YC) | Building eval infrastructure for AI agents - realistic sandboxes & datasets for computer/browser use AI training | Alchemist Accelerator backed | prev Capital One Labs (led product/research, launched first AI agents in finservices, 3 patents) | Cornell CS | Roommates with Wyatt 7 yrs",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-30",
@@ -10833,5 +10834,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:23:32.031Z"
+  "last_updated": "2026-01-23T08:23:33.569Z"
 }
