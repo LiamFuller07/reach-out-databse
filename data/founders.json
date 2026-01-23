@@ -9644,7 +9644,21 @@
       "linkedin": "",
       "notes": "Reflex Robotics - wheeled humanoid robots, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129939075-5267",
+      "name": "Adam Patni",
+      "city": "SF",
+      "tags": [
+        "Keen AGI",
+        "Robotics",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Keen AGI - robotics work mentioned by Chris Barber",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:58:57.811Z"
+  "last_updated": "2026-01-23T00:58:59.075Z"
 }
