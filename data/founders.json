@@ -341,17 +341,18 @@
     {
       "id": "f-25",
       "name": "Ross Taylor",
-      "city": "SF",
+      "city": "",
       "tags": [
         "General Reasoning",
         "Meta AI",
         "Galactica",
-        "Papers with Code"
+        "Papers with Code",
+        "rl-outreach-jan-2026"
       ],
-      "x": "rosstaylor90",
-      "linkedin": "https://linkedin.com/in/rosstaylor90",
-      "notes": "Co-founder & CEO @ General Reasoning | Enabling agents to work autonomously for extended periods via RL | prev Meta AI LLM team lead (Llama 2/3, Galactica) | Co-founded Papers with Code (acq Meta) | Quant finance/sports betting background | Cambridge | London-based",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-26",
@@ -10832,5 +10833,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:23:05.948Z"
+  "last_updated": "2026-01-23T08:23:32.031Z"
 }
