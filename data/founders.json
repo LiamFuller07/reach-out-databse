@@ -8665,7 +8665,22 @@
       "linkedin": "",
       "notes": "Objectivist & techno-optimist, designing the future. Stealth founder. Previously @ tx_tech. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129151833-7587",
+      "name": "Benjamin Kassan",
+      "city": "SF",
+      "tags": [
+        "AI Trading",
+        "Finance Agents",
+        "Economics AI",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Builds AI trading, consulting and finance agents to understand economics and markets. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:45:07.625Z"
+  "last_updated": "2026-01-23T00:45:51.833Z"
 }
