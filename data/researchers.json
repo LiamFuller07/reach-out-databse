@@ -2551,14 +2551,15 @@
       "name": "Nathan Lambert",
       "city": "SF",
       "tags": [
-        "RLHF",
-        "Allen AI",
-        "prev Hugging Face",
-        "RL for LLMs"
+        "RLHF Expert",
+        "AI Researcher",
+        "Hugging Face",
+        "PRIORITY: HIGHEST",
+        "Chris Barber Network"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "RLHF researcher, prev Hugging Face, Allen Institute for AI, expert on reinforcement learning from human feedback, popular AI newsletter author",
+      "notes": "Prominent AI/RLHF researcher. Previously @ Hugging Face working on RLHF and alignment. Writes extensively on RL for LLMs. Found in X suggestions from Chris Barber page.",
       "checked": false
     },
     {
@@ -8881,5 +8882,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:44:40.481Z"
+  "last_updated": "2026-01-23T00:45:08.894Z"
 }
