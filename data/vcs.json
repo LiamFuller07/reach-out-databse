@@ -548,7 +548,22 @@
       "linkedin": "",
       "notes": "Start-up investor @ B Capital Group. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "vcs-1769129084849-6790",
+      "name": "Geoff Hamilton",
+      "city": "SF",
+      "tags": [
+        "Variant Fund",
+        "Millennium",
+        "Investor",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Investing. Previously @ Variant Fund, Millennium. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:44:43.202Z"
+  "last_updated": "2026-01-23T00:44:44.849Z"
 }
