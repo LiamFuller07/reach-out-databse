@@ -334,7 +334,22 @@
       "linkedin": "",
       "notes": "Mercury founder & CEO, YC partner, prolific fintech angel. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128015132-5598",
+      "name": "Erik Torenberg",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "Village Global",
+        "On Deck",
+        "Podcaster"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Village Global co-founder, On Deck founder, podcaster. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:26:53.798Z"
+  "last_updated": "2026-01-23T00:26:55.132Z"
 }
