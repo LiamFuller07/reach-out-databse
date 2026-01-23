@@ -9165,7 +9165,20 @@
       "linkedin": "",
       "notes": "AI search startup. Part of Chris Barber's AI search space list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129645061-5012",
+      "name": "Happenstance (Company)",
+      "city": "SF",
+      "tags": [
+        "AI Search",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI search startup. Part of Chris Barber's AI search space list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:54:03.662Z"
+  "last_updated": "2026-01-23T00:54:05.061Z"
 }
