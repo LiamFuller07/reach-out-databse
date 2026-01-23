@@ -9027,7 +9027,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Physical Intelligence (Pi). UC Berkeley Professor. Pioneer in robotics RL and robot learning. Found via Chris Barber's robotics list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129403504-58",
+      "name": "Chelsea Finn",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence",
+        "Pi",
+        "Stanford",
+        "Meta-Learning Pioneer",
+        "PRIORITY: HIGHEST",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Physical Intelligence (Pi). Stanford Professor. Pioneer in meta-learning and robot learning. MAML creator. Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:02.324Z"
+  "last_updated": "2026-01-23T00:50:03.504Z"
 }
