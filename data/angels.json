@@ -199,7 +199,22 @@
       "linkedin": "",
       "notes": "Angel Investor, 18 years old",
       "checked": false
+    },
+    {
+      "id": "angels-1769127982487-4237",
+      "name": "Naval Ravikant",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "AngelList Founder",
+        "Philosopher",
+        "Top Angel"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AngelList founder, prolific angel investor, philosopher. Recommended by multiple founders as most helpful angel investor (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-21T20:12:33.367Z"
+  "last_updated": "2026-01-23T00:26:22.487Z"
 }
