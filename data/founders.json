@@ -8650,7 +8650,22 @@
       "linkedin": "",
       "notes": "Building bracket.bot - you can buy a robot. High-inference robotics. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129107625-8338",
+      "name": "Oliver Stark",
+      "city": "SF",
+      "tags": [
+        "Stealth Founder",
+        "tx_tech",
+        "Techno-optimist",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Objectivist & techno-optimist, designing the future. Stealth founder. Previously @ tx_tech. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:45:06.184Z"
+  "last_updated": "2026-01-23T00:45:07.625Z"
 }
