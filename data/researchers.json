@@ -6074,15 +6074,12 @@
       "name": "Hamel Husain",
       "city": "",
       "tags": [
-        "ai-evals",
-        "llm-benchmarks",
-        "evals.info",
-        "mlops"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-creator of evals.info. Bio: 'Evals evals evals'. Major voice in AI evaluation space. 42K+ followers. Website: hamel.dev. Looking at the data.",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1769023976414-2843",
@@ -9087,5 +9084,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:29:21.773Z"
+  "last_updated": "2026-01-23T08:29:33.683Z"
 }
