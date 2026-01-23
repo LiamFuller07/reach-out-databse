@@ -159,16 +159,17 @@
     {
       "id": "f-12",
       "name": "Sophia Wisdom",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Calaveras",
         "OpenAI",
-        "FlashAttention-3"
+        "FlashAttention-3",
+        "rl-outreach-jan-2026"
       ],
-      "x": "cis_female",
-      "linkedin": "https://linkedin.com/in/sophia-wisdom",
-      "notes": "CTO & Dataset Gatherer @ Calaveras AI | Sold 100B+ token code dataset to 4 of top 6 AI labs (no one else found it) | Now expanding into RL environments | prev OpenAI, Google, Apple, Reduct.Video | 10 yrs AI/SWE | SF-based | 26 y/o",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-13",
@@ -10825,5 +10826,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:22:11.943Z"
+  "last_updated": "2026-01-23T08:22:13.333Z"
 }
