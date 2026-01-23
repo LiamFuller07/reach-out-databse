@@ -1467,15 +1467,16 @@
     {
       "id": "f-105",
       "name": "Emil Froberg",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Vectorview",
-        "YC AI Agents"
+        "YC AI Agents",
+        "rl-outreach-jan-2026"
       ],
-      "x": "emilfroberg",
-      "linkedin": "https://linkedin.com/in/emil-froberg",
-      "notes": "Co-founder & CEO @ Andon Labs (prev Vectorview) (YC W24) | AI capability evaluation | prev Klarna (Product & Data lead) | AI safety advocate | Stockholm-based",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-106",
@@ -10831,5 +10832,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:22:52.518Z"
+  "last_updated": "2026-01-23T08:23:05.948Z"
 }
