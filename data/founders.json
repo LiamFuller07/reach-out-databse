@@ -10341,7 +10341,21 @@
       "linkedin": "",
       "notes": "Physical Intelligence - robotics AI, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130376492-7893",
+      "name": "Nous Research",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "Open Source LLMs",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Nous Research - open source LLMs, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:06:15.023Z"
+  "last_updated": "2026-01-23T01:06:16.492Z"
 }
