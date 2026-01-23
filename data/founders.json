@@ -8618,7 +8618,23 @@
       "linkedin": "",
       "notes": "Orchestration tool for Claude Code by covibes. On Chris Barber's list of tools that pair well with Claude Code.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129085894-5715",
+      "name": "Basly Asma",
+      "city": "SF",
+      "tags": [
+        "oorb.io",
+        "Replit for Robotics",
+        "CERN",
+        "Robotics",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Building Replit for Robotics @ oorb.io. Previously @ CERN. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:15:00.993Z"
+  "last_updated": "2026-01-23T00:44:45.894Z"
 }
