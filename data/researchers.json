@@ -213,18 +213,14 @@
     {
       "id": "r-16",
       "name": "Zhengyang Qi",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Snorkel AI",
-        "Scale AI",
-        "RL",
-        "reward modeling",
-        "social intelligence"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Research at Snorkel AI. Previously Scale AI. Multiturn RL, reward modeling, interactive environments, artificial social intelligence.",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "r-17",
@@ -9123,5 +9119,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:27:20.406Z"
+  "last_updated": "2026-01-23T08:28:28.263Z"
 }
