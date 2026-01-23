@@ -10510,7 +10510,21 @@
       "linkedin": "",
       "notes": "H Company AI - on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130433406-1586",
+      "name": "Prima Mente",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Prima Mente - on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:07:12.175Z"
+  "last_updated": "2026-01-23T01:07:13.406Z"
 }
