@@ -8987,7 +8987,21 @@
       "linkedin": "",
       "notes": "Founder and CTO @ Cognito (acquired by Plaid). Found via Chris Barber's who to follow.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129501916-2978",
+      "name": "/dev/agents (Company)",
+      "city": "SF",
+      "tags": [
+        "Agents Infrastructure",
+        "AI Agents",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Agents infrastructure startup. Found via Chris Barber's agents space list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:51:39.680Z"
+  "last_updated": "2026-01-23T00:51:41.916Z"
 }
