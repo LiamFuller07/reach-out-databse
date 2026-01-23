@@ -625,7 +625,23 @@
       "linkedin": "",
       "notes": "Partner @ IDC Ventures. Attorney. Investing early across US, LatAm, and Europe. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "vcs-1769129203392-8656",
+      "name": "Michael Dempsey",
+      "city": "SF",
+      "tags": [
+        "Compound VC",
+        "MP",
+        "Science Projects",
+        "Crypto",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Managing Partner @ Compound VC. Investing & researching former science projects & crypto. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:45:59.253Z"
+  "last_updated": "2026-01-23T00:46:43.392Z"
 }
