@@ -10541,7 +10541,23 @@
       "linkedin": "",
       "notes": "Mathematical Co - on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130438282-2781",
+      "name": "Project Prometheus (General Agents)",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "General Agents",
+        "Bezos-backed",
+        "Chris Barber NeoLabs List",
+        "PRIORITY: HIGH"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Project Prometheus - General Agents team, Bezos-backed, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:07:17.058Z"
+  "last_updated": "2026-01-23T01:07:18.282Z"
 }
