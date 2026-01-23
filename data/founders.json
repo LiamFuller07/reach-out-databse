@@ -10398,7 +10398,21 @@
       "linkedin": "",
       "notes": "Sakana AI Labs - Japan-based AI lab, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130404559-6295",
+      "name": "Essential AI",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Essential AI - on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:06:42.967Z"
+  "last_updated": "2026-01-23T01:06:44.559Z"
 }
