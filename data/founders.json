@@ -10647,7 +10647,21 @@
       "linkedin": "",
       "notes": "Lab with Richard Socher, Tim Shi and others, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130465907-8151",
+      "name": "Bagel",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Bagel - on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:07:44.621Z"
+  "last_updated": "2026-01-23T01:07:45.907Z"
 }
