@@ -109,14 +109,15 @@
       "city": "SF",
       "tags": [
         "Felicis",
+        "PRIORITY: HIGH",
         "GP",
-        "Redpoint",
-        "Quiet Capital",
-        "Cisco Investments"
+        "Infrastructure",
+        "Redpoint alum",
+        "Memory Leak Blog"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "General Partner @ Felicis, prev Redpoint, Quiet Capital & Cisco Investments. Blog: medium.com/memory-leak",
+      "notes": "General Partner @ Felicis. WHY TARGET: Infrastructure investor with deep market mapping. Prev Redpoint, Quiet Capital & Cisco Investments. Writes Memory Leak blog (medium.com/memory-leak) - valuable for understanding infra trends.",
       "checked": false
     },
     {
@@ -527,5 +528,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:33:41.222Z"
+  "last_updated": "2026-01-23T00:33:42.355Z"
 }
