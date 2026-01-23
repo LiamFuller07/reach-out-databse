@@ -8867,7 +8867,21 @@
       "linkedin": "",
       "notes": "@ Bot Company. Found via Chris Barber's robotics list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129428640-2173",
+      "name": "Charlie Wu",
+      "city": "SF",
+      "tags": [
+        "Orchard Robotics",
+        "Robotics",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Orchard Robotics. Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:27.396Z"
+  "last_updated": "2026-01-23T00:50:28.640Z"
 }
