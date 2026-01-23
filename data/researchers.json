@@ -9107,7 +9107,22 @@
       "linkedin": "",
       "notes": "Honda Research Institute - corporate robotics lab, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129993708-5447",
+      "name": "MERL (Mitsubishi Electric Research Labs)",
+      "city": "Boston",
+      "tags": [
+        "Robotics Lab",
+        "Mitsubishi",
+        "Corporate Research",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Mitsubishi Electric Research Labs - corporate robotics lab, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:59:52.579Z"
+  "last_updated": "2026-01-23T00:59:53.708Z"
 }
