@@ -10631,7 +10631,23 @@
       "linkedin": "",
       "notes": "Keen Technologies - John Carmack's AI company, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130464621-5304",
+      "name": "Richard Socher Lab",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "Richard Socher",
+        "Tim Shi",
+        "Chris Barber NeoLabs List",
+        "PRIORITY: HIGH"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Lab with Richard Socher, Tim Shi and others, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:07:43.174Z"
+  "last_updated": "2026-01-23T01:07:44.621Z"
 }
