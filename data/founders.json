@@ -10717,7 +10717,22 @@
       "linkedin": "",
       "notes": "Goodfire AI - interpretability focused, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130491918-6488",
+      "name": "Reflection AI",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "Enterprise",
+        "US Open Models",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Reflection AI - enterprise focused, US open models, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:08:09.985Z"
+  "last_updated": "2026-01-23T01:08:11.918Z"
 }
