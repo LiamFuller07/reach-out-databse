@@ -8862,7 +8862,24 @@
       "linkedin": "",
       "notes": "AI research organization - \"Investigating the trajectory of AI for the benefit of society\" - publishes Gradient Updates on RL environments, compute trends, AI forecasting. Key researchers: jsd (@datagenproc), collaborates with Chris Barber",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129080481-6744",
+      "name": "Philipp Wu",
+      "city": "SF",
+      "tags": [
+        "Berkeley AI PhD",
+        "Pieter Abbeel",
+        "Meta AI",
+        "Covariant",
+        "Robotics",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "PhD @ Berkeley AI advised by Pieter Abbeel. Previously @ Meta AI and Covariant (robotics). Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-22T06:13:27.617Z"
+  "last_updated": "2026-01-23T00:44:40.481Z"
 }
