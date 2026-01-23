@@ -10073,7 +10073,22 @@
       "linkedin": "",
       "notes": "Robotics/AI expert, contributor to Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130203575-3408",
+      "name": "Alex Telchman",
+      "city": "SF",
+      "tags": [
+        "Happenstance",
+        "AI Search",
+        "Network Search",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ Happenstance - natural language search for your network, recommended by Chris Barber as interesting startup",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:01:13.343Z"
+  "last_updated": "2026-01-23T01:03:23.575Z"
 }
