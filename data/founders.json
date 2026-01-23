@@ -1418,15 +1418,14 @@
     {
       "id": "f-103",
       "name": "Sandra Tang",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "AgentHub",
-        "YC AI Agents"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/sandra-tang",
-      "notes": "Co-founder @ AgentHub (YC S25) | Building AI agent simulation & eval platform - test agents in realistic scenarios before deployment | prev Google, Meta, Nooks, Pomelo | MIT CS & Design | Solo-developed 70+ games (700K+ plays)",
-      "checked": false
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-104",
@@ -10785,5 +10784,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:30:13.439Z"
+  "last_updated": "2026-01-23T08:30:14.923Z"
 }
