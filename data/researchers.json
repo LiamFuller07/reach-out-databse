@@ -5818,18 +5818,14 @@
     {
       "id": "researchers-1768992673476-2655",
       "name": "Klemen Kotar",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Stanford PhD",
-        "World Models",
-        "prev Allen AI",
-        "RL Environments",
-        "Jaya Network"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "CS PhD Candidate @ Stanford, building large world models, Previously PYI @ Allen AI - Found via Jaya Gupta's following",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1768992801190-3888",
@@ -9159,5 +9155,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:26:16.273Z"
+  "last_updated": "2026-01-23T08:26:17.372Z"
 }
