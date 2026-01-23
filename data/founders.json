@@ -1356,14 +1356,12 @@
       "name": "Axel Backlund",
       "city": "",
       "tags": [
-        "AI benchmarks",
-        "Andon Labs",
-        "VendingBench"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "@andonlabs team. Works on AI benchmarks including VendingBench for evaluating AI agents.",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-98",
@@ -10815,5 +10813,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:26:14.886Z"
+  "last_updated": "2026-01-23T08:26:40.993Z"
 }
