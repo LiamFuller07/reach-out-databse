@@ -7617,18 +7617,14 @@
     {
       "id": "researchers-1769031037431-5258",
       "name": "Percy Liang",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Stanford",
-        "Together Compute",
-        "StanfordHAI",
-        "CRFM",
-        "HELM"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Associate Professor @ Stanford CS, co-founder @ Together Compute, leads Stanford HAI/CRFM/NLP groups, created HELM benchmark, advised Jacob Steinhardt",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1769031038551-1263",
@@ -9097,5 +9093,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:28:39.155Z"
+  "last_updated": "2026-01-23T08:28:41.039Z"
 }
