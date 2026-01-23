@@ -174,15 +174,16 @@
     {
       "id": "f-13",
       "name": "Alana Xiang",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Calaveras",
-        "Stanford dropout"
+        "Stanford dropout",
+        "rl-outreach-jan-2026"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/alana-xiang",
-      "notes": "Co-founder @ Calaveras AI | Building 100B+ novel code tokens & robust RL environments for frontier labs | Stanford CS dropout (left to learn faster at startup) | prev Center on Long-Term Risk Research Fellow, SERI MATS (AI Alignment with Vivek Hebbar/MIRI)",
-      "checked": false
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-14",
@@ -10827,5 +10828,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:22:14.898Z"
+  "last_updated": "2026-01-23T08:22:39.479Z"
 }
