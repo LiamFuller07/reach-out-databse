@@ -2363,13 +2363,13 @@
       "name": "Vincent Weisser",
       "city": "SF",
       "tags": [
-        "Prime Intellect",
-        "CEO",
-        "Neolabs"
+        "AI",
+        "NeoLabs Contributor",
+        "Chris Barber Network"
       ],
-      "x": "vincentweisser",
-      "linkedin": "https://linkedin.com/in/vincentweisser",
-      "notes": "Co-founder & CEO @ Prime Intellect | Open superintelligence & decentralized AI infra | Released INTELLECT-3 (100B+ MoE) | Founded VitaDAO | $20.5M raised (Founders Fund) | 27K+ X followers",
+      "x": "",
+      "linkedin": "",
+      "notes": "Contributor to Chris Barber's neolabs list",
       "checked": false
     },
     {
@@ -10189,5 +10189,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:04:40.957Z"
+  "last_updated": "2026-01-23T01:04:42.222Z"
 }
