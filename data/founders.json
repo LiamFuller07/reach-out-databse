@@ -9929,7 +9929,20 @@
       "linkedin": "",
       "notes": "Robotics expert, contributor to Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130043074-2095",
+      "name": "Cam Fassett",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics expert, contributor to Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:00:41.949Z"
+  "last_updated": "2026-01-23T01:00:43.074Z"
 }
