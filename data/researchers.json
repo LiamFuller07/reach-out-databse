@@ -7254,20 +7254,14 @@
     {
       "id": "researchers-1769026882919-9862",
       "name": "Ofir Press",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "SWE-bench",
-        "SWE-agent",
-        "SciCode",
-        "AlgoTune",
-        "Princeton",
-        "Evals",
-        "Benchmarks"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Builds tough benchmarks for LMs - creator of SWE-bench, SWE-agent, SciCode, AlgoTune. Postdoc @ Princeton, PhD @ UW with Noah Smith",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1769026917451-9584",
@@ -9093,5 +9087,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:28:41.039Z"
+  "last_updated": "2026-01-23T08:29:21.773Z"
 }
