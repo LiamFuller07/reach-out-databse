@@ -9075,7 +9075,24 @@
       "linkedin": "",
       "notes": "@ Prometheus Robotics. Prev DeepMind researcher. Found via Chris Barber's robotics list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129446852-1470",
+      "name": "Liam Fedus",
+      "city": "SF",
+      "tags": [
+        "Periodic Robotics",
+        "OpenAI",
+        "Google Brain",
+        "Mixture of Experts",
+        "PRIORITY: HIGH",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Periodic Robotics. Previously @ OpenAI and Google Brain. Known for work on Mixture of Experts and Switch Transformer. Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:29.923Z"
+  "last_updated": "2026-01-23T00:50:46.852Z"
 }
