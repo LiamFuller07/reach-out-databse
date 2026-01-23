@@ -2579,17 +2579,14 @@
     {
       "id": "researchers-1768986193702-1017",
       "name": "Natasha Jaques",
-      "city": "Seattle",
+      "city": "",
       "tags": [
-        "UW CSE",
-        "Google AI",
-        "Multi-Agent RL",
-        "Social RL"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Assistant Professor @ UW CSE, Staff Research Scientist @ Google AI, PhD MIT Media Lab, research on multi-agent RL, social reinforcement learning, AI alignment",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1768986194638-1392",
@@ -9133,5 +9130,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:27:14.892Z"
+  "last_updated": "2026-01-23T08:27:16.269Z"
 }
