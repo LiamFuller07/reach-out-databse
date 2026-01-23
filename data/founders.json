@@ -4475,15 +4475,16 @@
       "name": "Ananth Kashyap",
       "city": "SF",
       "tags": [
-        "Physical AI",
         "YC X25",
+        "Physical AI",
+        "Data",
         "Penn",
         "Google",
-        "Robotics"
+        "Chris Barber Network"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Data for physical AI (YC X25) / prev @ Penn, Google. Building data infrastructure for robotics/physical AI.",
+      "notes": "Data for physical AI. YC X25 batch. Previously @ Penn, Google. Found via Chris Barber's following list.",
       "checked": false
     },
     {
@@ -8636,5 +8637,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:44:45.894Z"
+  "last_updated": "2026-01-23T00:44:47.466Z"
 }
