@@ -136,13 +136,15 @@
       "city": "SF",
       "tags": [
         "Menlo Ventures",
+        "PRIORITY: HIGHEST",
         "Glean founding team",
+        "Enterprise AI",
         "ex-Google Search",
-        "Cornell CS"
+        "Technical"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Partner @ Menlo Ventures, formerly founding team @ Glean, ex-Google Search, Cornell CS, influential tech voice on X",
+      "notes": "Partner @ Menlo Ventures. WHY TARGET: Founding team @ Glean (enterprise AI search unicorn), ex-Google Search, Cornell CS. Technical depth in search/retrieval, influential tech voice on X (180k+ followers), understands AI product-market fit deeply.",
       "checked": false
     },
     {
@@ -516,5 +518,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:32:47.982Z"
+  "last_updated": "2026-01-23T00:32:49.028Z"
 }
