@@ -4173,21 +4173,14 @@
     {
       "id": "founders-1768981934253-9206",
       "name": "Lorenss Martinsons",
-      "city": "San Francisco",
+      "city": "",
       "tags": [
-        "hud.ai",
-        "CPO",
-        "Founder",
-        "YC W25",
-        "Yale",
-        "Cognitive Science",
-        "AI Interpretability",
-        "Hume AI"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founder & CPO at hud.ai (Human Union Data, Inc.) - YC W25. BS in Cognitive Science from Yale. Ex-AI Interpretability Research Engineer at Hume AI. Research spans cognitive and neural computation, computational linguistics. Led development at Yale Computer Society, RealmAI. Also an artist, filmmaker, and composer - created soundtracks for feature films including 'Saki Ja!' (2021). Interests: natural intelligence, flowers, and the human condition. Based in San Francisco.",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "founders-1768981935512-1466",
@@ -10832,5 +10825,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:25:25.818Z"
+  "last_updated": "2026-01-23T08:26:11.082Z"
 }
