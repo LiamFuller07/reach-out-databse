@@ -972,16 +972,14 @@
     {
       "id": "f-70",
       "name": "Augustine Mavor-Parker",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Vmax",
-        "UCL PhD",
-        "Redwood Research"
+        "rl-outreach-jan-2026"
       ],
-      "x": "MavorParker",
-      "linkedin": "https://linkedin.com/in/augustine-mavor-parker",
-      "notes": "Co-Founder & CTO @ Vmax, UCL PhD in ML, prev Redwood Research/Cold Spring Harbor Lab/South Park Commons, RL + LLM researcher",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-71",
@@ -10813,5 +10811,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:26:40.993Z"
+  "last_updated": "2026-01-23T08:26:44.124Z"
 }
