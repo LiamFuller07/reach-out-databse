@@ -9346,7 +9346,22 @@
       "linkedin": "",
       "notes": "Innate - $2k teachable robot, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129867814-6153",
+      "name": "Relling Systems",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "RL Infrastructure",
+        "Data Infrastructure",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Relling Systems - RL/data infrastructure for robotics, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:57:46.732Z"
+  "last_updated": "2026-01-23T00:57:47.814Z"
 }
