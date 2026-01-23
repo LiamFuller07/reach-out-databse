@@ -244,7 +244,22 @@
       "linkedin": "",
       "notes": "Author of High Growth Handbook, former Google VP, prolific angel investor. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769127988674-5985",
+      "name": "Balaji Srinivasan",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "a16z",
+        "Network State",
+        "Coinbase CTO"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Former a16z GP, former Coinbase CTO, author of The Network State. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:26:26.870Z"
+  "last_updated": "2026-01-23T00:26:28.674Z"
 }
