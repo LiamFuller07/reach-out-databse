@@ -379,7 +379,22 @@
       "linkedin": "",
       "notes": "WordPress/Automattic founder, open source advocate. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128042808-306",
+      "name": "Ryan Breslow",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "Bolt",
+        "Love.com",
+        "Fintech"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Bolt founder, Love.com founder. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:27:16.681Z"
+  "last_updated": "2026-01-23T00:27:22.808Z"
 }
