@@ -9302,7 +9302,21 @@
       "linkedin": "",
       "notes": "Founder @ Patronus AI, AI data/evaluation startup, discovered via Chris Barber's AI data startups list (referred by @Timshi_ai)",
       "checked": false
+    },
+    {
+      "id": "founders-1769129776356-1550",
+      "name": "Sean Cai",
+      "city": "SF",
+      "tags": [
+        "AI Data",
+        "Chris Barber Network",
+        "Networker"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI data startup connector, referred antim labs, lucent, good start labs to Chris Barber's network",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:56:15.071Z"
+  "last_updated": "2026-01-23T00:56:16.356Z"
 }
