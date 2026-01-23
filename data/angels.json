@@ -229,7 +229,22 @@
       "linkedin": "",
       "notes": "Y Combinator co-founder, essayist, prolific angel investor. Recommended by founders as most helpful angel (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769127986870-9057",
+      "name": "Elad Gil",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "High Growth Handbook",
+        "Google",
+        "Top Angel"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Author of High Growth Handbook, former Google VP, prolific angel investor. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:26:25.029Z"
+  "last_updated": "2026-01-23T00:26:26.870Z"
 }
