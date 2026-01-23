@@ -89,13 +89,14 @@
       "name": "Carlos Georgescu",
       "city": "SF",
       "tags": [
-        "AfterQuery",
-        "YC W25",
-        "Citadel"
+        "Code & Finance",
+        "RL Environment",
+        "Pavlov's List",
+        "Chris Barber Network"
       ],
-      "x": "CarlosGeorgescu",
-      "linkedin": "https://linkedin.com/in/carlossgg",
-      "notes": "Co-founder & CTO @ AfterQuery (YC W25) | Research lab investigating AI capabilities through novel datasets & experimentation | prev Citadel Securities (2x intern), Meta, Google | UBC CS | Won largest academic scholarship in Canada | Met Spencer at Google summer program in HS",
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Code & Finance - RL environment startup. Part of Chris Barber's Pavlov's List of RL environment startups.",
       "checked": false
     },
     {
@@ -9017,5 +9018,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:51:43.919Z"
+  "last_updated": "2026-01-23T00:52:44.620Z"
 }
