@@ -314,16 +314,14 @@
     {
       "id": "f-23",
       "name": "Nicolai Ouporov",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Fleet AI",
-        "Columbia",
-        "Respell"
+        "rl-outreach-jan-2026"
       ],
-      "x": "nicolas_ouporov",
-      "linkedin": "https://linkedin.com/in/nicolas-ouporov",
-      "notes": "Co-founder & CEO @ Fleet AI | Building high-fidelity 'training gyms' where AI agents practice tasks under human supervision | prev Respell Founding Engineer (acq by Salesforce) | Columbia BA CS | IEEE publications on embodied AI & human-robot collaboration | Former professional ballet (Boston, SF, Ballet West)",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-24",
@@ -10834,5 +10832,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:25:24.335Z"
+  "last_updated": "2026-01-23T08:25:25.818Z"
 }
