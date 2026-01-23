@@ -17,16 +17,14 @@
     {
       "id": "f-2",
       "name": "Ronak Malde",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Google DeepMind",
-        "RL/AI",
-        "Stanford"
+        "rl-outreach-jan-2026"
       ],
-      "x": "rronak_",
-      "linkedin": "https://linkedin.com/in/ronak-malde",
-      "notes": "Research @ Google DeepMind (joined July 2025) | Working on training agentic coding | prev Windsurf - trained SWE-1 (frontier SWE model) | Stanford grad | Part of $2.4B Windsurf-Google acquihire deal",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-3",
@@ -10799,5 +10797,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:27:54.395Z"
+  "last_updated": "2026-01-23T08:27:55.683Z"
 }
