@@ -349,7 +349,22 @@
       "linkedin": "",
       "notes": "Village Global co-founder, On Deck founder, podcaster. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128035443-302",
+      "name": "William Hockey",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "Plaid",
+        "Fintech",
+        "Column"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Plaid co-founder, Column founder. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:26:55.132Z"
+  "last_updated": "2026-01-23T00:27:15.443Z"
 }
