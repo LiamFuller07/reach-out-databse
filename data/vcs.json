@@ -72,14 +72,16 @@
       "city": "SF",
       "tags": [
         "Lightspeed VP",
+        "PRIORITY: HIGHEST",
         "Anthropic investor",
+        "AI Safety",
         "Exa AI",
         "Chainguard",
-        "Tech+Infra"
+        "Infrastructure"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founder + Investing @ Lightspeed VP, Tech+Infra. Investments: Anthropic AI, Exa AI Labs, Cyera, Chainguard, NextHop AI, Eve Legal AI, Descope, Nominal, Zscaler",
+      "notes": "Founder + Investing @ Lightspeed VP, Tech+Infra. WHY TARGET: ANTHROPIC INVESTOR - direct AI safety alignment. Portfolio: Anthropic AI, Exa AI Labs, Cyera, Chainguard, NextHop AI, Eve Legal AI, Descope, Nominal, Zscaler. Focus on AI infrastructure and security.",
       "checked": false
     },
     {
@@ -514,5 +516,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:32:46.875Z"
+  "last_updated": "2026-01-23T00:32:47.982Z"
 }
