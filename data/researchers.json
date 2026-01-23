@@ -4,17 +4,14 @@
     {
       "id": "r-1",
       "name": "Jacob Steinhardt",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Transluce",
-        "UC Berkeley",
-        "MMLU creator",
-        "AI Safety"
+        "rl-outreach-jan-2026"
       ],
-      "x": "JacobSteinhardt",
+      "x": "",
       "linkedin": "",
-      "notes": "Co-founder & CEO @ Transluce, Associate Prof UC Berkeley, PhD Stanford (advised by Percy Liang), co-author 'Concrete Problems in AI Safety', MMLU creator",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "r-2",
@@ -9100,5 +9097,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:28:37.121Z"
+  "last_updated": "2026-01-23T08:28:39.155Z"
 }
