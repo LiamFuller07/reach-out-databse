@@ -9017,7 +9017,22 @@
       "linkedin": "",
       "notes": "Agents infrastructure startup. Found via Chris Barber's agents space list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129567229-7005",
+      "name": "Danny Tang",
+      "city": "SF",
+      "tags": [
+        "Code & Finance",
+        "RL Environment",
+        "Pavlov's List",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Code & Finance - RL environment startup. Part of Chris Barber's Pavlov's List of RL environment startups.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:52:45.989Z"
+  "last_updated": "2026-01-23T00:52:47.229Z"
 }
