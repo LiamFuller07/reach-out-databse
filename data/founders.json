@@ -9916,7 +9916,20 @@
       "linkedin": "",
       "notes": "Robotics expert, contributor to Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130041949-7164",
+      "name": "Brad Porter",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics expert, contributor to Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:00:26.596Z"
+  "last_updated": "2026-01-23T01:00:41.949Z"
 }
