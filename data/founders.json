@@ -8825,7 +8825,21 @@
       "linkedin": "",
       "notes": "@ Armstrong Robotics. Found via Chris Barber's robotics list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129424610-8124",
+      "name": "Tony Zhao",
+      "city": "SF",
+      "tags": [
+        "Sunday Robotics",
+        "Robotics",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Sunday Robotics. Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:22.915Z"
+  "last_updated": "2026-01-23T00:50:24.610Z"
 }
