@@ -9217,7 +9217,21 @@
       "linkedin": "",
       "notes": "AI search startup. Part of Chris Barber's AI search space list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129768993-837",
+      "name": "Avi Patel",
+      "city": "SF",
+      "tags": [
+        "kled",
+        "AI Data",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder @ kled, AI data startup, discovered via Chris Barber's AI data startups list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:54:21.825Z"
+  "last_updated": "2026-01-23T00:56:08.993Z"
 }
