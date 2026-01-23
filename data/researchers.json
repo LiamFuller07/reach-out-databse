@@ -8930,7 +8930,23 @@
       "linkedin": "",
       "notes": "Research Scientist @ Meta AI. LLMs/SLMs Post Training. Data, Evals, Rewards and Agentic System Orchestration. mimansajaiswal.github.io. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129254552-8783",
+      "name": "Christian Szegedy",
+      "city": "SF",
+      "tags": [
+        "Deep Learning Pioneer",
+        "Inception Network Creator",
+        "AI Research Scientist",
+        "PRIORITY: HIGHEST",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Deep learning / AI research scientist. Famous for creating the Inception network architecture at Google. Pioneer in computer vision and neural network design. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:47:30.759Z"
+  "last_updated": "2026-01-23T00:47:34.552Z"
 }
