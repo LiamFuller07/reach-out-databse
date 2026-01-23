@@ -9834,7 +9834,22 @@
       "linkedin": "",
       "notes": "Maven Robotics - manufacturing/logistics robots, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130020517-4395",
+      "name": "Automata",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Lab Automation",
+        "Biotech",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Automata - lab automation robotics, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:00:19.360Z"
+  "last_updated": "2026-01-23T01:00:20.517Z"
 }
