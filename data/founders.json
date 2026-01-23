@@ -9731,7 +9731,22 @@
       "linkedin": "",
       "notes": "Saronic - autonomous naval vessels, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129965345-8847",
+      "name": "Anduril",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Defense",
+        "Autonomous Systems",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Anduril - defense robotics and autonomous systems, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:59:09.356Z"
+  "last_updated": "2026-01-23T00:59:25.345Z"
 }
