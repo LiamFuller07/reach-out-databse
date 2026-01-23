@@ -925,18 +925,14 @@
     {
       "id": "researchers-1768981773183-948",
       "name": "Guohao Li",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "AI Agents",
-        "Eigent AI",
-        "CamelAI",
-        "Oxford",
-        "Intel"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "@Eigent_AI / @CamelAIOrg. Researching Scaling Laws of Agents. Previously UniofOxford, KaustVision, Intel, Kumo. Follows Liam - warm lead.",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1768981774406-3056",
@@ -9104,5 +9100,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:28:35.931Z"
+  "last_updated": "2026-01-23T08:28:37.121Z"
 }
