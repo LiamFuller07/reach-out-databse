@@ -9231,7 +9231,21 @@
       "linkedin": "",
       "notes": "Founder @ kled, AI data startup, discovered via Chris Barber's AI data startups list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129770303-50",
+      "name": "hud.ai founders",
+      "city": "SF",
+      "tags": [
+        "hud.ai",
+        "AI Data",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "hud.ai - AI data startup, discovered via Chris Barber's AI data startups list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:56:08.993Z"
+  "last_updated": "2026-01-23T00:56:10.303Z"
 }
