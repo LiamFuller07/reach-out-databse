@@ -1342,18 +1342,14 @@
     {
       "id": "f-96",
       "name": "Lukas Petersson",
-      "city": "San Francisco",
+      "city": "",
       "tags": [
-        "ai-evals",
-        "ai-safety",
-        "neolabs",
-        "andon-labs",
-        "autonomous-agents"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder of Andon Labs. Working on safe autonomous organizations without humans in the loop. Partnered with Anthropic on Project Vend (Claude running a vending machine shop). Based in San Francisco.",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-97",
@@ -10819,5 +10815,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:26:12.184Z"
+  "last_updated": "2026-01-23T08:26:14.886Z"
 }
