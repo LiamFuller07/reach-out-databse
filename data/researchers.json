@@ -5172,16 +5172,14 @@
     {
       "id": "researchers-1768990916794-1117",
       "name": "Yingru Li",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "xAI",
-        "Scaling RL",
-        "Reinforcement Learning"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Scaling RL @ xAI",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1768990954539-5325",
@@ -9073,5 +9071,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:30:17.768Z"
+  "last_updated": "2026-01-23T08:30:39.256Z"
 }
