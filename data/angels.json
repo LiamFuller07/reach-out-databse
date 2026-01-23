@@ -364,7 +364,22 @@
       "linkedin": "",
       "notes": "Plaid co-founder, Column founder. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128036681-8191",
+      "name": "Matt Mullenweg",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "WordPress",
+        "Automattic",
+        "Open Source"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "WordPress/Automattic founder, open source advocate. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:27:15.443Z"
+  "last_updated": "2026-01-23T00:27:16.681Z"
 }
