@@ -484,13 +484,15 @@
       "city": "San Francisco",
       "tags": [
         "Accelerator",
-        "Andon Labs investor",
+        "PRIORITY: HIGHEST",
         "AI Safety",
-        "Seed Stage"
+        "Seed Stage",
+        "Andon Labs investor",
+        "Top Tier"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Invested in Andon Labs (Vending-Bench creators). YC standard deal is $500K. One of the most prestigious startup accelerators. Backed companies like Airbnb, Stripe, Dropbox.",
+      "notes": "WHY TARGET: Most prestigious startup accelerator globally. Standard deal $500K. Invested in Andon Labs (Vending-Bench creators). Portfolio includes Airbnb, Stripe, Dropbox, OpenAI. Garry Tan as President brings AI focus.",
       "checked": false
     },
     {
@@ -534,5 +536,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:34:05.282Z"
+  "last_updated": "2026-01-23T00:34:06.363Z"
 }
