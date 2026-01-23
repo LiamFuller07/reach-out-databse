@@ -429,12 +429,14 @@
       "city": "SF",
       "tags": [
         "NEA",
+        "PRIORITY: HIGH",
         "AI/Data/Infra",
-        "Engineer-Investor"
+        "Engineer-Investor",
+        "Technical Due Diligence"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Engineer investing in AI/data/infra @ NEA, connected to Foundation Capital network via Jaya Gupta",
+      "notes": "Engineer investing in AI/data/infra @ NEA. WHY TARGET: Technical background enables deep product evaluation. NEA is major tech investor. Connected to Foundation Capital network via Jaya Gupta. Focus on infrastructure plays.",
       "checked": false
     },
     {
@@ -522,5 +524,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:33:16.417Z"
+  "last_updated": "2026-01-23T00:33:17.672Z"
 }
