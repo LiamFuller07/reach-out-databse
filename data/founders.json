@@ -739,16 +739,17 @@
     {
       "id": "f-53",
       "name": "Pranav Putta",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Plato",
         "MultiOn",
-        "Georgia Tech"
+        "Georgia Tech",
+        "rl-outreach-jan-2026"
       ],
-      "x": "pranav__putta",
-      "linkedin": "https://linkedin.com/in/pranav-putta-3512b47a",
-      "notes": "Co-Founder & CTO @ Plato Agentic Systems, prev MultiOn & Georgia Tech CS, building agent simulations at plato.so",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-54",
@@ -10838,5 +10839,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:23:56.444Z"
+  "last_updated": "2026-01-23T08:23:59.507Z"
 }
