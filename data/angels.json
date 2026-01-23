@@ -496,7 +496,22 @@
       "linkedin": "",
       "notes": "Gusto founder & CEO. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128073991-4342",
+      "name": "Linda Xie",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "Scalar Capital",
+        "Crypto",
+        "Coinbase"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Scalar Capital co-founder, former Coinbase PM. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:27:52.828Z"
+  "last_updated": "2026-01-23T00:27:53.991Z"
 }
