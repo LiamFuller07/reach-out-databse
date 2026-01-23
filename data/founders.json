@@ -9554,7 +9554,22 @@
       "linkedin": "",
       "notes": "Nervosys - simulations/platform for robotics, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129913457-1321",
+      "name": "Weave Robotics",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Home Robots",
+        "Consumer",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Weave Robotics - home robots, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:58:32.294Z"
+  "last_updated": "2026-01-23T00:58:33.457Z"
 }
