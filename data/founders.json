@@ -8925,7 +8925,22 @@
       "linkedin": "",
       "notes": "@ Physical Intelligence (Pi). Found via Chris Barber's robotics list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129495156-8413",
+      "name": "Mahesh Lambe",
+      "city": "SF",
+      "tags": [
+        "Project NANDA",
+        "Agent Protocols",
+        "Agents Infrastructure",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Working on agent protocols (project NANDA). Found via Chris Barber's agents infrastructure list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:53.253Z"
+  "last_updated": "2026-01-23T00:51:35.156Z"
 }
