@@ -3185,13 +3185,13 @@
       "name": "Vik Bajaj",
       "city": "SF",
       "tags": [
-        "Project Prometheus",
-        "Foresite Labs",
-        "Neolabs"
+        "Prometheus Robotics",
+        "Robotics",
+        "Chris Barber Robotics List"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-CEO @ Project Prometheus | $6.2B funding | prev Foresite Labs | Leading AGI research initiative with Jeff Bezos",
+      "notes": "@ Prometheus Robotics. Found via Chris Barber's robotics list.",
       "checked": false
     },
     {
@@ -8897,5 +8897,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:48.221Z"
+  "last_updated": "2026-01-23T00:50:49.411Z"
 }
