@@ -8896,7 +8896,23 @@
       "linkedin": "",
       "notes": "CEO of Microsoft AI. Co-founder of DeepMind (acquired by Google). Founded Inflection AI (acquired by Microsoft). One of the most influential figures in AI. Found in X suggestions from Chris Barber page.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129207082-8571",
+      "name": "Alex Imas",
+      "city": "Chicago",
+      "tags": [
+        "Chicago Booth Professor",
+        "Economics + Applied AI",
+        "Princeton Visiting",
+        "Academic",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor @ Chicago Booth. Economics + Applied AI. Visiting Princeton 2025-2026 academic year. Essays at aleximas.substack.com. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:45:09.979Z"
+  "last_updated": "2026-01-23T00:46:47.082Z"
 }
