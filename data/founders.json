@@ -10312,7 +10312,22 @@
       "linkedin": "",
       "notes": "NDEA - on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130373631-3715",
+      "name": "Liquid AI",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Liquid Neural Networks",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Liquid AI - liquid neural networks, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:06:12.258Z"
+  "last_updated": "2026-01-23T01:06:13.631Z"
 }
