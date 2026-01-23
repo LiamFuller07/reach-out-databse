@@ -8963,7 +8963,23 @@
       "linkedin": "",
       "notes": "Eng/ML/data/geoguessr/cheerleader @ Waymo. Stanford and MIT physics background. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129304650-9578",
+      "name": "Chase Thomas",
+      "city": "SF",
+      "tags": [
+        "Schmidt Futures",
+        "Broad Institute",
+        "Microsoft",
+        "AI Research",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Stumbling down the gradient. Previously @ Schmidt Futures, Broad Institute, Microsoft. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:48:23.448Z"
+  "last_updated": "2026-01-23T00:48:24.650Z"
 }
