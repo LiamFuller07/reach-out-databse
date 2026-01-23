@@ -9151,7 +9151,21 @@
       "linkedin": "",
       "notes": "Web scraping for LLMs. Part of Chris Barber's AI search space list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129643662-2405",
+      "name": "Edison Scientific (Company)",
+      "city": "SF",
+      "tags": [
+        "AI Search",
+        "Scientific Search",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI search startup. Part of Chris Barber's AI search space list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:54:02.372Z"
+  "last_updated": "2026-01-23T00:54:03.662Z"
 }
