@@ -9569,7 +9569,22 @@
       "linkedin": "",
       "notes": "Weave Robotics - home robots, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129914620-7208",
+      "name": "Solo Tech",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Fine Tuning",
+        "Inference",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Solo Tech - fine tuning and inference for robotics, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:58:33.457Z"
+  "last_updated": "2026-01-23T00:58:34.620Z"
 }
