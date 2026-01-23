@@ -1388,16 +1388,17 @@
     {
       "id": "f-99",
       "name": "Shivum Pandove",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Janus",
         "YC X25",
-        "CMU dropout"
+        "CMU dropout",
+        "rl-outreach-jan-2026"
       ],
-      "x": "shivump101",
-      "linkedin": "https://linkedin.com/in/shivump1",
-      "notes": "Co-founder @ Janus (YC X25) | Building simulation infrastructure to battle-test AI agents - surfaces hallucinations, rule violations, tool-call failures | Left incoming Anduril role, dropped out CMU ML to build Janus | prev scaling startups in SWE & product + deep learning research in computational biology",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-100",
@@ -10834,5 +10835,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:23:33.569Z"
+  "last_updated": "2026-01-23T08:23:35.064Z"
 }
