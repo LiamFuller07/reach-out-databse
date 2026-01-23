@@ -10116,7 +10116,21 @@
       "linkedin": "",
       "notes": "Applied Intuition - AV simulation and development platform, from Chris Barber's AV adoption list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130227262-1169",
+      "name": "Hesai",
+      "city": "Shanghai",
+      "tags": [
+        "Autonomous Vehicles",
+        "LiDAR",
+        "Chris Barber AV List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Hesai - LiDAR for autonomous vehicles, from Chris Barber's AV adoption list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:03:46.089Z"
+  "last_updated": "2026-01-23T01:03:47.262Z"
 }
