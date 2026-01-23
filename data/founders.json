@@ -1470,15 +1470,14 @@
     {
       "id": "f-107",
       "name": "Jithin James",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Ragas",
-        "YC AI Agents"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/jjmachan",
-      "notes": "Co-founder @ Ragas (YC W24) | Building open-source standard for LLM application evaluation - RAGAS score is most popular RAG benchmark | 5M+ monthly evaluations, AWS/Microsoft/Databricks clients | prev BentoML early employee (built Bentoctl, Yatai) | Met Shahul in college, collaborating 10+ years",
-      "checked": false
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-108",
@@ -10787,5 +10786,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:29:30.520Z"
+  "last_updated": "2026-01-23T08:29:32.540Z"
 }
