@@ -9092,7 +9092,22 @@
       "linkedin": "",
       "notes": "@ Periodic Robotics. Previously @ OpenAI and Google Brain. Known for work on Mixture of Experts and Switch Transformer. Found via Chris Barber's robotics list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129992579-1164",
+      "name": "HRI (Honda Research Institute)",
+      "city": "SF",
+      "tags": [
+        "Robotics Lab",
+        "Honda",
+        "Corporate Research",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Honda Research Institute - corporate robotics lab, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:46.852Z"
+  "last_updated": "2026-01-23T00:59:52.579Z"
 }
