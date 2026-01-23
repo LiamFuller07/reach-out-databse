@@ -184,19 +184,14 @@
     {
       "id": "vcs-1768992580699-9586",
       "name": "Jaya Gupta",
-      "city": "San Francisco",
+      "city": "",
       "tags": [
-        "Foundation Capital",
-        "PRIORITY: HIGHEST",
-        "Context Graphs",
-        "Enterprise AI",
-        "Knowledge Graphs",
-        "Viral Thought Leader"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "VC @ Foundation Capital. WHY TARGET: Wrote viral 'Context Graphs' article (4.6M views, 6.6K likes) - key thesis that context graphs and decision traces are trillion-dollar enterprise AI opportunity. Previously McKinsey, Georgia Tech alum, Stackfolio (acquired). Co-authored with Ashu Garg.",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "vcs-1768992912341-5809",
@@ -675,5 +670,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:50.646Z"
+  "last_updated": "2026-01-23T08:26:09.952Z"
 }
