@@ -10615,7 +10615,23 @@
       "linkedin": "",
       "notes": "Shannon Labs - small AI lab, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130463174-2830",
+      "name": "Keen Technologies (Carmack)",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "John Carmack",
+        "AI Lab",
+        "Chris Barber NeoLabs List",
+        "PRIORITY: HIGHEST"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Keen Technologies - John Carmack's AI company, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:07:41.867Z"
+  "last_updated": "2026-01-23T01:07:43.174Z"
 }
