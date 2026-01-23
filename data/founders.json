@@ -592,17 +592,14 @@
     {
       "id": "f-43",
       "name": "John Qian",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Matrices",
-        "Weights & Biases",
-        "Adept",
-        "Google"
+        "rl-outreach-jan-2026"
       ],
-      "x": "johnlqian",
-      "linkedin": "https://linkedin.com/in/qianjohn",
-      "notes": "Co-founder @ Matrices, prev founding engineer Weights & Biases/Adept AI Labs/Google, UIUC, AI-native spreadsheet & replica websites for agent training",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-44",
@@ -10802,5 +10799,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:27:53.161Z"
+  "last_updated": "2026-01-23T08:27:54.395Z"
 }
