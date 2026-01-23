@@ -9121,7 +9121,22 @@
       "linkedin": "",
       "notes": "AI search startup. Part of Chris Barber's AI search space list. Known for neural search API.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129641022-1407",
+      "name": "Elicit (Company)",
+      "city": "SF",
+      "tags": [
+        "AI Search",
+        "Research Assistant",
+        "Ought",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI research assistant for literature review. Part of Chris Barber's AI search space list. From Ought.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:53:59.753Z"
+  "last_updated": "2026-01-23T00:54:01.022Z"
 }
