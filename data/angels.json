@@ -214,7 +214,22 @@
       "linkedin": "",
       "notes": "AngelList founder, prolific angel investor, philosopher. Recommended by multiple founders as most helpful angel investor (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769127985029-6254",
+      "name": "Paul Graham",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "YC Founder",
+        "Essays",
+        "Top Angel"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Y Combinator co-founder, essayist, prolific angel investor. Recommended by founders as most helpful angel (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:26:22.487Z"
+  "last_updated": "2026-01-23T00:26:25.029Z"
 }
