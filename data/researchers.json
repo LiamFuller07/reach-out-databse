@@ -9010,7 +9010,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Physical Intelligence (Pi). Prev Google Brain robotics researcher. Leading robotics foundation model company. Found via Chris Barber's robotics list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129402324-7606",
+      "name": "Sergey Levine",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence",
+        "Pi",
+        "UC Berkeley",
+        "Robotics RL Pioneer",
+        "PRIORITY: HIGHEST",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Physical Intelligence (Pi). UC Berkeley Professor. Pioneer in robotics RL and robot learning. Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:50:01.029Z"
+  "last_updated": "2026-01-23T00:50:02.324Z"
 }
