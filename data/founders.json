@@ -271,13 +271,13 @@
       "city": "SF",
       "tags": [
         "Datacurve",
-        "YC W24",
-        "Forbes 30u30",
-        "$17.7M"
+        "Pre-Seed Show",
+        "Data",
+        "Chris Barber Network"
       ],
-      "x": "serenaa_ge",
-      "linkedin": "https://linkedin.com/in/serena-ge-4583731b4",
-      "notes": "Co-founder & CEO @ Datacurve (YC W24) | $17.7M raised ($15M Series A) | Expert-quality code data platform for foundation model labs via 'bounty system' - paid $1M+ to skilled engineers | Turned 20 Dec 2024 | UWaterloo CS dropout | prev Cohere CTO (LLM reasoning research) | Pivoted 3x from UncleGPT web agent",
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Datacurve. Featured on Chris Barber's Pre-Seed Show video interview. Found via Chris Barber's posts.",
       "checked": false
     },
     {
@@ -9108,5 +9108,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:53:27.762Z"
+  "last_updated": "2026-01-23T00:53:58.521Z"
 }
