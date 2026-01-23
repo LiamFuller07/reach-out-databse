@@ -8940,7 +8940,24 @@
       "linkedin": "",
       "notes": "Working on agent protocols (project NANDA). Found via Chris Barber's agents infrastructure list.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129496795-8664",
+      "name": "Turing Pi",
+      "city": "SF",
+      "tags": [
+        "Edge AI",
+        "Local LLMs",
+        "Homelab",
+        "Hardware",
+        "Datacenter Compute",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "From homelab and edge AI to local LLMs, Turing Pi handles it all. Datacenter-level compute in a desktop design. Found via Chris Barber's who to follow.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:51:35.156Z"
+  "last_updated": "2026-01-23T00:51:36.795Z"
 }
