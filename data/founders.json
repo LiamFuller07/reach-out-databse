@@ -10571,7 +10571,22 @@
       "linkedin": "",
       "notes": "Alphafund Labs - AI trading, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130459129-5135",
+      "name": "Maincode",
+      "city": "Australia",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Australia",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Maincode - Australia-based AI lab, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:07:36.787Z"
+  "last_updated": "2026-01-23T01:07:39.129Z"
 }
