@@ -10675,7 +10675,21 @@
       "linkedin": "",
       "notes": "Thinky Machines - on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130485573-1239",
+      "name": "Manifest AI",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Manifest AI - on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:08:04.142Z"
+  "last_updated": "2026-01-23T01:08:05.573Z"
 }
