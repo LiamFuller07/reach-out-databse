@@ -879,16 +879,17 @@
     {
       "id": "f-63",
       "name": "Gavin Bains",
-      "city": "SF",
+      "city": "",
       "tags": [
         "The LLM Data Company",
         "YC X25",
-        "USC"
+        "USC",
+        "rl-outreach-jan-2026"
       ],
-      "x": "thegavinbains",
-      "linkedin": "https://linkedin.com/in/thegavinbains",
-      "notes": "Co-Founder @ The LLM Data Company (YC X25), USC alum, prev Traba/Koop/Tydo, post-training data & RL environments for frontier AI labs",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-64",
@@ -10837,5 +10838,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:23:54.501Z"
+  "last_updated": "2026-01-23T08:23:56.444Z"
 }
