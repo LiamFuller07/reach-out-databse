@@ -5887,20 +5887,14 @@
     {
       "id": "researchers-1768992948367-1933",
       "name": "Viv Trivedy",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "LangChain",
-        "Deep Agents",
-        "prev AWS",
-        "PhD CS",
-        "Temple",
-        "RL Environments",
-        "Jaya Network"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Leading deep agents @ LangChain, prev AWS Cloud, PhD CS @ Temple - Found via Jaya Gupta's following",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1768993022292-4243",
@@ -9165,5 +9159,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:26:08.744Z"
+  "last_updated": "2026-01-23T08:26:16.273Z"
 }
