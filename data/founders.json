@@ -1954,16 +1954,14 @@
     {
       "id": "f-141",
       "name": "Nichole Hopkins",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Coval",
-        "YC S24",
-        "AI Evaluation"
+        "rl-outreach-jan-2026"
       ],
-      "x": "bnicholehopkins",
-      "linkedin": "https://linkedin.com/in/bnhop",
-      "notes": "Founder @ Coval (YC S24) | Simulation & eval for voice/chat AI agents | prev Waymo (eval job infrastructure lead) | Solo founder | Autonomous vehicle eval background",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-142",
@@ -10840,5 +10838,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:24:10.601Z"
+  "last_updated": "2026-01-23T08:25:21.698Z"
 }
