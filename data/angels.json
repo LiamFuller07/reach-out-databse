@@ -319,7 +319,22 @@
       "linkedin": "",
       "notes": "Former OpenAI VP Research, AI expert angel investor. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128013798-7088",
+      "name": "Immad Akhund",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "Mercury",
+        "Fintech",
+        "YC"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Mercury founder & CEO, YC partner, prolific fintech angel. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:26:52.559Z"
+  "last_updated": "2026-01-23T00:26:53.798Z"
 }
