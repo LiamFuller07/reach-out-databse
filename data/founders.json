@@ -9774,7 +9774,23 @@
       "linkedin": "",
       "notes": "Radical AI - materials R&D with robotics, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129969104-8913",
+      "name": "Formic",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Case Packing",
+        "Pallets",
+        "Logistics",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Formic - case packing and pallets robotics, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:59:27.889Z"
+  "last_updated": "2026-01-23T00:59:29.104Z"
 }
