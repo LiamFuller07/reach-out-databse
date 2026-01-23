@@ -468,7 +468,20 @@
       "linkedin": "",
       "notes": "a16z Partner focused on AI. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128071619-714",
+      "name": "Anil Varanasi",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "Founder-Friendly"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Prolific angel investor. Recommended by founders (Chris Barber survey Jul 2025). Chris Barber did an In Depth video interview with him.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:27:50.386Z"
+  "last_updated": "2026-01-23T00:27:51.619Z"
 }
