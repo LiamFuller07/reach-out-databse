@@ -5098,19 +5098,14 @@
     {
       "id": "researchers-1768990732571-6072",
       "name": "Leo Gao",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "EleutherAI",
-        "Cofounder",
-        "GPT-Neo",
-        "The Pile",
-        "AGI Alignment",
-        "LM Evals"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "EleutherAI cofounder, AGI alignment, prev: GPT-Neo, The Pile, LM evals, RL overoptimization, scaling SAEs to GPT-4",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1768990770935-8621",
@@ -9078,5 +9073,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:29:38.542Z"
+  "last_updated": "2026-01-23T08:30:17.768Z"
 }
