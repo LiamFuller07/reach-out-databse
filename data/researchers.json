@@ -8880,7 +8880,23 @@
       "linkedin": "",
       "notes": "PhD @ Berkeley AI advised by Pieter Abbeel. Previously @ Meta AI and Covariant (robotics). Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129109979-7386",
+      "name": "Mustafa Suleyman",
+      "city": "London",
+      "tags": [
+        "Microsoft AI CEO",
+        "DeepMind Co-founder",
+        "Inflection AI",
+        "PRIORITY: HIGHEST",
+        "AI Pioneer"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO of Microsoft AI. Co-founder of DeepMind (acquired by Google). Founded Inflection AI (acquired by Microsoft). One of the most influential figures in AI. Found in X suggestions from Chris Barber page.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:45:08.894Z"
+  "last_updated": "2026-01-23T00:45:09.979Z"
 }
