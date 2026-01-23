@@ -188,16 +188,17 @@
     {
       "id": "f-14",
       "name": "Francesco Bonacci",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Cua",
         "YC X25",
-        "Microsoft"
+        "Microsoft",
+        "rl-outreach-jan-2026"
       ],
-      "x": "francedot",
-      "linkedin": "https://linkedin.com/in/francesco-bonacci-70428a121",
-      "notes": "Founder @ Cua (YC X25) | Building 'Docker for Computer-use Agents' - cloud containers for AI agents to safely use real computers at scale | Open-source tools used by 1000s of devs | prev Microsoft (Xbox Gaming AI, Windows Agent Arena) | 7 yrs SWE | Bologna CS | Co-founded with Alessandro Puppo",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-15",
@@ -10835,5 +10836,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:23:35.064Z"
+  "last_updated": "2026-01-23T08:23:36.360Z"
 }
