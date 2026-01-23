@@ -9600,7 +9600,22 @@
       "linkedin": "",
       "notes": "AI2 Molmoact - Allen Institute for AI robotics project, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129916857-5248",
+      "name": "Hylio",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Agricultural Drones",
+        "AgTech",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Hylio - agricultural drones, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:58:35.730Z"
+  "last_updated": "2026-01-23T00:58:36.857Z"
 }
