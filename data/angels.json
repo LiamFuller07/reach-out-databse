@@ -409,7 +409,22 @@
       "linkedin": "",
       "notes": "Farcaster co-founder, former Coinbase VP. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128046226-4451",
+      "name": "Ian Hogarth",
+      "city": "London",
+      "tags": [
+        "Angel",
+        "UK AI Safety",
+        "Songkick",
+        "AI Policy"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Chair of UK AI Safety Institute, Songkick co-founder, prolific AI angel. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:27:24.350Z"
+  "last_updated": "2026-01-23T00:27:26.226Z"
 }
