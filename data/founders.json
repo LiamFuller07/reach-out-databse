@@ -10158,7 +10158,21 @@
       "linkedin": "",
       "notes": "Pony.ai - autonomous vehicle/robotaxi company, from Chris Barber's AV adoption list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130230832-5969",
+      "name": "WeRide",
+      "city": "Guangzhou",
+      "tags": [
+        "Autonomous Vehicles",
+        "Robotaxi",
+        "Chris Barber AV List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "WeRide - autonomous vehicle company, from Chris Barber's AV adoption list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:03:49.528Z"
+  "last_updated": "2026-01-23T01:03:50.832Z"
 }
