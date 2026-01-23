@@ -10761,7 +10761,22 @@
       "linkedin": "",
       "notes": "Redwood AI - on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130767650-312",
+      "name": "Verses AI",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "Active Inference",
+        "Karl Friston",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Verses AI - Karl Friston is Chief Scientist, Active Inference, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:12:46.380Z"
+  "last_updated": "2026-01-23T01:12:47.650Z"
 }
