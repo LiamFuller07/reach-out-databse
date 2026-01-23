@@ -454,7 +454,21 @@
       "linkedin": "",
       "notes": "Expo co-founder, Quora co-founder. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128070386-9418",
+      "name": "Anjney Midha",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "a16z",
+        "AI Investing"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "a16z Partner focused on AI. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:27:48.988Z"
+  "last_updated": "2026-01-23T00:27:50.386Z"
 }
