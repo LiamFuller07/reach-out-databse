@@ -10557,7 +10557,21 @@
       "linkedin": "",
       "notes": "Project Prometheus - General Agents team, Bezos-backed, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130456787-1830",
+      "name": "Alphafund Labs",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "AI Trading",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Alphafund Labs - AI trading, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:07:18.282Z"
+  "last_updated": "2026-01-23T01:07:36.787Z"
 }
