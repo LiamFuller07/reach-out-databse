@@ -9877,7 +9877,20 @@
       "linkedin": "",
       "notes": "Robotics expert, contributor to Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130024006-9916",
+      "name": "Nicolaus Radford",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Robotics expert, contributor to Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:00:22.912Z"
+  "last_updated": "2026-01-23T01:00:24.006Z"
 }
