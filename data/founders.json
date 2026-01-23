@@ -9525,7 +9525,22 @@
       "linkedin": "",
       "notes": "Torque AGI - foundation models for robotics companies, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129911072-1707",
+      "name": "Autofab",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Part Assembly",
+        "Manufacturing",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Autofab - robotics for part assembly, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:58:15.203Z"
+  "last_updated": "2026-01-23T00:58:31.072Z"
 }
