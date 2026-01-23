@@ -10601,7 +10601,21 @@
       "linkedin": "",
       "notes": "Trillion Labs - Korea-based AI lab, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130461867-9879",
+      "name": "Shannon Labs",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Shannon Labs - small AI lab, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:07:40.342Z"
+  "last_updated": "2026-01-23T01:07:41.867Z"
 }
