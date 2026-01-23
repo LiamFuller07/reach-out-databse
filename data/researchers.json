@@ -8912,7 +8912,25 @@
       "linkedin": "",
       "notes": "Professor @ Chicago Booth. Economics + Applied AI. Visiting Princeton 2025-2026 academic year. Essays at aleximas.substack.com. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "researchers-1769129250759-4648",
+      "name": "Mimansa Jaiswal",
+      "city": "SF",
+      "tags": [
+        "Meta AI",
+        "LLMs Post Training",
+        "Evals",
+        "Rewards",
+        "Agentic Systems",
+        "PRIORITY: HIGHEST",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Research Scientist @ Meta AI. LLMs/SLMs Post Training. Data, Evals, Rewards and Agentic System Orchestration. mimansajaiswal.github.io. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:46:47.082Z"
+  "last_updated": "2026-01-23T00:47:30.759Z"
 }
