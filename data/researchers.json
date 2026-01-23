@@ -6808,20 +6808,14 @@
     {
       "id": "researchers-1769025148166-6661",
       "name": "Seth Karten",
-      "city": "Princeton",
+      "city": "",
       "tags": [
-        "Princeton PhD",
-        "PokeChamp",
-        "PokeAgent",
-        "LLM Economist",
-        "Agents",
-        "Evals",
-        "prev Waymo"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "CS PhD @ Princeton, creator of PokeChamp/PokeAgent (agent benchmarks), LLM Economist. Former CMU Waymo. Key contact for agent evals.",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1769025149750-2982",
@@ -9143,5 +9137,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:26:45.501Z"
+  "last_updated": "2026-01-23T08:26:46.873Z"
 }
