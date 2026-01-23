@@ -6451,19 +6451,14 @@
     {
       "id": "researchers-1769024436754-6817",
       "name": "Kolby Nottingham",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Latitude Games",
-        "AI Dungeon",
-        "LLM Agents",
-        "MINDcraft",
-        "UCI PhD",
-        "Evals"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Head of AI @ Latitude Games (AI Dungeon), PhD @ UC Irvine on LLM Agents, Co-creator of MINDcraft. Key contact for agent evals.",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "researchers-1769024470875-3120",
@@ -9148,5 +9143,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:26:42.621Z"
+  "last_updated": "2026-01-23T08:26:45.501Z"
 }
