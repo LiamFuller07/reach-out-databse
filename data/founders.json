@@ -9615,7 +9615,22 @@
       "linkedin": "",
       "notes": "Hylio - agricultural drones, from Chris Barber's robotics list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129917970-4514",
+      "name": "Cobot",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Industrial Robots",
+        "Collaborative Robots",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Cobot - industrial collaborative robots, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:58:36.857Z"
+  "last_updated": "2026-01-23T00:58:37.970Z"
 }
