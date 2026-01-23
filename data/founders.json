@@ -3089,14 +3089,13 @@
       "name": "Tejas Bhakta",
       "city": "SF",
       "tags": [
-        "Morph",
-        "MorphLLM",
-        "YC S23",
-        "Neolabs"
+        "AI",
+        "NeoLabs Contributor",
+        "Chris Barber Network"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/tejas-bhakta",
-      "notes": "Founder & CEO @ Morph/MorphLLM (YC S23) | Building fastest code editing models - Fast Apply (10,500 tok/sec, 4x faster than Cerebras) & WarpGrep (5x faster agentic search) | Gets Claude/Gemini edits into code instantly | SF-based, team of 5",
+      "linkedin": "",
+      "notes": "Contributor to Chris Barber's neolabs list",
       "checked": false
     },
     {
@@ -10287,5 +10286,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:05:11.365Z"
+  "last_updated": "2026-01-23T01:05:12.629Z"
 }
