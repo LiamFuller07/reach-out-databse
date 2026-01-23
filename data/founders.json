@@ -469,16 +469,17 @@
     {
       "id": "f-34",
       "name": "Jibran Hutchins",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Haladir",
         "YC W26",
-        "CMU"
+        "CMU",
+        "rl-outreach-jan-2026"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/jibran-hutchins-42500b26b/",
-      "notes": "Co-founder & CEO @ Haladir, YC W26, Carnegie Mellon, O-1 visa holder, building formal methods for code generation RL environments",
-      "checked": false
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-35",
@@ -10836,5 +10837,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:23:36.360Z"
+  "last_updated": "2026-01-23T08:23:54.501Z"
 }
