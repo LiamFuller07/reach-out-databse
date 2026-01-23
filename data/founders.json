@@ -5430,19 +5430,14 @@
     {
       "id": "founders-1768986429826-9722",
       "name": "Ion Stoica",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "UC Berkeley",
-        "Databricks co-founder",
-        "Anyscale co-founder",
-        "LMArena",
-        "Conviva",
-        "Systems Legend"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Professor @ UC Berkeley, co-founder of Databricks ($43B), Anyscale (Ray), LMArena (LLM evaluation), Conviva, legendary distributed systems researcher, ACM Fellow",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "founders-1768986515053-9424",
@@ -10784,5 +10779,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:30:14.923Z"
+  "last_updated": "2026-01-23T08:30:16.327Z"
 }
