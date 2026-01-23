@@ -304,7 +304,22 @@
       "linkedin": "",
       "notes": "Co-founder Physical Intelligence (Pi robotics), former Stripe, prolific angel investor. Recommended by founders (Chris Barber survey Jul 2025)",
       "checked": false
+    },
+    {
+      "id": "angels-1769128012559-8635",
+      "name": "Bob McGrew",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "OpenAI",
+        "AI Research",
+        "Top Angel"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Former OpenAI VP Research, AI expert angel investor. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:26:51.013Z"
+  "last_updated": "2026-01-23T00:26:52.559Z"
 }
