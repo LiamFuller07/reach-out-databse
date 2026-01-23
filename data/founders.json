@@ -10102,7 +10102,21 @@
       "linkedin": "",
       "notes": "Waive - consumer autonomous vehicle company, from Chris Barber's AV adoption list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130226089-5333",
+      "name": "Applied Intuition",
+      "city": "SF",
+      "tags": [
+        "Autonomous Vehicles",
+        "AV Simulation",
+        "Chris Barber AV List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Applied Intuition - AV simulation and development platform, from Chris Barber's AV adoption list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:03:44.939Z"
+  "last_updated": "2026-01-23T01:03:46.089Z"
 }
