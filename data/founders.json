@@ -1405,15 +1405,14 @@
     {
       "id": "f-102",
       "name": "Aaksha",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Kashikoi",
-        "YC AI Agents"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/aaksham",
-      "notes": "Co-founder @ Kashikoi (YC X25) | AI agent simulation & eval platform with auto-prompt tuning | prev Moveworks (led Simulation & Eval stack, 250+ enterprise agents for F500) | CMU (Transformer research pre-OpenAI) | Shipped edge speech on 1B+ iPhones | Interspeech 2021 Best Paper nom",
-      "checked": false
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-103",
@@ -10779,5 +10778,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:30:16.327Z"
+  "last_updated": "2026-01-23T08:30:19.218Z"
 }
