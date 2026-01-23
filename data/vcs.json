@@ -579,7 +579,21 @@
       "linkedin": "",
       "notes": "Part-time researcher. Scout @ a16z. Partner @ Wefunder. YC alum. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "vcs-1769129156905-1032",
+      "name": "Aashay Sanghvi",
+      "city": "SF",
+      "tags": [
+        "Haystack VC",
+        "Partner",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Partner @ Haystack VC. Found via Chris Barber's following list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:45:55.137Z"
+  "last_updated": "2026-01-23T00:45:56.905Z"
 }
