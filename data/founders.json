@@ -10426,7 +10426,21 @@
       "linkedin": "",
       "notes": "Noumenal Labs - on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130407353-3102",
+      "name": "Noemon AI",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Noemon AI - on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:06:45.856Z"
+  "last_updated": "2026-01-23T01:06:47.353Z"
 }
