@@ -10383,7 +10383,22 @@
       "linkedin": "",
       "notes": "Axiom Mathai - on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130402967-4594",
+      "name": "Sakana AI Labs",
+      "city": "Tokyo",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Japan",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Sakana AI Labs - Japan-based AI lab, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:06:24.555Z"
+  "last_updated": "2026-01-23T01:06:42.967Z"
 }
