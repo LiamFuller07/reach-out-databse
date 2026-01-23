@@ -622,16 +622,17 @@
     {
       "id": "f-45",
       "name": "Tamay Besiroglu",
-      "city": "SF",
+      "city": "",
       "tags": [
         "Mechanize",
         "Epoch AI",
-        "Nat Friedman backed"
+        "Nat Friedman backed",
+        "rl-outreach-jan-2026"
       ],
-      "x": "tamaybes",
-      "linkedin": "https://linkedin.com/in/tamay-besiroglu",
-      "notes": "Co-founder & CEO @ Mechanize, co-founded Epoch AI, backed by Nat Friedman/Daniel Gross/Patrick Collison/Jeff Dean, $60T TAM, controversial launch",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-46",
@@ -10826,5 +10827,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:22:13.333Z"
+  "last_updated": "2026-01-23T08:22:14.898Z"
 }
