@@ -104,13 +104,14 @@
       "name": "Spencer Mateega",
       "city": "SF",
       "tags": [
-        "AfterQuery",
-        "YC W25",
-        "Wharton"
+        "Code & Finance",
+        "RL Environment",
+        "Pavlov's List",
+        "Chris Barber Network"
       ],
-      "x": "spencermateega",
-      "linkedin": "https://linkedin.com/in/spencermateega",
-      "notes": "Co-founder & CEO @ AfterQuery (YC W25) | $500K seed | Building datasets for AI evaluation | prev Google SWE, Silver Lake Tech PE, Morgan Stanley Tech IB, Meta | Wharton BS Finance/Stats + Penn MS CS | Met Carlos at Google HS program, Danny at HS startup",
+      "x": "",
+      "linkedin": "",
+      "notes": "@ Code & Finance - RL environment startup. Part of Chris Barber's Pavlov's List of RL environment startups.",
       "checked": false
     },
     {
@@ -9018,5 +9019,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:52:44.620Z"
+  "last_updated": "2026-01-23T00:52:45.989Z"
 }
