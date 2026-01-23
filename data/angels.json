@@ -481,7 +481,22 @@
       "linkedin": "",
       "notes": "Prolific angel investor. Recommended by founders (Chris Barber survey Jul 2025). Chris Barber did an In Depth video interview with him.",
       "checked": false
+    },
+    {
+      "id": "angels-1769128072828-2860",
+      "name": "Josh Reeves",
+      "city": "SF",
+      "tags": [
+        "Angel",
+        "Gusto",
+        "HR Tech",
+        "Fintech"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Gusto founder & CEO. Recommended by founders (Chris Barber survey Jul 2025)",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:27:51.619Z"
+  "last_updated": "2026-01-23T00:27:52.828Z"
 }
