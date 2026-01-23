@@ -10791,7 +10791,23 @@
       "linkedin": "",
       "notes": "Cohere - enterprise LLM company, on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130770252-9552",
+      "name": "Isomorphic Labs",
+      "city": "London",
+      "tags": [
+        "NeoLabs",
+        "Drug Discovery",
+        "Demis Hassabis",
+        "AlphaFold",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Isomorphic Labs - Demis Hassabis's drug discovery AI company, AlphaFold spinoff, on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:12:48.968Z"
+  "last_updated": "2026-01-23T01:12:50.252Z"
 }
