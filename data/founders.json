@@ -554,17 +554,14 @@
     {
       "id": "f-40",
       "name": "Ivan Chub",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Idler",
-        "YC S25",
-        "Dark Forest",
-        "0xPARC"
+        "rl-outreach-jan-2026"
       ],
-      "x": "chubivan",
-      "linkedin": "https://linkedin.com/in/ivanchub",
-      "notes": "Co-founder & CEO @ Idler, YC S25, prev Dark Forest/0xPARC/Zupass/Hack Lodge, ex-Facebook, UW, multimillion-dollar contract with foundation lab for RL envs",
-      "checked": false
+      "x": "",
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-41",
@@ -10838,5 +10835,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:25:21.698Z"
+  "last_updated": "2026-01-23T08:25:22.987Z"
 }
