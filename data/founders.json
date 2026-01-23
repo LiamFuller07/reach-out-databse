@@ -2965,16 +2965,14 @@
     {
       "id": "f-215",
       "name": "John Schulman",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Thinking Machines Lab",
-        "OpenAI",
-        "Neolabs"
+        "rl-outreach-jan-2026"
       ],
-      "x": "johnschulman2",
+      "x": "",
       "linkedin": "",
-      "notes": "Chief Scientist @ Thinking Machines Lab, prev OpenAI",
-      "checked": false
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-216",
@@ -10807,5 +10805,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:27:25.247Z"
+  "last_updated": "2026-01-23T08:27:26.913Z"
 }
