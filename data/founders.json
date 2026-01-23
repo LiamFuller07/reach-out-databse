@@ -9331,7 +9331,22 @@
       "linkedin": "",
       "notes": "Standard Bots - arms for factories, from Chris Barber's comprehensive robotics startups list",
       "checked": false
+    },
+    {
+      "id": "founders-1769129866732-478",
+      "name": "Innate Robotics",
+      "city": "SF",
+      "tags": [
+        "Robotics",
+        "Low-cost",
+        "Teachable Robot",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Innate - $2k teachable robot, from Chris Barber's robotics list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:57:45.509Z"
+  "last_updated": "2026-01-23T00:57:46.732Z"
 }
