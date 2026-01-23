@@ -680,17 +680,14 @@
     {
       "id": "f-50",
       "name": "Sonya Jin",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Phinity Labs",
-        "PearX S25",
-        "Stanford",
-        "NVIDIA"
+        "rl-outreach-jan-2026"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/sonya-jin",
-      "notes": "Co-founder @ Phinity Labs, PearX S25, Stanford AI '25, prev NVIDIA Research Scientist (LLMs), AWS Applied Scientist, RL envs for chip design",
-      "checked": false
+      "linkedin": "",
+      "notes": "",
+      "checked": true
     },
     {
       "id": "f-51",
@@ -10791,5 +10788,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:27:58.149Z"
+  "last_updated": "2026-01-23T08:27:59.330Z"
 }
