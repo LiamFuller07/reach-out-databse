@@ -8970,7 +8970,24 @@
       "linkedin": "",
       "notes": "Making stuff with AI. Found via Chris Barber's who to follow.",
       "checked": false
+    },
+    {
+      "id": "founders-1769129499680-3197",
+      "name": "John Backus",
+      "city": "SF",
+      "tags": [
+        "Cognito Founder",
+        "Plaid acquisition",
+        "CTO",
+        "Fintech",
+        "PRIORITY: HIGH",
+        "Chris Barber Network"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Founder and CTO @ Cognito (acquired by Plaid). Found via Chris Barber's who to follow.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:51:38.331Z"
+  "last_updated": "2026-01-23T00:51:39.680Z"
 }
