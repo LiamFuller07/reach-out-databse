@@ -657,7 +657,23 @@
       "linkedin": "",
       "notes": "GP @ families.fund. First check, pre-seed investor. Found via Chris Barber's following list.",
       "checked": false
+    },
+    {
+      "id": "vcs-1769129450646-5270",
+      "name": "Lachy Groom",
+      "city": "SF",
+      "tags": [
+        "Physical Intelligence investor",
+        "ex-Stripe",
+        "Angel",
+        "PRIORITY: HIGH",
+        "Chris Barber Robotics List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Investor in Physical Intelligence (Pi). Ex-Stripe. Prominent angel investor. Found via Chris Barber's robotics list.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T00:47:35.722Z"
+  "last_updated": "2026-01-23T00:50:50.646Z"
 }
