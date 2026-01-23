@@ -10661,7 +10661,21 @@
       "linkedin": "",
       "notes": "Bagel - on Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "founders-1769130484142-7496",
+      "name": "Thinky Machines",
+      "city": "SF",
+      "tags": [
+        "NeoLabs",
+        "AI Lab",
+        "Chris Barber NeoLabs List"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Thinky Machines - on Chris Barber's neolabs list",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T01:07:45.907Z"
+  "last_updated": "2026-01-23T01:08:04.142Z"
 }
