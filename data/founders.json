@@ -11118,7 +11118,22 @@
       "linkedin": "",
       "notes": "CEO @ Kavida.ai (Acquired by QAD Redzone Nov 2025) | AI agents (Agent PO, Agent ERP) for manufacturing procurement and supply chain | Automates supplier coordination, delivery tracking | Integrates with existing ERP systems | $1.2M Seed before acquisition",
       "checked": false
+    },
+    {
+      "id": "founders-1769218467749-262",
+      "name": "Dr. Sumit Sinha",
+      "city": "London",
+      "tags": [
+        "Kavida.ai",
+        "Manufacturing AI",
+        "PhD AI Agents",
+        "Automotive"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO @ Kavida.ai (acq by QAD Redzone) | PhD focused on \"AI agents for automotive manufacturing\" | Built Agent PO and Agent ERP for manufacturing | Co-founder with Anam Rahman",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:34:26.580Z"
+  "last_updated": "2026-01-24T01:34:27.749Z"
 }
