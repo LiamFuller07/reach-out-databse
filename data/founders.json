@@ -10958,7 +10958,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Sarah AI / Corvera (YC W26) | AI replacing legacy ERP for CPG | Ex-Google Data & AI Lead | Co-founder with Chris Kong",
       "checked": false
+    },
+    {
+      "id": "founders-1769218425808-107",
+      "name": "Conor Brennan-Burke",
+      "city": "SF",
+      "tags": [
+        "Hyperspell",
+        "YC F25",
+        "Context Layer",
+        "Agent Memory",
+        "Pioneer Fund",
+        "a16z Scout"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Hyperspell (YC F25) | Memory and context layer for AI agents - connects to Slack, Gmail, Notion, Drive so agents can \"recall, reason, and remember across company knowledge\" | Scaled API products to $30M ARR at Checkr | Investors: Pioneer Fund, YC, Afore Capital, a16z Scout, CRV Scout + angels from Anthropic, DeepMind, Windsurf, Waymo",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:33:44.750Z"
+  "last_updated": "2026-01-24T01:33:45.808Z"
 }
