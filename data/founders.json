@@ -10991,7 +10991,24 @@
       "linkedin": "",
       "notes": "CEO @ Octonomy | Agentic AI for complex technical support in heavy industries (manufacturing, industrial equipment) | 95% accuracy processing technical manuals, schematics, SOPs, ERP data | Integrates with SAP, Salesforce, SharePoint | $25M total ($20M Seed) - Macquarie Capital (lead), Capnamic, NRW.Bank | 70 employees | GDPR/EU AI Act compliant",
       "checked": false
+    },
+    {
+      "id": "founders-1769218427963-3480",
+      "name": "Naveen Rao",
+      "city": "SF",
+      "tags": [
+        "Unconventional AI",
+        "a16z",
+        "Lightspeed",
+        "Ex-Databricks",
+        "Ex-Intel",
+        "$4.5B valuation"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Unconventional AI ($4.5B valuation) | New computing substrate for AI \"as efficient as biology\" | Serial founder: MosaicML ($1.3B acq by Databricks), Nervana Systems ($400M+ acq by Intel) | $475M Seed - a16z (co-lead), Lightspeed (co-lead), Lux Capital, DCVC, Jeff Bezos, Databricks, Sequoia",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:33:46.922Z"
+  "last_updated": "2026-01-24T01:33:47.963Z"
 }
