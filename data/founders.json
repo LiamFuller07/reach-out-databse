@@ -10790,7 +10790,24 @@
       "linkedin": "",
       "notes": "CEO @ Conduct | AI for legacy SAP ERP modernization - \"peel back layers of hidden business logic\" | Ex-Palantir | $12M Seed from Creandum (lead), Lucid Capital, Booom + angels from Palantir, Google DeepMind, SAP | Customers: Daimler Truck, Rittal | 90% cost reduction in issue resolution | Targeting 2027 SAP S/4HANA migration deadline",
       "checked": false
+    },
+    {
+      "id": "founders-1769218378282-2596",
+      "name": "Kenneth Acquah",
+      "city": "SF",
+      "tags": [
+        "Kaizen",
+        "YC",
+        "Legacy Portals",
+        "Browser Agents",
+        "Ex-TruckSmarter",
+        "Founders Fund portfolio"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Kaizen (YC) | Browser agents for legacy portals - \"customers come after trying computer use agents that can't reliably log in to legacy portals\" | Handles 2FA, anti-bot, session management | MIT | prev Head of Engineering @ TruckSmarter ($44M from Founders Fund, a16z) | Focus: logistics, healthcare, financial services legacy systems",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:32:57.183Z"
+  "last_updated": "2026-01-24T01:32:58.282Z"
 }
