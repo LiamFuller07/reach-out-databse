@@ -2340,13 +2340,15 @@
       "name": "Vincent Weisser",
       "city": "SF",
       "tags": [
-        "AI",
-        "NeoLabs Contributor",
-        "Chris Barber Network"
+        "Prime Intellect",
+        "RL Environments",
+        "Founders Fund",
+        "Andrej Karpathy",
+        "Open Source RL"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Contributor to Chris Barber's neolabs list",
+      "notes": "Co-founder @ Prime Intellect | \"Hugging Face for RL environments\" - open platform for building/sharing RL environments | Released INTELLECT-3 (100B+ params) | $20.5M raised - Founders Fund, Andrej Karpathy, Menlo Ventures, Clem Delangue (Hugging Face CEO), Dylan Patel (SemiAnalysis), Tri Dao (Together.AI)",
       "checked": false
     },
     {
@@ -10859,5 +10861,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:33:01.713Z"
+  "last_updated": "2026-01-24T01:33:02.827Z"
 }
