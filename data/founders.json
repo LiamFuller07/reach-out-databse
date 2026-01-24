@@ -2357,12 +2357,13 @@
       "city": "SF",
       "tags": [
         "Prime Intellect",
-        "CTO",
-        "Neolabs"
+        "RL Environments",
+        "Founders Fund",
+        "Andrej Karpathy"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/johannes-hagemann-393b72142",
-      "notes": "Co-founder & CTO @ Prime Intellect | prev Aleph Alpha AI Research Engineer (2022-2023, distributed training) | Strategy @ VitaDAO | MSc HPI IT-Systems Engineering",
+      "linkedin": "",
+      "notes": "Co-founder @ Prime Intellect | \"Hugging Face for RL environments\" | $20.5M from Founders Fund, Andrej Karpathy, Menlo Ventures | Co-founder with Vincent Weisser",
       "checked": false
     },
     {
@@ -10861,5 +10862,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:33:02.827Z"
+  "last_updated": "2026-01-24T01:33:03.984Z"
 }
