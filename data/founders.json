@@ -11165,7 +11165,23 @@
       "linkedin": "",
       "notes": "CPO @ Conduct | AI for legacy SAP ERP modernization | Ex-Palantir | $12M Seed from Creandum (lead) | Co-founder with Jan Philipp Haas",
       "checked": false
+    },
+    {
+      "id": "founders-1769218493599-8052",
+      "name": "Henry Thompson",
+      "city": "London",
+      "tags": [
+        "Conduct",
+        "Ex-Palantir",
+        "SAP",
+        "Legacy ERP",
+        "CTO"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO @ Conduct | AI for legacy SAP ERP | Ex-Palantir | $12M Seed from Creandum | Co-founder with Jan Philipp Haas and Philipp Hoefer",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:34:52.396Z"
+  "last_updated": "2026-01-24T01:34:53.599Z"
 }
