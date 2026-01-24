@@ -11071,7 +11071,23 @@
       "linkedin": "",
       "notes": "CEO @ Ressl AI (YC) | \"10x AI Salesforce Admins\" - AI agents that configure Salesforce in plain English | Handles XML configs, Apex/LWC generation, troubleshooting | Previously ran IT consulting firm - understands the consultancy angle",
       "checked": false
+    },
+    {
+      "id": "founders-1769218464226-2439",
+      "name": "Tiger Wang",
+      "city": "SF",
+      "tags": [
+        "Nessie",
+        "YC W26",
+        "Knowledge Graphs",
+        "AI Memory",
+        "Yale"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Nessie (YC W26) | \"Personal AI brains\" - turns scattered AI conversations into shareable knowledge base with auto-organization | 1,200 users, 300K+ conversations imported, 30% WoW growth | Yale CS, ex-Amazon",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:34:23.111Z"
+  "last_updated": "2026-01-24T01:34:24.226Z"
 }
