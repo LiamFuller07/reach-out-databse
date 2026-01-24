@@ -11055,7 +11055,23 @@
       "linkedin": "",
       "notes": "Co-founder @ DiligenceSquared (YC F25) | AI replacing consultant due diligence reports | Ex-Principal @ BCG (sold these reports) | Co-founder with Frederik Hansen",
       "checked": false
+    },
+    {
+      "id": "founders-1769218463111-3005",
+      "name": "Arushi Gandhi",
+      "city": "SF",
+      "tags": [
+        "Ressl AI",
+        "YC",
+        "Salesforce AI",
+        "CRM Automation",
+        "Ex-IT Consulting"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Ressl AI (YC) | \"10x AI Salesforce Admins\" - AI agents that configure Salesforce in plain English | Handles XML configs, Apex/LWC generation, troubleshooting | Previously ran IT consulting firm - understands the consultancy angle",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:34:21.897Z"
+  "last_updated": "2026-01-24T01:34:23.111Z"
 }
