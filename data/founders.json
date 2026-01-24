@@ -10773,7 +10773,24 @@
       "linkedin": "",
       "notes": "Swyx - Latent Space podcast, smol.ai, AI community builder, mentioned in Chris Barber's neolabs categorization discussion",
       "checked": false
+    },
+    {
+      "id": "founders-1769218377182-2234",
+      "name": "Jan Philipp Haas",
+      "city": "London",
+      "tags": [
+        "Conduct",
+        "Ex-Palantir",
+        "SAP",
+        "Legacy ERP",
+        "Creandum",
+        "AI for ERP"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Conduct | AI for legacy SAP ERP modernization - \"peel back layers of hidden business logic\" | Ex-Palantir | $12M Seed from Creandum (lead), Lucid Capital, Booom + angels from Palantir, Google DeepMind, SAP | Customers: Daimler Truck, Rittal | 90% cost reduction in issue resolution | Targeting 2027 SAP S/4HANA migration deadline",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:30:37.308Z"
+  "last_updated": "2026-01-24T01:32:57.183Z"
 }
