@@ -11024,7 +11024,23 @@
       "linkedin": "",
       "notes": "CEO @ Harness ($5.5B valuation) | AI DevOps platform built on \"Software Delivery Knowledge Graph\" - maps code changes, services, deployments, tests, environments, incidents | Previously founded AppDynamics ($3.7B acq by Cisco) | $240M Series E - Goldman Sachs (lead), IVP, Menlo Ventures | Customers: United Airlines, Morningstar, National Australia Bank",
       "checked": false
+    },
+    {
+      "id": "founders-1769218460688-8318",
+      "name": "Frederik Hansen",
+      "city": "SF",
+      "tags": [
+        "DiligenceSquared",
+        "YC F25",
+        "Ex-Blackstone",
+        "PE Due Diligence",
+        "Consultancy AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ DiligenceSquared (YC F25) | AI-powered market due diligence for PE - replaces $500K-$1M McKinsey/BCG/Bain reports with automated AI | Ex-Principal @ Blackstone (bought these reports) | YC F25",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:34:19.592Z"
+  "last_updated": "2026-01-24T01:34:20.688Z"
 }
