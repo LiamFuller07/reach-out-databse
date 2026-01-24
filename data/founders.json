@@ -10909,7 +10909,23 @@
       "linkedin": "",
       "notes": "CEO @ Distyl AI ($1.8B valuation) | Enterprise AI consulting - helps Fortune 500 become \"AI-native\" | Ex-Palantir (nearly a decade) | $175M Series B - Lightspeed (lead), Khosla Ventures, Coatue, Dell Technologies Capital | \"SEAL Team Six of AI engineering\" | Clients across telecom, insurance, manufacturing, finance | OpenAI partnership",
       "checked": false
+    },
+    {
+      "id": "founders-1769218422608-3815",
+      "name": "Derek Ho",
+      "city": "SF",
+      "tags": [
+        "Distyl AI",
+        "Ex-Palantir",
+        "Enterprise AI",
+        "Lightspeed",
+        "Khosla"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "COO @ Distyl AI ($1.8B valuation) | Ex-Palantir | $175M Series B - Lightspeed (lead), Khosla Ventures | Co-founder with Arjun Prakash",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:33:41.262Z"
+  "last_updated": "2026-01-24T01:33:42.608Z"
 }
