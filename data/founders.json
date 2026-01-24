@@ -10841,7 +10841,23 @@
       "linkedin": "",
       "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI training | Ex-OpenAI (worked on o1 reasoning model) | $100M raised - Benchmark (lead), Sequoia, Lux Capital, Conviction | Valuation discussions at $1.3B (Jan 2026) | Clients: DoorDash, Mercor, Cognition (Devin) | Building specialist agents trained on company-specific internal data",
       "checked": false
+    },
+    {
+      "id": "founders-1769218381713-2741",
+      "name": "Linden Li",
+      "city": "SF",
+      "tags": [
+        "Applied Compute",
+        "Ex-OpenAI",
+        "RL Environments",
+        "Benchmark",
+        "Sequoia"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI | Ex-OpenAI | $100M raised - Benchmark (lead), Sequoia, Lux Capital | Co-founder with Rhythm Garg and Yash Patil",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:33:00.580Z"
+  "last_updated": "2026-01-24T01:33:01.713Z"
 }
