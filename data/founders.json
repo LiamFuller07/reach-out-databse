@@ -10824,7 +10824,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Kaizen (YC) | Browser agents for legacy portals | MIT | prev Head of Infrastructure @ Gather ($77M from Sequoia, Index) | Co-founder with Kenneth Acquah",
       "checked": false
+    },
+    {
+      "id": "founders-1769218380580-8564",
+      "name": "Rhythm Garg",
+      "city": "SF",
+      "tags": [
+        "Applied Compute",
+        "Ex-OpenAI",
+        "RL Environments",
+        "Benchmark",
+        "Sequoia",
+        "o1 reasoning"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI training | Ex-OpenAI (worked on o1 reasoning model) | $100M raised - Benchmark (lead), Sequoia, Lux Capital, Conviction | Valuation discussions at $1.3B (Jan 2026) | Clients: DoorDash, Mercor, Cognition (Devin) | Building specialist agents trained on company-specific internal data",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:32:59.428Z"
+  "last_updated": "2026-01-24T01:33:00.580Z"
 }
