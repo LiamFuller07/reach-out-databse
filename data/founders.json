@@ -11133,7 +11133,23 @@
       "linkedin": "",
       "notes": "CTO @ Kavida.ai (acq by QAD Redzone) | PhD focused on \"AI agents for automotive manufacturing\" | Built Agent PO and Agent ERP for manufacturing | Co-founder with Anam Rahman",
       "checked": false
+    },
+    {
+      "id": "founders-1769218491278-2669",
+      "name": "Yash Patil",
+      "city": "SF",
+      "tags": [
+        "Applied Compute",
+        "Ex-OpenAI",
+        "RL Environments",
+        "Benchmark",
+        "Sequoia"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI | Ex-OpenAI (o1 reasoning team) | $100M raised - Benchmark (lead), Sequoia, Lux Capital, Conviction | Co-founder with Rhythm Garg and Linden Li",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:34:27.749Z"
+  "last_updated": "2026-01-24T01:34:51.278Z"
 }
