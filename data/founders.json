@@ -11008,7 +11008,23 @@
       "linkedin": "",
       "notes": "CEO @ Unconventional AI ($4.5B valuation) | New computing substrate for AI \"as efficient as biology\" | Serial founder: MosaicML ($1.3B acq by Databricks), Nervana Systems ($400M+ acq by Intel) | $475M Seed - a16z (co-lead), Lightspeed (co-lead), Lux Capital, DCVC, Jeff Bezos, Databricks, Sequoia",
       "checked": false
+    },
+    {
+      "id": "founders-1769218459592-9768",
+      "name": "Jyoti Bansal",
+      "city": "SF",
+      "tags": [
+        "Harness",
+        "Knowledge Graphs",
+        "Goldman Sachs",
+        "AppDynamics founder",
+        "$5.5B valuation"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Harness ($5.5B valuation) | AI DevOps platform built on \"Software Delivery Knowledge Graph\" - maps code changes, services, deployments, tests, environments, incidents | Previously founded AppDynamics ($3.7B acq by Cisco) | $240M Series E - Goldman Sachs (lead), IVP, Menlo Ventures | Customers: United Airlines, Morningstar, National Australia Bank",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:33:47.963Z"
+  "last_updated": "2026-01-24T01:34:19.592Z"
 }
