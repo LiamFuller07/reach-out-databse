@@ -10860,7 +10860,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI | Ex-OpenAI | $100M raised - Benchmark (lead), Sequoia, Lux Capital | Co-founder with Rhythm Garg and Yash Patil",
       "checked": false
+    },
+    {
+      "id": "founders-1769218385064-3491",
+      "name": "Nicholas Ustaran-Anderegg",
+      "city": "London",
+      "tags": [
+        "AgileRL",
+        "Enterprise RL",
+        "Fusion Fund",
+        "Octopus Ventures",
+        "JPMorgan",
+        "Wayve"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CTO @ AgileRL | Enterprise-grade RL with \"Evolutionary Hyperparameter Optimization\" - trains populations of agents simultaneously | 300K+ downloads | Used by JPMorgan, Wayve, IBM, Huawei | $7.5M Seed - Fusion Fund (lead), Octopus Ventures, Entrepreneur First, Flying Fish | Expanding to SF",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:33:03.984Z"
+  "last_updated": "2026-01-24T01:33:05.064Z"
 }
