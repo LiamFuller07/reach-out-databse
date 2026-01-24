@@ -11181,7 +11181,23 @@
       "linkedin": "",
       "notes": "CTO @ Conduct | AI for legacy SAP ERP | Ex-Palantir | $12M Seed from Creandum | Co-founder with Jan Philipp Haas and Philipp Hoefer",
       "checked": false
+    },
+    {
+      "id": "founders-1769218494920-7223",
+      "name": "Jesse (Bidflow)",
+      "city": "SF",
+      "tags": [
+        "Bidflow",
+        "YC",
+        "Mid-Market",
+        "Electrical Contractors",
+        "Data Centers"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Bidflow (YC) | AI copilot for electrical contractors doing estimates | Automates RFP submissions for data center electrical infrastructure | Processes estimates 4x faster | Family connections to the industry",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:34:53.599Z"
+  "last_updated": "2026-01-24T01:34:54.920Z"
 }
