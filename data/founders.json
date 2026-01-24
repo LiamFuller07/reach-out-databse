@@ -11103,7 +11103,22 @@
       "linkedin": "",
       "notes": "Co-founder @ Bravi (YC F25) | AI operating system for home services businesses - replaces front office with AI agents | Targets fenestration, solar, HVAC, carpentry installers | Solves 30-40% revenue loss from missed leads | Customers: manufacturers and installers across Europe and US",
       "checked": false
+    },
+    {
+      "id": "founders-1769218466580-5881",
+      "name": "Anam Rahman",
+      "city": "London",
+      "tags": [
+        "Kavida.ai",
+        "Manufacturing AI",
+        "ERP Integration",
+        "QAD Redzone acq"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ Kavida.ai (Acquired by QAD Redzone Nov 2025) | AI agents (Agent PO, Agent ERP) for manufacturing procurement and supply chain | Automates supplier coordination, delivery tracking | Integrates with existing ERP systems | $1.2M Seed before acquisition",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:34:25.474Z"
+  "last_updated": "2026-01-24T01:34:26.580Z"
 }
