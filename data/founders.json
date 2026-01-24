@@ -10807,7 +10807,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Kaizen (YC) | Browser agents for legacy portals - \"customers come after trying computer use agents that can't reliably log in to legacy portals\" | Handles 2FA, anti-bot, session management | MIT | prev Head of Engineering @ TruckSmarter ($44M from Founders Fund, a16z) | Focus: logistics, healthcare, financial services legacy systems",
       "checked": false
+    },
+    {
+      "id": "founders-1769218379428-6000",
+      "name": "Michael Silver",
+      "city": "SF",
+      "tags": [
+        "Kaizen",
+        "YC",
+        "Legacy Portals",
+        "Browser Agents",
+        "Ex-Gather",
+        "Sequoia portfolio"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Kaizen (YC) | Browser agents for legacy portals | MIT | prev Head of Infrastructure @ Gather ($77M from Sequoia, Index) | Co-founder with Kenneth Acquah",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:32:58.282Z"
+  "last_updated": "2026-01-24T01:32:59.428Z"
 }
