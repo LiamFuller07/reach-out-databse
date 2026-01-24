@@ -11087,7 +11087,23 @@
       "linkedin": "",
       "notes": "Co-founder @ Nessie (YC W26) | \"Personal AI brains\" - turns scattered AI conversations into shareable knowledge base with auto-organization | 1,200 users, 300K+ conversations imported, 30% WoW growth | Yale CS, ex-Amazon",
       "checked": false
+    },
+    {
+      "id": "founders-1769218465474-2512",
+      "name": "Anas Bouassami",
+      "city": "SF",
+      "tags": [
+        "Bravi",
+        "YC F25",
+        "Mid-Market AI",
+        "Home Services",
+        "Manufacturing"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Bravi (YC F25) | AI operating system for home services businesses - replaces front office with AI agents | Targets fenestration, solar, HVAC, carpentry installers | Solves 30-40% revenue loss from missed leads | Customers: manufacturers and installers across Europe and US",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:34:24.226Z"
+  "last_updated": "2026-01-24T01:34:25.474Z"
 }
