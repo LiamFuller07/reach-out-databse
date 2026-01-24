@@ -10877,7 +10877,22 @@
       "linkedin": "",
       "notes": "CTO @ AgileRL | Enterprise-grade RL with \"Evolutionary Hyperparameter Optimization\" - trains populations of agents simultaneously | 300K+ downloads | Used by JPMorgan, Wayve, IBM, Huawei | $7.5M Seed - Fusion Fund (lead), Octopus Ventures, Entrepreneur First, Flying Fish | Expanding to SF",
       "checked": false
+    },
+    {
+      "id": "founders-1769218420094-6951",
+      "name": "Param Kumar",
+      "city": "London",
+      "tags": [
+        "AgileRL",
+        "Enterprise RL",
+        "Fusion Fund",
+        "CEO"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO @ AgileRL | Enterprise-grade RL platform | $7.5M Seed - Fusion Fund (lead), Octopus Ventures, Entrepreneur First | Co-founder with Nicholas Ustaran-Anderegg",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:33:05.064Z"
+  "last_updated": "2026-01-24T01:33:40.094Z"
 }
