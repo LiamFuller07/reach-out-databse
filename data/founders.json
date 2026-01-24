@@ -11040,7 +11040,22 @@
       "linkedin": "",
       "notes": "Co-founder @ DiligenceSquared (YC F25) | AI-powered market due diligence for PE - replaces $500K-$1M McKinsey/BCG/Bain reports with automated AI | Ex-Principal @ Blackstone (bought these reports) | YC F25",
       "checked": false
+    },
+    {
+      "id": "founders-1769218461897-6653",
+      "name": "Soren Biltoft-Knudsen",
+      "city": "SF",
+      "tags": [
+        "DiligenceSquared",
+        "YC F25",
+        "Ex-BCG",
+        "Consultancy AI"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ DiligenceSquared (YC F25) | AI replacing consultant due diligence reports | Ex-Principal @ BCG (sold these reports) | Co-founder with Frederik Hansen",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:34:20.688Z"
+  "last_updated": "2026-01-24T01:34:21.897Z"
 }
