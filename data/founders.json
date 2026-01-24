@@ -11246,7 +11246,25 @@
       "linkedin": "",
       "notes": "Co-founder & CEO @ Harvey AI ($8B valuation, $190M ARR) | Former securities & antitrust litigator @ O'Melveny & Myers | Started Harvey as roommates with Gabe Pereyra | $1B+ raised - Sequoia, a16z (led Series F), Kleiner Perkins, OpenAI Startup Fund, Google Ventures, Coatue, Elad Gil, EQT, WndrCo, Conviction | 1,000+ law firms & corporate legal departments",
       "checked": false
+    },
+    {
+      "id": "founders-1769220393107-621",
+      "name": "Gabriel Pereyra",
+      "city": "SF",
+      "tags": [
+        "Harvey AI",
+        "Co-founder",
+        "Ex-DeepMind",
+        "Ex-Meta AI",
+        "Sequoia",
+        "a16z",
+        "$8B valuation"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ Harvey AI ($8B valuation) | Former Research Scientist @ Google DeepMind & Meta AI | Technical co-founder, built core AI infrastructure | $1B+ raised - Sequoia, a16z, Kleiner Perkins, OpenAI Startup Fund, Google Ventures, Coatue, Elad Gil | Started as roommates with Winston Weinberg in SF apartment",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T02:06:31.470Z"
+  "last_updated": "2026-01-24T02:06:33.107Z"
 }
