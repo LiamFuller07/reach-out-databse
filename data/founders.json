@@ -11149,7 +11149,23 @@
       "linkedin": "",
       "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI | Ex-OpenAI (o1 reasoning team) | $100M raised - Benchmark (lead), Sequoia, Lux Capital, Conviction | Co-founder with Rhythm Garg and Linden Li",
       "checked": false
+    },
+    {
+      "id": "founders-1769218492396-6347",
+      "name": "Philipp Hoefer",
+      "city": "London",
+      "tags": [
+        "Conduct",
+        "Ex-Palantir",
+        "SAP",
+        "Legacy ERP",
+        "Creandum"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "CPO @ Conduct | AI for legacy SAP ERP modernization | Ex-Palantir | $12M Seed from Creandum (lead) | Co-founder with Jan Philipp Haas",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T01:34:51.278Z"
+  "last_updated": "2026-01-24T01:34:52.396Z"
 }
