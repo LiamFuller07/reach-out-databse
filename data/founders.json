@@ -4137,14 +4137,15 @@
       "city": "SF",
       "tags": [
         "G2i",
-        "Human Data",
         "RL Environments",
-        "AI Engineer Miami",
-        "React Miami"
+        "Human Data",
+        "Connector",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founder @ G2i.co | Focused on human data, RL environments | Co-organizer AI Engineer Miami & React Miami",
+      "notes": "Founder @ G2i.co | Focused on human data, RL environments | Co-organizer of RL community events",
       "checked": false
     },
     {
@@ -11413,5 +11414,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:03:41.183Z"
+  "last_updated": "2026-01-28T07:04:01.435Z"
 }
