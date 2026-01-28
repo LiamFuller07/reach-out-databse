@@ -2423,12 +2423,13 @@
       "tags": [
         "Prime Intellect",
         "RL Environments",
-        "Founders Fund",
-        "Andrej Karpathy"
+        "$20M raised",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ Prime Intellect | \"Hugging Face for RL environments\" | $20.5M from Founders Fund, Andrej Karpathy, Menlo Ventures | Co-founder with Vincent Weisser",
+      "notes": "Co-founder @ Prime Intellect | 'Hugging Face for RL environments' | $20M+ raised",
       "checked": false
     },
     {
@@ -11382,5 +11383,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:02:23.221Z"
+  "last_updated": "2026-01-28T07:02:24.828Z"
 }
