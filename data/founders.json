@@ -1889,11 +1889,15 @@
       "city": "SF",
       "tags": [
         "Parity",
-        "YC AI Agents"
+        "YC S24",
+        "AI SRE",
+        "K8s",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/colemansmith-",
-      "notes": "Co-founder & CPO @ Parity (YC S24) | AI SRE platform for K8s | prev Crusoe SWE, Zillow, Amazon | Stanford CS (Systems undergrad, AI coterm) | Met Jeffrey & Wilson sharing on-call rotations at Crusoe",
+      "linkedin": "",
+      "notes": "Co-founder & CPO @ Parity (YC S24) | AI SRE platform for K8s",
       "checked": false
     },
     {
@@ -11433,5 +11437,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:04:07.949Z"
+  "last_updated": "2026-01-28T07:04:10.239Z"
 }
