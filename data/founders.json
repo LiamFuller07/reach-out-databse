@@ -4235,14 +4235,12 @@
         "hud.ai",
         "YC W25",
         "RL Environments",
-        "Evals",
-        "CEO",
-        "PRIORITY-OUTREACH",
+        "EMAIL-VERIFIED",
         "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "CEO @ hud.ai (YC W25) | RL envs + evals for CUAs | Key founder in agent space",
+      "notes": "EMAIL: jay@hud.so | CEO @ hud.ai (YC W25) | RL envs + evals for CUAs",
       "checked": false
     },
     {
@@ -11438,5 +11436,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:09:19.856Z"
+  "last_updated": "2026-01-28T07:09:21.944Z"
 }
