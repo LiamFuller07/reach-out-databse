@@ -101,14 +101,18 @@
     {
       "id": "f-8",
       "name": "Spencer Mateega",
-      "city": "",
+      "city": "SF",
       "tags": [
-        "rl-outreach-jan-2026"
+        "AfterQuery",
+        "YC W25",
+        "RL Environments",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ AfterQuery (YC W25) | RL envs, Code & Finance, Wharton",
+      "checked": false
     },
     {
       "id": "f-9",
@@ -11307,5 +11311,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:00:08.266Z"
+  "last_updated": "2026-01-28T07:00:10.168Z"
 }
