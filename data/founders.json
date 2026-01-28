@@ -1511,14 +1511,20 @@
     {
       "id": "f-107",
       "name": "Jithin James",
-      "city": "",
+      "city": "SF",
       "tags": [
-        "rl-outreach-jan-2026"
+        "Ragas",
+        "YC W24",
+        "LLM Eval",
+        "Benchmarks",
+        "ex-BentoML",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ Ragas (YC W24) | RAGAS score benchmark, ex-BentoML",
+      "checked": false
     },
     {
       "id": "f-108",
@@ -11365,5 +11371,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:01:22.766Z"
+  "last_updated": "2026-01-28T07:01:24.600Z"
 }
