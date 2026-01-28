@@ -1601,11 +1601,15 @@
       "city": "SF",
       "tags": [
         "Casco",
-        "YC AI Agents"
+        "YC X25",
+        "AI Security",
+        "ex-AWS",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/iansaultz",
-      "notes": "Co-founder & CTO @ Casco (YC X25) | AI security validation | ex-AWS Security Guardian & API Bar Raiser | Head of Product AWS GenAI | Nyack College",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ Casco (YC X25) | AI security validation | ex-AWS Security",
       "checked": false
     },
     {
@@ -11400,5 +11404,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:03:28.519Z"
+  "last_updated": "2026-01-28T07:03:31.601Z"
 }
