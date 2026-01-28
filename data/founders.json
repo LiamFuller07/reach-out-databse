@@ -11031,14 +11031,13 @@
       "tags": [
         "Hyperspell",
         "YC F25",
-        "Context Layer",
-        "Agent Memory",
-        "Pioneer Fund",
-        "a16z Scout"
+        "AI Agent Memory",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "CEO @ Hyperspell (YC F25) | Memory and context layer for AI agents - connects to Slack, Gmail, Notion, Drive so agents can \"recall, reason, and remember across company knowledge\" | Scaled API products to $30M ARR at Checkr | Investors: Pioneer Fund, YC, Afore Capital, a16z Scout, CRV Scout + angels from Anthropic, DeepMind, Windsurf, Waymo",
+      "notes": "CEO @ Hyperspell (YC F25) | Memory and context layer for AI agents",
       "checked": false
     },
     {
@@ -11381,5 +11380,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:02:26.910Z"
+  "last_updated": "2026-01-28T07:02:28.782Z"
 }
