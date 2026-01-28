@@ -252,12 +252,14 @@
       "tags": [
         "dmodel",
         "YC S24",
-        "OpenAI",
-        "Google Brain"
+        "ex-OpenAI",
+        "LLM Interpretability",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
-      "x": "dlbydq",
-      "linkedin": "https://linkedin.com/in/ani-sh",
-      "notes": "Co-founder & Chief Scientist @ dmodel (YC S24) | Opening the 'black box' of LLMs - manipulating internal model 'thoughts' in realtime for interpretability | prev OpenAI, Google Brain | PhD Programming Languages UCSD (Ranjit Jhala, Wes Weimer) | Advises investors on AI trends",
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & Chief Scientist @ dmodel (YC S24) | Opening the 'black box' of LLMs | Ex-OpenAI",
       "checked": false
     },
     {
@@ -11380,5 +11382,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:02:28.782Z"
+  "last_updated": "2026-01-28T07:02:44.701Z"
 }
