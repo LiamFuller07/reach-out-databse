@@ -1557,11 +1557,15 @@
       "city": "SF",
       "tags": [
         "Bluejay",
-        "YC AI Agents"
+        "YC X25",
+        "Agent Testing",
+        "$4M seed",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/farazmsiddiqi",
-      "notes": "Co-founder & CTO @ Bluejay (YC X25) | $4M seed | AI agent testing platform | ex-Microsoft Copilot | UIUC CS undergrad/masters | Research: synthetic data & context compression",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ Bluejay (YC X25) | $4M seed | AI agent testing platform",
       "checked": false
     },
     {
@@ -11382,5 +11386,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:02:44.701Z"
+  "last_updated": "2026-01-28T07:02:46.239Z"
 }
