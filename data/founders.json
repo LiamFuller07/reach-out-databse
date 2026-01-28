@@ -10910,14 +10910,14 @@
       "city": "SF",
       "tags": [
         "Applied Compute",
-        "Ex-OpenAI",
         "RL Environments",
-        "Benchmark",
-        "Sequoia"
+        "ex-OpenAI",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI | Ex-OpenAI | $100M raised - Benchmark (lead), Sequoia, Lux Capital | Co-founder with Rhythm Garg and Yash Patil",
+      "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI | Ex-OpenAI | Top priority target",
       "checked": false
     },
     {
@@ -11375,5 +11375,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:01:46.149Z"
+  "last_updated": "2026-01-28T07:01:48.713Z"
 }
