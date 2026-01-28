@@ -85,14 +85,18 @@
     {
       "id": "f-7",
       "name": "Carlos Georgescu",
-      "city": "",
+      "city": "SF",
       "tags": [
-        "rl-outreach-jan-2026"
+        "AfterQuery",
+        "YC W25",
+        "RL Environments",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ AfterQuery (YC W25) | RL envs, Code & Finance, Pavlov's List",
+      "checked": false
     },
     {
       "id": "f-8",
@@ -11303,5 +11307,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:00:06.326Z"
+  "last_updated": "2026-01-28T07:00:08.266Z"
 }
