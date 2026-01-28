@@ -822,17 +822,18 @@
     {
       "id": "f-59",
       "name": "Rayan Garg",
-      "city": "",
+      "city": "SF",
       "tags": [
         "Theta",
         "YC X25",
-        "Cornell",
-        "rl-outreach-jan-2026"
+        "Self-learning Agents",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ Theta (YC X25) | Self-learning agents",
+      "checked": false
     },
     {
       "id": "f-60",
@@ -11364,5 +11365,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:01:21.282Z"
+  "last_updated": "2026-01-28T07:01:22.766Z"
 }
