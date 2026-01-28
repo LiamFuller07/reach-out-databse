@@ -11414,7 +11414,24 @@
       "linkedin": "",
       "notes": "Co-founder @ Kashikoi (YC X25) | Dynamic world models for agents",
       "checked": false
+    },
+    {
+      "id": "founders-1769583847949-3466",
+      "name": "Quentin Romero Lauro",
+      "city": "SF",
+      "tags": [
+        "Inspector",
+        "YC F25",
+        "ex-Character AI",
+        "Berkeley",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder & CEO @ Inspector (YC F25) | Previously @character_ai @Berkeley",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:04:05.528Z"
+  "last_updated": "2026-01-28T07:04:07.949Z"
 }
