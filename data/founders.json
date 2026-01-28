@@ -206,11 +206,15 @@
       "name": "Dillon DuPont",
       "city": "SF",
       "tags": [
-        "Cua"
+        "Cua",
+        "YC X25",
+        "Docker for Agents",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
-      "x": "ddupont808",
-      "linkedin": "https://linkedin.com/in/alessandro-puppo",
-      "notes": "Co-founder @ Cua (YC X25) | Building 'Docker for Computer-use Agents' - cloud containers & VMs for AI agents | YC Alum | prev Notion | Co-founded Safurai (Techstars)",
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder @ Cua (YC X25) | Building 'Docker for Computer-use Agents' | Agent infrastructure",
       "checked": false
     },
     {
@@ -11378,5 +11382,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:02:19.028Z"
+  "last_updated": "2026-01-28T07:02:21.077Z"
 }
