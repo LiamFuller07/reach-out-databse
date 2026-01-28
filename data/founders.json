@@ -849,11 +849,13 @@
       "tags": [
         "Theta",
         "YC X25",
-        "MultiOn"
+        "AI Product",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
-      "x": "tsha444",
-      "linkedin": "https://linkedin.com/in/tanmayxsharma",
-      "notes": "Co-Founder @ Theta (YC X25), Indiana University, prev AI Product Engineer @ MultiOn & Atlassian, building agent memory/learning layer",
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Theta (YC X25) | Indiana University, prev AI Product Engineer",
       "checked": false
     },
     {
@@ -11394,5 +11396,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:02:50.352Z"
+  "last_updated": "2026-01-28T07:02:52.981Z"
 }
