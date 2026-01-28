@@ -626,17 +626,18 @@
     {
       "id": "f-45",
       "name": "Tamay Besiroglu",
-      "city": "",
+      "city": "SF",
       "tags": [
         "Mechanize",
-        "Epoch AI",
-        "Nat Friedman backed",
-        "rl-outreach-jan-2026"
+        "RL Environments",
+        "Full Automation",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ Mechanize | Building RL environments to power full automation | Key RL envs player",
+      "checked": false
     },
     {
       "id": "f-46",
@@ -11377,5 +11378,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:01:59.487Z"
+  "last_updated": "2026-01-28T07:02:19.028Z"
 }
