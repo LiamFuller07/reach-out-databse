@@ -10894,15 +10894,14 @@
       "city": "SF",
       "tags": [
         "Applied Compute",
-        "Ex-OpenAI",
         "RL Environments",
-        "Benchmark",
-        "Sequoia",
-        "o1 reasoning"
+        "ex-OpenAI",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI training | Ex-OpenAI (worked on o1 reasoning model) | $100M raised - Benchmark (lead), Sequoia, Lux Capital, Conviction | Valuation discussions at $1.3B (Jan 2026) | Clients: DoorDash, Mercor, Cognition (Devin) | Building specialist agents trained on company-specific internal data",
+      "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI training | Ex-OpenAI | Top priority target",
       "checked": false
     },
     {
@@ -11376,5 +11375,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:01:26.266Z"
+  "last_updated": "2026-01-28T07:01:46.149Z"
 }
