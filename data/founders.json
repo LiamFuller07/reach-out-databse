@@ -1499,14 +1499,19 @@
     {
       "id": "f-106",
       "name": "Shahul ES",
-      "city": "",
+      "city": "SF",
       "tags": [
-        "rl-outreach-jan-2026"
+        "Ragas",
+        "YC W24",
+        "LLM Eval",
+        "Kaggle GM",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ Ragas (YC W24) | Open-source LLM eval, Kaggle GM",
+      "checked": false
     },
     {
       "id": "f-107",
@@ -11371,5 +11376,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:01:24.600Z"
+  "last_updated": "2026-01-28T07:01:26.266Z"
 }
