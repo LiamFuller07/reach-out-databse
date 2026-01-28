@@ -734,17 +734,18 @@
     {
       "id": "f-53",
       "name": "Pranav Putta",
-      "city": "",
+      "city": "SF",
       "tags": [
         "Plato",
-        "MultiOn",
-        "Georgia Tech",
-        "rl-outreach-jan-2026"
+        "Agent Simulations",
+        "ex-MultiOn",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Founder @ Plato | Agent simulations, ex-MultiOn",
+      "checked": false
     },
     {
       "id": "f-54",
@@ -11343,5 +11344,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:00:56.054Z"
+  "last_updated": "2026-01-28T07:00:57.715Z"
 }
