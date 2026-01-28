@@ -394,17 +394,19 @@
     {
       "id": "f-29",
       "name": "Jerry Wu",
-      "city": "",
+      "city": "SF",
       "tags": [
         "Halluminate",
         "YC",
-        "Capital One",
-        "rl-outreach-jan-2026"
+        "Browser Agents",
+        "Sandboxes",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ Halluminate (YC) | Sandboxes for browser agents",
+      "checked": false
     },
     {
       "id": "f-30",
@@ -11341,5 +11343,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:00:53.505Z"
+  "last_updated": "2026-01-28T07:00:56.054Z"
 }
