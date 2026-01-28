@@ -11313,16 +11313,15 @@
       "city": "SF",
       "tags": [
         "Harvey AI",
-        "Co-founder",
-        "Ex-DeepMind",
-        "Ex-Meta AI",
-        "Sequoia",
-        "a16z",
-        "$8B valuation"
+        "ex-DeepMind",
+        "ex-Meta AI",
+        "$8B valuation",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder & CTO @ Harvey AI ($8B valuation) | Former Research Scientist @ Google DeepMind & Meta AI | Technical co-founder, built core AI infrastructure | $1B+ raised - Sequoia, a16z, Kleiner Perkins, OpenAI Startup Fund, Google Ventures, Coatue, Elad Gil | Started as roommates with Winston Weinberg in SF apartment",
+      "notes": "Co-founder & CTO @ Harvey AI ($8B valuation) | Former Research Scientist @ Google DeepMind & Meta AI | Top priority target",
       "checked": false
     },
     {
@@ -11376,5 +11375,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:01:50.907Z"
+  "last_updated": "2026-01-28T07:01:54.225Z"
 }
