@@ -2407,13 +2407,13 @@
       "tags": [
         "Prime Intellect",
         "RL Environments",
-        "Founders Fund",
-        "Andrej Karpathy",
-        "Open Source RL"
+        "HuggingFace for RL",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ Prime Intellect | \"Hugging Face for RL environments\" - open platform for building/sharing RL environments | Released INTELLECT-3 (100B+ params) | $20.5M raised - Founders Fund, Andrej Karpathy, Menlo Ventures, Clem Delangue (Hugging Face CEO), Dylan Patel (SemiAnalysis), Tri Dao (Together.AI)",
+      "notes": "Co-founder @ Prime Intellect | 'Hugging Face for RL environments' - open source RL env platform",
       "checked": false
     },
     {
@@ -11382,5 +11382,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:02:21.077Z"
+  "last_updated": "2026-01-28T07:02:23.221Z"
 }
