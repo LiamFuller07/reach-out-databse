@@ -1906,11 +1906,14 @@
       "city": "SF",
       "tags": [
         "Parity",
-        "YC AI Agents"
+        "YC S24",
+        "AI SRE",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/wilsonspearman",
-      "notes": "Co-founder & CEO @ Parity (YC S24) | World's first AI SRE - PagerDuty/Datadog integration for K8s incident response | prev Crusoe, Settle, Bridgewater, Apple | MIT CS 2022 | Also building CreativeMode (YC S24) - vibe coding for Minecraft mods",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Parity (YC S24) | World's first AI SRE",
       "checked": false
     },
     {
@@ -11437,5 +11440,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:04:10.239Z"
+  "last_updated": "2026-01-28T07:04:12.098Z"
 }
