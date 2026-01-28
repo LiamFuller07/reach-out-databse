@@ -11264,7 +11264,24 @@
       "linkedin": "",
       "notes": "Co-founder & CTO @ Harvey AI ($8B valuation) | Former Research Scientist @ Google DeepMind & Meta AI | Technical co-founder, built core AI infrastructure | $1B+ raised - Sequoia, a16z, Kleiner Perkins, OpenAI Startup Fund, Google Ventures, Coatue, Elad Gil | Started as roommates with Winston Weinberg in SF apartment",
       "checked": false
+    },
+    {
+      "id": "founders-1769583557643-9791",
+      "name": "Daniel Han",
+      "city": "SF",
+      "tags": [
+        "Unsloth AI",
+        "YC S24",
+        "RL",
+        "Fine-tuning",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "SEND HIM A MESSAGE | Founder & CEO @ Unsloth AI (YC S24) | RL & fine-tuning for LLMs | 10M+ monthly model downloads, 40K GitHub stars | Makes training 2x faster with 70% less VRAM | Ex-NVIDIA (made TSNE 2000x faster) | Fixed 20+ bugs in Llama/Gemma/Mistral | Co-founded with brother Michael Han | UNSW Australia",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-24T02:06:33.107Z"
+  "last_updated": "2026-01-28T06:59:17.643Z"
 }
