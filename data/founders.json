@@ -337,11 +337,14 @@
       "city": "SF",
       "tags": [
         "Fleet AI",
-        "UCLA"
+        "Training Gyms",
+        "RL Environments",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
-      "x": "andrewthezhou",
-      "linkedin": "https://linkedin.com/in/fredhavemeyer",
-      "notes": "Founding Team @ Fleet AI | Building 'training gyms' - high-fidelity simulation environments for AI agent practice under human supervision | Also Operating Partner @ Fulcrum Venture Group | prev Macquarie Senior Analyst (software equity research) | Physics background | Team from Anthropic, Microsoft AI, Citadel, Jane Street",
+      "x": "",
+      "linkedin": "",
+      "notes": "Founding Team @ Fleet AI | Building 'training gyms' - high-fidelity simulation environments for agents",
       "checked": false
     },
     {
@@ -11407,5 +11410,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:03:36.808Z"
+  "last_updated": "2026-01-28T07:03:38.685Z"
 }
