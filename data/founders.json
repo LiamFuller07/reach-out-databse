@@ -187,17 +187,19 @@
     {
       "id": "f-14",
       "name": "Francesco Bonacci",
-      "city": "",
+      "city": "SF",
       "tags": [
         "Cua",
         "YC X25",
-        "Microsoft",
-        "rl-outreach-jan-2026"
+        "Docker for Agents",
+        "ex-Microsoft",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ Cua (YC X25) | Docker for agents, ex-Microsoft",
+      "checked": false
     },
     {
       "id": "f-15",
@@ -11362,5 +11364,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:01:19.348Z"
+  "last_updated": "2026-01-28T07:01:21.282Z"
 }
