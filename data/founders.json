@@ -1448,14 +1448,19 @@
     {
       "id": "f-104",
       "name": "Youssef Kallel",
-      "city": "",
+      "city": "SF",
       "tags": [
-        "rl-outreach-jan-2026"
+        "AgentHub",
+        "YC S25",
+        "Agent Eval",
+        "ex-Apple",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ AgentHub (YC S25) | Agent eval, prev Apple FM Eval Lead",
+      "checked": false
     },
     {
       "id": "f-105",
@@ -11318,5 +11323,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:00:25.971Z"
+  "last_updated": "2026-01-28T07:00:27.713Z"
 }
