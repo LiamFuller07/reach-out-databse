@@ -863,11 +863,15 @@
       "tags": [
         "Theta",
         "YC X25",
-        "Cornell"
+        "Distributed ML",
+        "RL",
+        "Cornell",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
-      "x": "_gurvir_",
-      "linkedin": "https://linkedin.com/in/gurvir-s",
-      "notes": "Co-Founder @ Theta (YC X25), Cornell, built distributed ML systems & RL at Cornell, specializes in post-training optimization",
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder @ Theta (YC X25) | Cornell, built distributed ML systems & RL",
       "checked": false
     },
     {
@@ -11390,5 +11394,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:02:47.915Z"
+  "last_updated": "2026-01-28T07:02:50.352Z"
 }
