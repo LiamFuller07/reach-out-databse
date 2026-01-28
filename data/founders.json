@@ -423,11 +423,14 @@
       "tags": [
         "Halluminate",
         "YC",
-        "Cornell"
+        "Datasets",
+        "Sandboxes",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
-      "x": "wgm752",
-      "linkedin": "https://linkedin.com/in/wyatt-marshall-a40797198",
-      "notes": "Co-founder & CTO @ Halluminate (YC) | High-quality datasets & sandbox environments for computer use AI agents | Cornell CS & Philosophy (Milstein Scholar) | prev Data Engineer @ MediaWallah, SWE @ Silq | Friends with Jerry since first week at Cornell",
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-founder & CTO @ Halluminate (YC) | High-quality datasets & sandbox environments for browser agents",
       "checked": false
     },
     {
@@ -11404,5 +11407,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:03:31.601Z"
+  "last_updated": "2026-01-28T07:03:34.365Z"
 }
