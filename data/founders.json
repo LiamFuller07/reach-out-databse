@@ -637,17 +637,18 @@
     {
       "id": "f-46",
       "name": "Ege Erdil",
-      "city": "",
+      "city": "SF",
       "tags": [
         "Mechanize",
-        "Epoch AI",
-        "Forecasting",
-        "rl-outreach-jan-2026"
+        "RL Environments",
+        "ex-Epoch",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ Mechanize | Virtual work RL envs, ex-Epoch",
+      "checked": false
     },
     {
       "id": "f-47",
@@ -11334,5 +11335,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:00:48.849Z"
+  "last_updated": "2026-01-28T07:00:51.722Z"
 }
