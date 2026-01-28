@@ -11281,7 +11281,23 @@
       "linkedin": "",
       "notes": "SEND HIM A MESSAGE | Founder & CEO @ Unsloth AI (YC S24) | RL & fine-tuning for LLMs | 10M+ monthly model downloads, 40K GitHub stars | Makes training 2x faster with 70% less VRAM | Ex-NVIDIA (made TSNE 2000x faster) | Fixed 20+ bugs in Llama/Gemma/Mistral | Co-founded with brother Michael Han | UNSW Australia",
       "checked": false
+    },
+    {
+      "id": "founders-1769583604783-1573",
+      "name": "Chris Barber",
+      "city": "SF",
+      "tags": [
+        "Epoch AI",
+        "RL Environments",
+        "Connector",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "RL Environments Expert, THE connector | Epoch AI | Key network hub for RL/agents space",
+      "checked": false
     }
   ],
-  "last_updated": "2026-01-28T06:59:17.643Z"
+  "last_updated": "2026-01-28T07:00:04.783Z"
 }
