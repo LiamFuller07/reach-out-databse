@@ -11199,14 +11199,15 @@
       "city": "SF",
       "tags": [
         "Applied Compute",
-        "Ex-OpenAI",
         "RL Environments",
-        "Benchmark",
-        "Sequoia"
+        "ex-OpenAI",
+        "o1 team",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI | Ex-OpenAI (o1 reasoning team) | $100M raised - Benchmark (lead), Sequoia, Lux Capital, Conviction | Co-founder with Rhythm Garg and Linden Li",
+      "notes": "Co-founder @ Applied Compute | RL environments for enterprise AI | Ex-OpenAI (o1 team) | Top priority target",
       "checked": false
     },
     {
@@ -11375,5 +11376,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:01:48.713Z"
+  "last_updated": "2026-01-28T07:01:50.907Z"
 }
