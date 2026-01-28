@@ -1436,14 +1436,20 @@
     {
       "id": "f-103",
       "name": "Sandra Tang",
-      "city": "",
+      "city": "SF",
       "tags": [
-        "rl-outreach-jan-2026"
+        "AgentHub",
+        "YC S25",
+        "Agent Simulation",
+        "ex-Google",
+        "ex-Meta",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ AgentHub (YC S25) | Agent simulation, ex-Google/Meta",
+      "checked": false
     },
     {
       "id": "f-104",
@@ -11323,5 +11329,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:00:27.713Z"
+  "last_updated": "2026-01-28T07:00:29.525Z"
 }
