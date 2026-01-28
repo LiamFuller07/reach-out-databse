@@ -11380,13 +11380,12 @@
         "Unsloth AI",
         "YC S24",
         "RL",
-        "Fine-tuning",
-        "PRIORITY-OUTREACH",
+        "EMAIL-VERIFIED",
         "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "SEND HIM A MESSAGE | Founder & CEO @ Unsloth AI (YC S24) | RL & fine-tuning for LLMs | 10M+ monthly model downloads, 40K GitHub stars | Makes training 2x faster with 70% less VRAM | Ex-NVIDIA (made TSNE 2000x faster) | Fixed 20+ bugs in Llama/Gemma/Mistral | Co-founded with brother Michael Han | UNSW Australia",
+      "notes": "EMAIL: daniel@unsloth.ai | SEND HIM A MESSAGE | Founder @ Unsloth AI (YC S24) | 10M+ monthly downloads, 40K GitHub stars",
       "checked": false
     },
     {
@@ -11440,5 +11439,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:09:15.343Z"
+  "last_updated": "2026-01-28T07:09:17.636Z"
 }
