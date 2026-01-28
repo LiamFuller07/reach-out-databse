@@ -1544,11 +1544,15 @@
       "city": "SF",
       "tags": [
         "Bluejay",
-        "YC AI Agents"
+        "YC X25",
+        "Voice Agents",
+        "$4M seed",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
-      "linkedin": "https://linkedin.com/in/rohanvas",
-      "notes": "Co-founder & CEO @ Bluejay (YC X25) | $4M seed | QA platform for voice/text AI | ex-AWS Bedrock | Built profitable SaaS in college | UChicago CS & Econ | 23 y/o",
+      "linkedin": "",
+      "notes": "Co-founder & CEO @ Bluejay (YC X25) | $4M seed | QA platform for voice agents",
       "checked": false
     },
     {
@@ -11386,5 +11390,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:02:46.239Z"
+  "last_updated": "2026-01-28T07:02:47.915Z"
 }
