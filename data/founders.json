@@ -1377,17 +1377,19 @@
     {
       "id": "f-99",
       "name": "Shivum Pandove",
-      "city": "",
+      "city": "SF",
       "tags": [
         "Janus",
         "YC X25",
-        "CMU dropout",
-        "rl-outreach-jan-2026"
+        "Simulation",
+        "CMU",
+        "PRIORITY-OUTREACH",
+        "jan-27-target"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder @ Janus (YC X25) | Simulation infra, CMU dropout",
+      "checked": false
     },
     {
       "id": "f-100",
@@ -11311,5 +11313,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-28T07:00:10.168Z"
+  "last_updated": "2026-01-28T07:00:23.678Z"
 }
