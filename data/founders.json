@@ -11668,7 +11668,20 @@
       "linkedin": "",
       "notes": "User-specified target for Feb 2 outreach",
       "checked": false
+    },
+    {
+      "id": "founders-1770017404687-2047",
+      "name": "Zach Richards",
+      "city": "",
+      "tags": [
+        "hit-list-feb-2",
+        "to-research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "User-specified target for Feb 2 outreach",
+      "checked": false
     }
   ],
-  "last_updated": "2026-02-02T07:30:03.375Z"
+  "last_updated": "2026-02-02T07:30:04.687Z"
 }
