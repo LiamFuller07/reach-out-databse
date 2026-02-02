@@ -11499,7 +11499,20 @@
       "linkedin": "",
       "notes": "User-specified target for Feb 2 outreach",
       "checked": false
+    },
+    {
+      "id": "founders-1770017369238-2701",
+      "name": "Lucas Rothman",
+      "city": "",
+      "tags": [
+        "hit-list-feb-2",
+        "to-research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "User-specified target for Feb 2 outreach",
+      "checked": false
     }
   ],
-  "last_updated": "2026-02-02T07:29:28.074Z"
+  "last_updated": "2026-02-02T07:29:29.238Z"
 }
