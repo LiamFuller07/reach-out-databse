@@ -11694,7 +11694,20 @@
       "linkedin": "",
       "notes": "User-specified target for Feb 2 outreach",
       "checked": false
+    },
+    {
+      "id": "founders-1770017409142-3275",
+      "name": "Osvald Nitski",
+      "city": "",
+      "tags": [
+        "hit-list-feb-2",
+        "to-research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "User-specified target for Feb 2 outreach",
+      "checked": false
     }
   ],
-  "last_updated": "2026-02-02T07:30:07.262Z"
+  "last_updated": "2026-02-02T07:30:09.142Z"
 }
