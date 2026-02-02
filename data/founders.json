@@ -11512,7 +11512,20 @@
       "linkedin": "",
       "notes": "User-specified target for Feb 2 outreach",
       "checked": false
+    },
+    {
+      "id": "founders-1770017370365-2349",
+      "name": "Marco Burstein",
+      "city": "",
+      "tags": [
+        "hit-list-feb-2",
+        "to-research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "User-specified target for Feb 2 outreach",
+      "checked": false
     }
   ],
-  "last_updated": "2026-02-02T07:29:29.238Z"
+  "last_updated": "2026-02-02T07:29:30.365Z"
 }
