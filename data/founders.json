@@ -11603,7 +11603,20 @@
       "linkedin": "",
       "notes": "User-specified target for Feb 2 outreach",
       "checked": false
+    },
+    {
+      "id": "founders-1770017395775-7216",
+      "name": "Isaac Robinson",
+      "city": "",
+      "tags": [
+        "hit-list-feb-2",
+        "to-research"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "User-specified target for Feb 2 outreach",
+      "checked": false
     }
   ],
-  "last_updated": "2026-02-02T07:29:54.520Z"
+  "last_updated": "2026-02-02T07:29:55.775Z"
 }
