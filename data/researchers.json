@@ -4,14 +4,19 @@
     {
       "id": "r-1",
       "name": "Jacob Steinhardt",
-      "city": "",
+      "city": "Berkeley",
       "tags": [
-        "rl-outreach-jan-2026"
+        "hit-list-feb-2",
+        "transluce",
+        "uc-berkeley",
+        "mmlu",
+        "ai-safety",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "",
-      "checked": true
+      "notes": "Co-founder and CEO at Transluce. Assistant Professor at UC Berkeley (Statistics and EECS). MMLU creator.",
+      "checked": false
     },
     {
       "id": "r-2",
@@ -9076,5 +9081,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:28:32.630Z"
+  "last_updated": "2026-02-03T21:28:34.068Z"
 }
