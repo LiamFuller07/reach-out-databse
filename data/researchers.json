@@ -1072,16 +1072,17 @@
     {
       "id": "researchers-1768982050077-6253",
       "name": "Sholto Douglas",
-      "city": "SF",
+      "city": "San Francisco",
       "tags": [
-        "Anthropic",
-        "DeepMind",
-        "Scaling RL",
-        "AI Safety"
+        "hit-list-feb-2",
+        "anthropic",
+        "mts",
+        "scaling-rl",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Scaling RL @AnthropicAI, ex @DeepMind - working towards intelligence too cheap to meter.",
+      "notes": "Member of Technical Staff at Anthropic. Scaling RL, ex-DeepMind Gemini. AGI 2027 prediction. Email: sholto@anthropic.com",
       "checked": false
     },
     {
@@ -9067,5 +9068,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-01-23T08:31:16.036Z"
+  "last_updated": "2026-02-03T21:27:59.626Z"
 }
