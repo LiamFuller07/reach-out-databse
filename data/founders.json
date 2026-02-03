@@ -73,15 +73,16 @@
     {
       "id": "f-6",
       "name": "Surya Midha",
-      "city": "SF",
+      "city": "San Francisco",
       "tags": [
-        "Mercor",
-        "$10B valuation",
-        "Thiel Fellow"
+        "hit-list-feb-2",
+        "mercor",
+        "co-founder",
+        "enriched"
       ],
-      "x": "suryamidha",
-      "linkedin": "https://linkedin.com/in/suryamidha",
-      "notes": "Co-founder & Chairman @ Mercor (prev COO) | $10B valuation | World's youngest self-made billionaire | Guided Mercor from $3.6M seed → $2B Series B | Georgetown (BS Foreign Service) dropout | Thiel Fellow 2024 | prev Brookings Institution intern | Born Mountain View, Bellarmine HS debate team",
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-Founder at Mercor. $10B valuation, youngest billionaire. Email: suryamidha@mercor.com",
       "checked": false
     },
     {
@@ -11711,5 +11712,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:27:35.634Z"
+  "last_updated": "2026-02-03T21:27:37.131Z"
 }
