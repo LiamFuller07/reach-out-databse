@@ -641,17 +641,17 @@
     {
       "id": "f-45",
       "name": "Tamay Besiroglu",
-      "city": "SF",
+      "city": "San Francisco",
       "tags": [
-        "Mechanize",
-        "RL Environments",
-        "Full Automation",
-        "PRIORITY-OUTREACH",
-        "jan-27-target"
+        "hit-list-feb-2",
+        "mechanize",
+        "ceo",
+        "rl-environments",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ Mechanize | Building RL environments to power full automation | Key RL envs player",
+      "notes": "Cofounder & CEO at Mechanize. RL environments for full automation. Email: tamay@mechanize.work",
       "checked": false
     },
     {
@@ -11712,5 +11712,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:27:37.131Z"
+  "last_updated": "2026-02-03T21:27:38.463Z"
 }
