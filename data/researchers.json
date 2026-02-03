@@ -1176,15 +1176,16 @@
     {
       "id": "researchers-1768982276645-4169",
       "name": "Boris Cherny",
-      "city": "SF",
+      "city": "San Francisco",
       "tags": [
-        "Anthropic",
-        "Claude Code",
-        "AI Tools"
+        "hit-list-feb-2",
+        "anthropic",
+        "claude-code",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Claude Code @anthropicai - Building AI coding tools at Anthropic.",
+      "notes": "Head of Claude Code at Anthropic. Creator of Claude Code, ex-Meta Principal Engineer. Author of O'Reilly's Programming TypeScript. Email: boris@anthropic.com",
       "checked": false
     },
     {
@@ -9068,5 +9069,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:27:59.626Z"
+  "last_updated": "2026-02-03T21:28:01.043Z"
 }
