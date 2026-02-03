@@ -9211,7 +9211,23 @@
       "linkedin": "",
       "notes": "Cofounder & CEO at Arena. UC Berkeley. Chatbot Arena founder.",
       "checked": false
+    },
+    {
+      "id": "researchers-1770156328249-365",
+      "name": "Evan Frick",
+      "city": "Berkeley",
+      "tags": [
+        "hit-list-feb-2",
+        "lmsys",
+        "preference-model",
+        "arena-hard",
+        "uc-berkeley"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "MTS at LMArena. Berkeley EECS. Arena-Hard, Prompt-to-Leaderboard co-author. Reward modeling research.",
+      "checked": false
     }
   ],
-  "last_updated": "2026-02-03T22:05:26.555Z"
+  "last_updated": "2026-02-03T22:05:28.249Z"
 }
