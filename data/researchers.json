@@ -7051,16 +7051,17 @@
     {
       "id": "researchers-1769026584192-905",
       "name": "Eugene Yan",
-      "city": "SF",
+      "city": "Seattle",
       "tags": [
-        "Anthropic",
-        "Amazon",
-        "Applied ML",
-        "RecSys"
+        "hit-list-feb-2",
+        "anthropic",
+        "mts",
+        "recsys",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "@ Anthropic, prev Principal Applied Scientist @ Amazon, led ML @ Alibaba, Lazada",
+      "notes": "Member of Technical Staff at Anthropic. Led RecSys & ML @ Amazon, Alibaba, HealthTech. Email: eugeneyan@anthropic.com",
       "checked": false
     },
     {
@@ -9070,5 +9071,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:28:02.324Z"
+  "last_updated": "2026-02-03T21:28:03.503Z"
 }
