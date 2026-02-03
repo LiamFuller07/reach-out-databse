@@ -9177,7 +9177,25 @@
       "linkedin": "",
       "notes": "Cofounder & CTO at Arena (LMSYS Chatbot Arena). Preference modeling research. Email: weilin@lmarena.ai",
       "checked": false
+    },
+    {
+      "id": "researchers-1770156324561-3059",
+      "name": "Ion Stoica",
+      "city": "Berkeley",
+      "tags": [
+        "hit-list-feb-2",
+        "lmsys",
+        "uc-berkeley",
+        "databricks",
+        "anyscale",
+        "preference-model",
+        "enriched"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Professor at UC Berkeley. Co-founder of Databricks, Anyscale, LMArena. Email: istoica@berkeley.edu",
+      "checked": false
     }
   ],
-  "last_updated": "2026-02-03T22:05:13.085Z"
+  "last_updated": "2026-02-03T22:05:24.561Z"
 }
