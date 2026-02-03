@@ -8714,16 +8714,17 @@
     {
       "id": "researchers-1769062149309-4538",
       "name": "Amanda Askell",
-      "city": "SF",
+      "city": "San Francisco",
       "tags": [
-        "Anthropic",
-        "AI Safety",
-        "Claude Constitution",
-        "AI Ethics"
+        "hit-list-feb-2",
+        "anthropic",
+        "character",
+        "ai-safety",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Character Lead @ Anthropic, key architect of Claude's constitution and values, PhD Philosophy, works on AI alignment and character training",
+      "notes": "Member of Technical Staff at Anthropic. Character Lead, Claude Constitution. Ex-OpenAI Research Scientist. Email: amanda@anthropic.com",
       "checked": false
     },
     {
@@ -9069,5 +9070,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:28:01.043Z"
+  "last_updated": "2026-02-03T21:28:02.324Z"
 }
