@@ -9079,7 +9079,23 @@
       "linkedin": "",
       "notes": "Taco Cohen - AI researcher, contributor to Chris Barber's neolabs list",
       "checked": false
+    },
+    {
+      "id": "researchers-1770156305622-9084",
+      "name": "Bertie Vidgen",
+      "city": "",
+      "tags": [
+        "hit-list-feb-2",
+        "mercor",
+        "apex-agents",
+        "ai-research",
+        "enriched"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "AI Research at Mercor. Lead author of APEX-Agents paper. Data + Evals. Email: bertie@mercor.com",
+      "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:28:34.068Z"
+  "last_updated": "2026-02-03T22:05:05.622Z"
 }
