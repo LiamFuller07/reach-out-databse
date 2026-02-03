@@ -57,16 +57,17 @@
     {
       "id": "f-5",
       "name": "Adarsh Hiremath",
-      "city": "SF",
+      "city": "San Francisco",
       "tags": [
-        "Mercor",
-        "$10B valuation",
-        "Thiel Fellow",
-        "Forbes 30u30"
+        "hit-list-feb-2",
+        "mercor",
+        "thiel-fellow",
+        "cto",
+        "enriched"
       ],
-      "x": "adarsh_exe",
-      "linkedin": "https://linkedin.com/in/adarsh-h-623941204",
-      "notes": "Co-founder & CTO @ Mercor | $10B valuation | World's youngest self-made billionaire (22 y/o) | Building AI-powered hiring platform for expert AI trainers | Harvard CS concurrent BS/MS dropout | Thiel Fellow 2024 | prev Research Assistant to Larry Summers | Bellarmine HS debate team",
+      "x": "",
+      "linkedin": "",
+      "notes": "Co-CEO at Mercor. Harvard dropout, Thiel Fellow. Email: adarshh@mercor.com",
       "checked": false
     },
     {
@@ -11710,5 +11711,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:27:34.193Z"
+  "last_updated": "2026-02-03T21:27:35.634Z"
 }
