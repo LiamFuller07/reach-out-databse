@@ -9111,7 +9111,24 @@
       "linkedin": "",
       "notes": "ML at Mercor, CS @ Berkeley. APEX-Agents co-author. Email: austin@mercor.com",
       "checked": false
+    },
+    {
+      "id": "researchers-1770156308637-5163",
+      "name": "Lucas Rothman",
+      "city": "",
+      "tags": [
+        "hit-list-feb-2",
+        "mercor",
+        "apex-agents",
+        "mts",
+        "mit",
+        "enriched"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Member of Technical Staff at Mercor. Engineering, CS + AI @ MIT. APEX-Agents co-author. Email: lucas@mercor.com",
+      "checked": false
     }
   ],
-  "last_updated": "2026-02-03T22:05:07.218Z"
+  "last_updated": "2026-02-03T22:05:08.637Z"
 }
