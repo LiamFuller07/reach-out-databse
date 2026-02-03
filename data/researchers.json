@@ -9145,7 +9145,23 @@
       "linkedin": "",
       "notes": "Member of Technical Staff at Mercor. Ex-YC, Ramp, founder (acq.). APEX-Agents co-author. Email: calix@mercor.com",
       "checked": false
+    },
+    {
+      "id": "researchers-1770156311562-6577",
+      "name": "Chirag Mahapatra",
+      "city": "",
+      "tags": [
+        "hit-list-feb-2",
+        "mercor",
+        "apex-agents",
+        "director-eng",
+        "enriched"
+      ],
+      "x": "",
+      "linkedin": "",
+      "notes": "Director of Engineering at Mercor. APEX-Agents co-author. Email: chirag@mercor.com",
+      "checked": false
     }
   ],
-  "last_updated": "2026-02-03T22:05:10.096Z"
+  "last_updated": "2026-02-03T22:05:11.562Z"
 }
