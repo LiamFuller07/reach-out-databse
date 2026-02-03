@@ -750,17 +750,16 @@
     {
       "id": "f-53",
       "name": "Pranav Putta",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Plato",
-        "Agent Simulations",
-        "ex-MultiOn",
-        "PRIORITY-OUTREACH",
-        "jan-27-target"
+        "hit-list-feb-2",
+        "plato",
+        "agent-simulations",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founder @ Plato | Agent simulations, ex-MultiOn",
+      "notes": "Co-Founder & CTO at Plato. Agent simulations, ex-MultiOn. Email: pranav@plato.so",
       "checked": false
     },
     {
@@ -11710,5 +11709,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:28:27.996Z"
+  "last_updated": "2026-02-03T21:28:29.381Z"
 }
