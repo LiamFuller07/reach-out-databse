@@ -250,18 +250,17 @@
     {
       "id": "f-18",
       "name": "Anish Tondwalkar",
-      "city": "SF",
+      "city": "San Francisco",
       "tags": [
+        "hit-list-feb-2",
         "dmodel",
-        "YC S24",
-        "ex-OpenAI",
-        "LLM Interpretability",
-        "PRIORITY-OUTREACH",
-        "jan-27-target"
+        "yc-s24",
+        "interpretability",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder & Chief Scientist @ dmodel (YC S24) | Opening the 'black box' of LLMs | Ex-OpenAI",
+      "notes": "Founder at dmodel (YC S24). LLM interpretability, ex-OpenAI. Email: anish@dmodel.ai",
       "checked": false
     },
     {
@@ -11711,5 +11710,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:27:39.748Z"
+  "last_updated": "2026-02-03T21:27:40.963Z"
 }
