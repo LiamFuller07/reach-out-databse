@@ -41,16 +41,17 @@
     {
       "id": "f-4",
       "name": "Brendan Foody",
-      "city": "SF",
+      "city": "San Francisco",
       "tags": [
-        "Mercor",
-        "$10B valuation",
-        "Thiel Fellow",
-        "Forbes 30u30"
+        "hit-list-feb-2",
+        "mercor",
+        "thiel-fellow",
+        "ceo",
+        "enriched"
       ],
-      "x": "BrendanFoody",
-      "linkedin": "https://linkedin.com/in/brendan-foody-2995ab10b",
-      "notes": "Co-founder & CEO @ Mercor | $350M Series C at $10B valuation (Oct 2025) | World's youngest self-made billionaire trio | Fastest company ever: $1M→$500M revenue in 17 months | Pays $1.5M+/day to AI training experts | Works with 6/7 Magnificent 7 & all top 5 AI labs | Thiel Fellow | Harvard dropout | Bellarmine HS debate team with co-founders",
+      "x": "",
+      "linkedin": "",
+      "notes": "CEO, Co-Founder at Mercor. $10B valuation, Thiel Fellow, youngest billionaire. Email: brendan@mercor.com",
       "checked": false
     },
     {
@@ -11709,5 +11710,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-02T07:30:09.142Z"
+  "last_updated": "2026-02-03T21:27:34.193Z"
 }
