@@ -496,15 +496,17 @@
     {
       "id": "r-36",
       "name": "Buck Shlegeris",
-      "city": "Berkeley",
+      "city": "San Francisco",
       "tags": [
-        "Redwood Research",
-        "AI Control",
-        "Alignment Faking paper"
+        "hit-list-feb-2",
+        "redwood-research",
+        "ceo",
+        "ai-control",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "CEO @ Redwood Research, AI safety focused on AI control & alignment, co-author 'Alignment Faking in LLMs' (with Anthropic Dec 2024), released BashArena",
+      "notes": "CEO at Redwood Research. AI Control, Alignment Faking paper author. Email: buck@rdwrs.com",
       "checked": false
     },
     {
@@ -9075,5 +9077,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:28:06.244Z"
+  "last_updated": "2026-02-03T21:28:30.873Z"
 }
