@@ -280,16 +280,17 @@
     {
       "id": "f-20",
       "name": "Serena Ge",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Datacurve",
-        "Pre-Seed Show",
-        "Data",
-        "Chris Barber Network"
+        "hit-list-feb-2",
+        "datacurve",
+        "yc-w24",
+        "forbes-30u30",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "@ Datacurve. Featured on Chris Barber's Pre-Seed Show video interview. Found via Chris Barber's posts.",
+      "notes": "Co-Founder, CEO at Datacurve (YC W24). $17.7M raised, Forbes 30u30. Email: serena@datacurve.ai",
       "checked": false
     },
     {
@@ -11710,5 +11711,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:27:40.963Z"
+  "last_updated": "2026-02-03T21:28:26.691Z"
 }
