@@ -190,18 +190,17 @@
     {
       "id": "f-14",
       "name": "Francesco Bonacci",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Cua",
-        "YC X25",
-        "Docker for Agents",
-        "ex-Microsoft",
-        "PRIORITY-OUTREACH",
-        "jan-27-target"
+        "hit-list-feb-2",
+        "cua",
+        "yc-x25",
+        "agent-infra",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Co-founder @ Cua (YC X25) | Docker for agents, ex-Microsoft",
+      "notes": "Founder at Cua (YC X25). Docker for agents, ex-Microsoft Gaming AI. Email: f@trycua.com",
       "checked": false
     },
     {
@@ -11712,5 +11711,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:27:38.463Z"
+  "last_updated": "2026-02-03T21:27:39.748Z"
 }
