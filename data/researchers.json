@@ -8672,14 +8672,17 @@
     {
       "id": "researchers-1769049223639-504",
       "name": "Logan Graham",
-      "city": "",
+      "city": "San Francisco",
       "tags": [
-        "researcher",
-        "Anthropic"
+        "hit-list-feb-2",
+        "anthropic",
+        "red-team",
+        "ai-safety",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Make things radically good at Anthropic. Focus on AI research. Found via Andon Labs founders' following.",
+      "notes": "Head of the Frontier Red Team at Anthropic. AI safety testing. Email: logan@anthropic.com",
       "checked": false
     },
     {
@@ -9072,5 +9075,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:28:04.756Z"
+  "last_updated": "2026-02-03T21:28:06.244Z"
 }
