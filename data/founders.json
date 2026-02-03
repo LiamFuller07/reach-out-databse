@@ -336,17 +336,16 @@
     {
       "id": "f-24",
       "name": "Andrew Zhou",
-      "city": "SF",
+      "city": "",
       "tags": [
-        "Fleet AI",
-        "Training Gyms",
-        "RL Environments",
-        "PRIORITY-OUTREACH",
-        "jan-27-target"
+        "hit-list-feb-2",
+        "fleet-ai",
+        "agent-gyms",
+        "enriched"
       ],
       "x": "",
       "linkedin": "",
-      "notes": "Founding Team @ Fleet AI | Building 'training gyms' - high-fidelity simulation environments for agents",
+      "notes": "Co-Founder at Fleet AI. Simulation environments for agents. Email: andrew@fleet.so",
       "checked": false
     },
     {
@@ -11711,5 +11710,5 @@
       "checked": false
     }
   ],
-  "last_updated": "2026-02-03T21:28:26.691Z"
+  "last_updated": "2026-02-03T21:28:27.996Z"
 }
